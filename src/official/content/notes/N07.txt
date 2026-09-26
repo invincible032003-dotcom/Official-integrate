@@ -1,0 +1,527 @@
+@set N07
+@title Topic 7 · Agricultural Statistics
+@pages Notes 7, pp. 1-14
+@desc Decentralised system, DES & SASA; land-record/EARAS/conventional States; nine-fold land use; GCES; crop forecasts & advance estimates; Agriculture Census phases; Livestock Census; IAS scheme (TRS, EARAS, ICS); cost of cultivation; FASAL & MNCFC; small area estimation; FSI
+
+@note 7
+@topic Agricultural Statistics System & Crop Area
+Q: The agricultural statistics system in India is best described as:
+A) decentralised both horizontally and vertically, with primary data collected by States and consolidated by DES, MoA&FW
+B) fully centralised with NSO collecting all primary data
+C) decentralised only vertically, with districts reporting directly to NSO
+D) based entirely on remote sensing by ISRO
+ANS: A
+D: Easy
+P: 1
+EXP: **States collect** primary statistics through the **State Agricultural Statistics Authority (SASA)**. The **Directorate of Economics & Statistics (DES)**, Department of Agriculture & Farmers Welfare, **consolidates** them for India. DES provides statistics on area, production, land use, cost, yield and MSP.
+SC: States collect through SASA and DES consolidates.
+
+Q: In the temporarily settled (land record) States, crop area statistics are compiled through a complete enumeration of all fields in every village each season, known as:
+A) Girdawari
+B) Khasra
+C) Jamabandi
+D) Chowkidari
+ANS: A
+D: Easy
+P: 1
+EXP: **Girdawari** is the **complete field-by-field enumeration** by the **patwari** (village revenue agency) each crop season. It covers **land use, irrigation and crop area**. The **Khasra register** is the **village crop register** where these entries are recorded.
+SC: Girdawari is the patwari's field-by-field crop count.
+
+Q: The land record (temporarily settled) system for crop area statistics is followed in:
+A) 18 States and 5 UTs
+B) 16 States and 3 UTs
+C) 22 States and 2 UTs
+D) 12 States only
+ANS: A
+D: Hard
+P: 1
+EXP: The **land record system (patwari/girdawari)** covers **18 States and 5 UTs**. **TRS** is implemented in **16 land-record States**.
+SC: Land records cover 18 States + 5 UTs; TRS runs in 16 States.
+
+Q: Which of the following were the "permanently settled" States with no village-level land revenue agency, where crop area statistics are collected through sample surveys?
+A) Kerala, Odisha and West Bengal
+B) Punjab, Haryana and Uttar Pradesh
+C) Assam, Manipur and Meghalaya
+D) Bihar, Jharkhand and Odisha
+ANS: A
+D: Medium
+P: 2
+EXP: The **permanently settled States are Kerala, Odisha and West Bengal**. Here specially appointed staff under **EARAS** collect crop area data. Girdawari is done in a **20% random sample of villages**, so the whole State is covered in **5 years**.
+SC: Kerala, Odisha, West Bengal = the permanently settled States (EARAS).
+
+Q: The three categories of States (land record, permanently settled, conventional estimates) account for what percentages, respectively, of the total reporting area?
+A) 86, 9 and 5
+B) 70, 20 and 10
+C) 80, 15 and 5
+D) 90, 7 and 3
+ANS: A
+D: Hard
+P: 2
+EXP: **Land record States: 86%**, **permanently settled: 9%**, **conventional estimates: 5%** of the reporting area. The 86% figure recurs: in the Agriculture Census, land-record retabulation also covers about **86%** of reported area.
+SC: 86-9-5 by reporting area.
+
+Q: In which of the following areas are only conventional crop estimates, based on personal assessment such as by village chowkidars, available?
+A) Hill districts of Assam, Arunachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland, and A&N Islands and Lakshadweep
+B) Kerala, Odisha and West Bengal
+C) Punjab and Haryana
+D) All Union Territories
+ANS: A
+D: Medium
+P: 2
+EXP: **Conventional estimates** apply to the **NE hill areas** (hill districts of Assam, Arunachal, Manipur, Meghalaya, Mizoram, Nagaland; parts of Sikkim and Tripura) and to **A&N and Lakshadweep**. Tripura and Sikkim are mostly **cadastrally surveyed**.
+SC: Conventional estimates cover the NE hills and the islands.
+
+Q: Land-use statistics in India follow a classification of how many categories?
+A) Nine
+B) Seven
+C) Five
+D) Twelve
+ANS: A
+D: Easy
+P: 3
+EXP: The **nine-fold classification**: forests; non-agricultural use; barren and unculturable; permanent pastures and grazing; miscellaneous tree crops; **culturable waste**; fallow other than current fallows; **current fallows**; **net area sown**.
+SC: Land use has a 9-fold classification from patwari records.
+
+Q: Which of the following is NOT one of the categories of the nine-fold land-use classification?
+A) Area under double cropping
+B) Culturable waste land
+C) Current fallows
+D) Miscellaneous tree crops
+ANS: A
+T: Odd-one-out
+D: Medium
+P: 3
+EXP: **Area sown more than once** is derived from gross cropped area minus net area sown. It is not one of the nine categories. The nine include **culturable waste**, **current fallows**, **misc tree crops** and **net area sown**.
+SC: Double-cropped area is derived, not a land-use category.
+
+@topic Crop Production, GCES & Forecasts
+Q: Crop production estimates in India are obtained as:
+A) area under the crop × yield rate estimated from crop-cutting experiments under GCES
+B) market arrivals × a conversion factor
+C) satellite imagery alone
+D) farmers' self-reported production
+ANS: A
+D: Easy
+P: 3
+EXP: **Production = Area × Yield**. The **yield rate** comes from **crop-cutting experiments (CCEs)** under the **General Crop Estimation Survey (GCES)**.
+SC: Production is area from girdawari times yield from CCE.
+
+Q: The sampling design of the General Crop Estimation Survey is:
+A) stratified three-stage random sampling with tehsil/taluka as stratum, village as FSU, field as SSU and plot as the ultimate unit
+B) two-stage sampling with district as stratum and village as USU
+C) simple random sampling of fields
+D) systematic sampling of farmers
+ANS: A
+D: Medium
+P: 3
+EXP: **GCES** uses a **stratified 3-stage** design: **stratum = tehsil/taluka**; **FSU = village**; **SSU = field growing the crop**; **USU = plot (usually 5 m × 5 m)**. The produce of the plot is harvested and weighed. Precision is set to give reliable yields at the **State and major-district** level.
+SC: GCES goes tehsil → village → field → 5×5 m plot.
+
+Q: The usual size of the plot harvested in a crop-cutting experiment under GCES is:
+A) 5 m × 5 m
+B) 10 m × 10 m
+C) 1 m × 1 m
+D) 2 m × 5 m
+ANS: A
+D: Easy
+P: 3
+EXP: The ultimate unit is a plot of **5 m × 5 m (25 sq m)**. Marking, harvesting and weighing its produce gives the basic data for yield.
+SC: A CCE plot is 5 × 5 m.
+
+Q: Which crop forecast is mostly based on reports by States guided by the visual observation of field officials?
+A) First forecast (kharif)
+B) Second forecast
+C) Third forecast
+D) Fourth forecast
+ANS: A
+D: Medium
+P: 4
+EXP: The **1st forecast (kharif)** rests on **visual observation**. The **2nd** adds input data, pests and diseases, weekly State reports and **remote sensing**. The **3rd** adds **Market Intelligence Units, IMD and the Crop Weather Watch Group (CWWG)**. The **4th** uses **firm SASA figures** from GCES yields.
+SC: 1st visual, 2nd adds remote sensing, 3rd adds MIU/IMD/CWWG, 4th uses firm GCES figures.
+
+Q: The fourth crop forecast is based on:
+A) firm figures supplied by State Agricultural Statistics Authorities with yield estimates through GCES
+B) visual observation by field officials
+C) econometric models of IEG only
+D) information from the Crop Weather Watch Group only
+ANS: A
+D: Medium
+P: 4
+EXP: By the **4th forecast** the SASAs have **dependable GCES yields**, so the figures are "firm". After the forecasts come the **Final Estimates**, and then the **"Fully Revised"** estimates in the next crop year for late State revisions.
+SC: The 4th forecast is firm because the CCE yields are in.
+
+Q: As per the notes' table, the DES advance estimate released in September covers:
+A) only kharif crops
+B) kharif and rabi crops
+C) only rabi crops
+D) horticulture crops only
+ANS: A
+D: Medium
+P: 5
+EXP: Per the notes' table: **1st AE (September): kharif only**. **2nd AE (February): kharif + rabi**. **3rd AE (April-May): rabi area, better kharif yields**. **4th AE (July-August): area and yield of both seasons**. The **Final Estimate** comes in February of the following year. Coverage: **28 major crops** (AE) and **28 major + 3 minor** (final).
+SC: The September AE is kharif only; the rest add rabi.
+TIP: DES has revised its release calendar in recent years. For current practice, check the latest DES release schedule.
+
+Q: Which of the following crops are sown in the kharif season?
+1. Arhar (tur)
+2. Soybean
+3. Chickpea (gram)
+4. Pearl millet (bajra)
+Select the correct answer using the code given below:
+A) 1, 2 and 4 only
+B) 1 and 3 only
+C) 2, 3 and 4 only
+D) 1, 2, 3 and 4
+ANS: A
+T: Statement
+D: Easy
+P: 5
+EXP: **Kharif (sown June-July, harvested September-October)**: rice, maize, jowar, **bajra**, ragi, **arhar**, **soybean**, groundnut, cotton. **Rabi (sown October-March, harvested March-April)**: wheat, barley, oats, **gram**, linseed, mustard.
+SC: Gram is a rabi pulse; arhar is a kharif pulse.
+
+@topic Agriculture Census & Livestock Census
+Q: The Agriculture Census in India has been conducted quinquennially since:
+A) 1970-71, as part of the FAO World Census of Agriculture programme
+B) 1951, as part of the Five-Year Plans
+C) 1919-20
+D) 1980-81
+ANS: A
+D: Medium
+P: 5
+EXP: The Agriculture Census has been **quinquennial since 1970-71** under the **FAO's World Census of Agriculture (WCA)**, which itself is **decennial**. India runs it every 5 years because holding structure changes fast (**fragmentation, urbanisation, industrialisation**).
+SC: India's Agriculture Census runs every 5 years from 1970-71; the FAO's WCA every 10.
+
+Q: The basic statistical unit for data collection in the Agriculture Census is:
+A) operational holding
+B) ownership holding
+C) household
+D) village
+ANS: A
+D: Easy
+P: 5
+EXP: The unit is the **operational holding**, because **farm decisions are taken by those who operate the land**, not by those who own it. The **Livestock Census** unit is the **household**.
+SC: The Agriculture Census counts operators, not owners.
+
+Q: As per the notes, an operational holding is defined as all land used wholly or partly for agricultural production and operated as one technical unit by one person alone or with others:
+A) without regard to title, legal form, size or location
+B) only if owned by the operator
+C) only if located in one village
+D) only if its size exceeds 0.5 hectare
+ANS: A
+D: Medium
+P: 13
+EXP: An **operational holding** = all land used wholly or partly for agricultural production and **operated as one technical unit**, **without regard to title, legal form, size or location**.
+SC: Operation decides a holding; title, size and location do not matter.
+
+Q: The Agriculture Census is conducted in three phases. Which of the following is correctly matched?
+A) Phase 1 – ownership characteristics; Phase 2 – detailed characteristics from 20% villages; Phase 3 – Input Survey from 7% villages
+B) Phase 1 – Input Survey; Phase 2 – ownership; Phase 3 – tenancy
+C) Phase 1 – 20% villages; Phase 2 – 7% villages; Phase 3 – complete count
+D) Phase 1 – livestock; Phase 2 – crops; Phase 3 – machinery
+ANS: A
+D: Medium
+P: 6
+EXP: **Phase 1**: listing and ownership characteristics (gender, social group, ownership type). Land-record States retabulate khasra data (about 86% of area); others use a sample household enquiry. **Phase 2**: **20% sample villages** for tenancy, land use, irrigation and cropping pattern. **Phase 3 (Input Survey)**: **7% villages** for input use.
+SC: The phases are ownership (retabulation), 20% detail, then a 7% input survey.
+
+Q: The Input Survey (Phase 3 of Agriculture Census) collects information on:
+A) fertiliser, pesticides, agricultural credit, machinery and implements, and multiple cropping
+B) livestock numbers by breed
+C) wholesale prices of agricultural commodities
+D) land ownership by gender
+ANS: A
+D: Easy
+P: 7
+EXP: The **Input Survey** covers **fertiliser, pesticides, agricultural credit, multiple cropping, machinery and implements**, plant protection, quarantine and storage. For the **10th Agriculture Census (2015-16)** its reference year was **2016-17**.
+SC: The Input Survey is the census follow-up on inputs, from 7% of villages.
+
+Q: The 10th Agriculture Census had the reference year:
+A) 2015-16
+B) 2010-11
+C) 2020-21
+D) 2016-17
+ANS: A
+D: Medium
+P: 5
+EXP: The **10th Agriculture Census** had reference year **2015-16**, and its **Input Survey** used **2016-17**. The **11th** Agriculture Census (launched 2022) has reference year **2021-22**.
+SC: The 10th census is 2015-16 (inputs 2016-17); the 11th is 2021-22.
+
+Q: The Agriculture Census is implemented as a component of which Central Sector Scheme?
+A) Integrated Scheme of Agriculture Census, Economics and Statistics
+B) Rashtriya Krishi Vikas Yojana
+C) Capacity Development Scheme of MoSPI
+D) Support for Statistical Strengthening
+ANS: A
+D: Medium
+P: 5
+EXP: The Agriculture Census is a **Central Sector Scheme** under the **Integrated Scheme of Agriculture Census, Economics and Statistics (ISACES)** of the Ministry of Agriculture. It is conducted on a **census-cum-sample survey** basis.
+SC: The Agriculture Census falls under ISACES.
+
+Q: The Livestock Census was started in:
+A) 1919-20
+B) 1951
+C) 1970-71
+D) 1881
+ANS: A
+D: Medium
+P: 7
+EXP: The **Livestock Census began in 1919-20** and is **quinquennial**. The **20th** was conducted in **2019** (fieldwork October 2018 – September 2019) by the **Department of Animal Husbandry & Dairying**. It is the **only source** of livestock numbers by age, sex and functional classification.
+SC: The Livestock Census began in 1919-20; the 20th was held in 2019.
+
+Q: Which of the following are reasons why the Agriculture Census and the Livestock Census could not be conducted simultaneously?
+1. The unit in the Agriculture Census is the operational holding, while in the Livestock Census it is the household.
+2. The reference period is one year for the Agriculture Census but a specific date for the Livestock Census.
+3. The Agriculture Census is a census-cum-sample survey, while the Livestock Census covers all households.
+4. Different field agencies are used: the patwari for the Agriculture Census and State Animal Husbandry staff for the Livestock Census.
+Select the correct answer using the code given below:
+A) 1 and 2 only
+B) 1, 2 and 3 only
+C) 2, 3 and 4 only
+D) 1, 2, 3 and 4
+ANS: D
+T: Statement
+D: Medium
+P: 7
+EXP: All **four reasons** are given in the notes: **unit** (holding vs household), **reference** (year vs date), **coverage** (census-cum-sample vs 100%) and **field agency** (patwari vs Animal Husbandry staff).
+SC: The two censuses differ in unit, reference period, coverage and agency.
+
+Q: Which of the following was suggested in the notes as a way to integrate the Agriculture and Livestock Censuses?
+A) Limit both censuses to a 20 per cent sample of villages and entrust field operations to a single reporting agency
+B) Conduct both only through remote sensing
+C) Abolish the Livestock Census
+D) Conduct the Agriculture Census decennially with the Population Census
+ANS: A
+D: Hard
+P: 8
+EXP: The suggestions are: the **household approach** already exists in permanently settled States; **synchronise both in the same year** and concentrate the count around the reference date; limit **both to a 20% village sample**; use a **single reporting agency**, with the census given priority as for the Population Census.
+SC: The fix is the same year, a 20% sample and one agency.
+
+@topic IAS Scheme: TRS, EARAS, ICS
+Q: The scheme for Improvement of Agricultural Statistics (IAS), in operation since the early 1970s, has which three components?
+A) TRS, EARAS and ICS
+B) GCES, FASAL and MNCFC
+C) TRS, GCES and CCS
+D) EARAS, NADAMS and FASAL
+ANS: A
+D: Easy
+P: 9
+EXP: The **IAS** scheme has three parts: **TRS (Timely Reporting Scheme)**, **EARAS (Establishment of an Agency for Reporting Agricultural Statistics)** and **ICS (Improvement of Crop Statistics)**.
+SC: IAS = TRS + EARAS + ICS.
+
+Q: Under the Timely Reporting Scheme (TRS), the patwari completes girdawari on priority in a random sample of what percentage of villages?
+A) 20 per cent
+B) 10 per cent
+C) 7 per cent
+D) 50 per cent
+ANS: A
+D: Easy
+P: 9
+EXP: **TRS**, in **16 land-record States**, uses a **20% random sample of villages** to give **season-wise area** of principal crops, split by irrigated/unirrigated and traditional/HYV, **by a set date**. The sample rotates so the whole temporarily settled area is covered in **5 years**. It also gives the **frame for CCE field selection**.
+SC: TRS uses a 20% sample and rotates over 5 years.
+
+Q: The EARAS component of IAS is implemented in:
+A) Kerala, Odisha, West Bengal and four NE States: Arunachal Pradesh, Nagaland, Sikkim and Tripura
+B) 16 land-record States
+C) all States and UTs
+D) only the Union Territories
+ANS: A
+D: Medium
+P: 9
+EXP: **EARAS** covers **3 non-land-record States (Kerala, Odisha, West Bengal)** plus **4 NE States (Arunachal Pradesh, Nagaland, Sikkim, Tripura)**. There a **full-time agency** collects area, production and yield using the **TRS methodology**.
+SC: EARAS covers Kerala, Odisha, West Bengal and 4 NE States.
+
+Q: Under the ICS scheme, supervisors physically verify the patwari's girdawari in a sub-sample of TRS villages covering:
+A) four clusters of five survey numbers each
+B) five clusters of four survey numbers each
+C) all survey numbers of the village
+D) two clusters of ten survey numbers each
+ANS: A
+D: Hard
+P: 10
+EXP: **ICS** supervisors check **4 clusters × 5 survey numbers** in sub-sampled TRS villages. They measure the **discrepancies** between supervisor and patwari area entries, and check the village crop abstract for **totalling errors** and **timely dispatch**.
+SC: ICS checks 4 clusters of 5 survey numbers.
+
+Q: Match List-I (Component) with List-II (Main feature):
+| List-I | List-II |
+|---|---|
+| A. TRS | 1. Full-time agency in non-land-record States |
+| B. EARAS | 2. Area estimates from a 20% village sample by a specified date |
+| C. ICS | 3. Independent supervision of patwari's girdawari and CCEs |
+A) A-1, B-2, C-3
+B) A-2, B-1, C-3
+C) A-3, B-1, C-2
+D) A-2, B-3, C-1
+ANS: B
+T: Match
+D: Easy
+P: 9
+EXP: **TRS → timely 20% sample area estimates**. **EARAS → full-time agency** in non-land-record States. **ICS → supervision and quality checks**.
+SC: TRS is about timeliness, EARAS about the agency, ICS about checking.
+
+@topic Cost of Cultivation
+Q: The Comprehensive Scheme for Studying the Cost of Cultivation of Principal Crops was initiated in:
+A) 1970-71
+B) 1950-51
+C) 1985-86
+D) 2000-01
+ANS: A
+D: Medium
+P: 10
+EXP: The **Cost of Cultivation scheme began in 1970-71**. It is run by **DES (MoA&FW)** through **agricultural universities** and other institutes, and covers about **25 major crops**.
+SC: The cost of cultivation scheme started in 1970-71 and works through agricultural universities.
+
+Q: The cost of cultivation and production estimates generated under the Comprehensive Scheme are used for which of the following?
+1. Recommendation of MSP by CACP
+2. Preparation of National Accounts Statistics by MoSPI
+3. Compilation of the marketed surplus ratio
+Select the correct answer using the code given below:
+A) 1 only
+B) 1 and 2 only
+C) 2 and 3 only
+D) 1, 2 and 3
+ANS: D
+T: Statement
+D: Easy
+P: 10
+EXP: The data are used by **CACP for MSP**, by **MoSPI for NAS**, and for compiling the **marketed surplus ratio**.
+SC: Cost of cultivation data serve MSP, NAS and the marketed surplus ratio.
+
+Q: In the cost of cultivation survey, the first-stage and second-stage units are selected by:
+A) PPSWR with size measure "area under the crop complex"
+B) SRSWOR
+C) systematic sampling with equal probability
+D) PPSWOR with size measure "population"
+ANS: A
+D: Hard
+P: 10
+EXP: Each **agro-climatic zone is a stratum**. **Stage 1: tehsils/blocks** by **PPSWR** (size = area under the crop complex). **Stage 2: villages/clusters** by **PPSWR** (same size measure). **Stage 3: operational holdings** by **SRSWOR**, **2 from each of 5 size classes**.
+SC: Tehsils and villages by PPSWR on crop area; holdings by SRSWOR, 2 × 5.
+
+Q: In the cost of cultivation survey, how many operational holdings are selected from each selected village?
+A) 10 (2 from each of 5 land-size classes)
+B) 5 (1 from each of 5 size classes)
+C) 20 (4 from each of 5 size classes)
+D) 8 (2 from each of 4 size classes)
+ANS: A
+D: Hard
+P: 11
+EXP: There are **5 size classes**: <1 ha, 1-2 ha, 2-4 ha, 4-6 ha and >6 ha. **2 holdings per class by SRSWOR** gives **10 holdings per village**. Data come through the **cost accounting method**, with daily records of inputs, outputs and prices.
+SC: 5 classes × 2 holdings = 10.
+
+Q: The fieldwork in the cost of cultivation scheme is carried out using:
+A) the cost accounting method, with day-to-day records
+B) a one-time recall interview at harvest
+C) the crop-cutting method
+D) satellite estimation
+ANS: A
+D: Medium
+P: 11
+EXP: The **cost accounting method** keeps a **detailed day-to-day record** of inputs, outputs, prices paid and prices received for each sample holding.
+SC: Cost of cultivation relies on daily cost accounts.
+
+@topic FASAL, MNCFC & Other Statistics
+Q: Which of the following are partner agencies of FASAL (Forecasting Agricultural output using Space, Agro-meteorology and Land based observations)?
+1. India Meteorological Department
+2. Institute of Economic Growth
+3. Space Applications Centre, Ahmedabad
+4. National Remote Sensing Centre, Hyderabad
+Select the correct answer using the code given below:
+A) 1, 2 and 3 only
+B) 2, 3 and 4 only
+C) 1, 3 and 4 only
+D) 1, 2, 3 and 4
+ANS: D
+T: Statement
+D: Medium
+P: 11
+EXP: The FASAL partners are **IMD** (agromet yield models), **IEG** (econometric forecasts at pre-sowing F0 and sowing F1), **SAC Ahmedabad** (RS methodology) and **NRSC Hyderabad** (satellite data). Their operational parts have moved to **MNCFC**.
+SC: FASAL = IMD (weather), IEG (economics), SAC (method), NRSC (data).
+
+Q: The Institute of Economic Growth provides forecasts under FASAL at which stages?
+A) Pre-sowing (F0) and sowing (F1), based on econometric models
+B) Mid-season and pre-harvest, based on remote sensing
+C) Harvest stage, based on crop-cutting experiments
+D) Post-harvest, based on market arrivals
+ANS: A
+D: Medium
+P: 11
+EXP: **IEG** issues **econometric** forecasts at **pre-sowing (F0) and sowing (F1)**. It is now mandated to give **monthly** area and production forecasts of **13 crops** to DES. **SAC/MNCFC** use remote sensing at **mid-season and pre-harvest**.
+SC: IEG forecasts early with econometrics; SAC forecasts later with remote sensing.
+
+Q: The Mahalanobis National Crop Forecast Centre (MNCFC) was established by DAC&FW on:
+A) 23 April 2012
+B) 29 June 2007
+C) 1 June 1999
+D) 12 May 2005
+ANS: A
+D: Medium
+P: 13
+EXP: **MNCFC (23 April 2012)** operationalises **remote sensing** crop forecasts and **drought assessment** (NADAMS) with **ISRO**. These forecasts are used to **validate** the official conventional estimates.
+SC: MNCFC was set up on 23 April 2012 for remote-sensing crop forecasts.
+
+Q: Remote sensing crop forecasting methodologies developed by SAC, Ahmedabad have been transferred to MNCFC for how many crops?
+A) 8
+B) 11
+C) 13
+D) 5
+ANS: A
+D: Hard
+P: 12
+EXP: SAC works on RS methods for **11 crops** and has **transferred 8 to MNCFC**: wheat, kharif rice, winter potato, rapeseed and mustard, jute, rabi sorghum, sugarcane and cotton. The others (kharif sorghum, maize, bajra, ragi, groundnut) are still under development.
+SC: SAC has methods for 11 crops and has transferred 8.
+
+Q: The synthetic method of small area estimation is based on the assumption that:
+A) the small area behaves similarly to the large area
+B) the small area has a larger sample than the large area
+C) no auxiliary information is needed
+D) small area estimates are always unbiased
+ANS: A
+T: Conceptual
+D: Medium
+P: 13
+EXP: A **synthetic estimate** scales an **unbiased large-area estimate** down to sub-areas using **auxiliary information**. This is the **scaling-down** approach. It assumes the **small area behaves like the large area**; if that fails, the estimate can be **heavily biased**.
+SC: Synthetic means scaled down, and it is biased if the small area differs.
+
+Q: Which index numbers in agriculture are compiled by DES, MoA&FW?
+A) Index Numbers of Area, Production and Yield, and Terms of Trade between agricultural and non-agricultural sectors
+B) Only the Wholesale Price Index of agricultural commodities
+C) CPI for Agricultural Labourers
+D) Index of Industrial Production for agro-industries
+ANS: A
+D: Medium
+P: 13
+EXP: DES compiles **(a) index numbers of area, production and yield** and **(b) terms of trade between agricultural and non-agricultural sectors**. **CPI-AL** belongs to the **Labour Bureau**, and **WPI** to the **OEA, DPIIT**.
+SC: DES compiles the APY index and the terms of trade.
+
+Q: Which body recommends the Minimum Support Price (MSP) for crops?
+A) Commission for Agricultural Costs and Prices (CACP)
+B) Directorate of Economics and Statistics
+C) NITI Aayog
+D) Food Corporation of India
+ANS: A
+D: Easy
+P: 14
+EXP: **CACP** recommends MSP, using **cost of cultivation data** from DES. The Government (CCEA) approves it.
+SC: CACP recommends MSP using cost of cultivation data.
+
+Q: The Forest Survey of India (FSI) was created in:
+A) 1981, and has used remote sensing since 1987 to assess forest cover through a biennial survey
+B) 1987, and publishes forest cover annually
+C) 1952, with the National Forest Policy
+D) 2001, under the Environment Protection Act
+ANS: A
+D: Medium
+P: 14
+EXP: **FSI (1981)** monitors forest resources at the macro level. Since **1987** it has used **remote sensing** to map forest cover **biennially**, and reports this in the **India State of Forest Report (ISFR)**.
+SC: FSI was set up in 1981, uses remote sensing since 1987, and reports every 2 years.
+
+Q: Which of the following is correctly matched regarding the department designated as SASA?
+A) Department of Land Records – Chhattisgarh, Himachal Pradesh and Madhya Pradesh
+B) Department of Agriculture – Kerala, Karnataka and Tamil Nadu
+C) Department of Economics & Statistics – Punjab, Haryana and Uttar Pradesh
+D) Department of Revenue – all States
+ANS: A
+D: Hard
+P: 13
+EXP: The **SASA** differs by State. **Agriculture Dept**: Gujarat, Haryana, Jharkhand, Maharashtra, Punjab, UP, Uttarakhand, WB. **DES**: AP, Assam, Bihar, J&K, Karnataka, Kerala, Odisha, Rajasthan, TN. **Land Records**: **Chhattisgarh, HP, MP**.
+SC: The Land Records trio is Chhattisgarh, HP and MP.

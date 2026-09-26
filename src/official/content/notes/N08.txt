@@ -1,0 +1,506 @@
+@set N08
+@title Topic 8 · Consumer Price Indices & Wholesale Price Index
+@pages Notes 8, pp. 1-6
+@desc CPI-IW (2016), CPI-AL/RL (1986-87), CPI R/U/C (2012), discontinued CPI-UNME; WPI (2011-12) weights & coverage; CPI vs WPI; price vs weight reference year; weighting diagram
+
+@note 8
+@topic CPI for Industrial Workers
+Q: The current series of CPI for Industrial Workers (CPI-IW) has base year:
+A) 2016 = 100
+B) 2001 = 100
+C) 2012 = 100
+D) 1986-87 = 100
+ANS: A
+D: Easy
+P: 1
+EXP: **CPI-IW: base 2016**, compiled by the **Labour Bureau (MoLE)**. Its weights come from the **Working Class Family Income and Expenditure Survey (WCFIES)**. It replaced the **2001 = 100** series.
+SC: CPI-IW is 2016, Labour Bureau, WCFIES.
+
+Q: Under CPI-IW, a "working class family" must satisfy which of the following conditions?
+1. It is located within the centre for industrial workers.
+2. At least one member works as a manual worker in an establishment in any of the seven covered sectors.
+3. It derived 50 per cent or more of its income during the preceding calendar month through manual work.
+4. At least one member is a Government employee.
+Select the correct answer using the code given below:
+A) 1 and 2 only
+B) 1, 2 and 3 only
+C) 2, 3 and 4 only
+D) 1, 2, 3 and 4
+ANS: B
+T: Statement
+D: Medium
+P: 1
+EXP: The working class family has three conditions: **located in the centre**, **one manual worker in the 7 sectors**, and **≥ 50% of income from manual work** in the preceding month. There is no Government-employee condition, although CPI-IW is used for **Government DA**.
+SC: The conditions are the centre, a manual worker, and 50% of income from manual work.
+
+Q: Which of the following is NOT one of the seven sectors of employment covered for defining the working class family under CPI-IW?
+A) Construction
+B) Plantations
+C) Ports and docks
+D) Railways
+ANS: A
+T: Odd-one-out
+D: Medium
+P: 1
+EXP: The **7 sectors** are **factories, plantations, mining, ports and docks, public motor transport undertakings, electricity generation and distribution establishments, and railways**. **Construction is not included**.
+SC: The seven sectors are factories, plantations, mines, ports, buses, power and rail; construction is not among them.
+
+Q: CPI-IW is mainly used for:
+A) determination of Dearness Allowance for Government employees and industrial workers, and fixation of minimum wages in scheduled employments
+B) fixation of minimum wages in the agricultural sector
+C) the RBI's inflation targeting
+D) deflating GDP at the national level
+ANS: A
+D: Easy
+P: 1
+EXP: **CPI-IW → DA** of Central and State Government employees and industrial workers, **minimum wages** in scheduled employments, and moving **urban poverty lines**. **CPI-AL → agricultural minimum wages** and **rural poverty lines**. The **RBI targets CPI (Combined)**.
+SC: CPI-IW is used for DA and urban poverty lines; CPI-AL for farm wages and rural poverty lines.
+
+Q: The weighting diagram of CPI-IW is derived from:
+A) the Working Class Family Income and Expenditure Survey
+B) the NSS 68th round consumer expenditure survey
+C) the NSS 38th round
+D) the Annual Survey of Industries
+ANS: A
+D: Medium
+P: 1
+EXP: **CPI-IW** weights come from the **WCFIES** of the Labour Bureau. **CPI-R/U/C** weights come from the **NSS 68th round (2011-12)**. **CPI-AL/RL** weights come from the **NSS 38th round (1983)**.
+SC: IW uses WCFIES, R/U/C the 68th round, AL/RL the 38th round.
+
+@topic CPI for Agricultural & Rural Labourers
+Q: A rural labour household is classified as an agricultural labour household if it earns what share of its total income from manual labour in agriculture during the last 365 days?
+A) 50 per cent or more
+B) More than 75 per cent
+C) At least 25 per cent
+D) 100 per cent
+ANS: A
+D: Medium
+P: 2
+EXP: A **rural labour household** derives its **major income from manual rural labour** in the last 365 days. Those earning **≥ 50% from agricultural manual labour** are **agricultural labour households**, a major **subset** of rural labour households.
+SC: Rural labour households are the whole set; those with ≥ 50% from farm labour are agricultural labour households.
+
+Q: The weights of CPI (AL/RL) with base 1986-87 were derived from the average consumer expenditure per household in:
+A) the NSS 38th round (1983)
+B) the NSS 50th round (1993-94)
+C) the NSS 68th round (2011-12)
+D) the NSS 61st round (2004-05)
+ANS: A
+D: Hard
+P: 2
+EXP: **CPI-AL/RL (1986-87 = 100)** uses weights from the **NSS 38th round CES (1983)**. That survey ran over the agricultural year (July-June) and was quinquennial. This old weight base is often cited as a reason CPI-AL/RL needs revision.
+SC: AL/RL weights come from the 38th round (1983).
+
+Q: Which of the following statements about CPI (AL/RL) is/are correct?
+1. It is compiled by the Labour Bureau.
+2. It is used for revising minimum wages in the agricultural sector.
+3. It is used to move base-year rural poverty lines to subsequent years.
+Select the correct answer using the code given below:
+A) 1 only
+B) 1 and 2 only
+C) 2 and 3 only
+D) 1, 2 and 3
+ANS: D
+T: Statement
+D: Easy
+P: 2
+EXP: All three statements are correct: **Labour Bureau**, **agricultural minimum wages** and **rural poverty lines**.
+SC: AL is used for rural wages and rural poverty.
+
+Q: Rural labourers, for the purpose of CPI-RL, include:
+A) both agricultural labourers and other (non-agricultural) manual labourers in rural areas
+B) only agricultural labourers
+C) only cultivators
+D) only non-agricultural labourers
+ANS: A
+D: Easy
+P: 2
+EXP: **Rural labourers = agricultural + other manual labourers** in rural areas. So **agricultural labour households ⊂ rural labour households**.
+SC: RL includes AL.
+
+@topic CPI (Rural / Urban / Combined)
+Q: The CPI (Rural), CPI (Urban) and CPI (Combined) series were first started by the CSO in January 2011 with base year:
+A) 2010
+B) 2012
+C) 2011
+D) 2004-05
+ANS: A
+D: Medium
+P: 3
+EXP: The CPI (R/U/C) **started in January 2011 with base 2010**. It was **revised to base 2012**, with the revised series released from **January 2015**, and is compiled by the **NSO (PSD), MoSPI**.
+SC: CPI-R/U/C first had base 2010 (from 2011); now base 2012 (from 2015).
+
+Q: The weights of CPI (R/U/C) with base 2012 are derived from:
+A) the NSS 68th round consumer expenditure survey (2011-12)
+B) the NSS 61st round (2004-05)
+C) the Working Class Family Income and Expenditure Survey
+D) the Population Census 2011
+ANS: A
+D: Easy
+P: 3
+EXP: The weights are the **average monthly consumer expenditure** of urban and rural households from the **68th round CES (2011-12)**, on the **MMRP** basis.
+SC: CPI 2012 uses 68th-round (2011-12) weights.
+
+Q: Price data for CPI (R/U/C) are collected from:
+A) 1114 urban markets and 1181 villages on a weekly roster by FOD field staff
+B) 1181 urban markets and 1114 villages monthly by State DES
+C) 78 centres by the Labour Bureau
+D) 600 villages by the Department of Posts only
+ANS: A
+D: Hard
+P: 3
+EXP: CPI prices are collected from **1114 urban markets and 1181 villages** in all States and UTs. **FOD** field staff collect them by personal visits on a **weekly roster**. Rural collection was later done with help from the **Department of Posts**.
+SC: 1114 urban markets, 1181 villages; urban has fewer.
+
+Q: All-India inflation based on CPI is calculated on a point-to-point basis, which means:
+A) current month's index over the same month of the previous year
+B) current month's index over the previous month
+C) average of 12 months over the previous 12 months
+D) current month's index over the base year
+ANS: A
+T: Conceptual
+D: Easy
+P: 3
+EXP: **Point-to-point (y-o-y)** inflation compares the **current month with the same month last year**, e.g. February 2022 over February 2021. Month-over-month would be a sequential rate.
+SC: Point-to-point means year-on-year for the same month.
+
+Q: In CPI (Combined) base 2012, which group has the highest weight?
+A) Food and Beverages
+B) Miscellaneous
+C) Housing
+D) Fuel and Light
+ANS: A
+D: Easy
+P: 3
+EXP: CPI-C weights: **Food & Beverages 45.86**, **Miscellaneous 28.32**, **Housing 10.07**, **Fuel & Light 6.84**, **Clothing & Footwear 6.53** and **Pan, Tobacco & Intoxicants 2.38 (lowest)**.
+SC: Food 46, misc 28, housing 10, fuel 7, clothing 6.5, pan 2.4.
+
+Q: The weight of the "Food and Beverages" group and of "food items" in CPI (Combined) base 2012 are respectively about:
+A) 45.86% and 39.06%
+B) 39.06% and 45.86%
+C) 54.18% and 47.25%
+D) 24.38% and 15.26%
+ANS: A
+D: Medium
+P: 3
+EXP: **Food & Beverages group = 45.86%** includes non-alcoholic beverages and prepared meals. The **Consumer Food Price Index (CFPI) items = 39.06%**. Compare **WPI food = 24.38%**.
+SC: The CPI food group is about 46%, CPI food items about 39%, WPI food about 24%.
+
+Q: In CPI (Combined) base 2012, which group has the lowest weight?
+A) Pan, Tobacco and Intoxicants
+B) Clothing and Footwear
+C) Fuel and Light
+D) Housing
+ANS: A
+D: Easy
+P: 3
+EXP: **Pan, Tobacco & Intoxicants: 2.38%** is the lowest. Then Clothing & Footwear (6.53) and Fuel & Light (6.84).
+SC: Pan and tobacco has the lowest weight at 2.38.
+
+Q: Arrange the following groups of CPI (Combined) base 2012 in descending order of weight:
+1. Housing
+2. Miscellaneous
+3. Fuel and Light
+4. Food and Beverages
+A) 4-2-1-3
+B) 4-1-2-3
+C) 2-4-1-3
+D) 4-2-3-1
+ANS: A
+T: Chronology
+D: Medium
+P: 3
+EXP: **Food & Beverages (45.86) > Misc (28.32) > Housing (10.07) > Fuel & Light (6.84)**.
+SC: Food, Misc, Housing, Fuel.
+
+Q: The "Housing" group in CPI (2012 series) is compiled for:
+A) urban areas only
+B) rural areas only
+C) both rural and urban areas equally
+D) neither; housing is excluded from CPI
+ANS: A
+D: Hard
+P: 3
+EXP: The **housing index is compiled for urban areas only**. In rural areas, housing is largely owner-occupied and rental data are not meaningful. Its weight in **CPI-C is 10.07%**.
+SC: The housing index is urban only.
+
+@topic CPI (UNME) — Discontinued
+Q: CPI for Urban Non-Manual Employees (CPI-UNME) was released by the CSO since:
+A) January 1961
+B) January 1951
+C) April 1984
+D) January 2011
+ANS: A
+D: Medium
+P: 4
+EXP: **CPI-UNME** was released by the **CSO from January 1961**. Its **last base was 1984-85**, with weights from the **family living survey of 1982-83 in 59 urban centres**. It was released on the **25th of the following month**.
+SC: UNME ran from 1961, last base 1984-85, 59 centres.
+
+Q: The weighting diagram for the last series of CPI (UNME), base 1984-85, was prepared from a family living survey conducted during 1982-83 in how many urban centres?
+A) 59
+B) 78
+C) 88
+D) 1114
+ANS: A
+D: Hard
+P: 4
+EXP: The **family living survey for UNME (1982-83)** was conducted in **59 urban centres**. For comparison, the old CPI-IW (2001) series used **78 centres** and the CPI-IW 2016 series **88 centres**.
+SC: UNME 59, old IW 78, new IW 88.
+
+Q: In February 2008, the NSC decided to:
+A) discontinue CPI (UNME) and compile linked CPI (UNME) numbers using CPI-IW sub-group indices with UNME weights until the new CPI (Urban) is released
+B) merge CPI (UNME) with WPI
+C) revise the base of CPI (UNME) to 2001
+D) transfer CPI (UNME) to the Labour Bureau
+ANS: A
+D: Hard
+P: 4
+EXP: Because of the **outdated base** and the need to redeploy price-collection staff for the new **CPI (Urban)**, the NSC (February 2008) decided to: (i) **discontinue UNME**; (ii) compile a **link index** by the **ratio method** from **CPI-IW sub-group indices** using **UNME weights**; (iii) publish **linked UNME** until the new CPI (U).
+SC: UNME was stopped in 2008 and linked through CPI-IW until CPI (U) arrived.
+
+Q: CPI (UNME) was discontinued with effect from April 2008, and linked all-India CPI (UNME) numbers were released for the period:
+A) April 2008 to December 2010
+B) April 2008 to March 2012
+C) January 2011 to December 2014
+D) April 2008 to March 2009
+ANS: A
+D: Hard
+P: 4
+EXP: The linked UNME series covered **April 2008 to December 2010**. From **January 2011**, the new **CPI (Urban)** with base 2010 took over.
+SC: The linked series ran until December 2010; CPI (U) started January 2011.
+
+Q: The target population of the discontinued CPI (UNME) was a family deriving 50% or more of its income from:
+A) non-manual work in the non-agricultural sector in urban areas
+B) manual work in factories
+C) agricultural labour
+D) Government service only
+ANS: A
+D: Medium
+P: 4
+EXP: A **UNME family** earns **≥ 50%** of its income from **non-manual work in the urban non-agricultural sector**. This contrasts with **CPI-IW**, which uses **manual work** in 7 sectors.
+SC: UNME covered non-manual workers; IW covers manual workers.
+
+@topic Wholesale Price Index
+Q: The WPI with base 2011-12 is released by:
+A) Office of the Economic Adviser, DPIIT, Ministry of Commerce and Industry
+B) NSO (PSD), MoSPI
+C) Labour Bureau
+D) Reserve Bank of India
+ANS: A
+D: Easy
+P: 5
+EXP: **WPI (2011-12)** is released by the **OEA, DPIIT** on the **14th of every month**, with a **2-week lag**. FOD, NSO only **facilitates** some price collection.
+SC: WPI comes from OEA (DPIIT) on the 14th.
+
+Q: Which of the following statements about WPI (2011-12) is/are correct?
+1. It does not cover services.
+2. It does not include indirect taxes.
+3. It comprises 697 items.
+Select the correct answer using the code given below:
+A) 1 only
+B) 1 and 2 only
+C) 2 and 3 only
+D) 1, 2 and 3
+ANS: D
+T: Statement
+D: Medium
+P: 5
+EXP: **WPI excludes services and indirect taxes** and covers **697 items**. Of these, **564** are manufactured products, **117** primary articles and **16** fuel and power.
+SC: WPI covers 697 goods only, with no services and no taxes.
+
+Q: The weight of an item in WPI is based on its:
+A) net traded value in the base year (output + imports − exports)
+B) share in household consumption expenditure
+C) share in GVA
+D) share in exports
+ANS: A
+D: Medium
+P: 5
+EXP: **WPI weight ∝ Net Traded Value = Gross value of output + Imports − Exports** in the base year. **CPI** weights come from **household consumption (CES)**.
+SC: WPI weights by production and trade; CPI by consumption.
+
+Q: Match List-I (WPI major group) with List-II (Weight, base 2011-12):
+| List-I | List-II |
+|---|---|
+| A. Primary Articles | 1. 64.23% |
+| B. Fuel and Power | 2. 22.62% |
+| C. Manufactured Products | 3. 13.15% |
+A) A-2, B-3, C-1
+B) A-3, B-2, C-1
+C) A-1, B-3, C-2
+D) A-2, B-1, C-3
+ANS: A
+T: Match
+D: Easy
+P: 5
+EXP: WPI major-group weights are **Primary 22.62%**, **Fuel & Power 13.15%** and **Manufactured 64.23%**.
+SC: Manufactured about 64, primary about 23, fuel about 13.
+
+Q: The total weight given to food items in WPI (2011-12), i.e., food articles plus manufactured food products, is about:
+A) 24.38%
+B) 39.06%
+C) 15.26%
+D) 45.86%
+ANS: A
+D: Medium
+P: 5
+EXP: **WPI Food Index = food articles (15.26) + manufactured food products (9.12) = 24.38%**. The CPI food share (39.06%) is much higher.
+SC: WPI food = 15.26 + 9.12 = 24.38.
+
+Q: Within Primary Articles of WPI (2011-12), which sub-group has the highest weight?
+A) Food Articles
+B) Non-Food Articles
+C) Minerals
+D) Crude Petroleum and Natural Gas
+ANS: A
+D: Easy
+P: 5
+EXP: Within Primary Articles (22.62): **Food articles 15.26**, Non-food 4.12, Crude petroleum & NG 2.41, Minerals 0.83.
+SC: Food articles are about 2/3 of Primary Articles.
+
+Q: WPI is useful for policy because:
+A) it estimates inflation at the wholesale transaction level, enabling timely intervention before price increases spill over to retail prices
+B) it includes services and taxes
+C) it measures cost of living of households
+D) it is the RBI's official inflation target
+ANS: A
+T: Conceptual
+D: Medium
+P: 5
+EXP: WPI tracks **first-stage bulk transaction** prices. It acts as a **leading signal**, so the Government can act **before** price rises reach **retail (CPI)**. The RBI's inflation target is **CPI-C (4% ± 2%)**.
+SC: WPI gives an early warning; CPI is the target.
+
+@topic CPI vs WPI & Concepts
+Q: Which of the following correctly distinguishes CPI from WPI?
+A) CPI prices are retail prices paid by consumers; WPI prices are collected at ex-factory, ex-mine and mandi level
+B) Both include services
+C) WPI weights are from CES; CPI weights from production values
+D) CPI has a lower weight for food than WPI
+ANS: A
+T: Conceptual
+D: Easy
+P: 6
+EXP: **CPI**: retail prices, **CES weights**, includes **services** (housing, education, health), **food about 39%**. **WPI**: first-stage bulk prices at ex-factory, ex-mine and mandi level, **production-value weights**, **no services**, **food about 24%**.
+SC: CPI is retail, consumption-weighted and includes services; WPI is wholesale, production-weighted and covers goods only.
+
+Q: Which of the following is included in CPI but not in WPI?
+A) Education and medical care services
+B) Manufactured food products
+C) Fuel and power
+D) Minerals
+ANS: A
+D: Easy
+P: 6
+EXP: CPI includes **services** (housing, education, medical care, recreation, transport). WPI covers **goods only**.
+SC: If it is a service, only CPI has it.
+
+Q: "Price reference year" in the context of CPI means:
+A) the year whose average prices are taken as base prices and equated to 100
+B) the year whose CES data are used to compute weights
+C) the year of release of the index
+D) the year in which the item basket was last revised
+ANS: A
+T: Conceptual
+D: Medium
+P: 6
+EXP: **Price reference year** = the year whose **average prices = 100**, e.g. 2012 for CPI-C. **Weight reference year** = the year whose **CES data** give the weights, e.g. 2011-12 for CPI-C. The two can differ.
+SC: The price year sets the base of 100; the weight year supplies the weights.
+
+Q: For CPI (Combined) base 2012, the price reference year and weight reference year are respectively:
+A) 2012 and 2011-12
+B) 2011-12 and 2012
+C) 2012 and 2012
+D) 2010 and 2011-12
+ANS: A
+D: Medium
+P: 6
+EXP: **Price reference = 2012** (calendar year average prices = 100). **Weight reference = 2011-12** (68th round CES).
+SC: Prices from 2012, weights from 2011-12.
+
+Q: A "weighting diagram" of a CPI gives:
+A) the share of each item in the total consumption expenditure as per a CES
+B) the geographic distribution of markets
+C) the time series of inflation
+D) the ratio of wholesale to retail prices
+ANS: A
+T: Conceptual
+D: Easy
+P: 6
+EXP: The **weighting diagram** gives each item's **share in total consumption expenditure** in the CES. Weights usually come from **NSS rounds**.
+SC: The weighting diagram is item shares of the budget.
+
+Q: Match List-I (Index) with List-II (Base year):
+| List-I | List-II |
+|---|---|
+| A. CPI-IW | 1. 2011-12 |
+| B. CPI-AL/RL | 2. 2012 |
+| C. CPI (R/U/C) | 3. 1986-87 |
+| D. WPI | 4. 2016 |
+A) A-4, B-3, C-1, D-2
+B) A-2, B-3, C-4, D-1
+C) A-4, B-3, C-2, D-1
+D) A-4, B-1, C-2, D-3
+ANS: C
+T: Match
+D: Easy
+P: 1
+EXP: **CPI-IW 2016**, **CPI-AL/RL 1986-87**, **CPI-R/U/C 2012**, **WPI 2011-12**.
+SC: IW-16, AL-86/87, RUC-12, WPI-11/12.
+TIP: Base revisions (CPI to 2024, WPI and IIP to 2022-23) have been announced or are under way. Know both the old and the new bases for the exam.
+
+Q: Which organisation compiles which index? Choose the correctly matched pair.
+A) CPI-IW – Labour Bureau
+B) CPI (Urban) – Labour Bureau
+C) WPI – NSO (PSD)
+D) CPI-AL – NSO (PSD)
+ANS: A
+D: Easy
+P: 1
+EXP: **Labour Bureau → CPI-IW, CPI-AL, CPI-RL**. **NSO (PSD) → CPI-R/U/C**. **OEA (DPIIT) → WPI**.
+SC: The Labour Bureau handles worker CPIs, NSO the general CPI, OEA the WPI.
+
+@topic CPI for Industrial Workers
+Q: The CPI-IW (2016 = 100) series covers how many centres, compared with 78 centres in the 2001 series?
+A) 88
+B) 78
+C) 59
+D) 70
+ANS: A
+D: Hard
+P: 1
+EXP: **CPI-IW 2016** covers **88 centres** (up from **78** in the 2001 series) and 317 markets. Its weights come from **WCFIES 2016**, and the **linking factor** to the old series is **2.88**.
+SC: New IW 88 centres, old IW 78, UNME 59.
+
+@topic CPI (Rural / Urban / Combined)
+Q: The revised CPI (R/U/C) series with base 2012 has been released from:
+A) January 2015
+B) January 2012
+C) January 2011
+D) April 2014
+ANS: A
+D: Medium
+P: 3
+EXP: The **CPI with base 2012 was released from January 2015**, replacing the base-2010 series that began in January 2011.
+SC: The 2012 base was introduced in January 2015.
+
+Q: The Reserve Bank of India's flexible inflation targeting framework is based on:
+A) CPI (Combined)
+B) WPI
+C) CPI-IW
+D) GDP deflator
+ANS: A
+D: Easy
+P: 3
+EXP: The **RBI targets headline CPI (Combined) inflation at 4% ± 2%**, under the amended **RBI Act, 1934**. **WPI** is a producer and wholesale indicator; **CPI-IW** is used for DA.
+SC: The RBI targets CPI-C at 4 ± 2.
+
+@topic Wholesale Price Index
+Q: Of the 697 items in WPI (2011-12), the largest number belong to:
+A) Manufactured Products (564 items)
+B) Primary Articles (117 items)
+C) Fuel and Power (16 items)
+D) Food Articles (about 300 items)
+ANS: A
+D: Medium
+P: 5
+EXP: WPI item counts are **Manufactured 564**, **Primary 117** and **Fuel & Power 16**, for a total of **697**. The weights follow the same order: 64.23, 22.62 and 13.15.
+SC: 564 + 117 + 16 = 697.

@@ -1,0 +1,497 @@
+@set B11
+@title ASI Manual (II): Schedule Structure, Blocks A to D and Start of E
+@pages 163-183
+@desc 14 blocks of Part-I, DSL/PSL, scheme and sector codes, Joint Return rules, status-of-unit codes, organisation type and CIN, ISO 14000, R&D, formal training, fixed assets and leases, depreciation methods, working capital items, loans, workers
+
+@topic ASI Schedule: Structure
+Q: Part-I of the ASI schedule is structured into how many blocks?
+A) 14
+B) 12
+C) 10
+D) 16
+ANS: A
+D: Medium
+P: 163
+EXP: Part-I has **14 blocks (A to N)**. Block A is identification, B is factory particulars, C to L are economic particulars, M is field operations and N is officers' remarks. Separate **Part-A and Part-B** record the scrutiny report and the Scrutinising Officer's observations.
+SC: A to N is 14 letters, which gives 14 blocks.
+
+Q: Which blocks of the ASI schedule relate to the entire establishment rather than only the manufacturing process?
+A) Block K (ICT usage) and Block L (energy conservation measures)
+B) Block H and Block I
+C) Block C and Block D
+D) Block M and Block N
+ANS: A
+D: Hard
+P: 165
+EXP: All other blocks relate to the manufacturing process. **Blocks K (ICT usage) and L (energy conservation)** relate to the **whole establishment**.
+SC: K and L (ICT and energy) are establishment-wide.
+
+Q: Match List-I (ASI Block) with List-II (Content):
+| List-I | List-II |
+|---|---|
+| A. Block H | 1. Imported input items consumed |
+| B. Block I | 2. Products and by-products manufactured |
+| C. Block J | 3. Indigenous input items consumed |
+| D. Block E | 4. Employment and labour cost |
+A) A-3, B-1, C-2, D-4
+B) A-1, B-3, C-2, D-4
+C) A-3, B-2, C-1, D-4
+D) A-3, B-1, C-4, D-2
+ANS: A
+T: Match
+D: Medium
+P: 164
+EXP: Block **C** fixed assets, **D** working capital and loans, **E** employment and labour cost, **F** other expenses, **G** other output/receipts, **H** indigenous inputs, **I** imported inputs, **J** products and by-products, **K** ICT, **L** energy conservation.
+SC: In the alphabet, H (home-made inputs) comes before I (imported inputs), then J (products).
+
+Q: Most of the information in the ASI schedule is collected from:
+A) audited Balance Sheet and Profit & Loss Account of the factory
+B) GST returns only
+C) interviews with workers
+D) Chief Inspector of Factories' registers
+ANS: A
+D: Easy
+P: 163
+EXP: Data come mainly from the **audited financial statements** (Balance Sheet and P&L). **Annexure VI** gives a ready reference that maps balance sheet items to schedule items.
+SC: ASI data are taken from the books of account.
+
+@topic Block A: Identification & Status
+Q: In ASI, the Despatch Serial Number (DSL) is:
+A) unique across the country for a particular survey year, but the same factory may get different DSLs in different years
+B) permanent for a factory across all years
+C) assigned by the CIF
+D) the same as the CIN
+ANS: A
+D: Medium
+P: 165
+EXP: The **DSL** reconciles schedules despatched by FOD with those received by the IS Wing. It is **unique for a survey year** and can change between years. The **PSL (Permanent Serial Number)** stays the same over time and is unique within **State × Sector × 4-digit NIC**.
+SC: DSL changes each year (despatch). PSL is permanent.
+
+Q: In Block A of ASI, the "scheme code" for census units and sample units is respectively:
+A) 1 and 2 (and always 2 for the State sample)
+B) 2 and 1
+C) 0 and 1
+D) C and S
+ANS: A
+D: Easy
+P: 166
+EXP: **Census units = 1**, **sample units = 2**. In the **State sample** the code is always 2.
+SC: Census comes first (1), sample second (2).
+
+Q: The "industry code as per return" in Block A of ASI is decided on the basis of:
+A) maximum ex-factory value of the major product among products and by-products (5-digit NIC-2008)
+B) the product with maximum quantity produced
+C) the industry with maximum employment
+D) the code on the Factory licence
+ANS: A
+D: Medium
+P: 166
+EXP: The code is based on the product with the **highest ex-factory value**, recorded at **5-digit NIC-2008**. For job-work units with no Block J entries, it comes from the maximum output in **Block G**.
+SC: Choose the product with the highest value, not the highest quantity.
+
+Q: A unit engaged in repair of vehicles also sells vehicles, with trading output far exceeding repair output. For ASI, the industry code to be reported is:
+A) the code relating to repair and maintenance activity
+B) the trading code, since its output is larger
+C) any code chosen by the owner
+D) no code, the unit is excluded
+ANS: A
+D: Hard
+P: 166
+EXP: Trading is **outside ASI's purview**, so the **repair and maintenance** code is reported. If the unit has **stopped repair altogether** and only trades, it is given status code **"Deleted (04)"**.
+SC: ASI ignores trading. If only trading remains, the unit is deleted (code 04).
+
+Q: In Block A of ASI, the sector code for a unit located in an urban area is:
+A) 2
+B) 1
+C) 3
+D) U
+ANS: A
+D: Easy
+P: 167
+EXP: **Rural = 1, Urban = 2**, based on the latest administrative order. No other code is allowed, and the item cannot be left blank.
+SC: Rural 1 and urban 2, as in all NSS surveys.
+
+Q: Which of the following is a necessary condition for compiling a Joint Return (JR) in ASI?
+1. Same State code
+2. Same management
+3. Only combined accounts are available, with resources not separately identifiable
+4. Same 3-digit NIC industry group
+Select the correct answer using the code given below:
+A) 1 and 2 only
+B) 1, 2 and 3 only
+C) 2, 3 and 4 only
+D) 1, 2, 3 and 4
+ANS: D
+T: Statement
+D: Medium
+P: 167
+EXP: All four conditions are required. JR formation happens **only at the frame updation stage** (before sample selection). Sample scheme units can **never** form a JR, so for the sample scheme the number of units is always **1**.
+SC: A JR needs same State, same management, combined accounts and same 3-digit NIC.
+
+Q: After sample selection in ASI, if a Sample Scheme unit is found to satisfy JR conditions with Census Scheme units having a combined return, the information for the Sample unit must be:
+A) segregated and a separate return filled for it; the JR code is assigned during the next frame update
+B) merged into the existing joint return for the current year
+C) dropped from the survey permanently
+D) treated as a new census unit immediately
+ANS: A
+D: Hard
+P: 168
+EXP: Census and sample units **cannot be joined after selection**. The sample unit's data are **apportioned** and a **separate return** is filed. At the **next frame update** it gets the same JR code, so it becomes a census unit from the following year.
+SC: No JR after selection. Segregate now and join at the next frame update.
+
+Q: In ASI, status of unit code 4 (Deleted) is assigned when:
+A) the unit has had status code 3 continuously for three years or more, or does not exist, or is de-registered or out of coverage, and deletion is proposed by FOD
+B) the unit is temporarily closed for one month
+C) the unit refuses to submit the return
+D) the unit's accounting year is not closed
+ANS: A
+D: Medium
+P: 169
+EXP: **Code 4 (Deleted)** covers three or more years of code 3, non-existence, de-registration for operational reasons, or being out of coverage, when FOD proposes deletion. A new unit not yet in production, or with accounts not closed, gets **code 7**.
+SC: Three years dormant (code 3) leads to deletion (code 4).
+
+Q: If the status of a unit in ASI is '1' (open), which blocks must be filled in?
+A) Blocks A, B, C, D and E
+B) Block A only
+C) Blocks A, B and C
+D) Blocks A, B, C and E
+ANS: A
+D: Medium
+P: 169
+EXP: Status **1** needs Blocks **A–E**. Status **2** needs **A, B, C, E**. Status **3** needs **A, B, C**. Any other status needs **Block A** only.
+SC: The more active the unit, the more blocks are filled: 1 → A-E, 2 → A-C + E, 3 → A-C, others → A.
+
+@topic Block B: Particulars of the Factory
+Q: In ASI Block B, a Government Company-Public is one where the Government's paid-up share capital is not less than 51% and the number of shareholders is:
+A) at least 7, with no upper limit
+B) at least 1, with a maximum of 200
+C) exactly 2
+D) at least 50
+ANS: A
+D: Medium
+P: 170
+EXP: A **Government** company has at least **51%** government share capital. A **Public** company has at least **7 shareholders and no upper limit**. A **Private** company has at least **1 and at most 200** shareholders. **Non-Government** companies have less than 51% government share, with the same public/private rules.
+SC: 51% decides Government vs Non-Government. 7+ vs up to 200 decides Public vs Private.
+
+Q: A Limited Liability Partnership (LLP), recorded as a separate organisation type in ASI, is characterised by:
+A) being a separate legal entity with partners' liability limited to their agreed contribution
+B) unlimited personal liability of all partners
+C) mandatory Government shareholding
+D) inability to hold property in its own name
+ANS: A
+D: Easy
+P: 170
+EXP: An **LLP** is a **separate legal entity** with perpetual existence. It can contract and hold property. Each **partner's liability is limited to the agreed contribution**, and partners are protected from another partner's misconduct.
+SC: LLP = limited liability of a company + flexibility of a partnership.
+
+Q: The Corporate Identity Number (CIN) of a company, recorded in ASI Block B, is a:
+A) 21-character alphanumeric code issued by the Ministry of Corporate Affairs
+B) 15-digit GSTIN
+C) 10-character PAN
+D) 12-digit Aadhaar-linked number
+ANS: A
+D: Medium
+P: 171
+EXP: The **CIN** has **21 characters**: listing status (L/U) + 5-digit industry code (NIC-2004) + 2-letter State code + 4-digit year of incorporation + 3-letter ownership code + 6-digit ROC registration number.
+SC: 1 + 5 + 2 + 4 + 3 + 6 = 21.
+
+Q: In a CIN, the first character 'U' indicates that the company is:
+A) not listed
+B) listed
+C) a Union Government company
+D) an unlimited liability company
+ANS: A
+D: Easy
+P: 171
+EXP: The first character shows **listing status**: **L = listed**, **U = unlisted**. The Union Government ownership code is **GOI**, and unlimited liability companies use **ULL/ULT**.
+SC: L for Listed, U for Unlisted.
+
+Q: In the CIN ownership codes, "PTC" denotes:
+A) Private limited Indian non-government company
+B) Public limited Indian non-government company
+C) Private limited foreign company incorporated in India
+D) Public Trust Company
+ANS: A
+D: Medium
+P: 171
+EXP: **PLC** = public limited Indian non-government, **PTC** = private limited Indian non-government, **FLC/FTC** = public/private foreign companies incorporated in India, **GOI** = Union Government company, **SGC** = State Government company, **NPL** = Section 25 (not-for-profit) company.
+SC: The middle letter gives L for pubLic or T for privaTe. F at the start means foreign.
+
+Q: In ASI Block B, the CIN is to be filled in only for units whose type of organisation code is:
+A) 4, 5, 6 or 7 (companies)
+B) 1 or 2
+C) 8 only
+D) 9 only
+ANS: A
+D: Medium
+P: 172
+EXP: Codes **4–7** are the company types (Government/Non-Government × Public/Private), and only companies have a CIN. Proprietorships (1), partnerships (2), LLPs (3), co-operatives (8) and others (9) do not.
+SC: Only companies have a CIN, and companies are codes 4 to 7.
+
+Q: ASI Block B asks whether the unit has ISO certification of which series?
+A) ISO 14000
+B) ISO 9000
+C) ISO 27001
+D) ISO 45001
+ANS: A
+D: Easy
+P: 172
+EXP: Block B item 4 records **ISO 14000 series** (environmental management) certification only. ISO 9000 or other certificates do not count as "yes" here. Annexure X has a note on ISO 14000.
+SC: ASI asks about the environmental ISO, which is the 14000 series.
+
+Q: For ASI, "formal training" offered by a unit to its employees means structured vocational or technical training of at least:
+A) 200 hours
+B) 100 hours
+C) 50 hours
+D) 500 hours
+ANS: A
+D: Hard
+P: 173
+EXP: Block B item 11 treats structured vocational or technical training of **at least 200 hours** for permanent or contractual employees as formal training at the workplace.
+SC: Formal training threshold: 200 hours.
+
+Q: In Block B, an R&D unit integrated with the factory and registered with which bodies gets code 1?
+A) DST or DBT
+B) CSIR or ICMR
+C) DRDO
+D) UGC
+ANS: A
+D: Medium
+P: 173
+EXP: **Code 1**: R&D unit registered with **DST/DBT**. **Code 2**: registered with other agencies. **Code 3**: no R&D unit.
+SC: DST/DBT registration gets code 1.
+
+Q: For amalgamated accounts covering 18 months, ASI requires full values for all blocks EXCEPT:
+A) mandays worked, mandays paid and absenteeism, which relate to the reference period only
+B) fixed assets
+C) products and by-products
+D) input items
+ANS: A
+D: Hard
+P: 172
+EXP: With amalgamated accounts (for example 18 months), "months of operation" is reported as **18** and financial blocks use **full values**. **Mandays worked, mandays paid and absenteeism** relate to the **reference period only**.
+SC: Money figures cover all 18 months. Labour days cover the reference year only.
+
+@topic Block C: Fixed Assets
+Q: Under ASI, the value of a fixed asset that has completed its theoretical working life should be recorded as:
+A) Re. 1
+B) Zero
+C) Its original cost
+D) Its scrap value
+ANS: A
+D: Easy
+P: 173
+EXP: A fully depreciated asset still in use is shown at **Re. 1** so that it stays on record. Depreciation is always computed on **original cost**, not on re-valued cost.
+SC: A fully depreciated asset still in use is kept at a token Re. 1.
+
+Q: Which of the following is EXCLUDED from fixed assets in ASI Block C?
+A) Goodwill and preliminary expenses
+B) Computer software
+C) Assets taken on hire purchase
+D) Major repairs that add to the working life of assets
+ANS: A
+D: Easy
+P: 174
+EXP: **Intangibles such as goodwill and preliminary expenses**, advances for fixed assets not yet received, and copyright or mining lease rights in the balance sheet are **excluded**. Software, hire-purchase assets (full value, excluding interest) and major repairs are **included**.
+SC: Software is the only intangible allowed.
+
+Q: For a fixed asset under a financial lease, ASI records its full value in Block C of:
+A) the lessee (economic owner)
+B) the lessor (legal owner)
+C) both lessor and lessee
+D) neither
+ANS: A
+D: Medium
+P: 174
+EXP: In a **financial lease**, the **lessee** is the economic owner, so the asset goes in the **lessee's Block C**. In an **operational lease**, ownership stays with the lessor and the lessee does not record it.
+SC: Financial lease: the lessee records it. Operating lease: the lessor keeps it.
+
+Q: ASI follows which approach for estimating total fixed assets in the factory sector?
+A) Ownership approach (including owner-like possession such as long-term lease)
+B) User approach only
+C) Cash-flow approach
+D) Replacement-cost approach
+ANS: A
+D: Medium
+P: 174
+EXP: ASI uses the **ownership approach**. All assets owned and in the balance sheet are included, even if rented out, and so are **owner-like possessions** such as long-term leases. Rent received goes in **Block G**.
+SC: If you own it (or effectively own it), record it, even if it is rented out.
+
+Q: In ASI, long-term (perpetual) leasehold land is treated as:
+A) owned land, with the lease amount recorded in Block C
+B) rented land, with rent recorded in Block F
+C) excluded entirely
+D) a current asset in Block D
+ANS: A
+D: Medium
+P: 175
+EXP: **Perpetual leasehold land** is treated like owned land (**Block C**). **Short-term** leasehold land is excluded from Block C, and only rent paid is recorded in **Block F**. Encroached land is recorded at market value. Land used for cultivation is excluded.
+SC: Long lease counts as owned (Block C). Short lease counts as rent (Block F).
+
+Q: A refrigerator used in a pharmaceutical factory to preserve medicines after manufacture is classified in ASI Block C as:
+A) plant and machinery
+B) other fixed assets
+C) building
+D) not a fixed asset
+ANS: A
+D: Medium
+P: 176
+EXP: A refrigerator is normally not plant and machinery. But where it is **essential to the product** (medicines must be refrigerated), it counts as **plant and machinery**. Similarly, AC units fitted to machinery are P&M, while window ACs are "other fixed assets".
+SC: If it is essential to production, it counts as P&M.
+
+Q: A crane that does not form a part of plant and machinery is classified in ASI as:
+A) transport equipment
+B) plant and machinery
+C) other fixed assets
+D) building
+ANS: A
+D: Medium
+P: 176
+EXP: A crane that is **part of the machinery** is **P&M**. **Otherwise it is transport equipment**. An animal-driven cart used for transport is also transport equipment, together with the animal.
+SC: A crane in the machinery is P&M. A standalone crane is transport.
+
+Q: Computers used to run plant and machinery or used as plant and machinery (e.g., in the printing industry) are recorded in ASI under:
+A) plant and machinery
+B) computer equipment including software
+C) other fixed assets
+D) consumable stores
+ANS: A
+D: Medium
+P: 177
+EXP: Ordinary computers, UPS, printers and software go under **computer equipment (item 5)**. **Computers that run or act as machinery** go under **P&M**.
+SC: Classify by function: a computer acting as a machine is P&M.
+
+Q: Under the straight-line method of depreciation used in ASI, the rate of depreciation R is:
+A) [(C − S)/n] / C × 100
+B) (1 − (S/C)^(1/n)) × 100
+C) (C − S) × n
+D) S/C × 100
+ANS: A
+D: Medium
+P: 179
+EXP: **SLM**: R = [(C − S)/n] ÷ C × 100, where C is original cost, S is scrap value and n is life in years. **WDV**: R = (1 − (S/C)^(1/n)) × 100, applied to the reducing balance. If no depreciation is provided, estimate it by SLM.
+SC: SLM gives an equal slice each year. WDV applies a constant percentage to the balance, which uses the nth root.
+
+Q: A machine costs ₹10 lakh, has a scrap value of ₹1 lakh and a working life of 9 years. The annual depreciation under the straight-line method is:
+A) ₹1 lakh
+B) ₹1.11 lakh
+C) ₹0.9 lakh
+D) ₹10 lakh
+ANS: A
+T: Numerical
+D: Easy
+P: 179
+EXP: SLM annual depreciation = (C − S)/n = (10 − 1)/9 = **₹1 lakh**. The rate on cost is 1/10 × 100 = 10%.
+SC: Divide (cost − scrap) by life.
+
+Q: If a company calculates depreciation under both the Companies Act, 2013 and the Income Tax Act, 1961, which is used for ASI?
+A) Companies Act, 2013
+B) Income Tax Act, 1961
+C) Average of the two
+D) Whichever is higher
+ANS: A
+D: Medium
+P: 180
+EXP: ASI uses depreciation as per the **Companies Act, 2013**, i.e. the book depreciation. The Income Tax figure is only for tax returns.
+SC: Book depreciation (Companies Act) is used, not tax depreciation.
+
+Q: In ASI Block C, the positive net balance of capital work-in-progress (closing minus opening) is reflected in Block G as:
+A) value of own construction
+B) rent received
+C) sale value of goods sold in same condition
+D) electricity sold
+ANS: A
+D: Hard
+P: 178
+EXP: A net increase in **CWIP** (Col 7 − Col 3 of item 9), if positive, is shown in **Block G, item 4, as own construction**, which is part of gross output.
+SC: CWIP growth counts as own construction output.
+
+@topic Block D: Working Capital & Loans
+Q: Which of the following is included under "raw materials & components and packing materials" in ASI Block D?
+A) Materials supplied by the factory to others for processing
+B) Materials supplied by others to the factory for processing
+C) Semi-finished fixed assets
+D) Unused overdraft
+ANS: A
+D: Medium
+P: 180
+EXP: Stocks the factory **owns**, including materials sent **to others** for processing, material in transit, trading goods and raw material scrap, are included. **Materials received from others for processing** are excluded.
+SC: Ownership decides working capital, the same as for physical WC.
+
+Q: In ASI, finished goods held in stock are valued at:
+A) the ex-factory price (excluding taxes) at which goods were sold immediately prior to the reference date, else book value
+B) retail market price including taxes
+C) cost of raw materials only
+D) the price expected next year
+ANS: A
+D: Hard
+P: 181
+EXP: Finished goods are valued at the **selling price excluding excise and sales tax** just before the reference date. **Book value** is used if that price is not available.
+SC: Value them at the recent ex-factory selling price.
+
+Q: Which of the following is EXCLUDED from "other current assets" in ASI Block D?
+A) Amount receivable for sale of fixed assets
+B) Prepaid expenses
+C) Advance income tax
+D) Security deposits refundable within one year
+ANS: A
+D: Medium
+P: 182
+EXP: Excluded items: unused overdraft, investments in private companies, trade investment, **receivables for sale of fixed assets**, long-term capital advances and long-term loans with interest. Prepaid expenses, advance tax, short-term deposits and bills receivable are included.
+SC: Anything on capital account is excluded from current assets.
+
+Q: If a negative entry appears in current assets in the balance sheet, ASI records it as:
+A) a positive value under "other current liability"
+B) a negative current asset
+C) zero
+D) a fixed asset
+ANS: A
+D: Medium
+P: 182
+EXP: Current assets and current liabilities can **never be negative** in ASI. A negative current asset is moved to **other current liabilities** as a positive figure, and a negative liability is moved to other current assets.
+SC: Flip the sign and move the item to the other side.
+
+Q: A fixed deposit of any tenure that can be liquidated instantly (with or without penal charges) is recorded in ASI Block D under:
+A) cash in hand and at bank
+B) outstanding loans
+C) other fixed assets
+D) sundry debtors
+ANS: A
+D: Hard
+P: 181
+EXP: Fixed deposits that can be **liquidated instantly** are treated as **cash in hand and at bank**, whatever their tenure. So are current and savings accounts, drafts in hand and uncashed cheques issued. Deposits with telephone or electricity departments are not current assets.
+SC: If it can be withdrawn instantly, it counts as cash.
+
+Q: Which of the following forms part of "outstanding loans" (Block D, item 17) in ASI?
+A) Convertible and non-convertible debentures
+B) Bank overdraft for six months
+C) Cash credit
+D) Sundry creditors
+ANS: A
+D: Medium
+P: 182
+EXP: Outstanding loans are **long-term**. They include **all debentures** (convertible ones remain long-term liabilities until redemption), bank loans against fixed assets, loans from subsidiaries, fixed deposits from the public, and loans from directors (**excluding accrued interest**). **Overdrafts and cash credit** up to one year are short-term (item 13).
+SC: Debentures are long-term. Overdraft and cash credit are short-term.
+
+@topic Block E: Employment Coverage
+Q: For ASI Block E, which persons are EXCLUDED?
+A) Directors of incorporated enterprises paid solely for attending Board meetings
+B) Working proprietors
+C) Unpaid family workers
+D) Active business partners
+ANS: A
+D: Medium
+P: 183
+EXP: Block E covers everyone working in and for the establishment, including working proprietors, active partners and unpaid family workers. **Directors paid only for attending Board meetings are excluded**. Block E data also go to the **Labour Bureau**.
+SC: A sitting-fee director is not an employee.
+
+Q: In ASI Block E, which of the following is NOT counted as a "worker" even though it may be termed a worker under the Factories Act?
+A) Persons in supervisory or managerial positions
+B) Casual labour directly employed in manufacturing
+C) Labour producing fixed assets for the factory's own use
+D) Labour generating electricity for the factory
+ANS: A
+D: Medium
+P: 183
+EXP: **Workers** include casual and regular staff directly employed in manufacturing and ancillary work, including repair, own-account fixed assets and power generation. **Supervisors, managers and confidential staff** and **unpaid** persons (working proprietors, family members) are **not workers**, although they are counted in total persons engaged.
+SC: A worker is paid and non-supervisory.

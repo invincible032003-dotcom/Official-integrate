@@ -1,0 +1,523 @@
+@set B10
+@title ASI Manual (I): Scope, Coverage, Sampling Design & Core Concepts
+@pages 148-162
+@desc Legal basis, schedule parts, reference/survey period, coverage and exclusions, establishment approach, CoS Rules roles, census/sample scheme, NIC & NPCMS history, factory definition, capital, labour and output concepts
+
+@topic ASI: Legal Basis, Schedule & Periods
+Q: From ASI 2010-11 onwards, the Annual Survey of Industries is conducted under the statutory provisions of:
+A) the Collection of Statistics Act, 2008 (as amended in 2017) and the Rules of 2011
+B) the Collection of Statistics Act, 1953 and Rules of 1959
+C) the Factories Act, 1948
+D) the Industries (Development and Regulation) Act, 1951
+ANS: A
+D: Easy
+P: 151
+EXP: Until 2009-10 the ASI ran under the **CoS Act 1953** and its **1959 Rules**. J&K used the J&K CoS Act 1961 and its 1964 Rules. **From ASI 2010-11** it runs under the **CoS Act 2008** (amended 2017) and the **CoS Rules 2011**.
+SC: Old ASI: Act 1953 / Rules 1959. New ASI (2010-11 onwards): Act 2008 / Rules 2011.
+
+Q: Part-II of the ASI schedule, which collects data on man-days worked, absenteeism and labour turnover, is processed by:
+A) the Labour Bureau
+B) the IS Wing, DQAD, Kolkata
+C) the NSO (FOD)
+D) the Office of the Economic Adviser
+ANS: A
+D: Medium
+P: 151
+EXP: **Part-I** (assets, employment, inputs, outputs, products) is processed by the **IS Wing, DQAD, Kolkata**. **Part-II** (labour statistics such as working days, man-days, absenteeism, labour turnover and man-hours) is processed by the **Labour Bureau**.
+SC: Part I is economic data handled by the IS Wing. Part II is labour data handled by the Labour Bureau.
+
+Q: The reference period for ASI 2020-21 is:
+A) 1 April 2020 to 31 March 2021
+B) 1 January 2020 to 31 December 2020
+C) 1 July 2020 to 30 June 2021
+D) November 2021 to July 2022
+ANS: A
+D: Easy
+P: 151
+EXP: The ASI reference year is the **financial year (April–March)** for both parts. The **survey period** usually runs from **November to July** of the year after the reference year.
+SC: Reference period = financial year. Field work = November to July afterwards.
+
+Q: The actual survey (field) period for ASI generally runs:
+A) from November to July in the subsequent year following the reference period
+B) during the reference year itself
+C) only in the month of April
+D) from January to December of the reference year
+ANS: A
+D: Medium
+P: 151
+EXP: Books of account close in March, so the survey is carried out from **November to July** after the reference year ends.
+SC: Collect after the accounts are closed, i.e. November to July.
+
+@topic ASI: Coverage & Units
+Q: Which of the following is covered under ASI?
+A) Factories registered under Sections 2(m)(i) and 2(m)(ii) of the Factories Act, 1948
+B) Defence establishments
+C) Railway workshops
+D) Oil storage and distribution depots
+ANS: A
+D: Easy
+P: 151
+EXP: The ASI covers factories under **Sections 2(m)(i) and 2(m)(ii)**, **bidi and cigar establishments** (1966 Act), and **electricity undertakings not registered with the CEA**. **Defence establishments, oil storage depots and departmental units** (railway and RTC workshops, Government mints) are **excluded**.
+SC: Registered factories are in. Defence and departmental workshops are out.
+
+Q: Bidi and cigar establishments are covered under ASI if registered under:
+A) the Bidi and Cigar Workers (Conditions of Employment) Act, 1966
+B) the Tobacco Board Act, 1975
+C) the Shops and Establishments Act
+D) the Companies Act, 1956
+ANS: A
+D: Medium
+P: 151
+EXP: The ASI covers **bidi and cigar** establishments registered under the **Bidi and Cigar Workers (Conditions of Employment) Act, 1966**. For bidi and cigar, the establishment is the unit of enumeration.
+SC: Bidi units are covered through their own 1966 Act.
+
+Q: Electricity undertakings engaged in generation, transmission and distribution are covered under ASI only if they are:
+A) not registered with the Central Electricity Authority
+B) registered with the Central Electricity Authority
+C) owned by State Electricity Boards
+D) using renewable energy only
+ANS: A
+D: Hard
+P: 151
+EXP: Electricity undertakings **not registered with the CEA** are covered by the ASI. Those registered with the CEA are covered through CEA statistics, which avoids double counting.
+SC: CEA-registered units are counted by the CEA, so the ASI takes the rest.
+
+Q: As decided by the Standing Committee on Industrial Statistics, ASI coverage was extended to units with how many or more employees that are not registered under Sections 2m(i)/2m(ii) but are registered under any of seven specified Acts/Boards in the Business Register of Establishments?
+A) 100
+B) 50
+C) 20
+D) 10
+ANS: A
+D: Medium
+P: 152
+EXP: Units with **100 or more employees**, registered under any of **seven** Acts or authorities (Companies Act, Factories Act, Shops & Establishment Act, Societies Act, Cooperative Societies Act, KVIB, DIC) in the **BRE** and verified by FOD, are also considered for selection.
+SC: The extension covers large units (100+) found through the BRE.
+
+Q: For data collection in ASI, which approach is followed?
+A) Establishment approach
+B) Enterprise approach
+C) Household approach
+D) Company approach
+ANS: A
+D: Easy
+P: 152
+EXP: The ASI follows the **establishment approach**. An establishment is an enterprise or part of one at a **single location** with a **single (or principal) productive activity**. An enterprise may have several locations and activities.
+SC: ASI works by factory site (establishment), not by company (enterprise).
+
+Q: The primary unit of enumeration in ASI for electricity, gas and water supply undertakings is:
+A) an undertaking or a licensee
+B) a factory
+C) a workshop
+D) an establishment
+ANS: A
+D: Medium
+P: 152
+EXP: The unit is a **factory** for manufacturing, a **workshop** for repair services, an **undertaking or licensee** for electricity, gas and water, and an **establishment** for bidi and cigar.
+SC: Manufacturing = factory, repair = workshop, utilities = undertaking, bidi = establishment.
+
+Q: A "Joint Return" in ASI is permitted when two or more establishments of the same owner belong to the same:
+A) State, sector and 3-digit industry group, falling under the census scheme
+B) district and any industry
+C) company across different States
+D) product at 7-digit NPCMS level only
+ANS: A
+D: Medium
+P: 152
+EXP: A **Joint Return (JR)** is allowed for establishments of one owner in the **same State, same sector** (bidi, factory or electricity) and **same 3-digit NIC**, under the census scheme. It is common for bidi and electricity units.
+SC: For a JR the State, the sector and the 3-digit NIC must all match.
+
+@topic ASI: Legal Roles under CoS Act 2008
+Q: As per the Collection of Statistics Rules, 2011, the Nodal Officer, whose consultation is mandatory for conducting any survey, must be an officer not below the rank of:
+A) Joint Secretary to the Government of India
+B) Director
+C) Additional Secretary
+D) Deputy Secretary
+ANS: A
+D: Medium
+P: 152
+EXP: The **Nodal Officer** is an officer of the nodal statistical department **not below Joint Secretary** rank. Consulting the Nodal Officer is **mandatory** before any survey under the CoS Act.
+SC: The Nodal Officer is of Joint Secretary rank or above, and must be consulted before a survey.
+
+Q: Under the CoS Act, 2008, which official is appointed for a specified period and territory to conduct the ASI and is empowered to issue notices to factories?
+A) Statistics Officer
+B) Nodal Officer
+C) Chief Inspector of Factories
+D) Registrar of Companies
+ANS: A
+D: Easy
+P: 152
+EXP: A **Statistics Officer** (Section 4 of the Act, Rule 7) is appointed to conduct the survey. The officer can **issue notices** and **authorise staff** to collect information. Defaulters can be prosecuted with the Statistics Officer's sanction.
+SC: The Statistics Officer runs the survey. The Nodal Officer is consulted beforehand.
+
+Q: Under the CoS Act, 2008, a person employed in executing the Act who violates confidentiality may be prosecuted by or with the consent of the appropriate Government under Section:
+A) 25
+B) 15
+C) 9
+D) 33
+ANS: A
+D: Hard
+P: 153
+EXP: The manual cites **Section 25** for prosecuting officials who fail in duty, make false declarations or breach confidentiality. Defaulting units are prosecuted with the Statistics Officer's sanction.
+SC: Section 25 covers prosecution of officials.
+
+Q: Duly filled-in ASI returns for the Central Sample are transmitted for processing to:
+A) the IS Wing, DQAD, through the ASI Web Portal
+B) the State DES by post
+C) the Labour Bureau only
+D) the CIF office
+ANS: A
+D: Easy
+P: 153
+EXP: FOD verifies the returns and sends the Central Sample returns **online through the ASI Web Portal** to the **IS Wing, DQAD, Kolkata** for processing and publication.
+SC: Returns go online to the IS Wing in Kolkata.
+
+Q: The ASI frame is revised every year before selection of units by:
+A) NSO (FOD) in consultation with the Chief Inspector of Factories of the State
+B) the Labour Bureau alone
+C) the Registrar of Companies
+D) the RBI
+ANS: A
+D: Easy
+P: 153
+EXP: **FOD** updates the frame **annually** with the **CIF**. De-registered factories are removed and newly registered ones added. Feedback from States is also taken when a State runs the State sample.
+SC: The frame is maintained by FOD with the CIF, every year.
+
+@topic ASI: Sampling Design (from 2015-16)
+Q: The new sampling design of ASI adopted from 2015-16 was based on the recommendations of a Sub-Group of SCIS chaired by:
+A) Dr. G. C. Manna
+B) Dr. C. Rangarajan
+C) Prof. R. Radhakrishna
+D) Dr. Pronab Sen
+ANS: A
+D: Hard
+P: 153
+EXP: The design followed the **Sub-Group of SCIS under Dr. G. C. Manna** and was approved by the SCIS and the **NSC**.
+SC: The ASI 2015-16 design came from the Manna Sub-Group.
+
+Q: Under the ASI Census Scheme, all industrial units in which of the following States/UTs are surveyed completely?
+A) Arunachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura, Ladakh and Andaman & Nicobar Islands
+B) Delhi, Chandigarh and Puducherry
+C) Rajasthan, Bihar and Kerala
+D) Maharashtra, Gujarat and Tamil Nadu
+ANS: A
+D: Medium
+P: 154
+EXP: All units in the **nine less industrially developed States/UTs** are in the census: the NE States except Assam, plus Sikkim, **Ladakh and A&N Islands**. **Delhi, Chandigarh and Puducherry** use a **50+ employee** threshold. **Rajasthan, Bihar, Kerala** (with J&K, HP and Chhattisgarh) use **75+**.
+SC: Small industrial bases (NE, Ladakh, A&N) have all units in the census.
+
+Q: For the census scheme of ASI, the employment threshold for Delhi, Chandigarh and Puducherry is:
+A) 50 or more employees
+B) 75 or more employees
+C) 100 or more employees
+D) 20 or more employees
+ANS: A
+D: Medium
+P: 154
+EXP: Thresholds: **50+** for Chandigarh, Delhi and Puducherry. **75+** for J&K, HP, Rajasthan, Bihar, Chhattisgarh and Kerala. **100+** for all other States.
+SC: 50 for city-UTs, 75 for six mid States, 100 for the rest.
+
+Q: Which industrial units are included in the ASI census scheme irrespective of State or size?
+A) All units with frame NIC 0893 (salt extraction)
+B) All textile mills
+C) All units with fewer than 10 workers
+D) All public sector units
+ANS: A
+D: Hard
+P: 154
+EXP: **All units with frame NIC 0893 (salt extraction)** are in the census. **All Joint Return factories** and all units in strata with **4 or fewer units** are also census units.
+SC: Salt extraction (0893) is always in the census.
+
+Q: In the ASI sample scheme, strata are formed on the basis of:
+A) State × District × Sector × 3-digit NIC-2008
+B) State × 2-digit NIC only
+C) District × employment size only
+D) Sector × 5-digit NIC
+ANS: A
+D: Medium
+P: 154
+EXP: Strata = **State × District × Sector** (bidi, manufacturing, electricity) **× 3-digit NIC-2008**. Strata with **4 or fewer units** go to the census.
+SC: The stratum is defined by State, District, Sector and 3-digit NIC.
+
+Q: Samples in the ASI sample scheme are drawn using:
+A) Circular systematic sampling after arranging units in descending order of employees
+B) Simple random sampling without replacement
+C) PPS with replacement, size = output
+D) Cluster sampling by district
+ANS: A
+D: Medium
+P: 154
+EXP: Units in each stratum are arranged in **descending order of total employees**, then drawn by **circular systematic sampling**. An **even number (minimum 4)** is selected and spread over **4 sub-samples**.
+SC: Sort by employees, then circular systematic, minimum 4 units in 4 sub-samples.
+
+Q: In the ASI design, which sub-samples are assigned to NSO (FOD) and which to the State/UT?
+A) Sub-samples 1 & 3 to NSO (FOD); 2 & 4 to the State/UT
+B) Sub-samples 1 & 2 to NSO (FOD); 3 & 4 to the State/UT
+C) All four to NSO (FOD)
+D) Sub-samples 2 & 4 to NSO (FOD); 1 & 3 to the State/UT
+ANS: A
+D: Medium
+P: 154
+EXP: **Sub-samples 1 & 3** go to **NSO (FOD)** and **2 & 4** to the **State/UT**. **Central Sample = census units + sub-samples 1 & 3**. **State Sample = census units + sub-samples 2 & 4**. **Pooled** estimates use all of them.
+SC: Odd sub-samples are Central, even sub-samples are State.
+
+Q: For deriving State-level estimates based on the State Sample, a State/UT must use:
+A) Census units (collected by NSO-FOD) along with its own two sub-samples
+B) only its own two sub-samples
+C) only census units
+D) all four sub-samples excluding census units
+ANS: A
+D: Hard
+P: 155
+EXP: **State Sample = all census units** (collected by FOD and processed by the IS Wing) **plus the State's two sub-samples**. States must combine both to get their estimates.
+SC: Census units are shared by both samples.
+
+@topic ASI: Classifications
+Q: NIC-2008, used in ASI from 2008-09 onwards, is based on:
+A) ISIC Rev. 4
+B) ISIC Rev. 3.1
+C) ISIC Rev. 3
+D) ISIC Rev. 2
+ANS: A
+D: Medium
+P: 155
+EXP: **NIC-1970** was based on ISIC Rev. 2 (1968). **NIC-1998** on ISIC Rev. 3. **NIC-2004** on ISIC Rev. 3.1. **NIC-2008** on **ISIC Rev. 4**.
+SC: NIC 70/98/04/08 map to ISIC Rev 2/3/3.1/4.
+
+Q: Arrange the classifications used in ASI in chronological order of adoption:
+1. NIC-1998
+2. Classification of Indian Industries
+3. NIC-1987
+4. NIC-2004
+A) 2, 3, 1, 4
+B) 3, 2, 1, 4
+C) 2, 1, 3, 4
+D) 3, 1, 2, 4
+ANS: A
+T: Chronology
+D: Medium
+P: 155
+EXP: **Classification of Indian Industries (1959)** → NIC-1970 (ASI 1973-74) → **NIC-1987** (ASI 1989-90 to 1997-98) → **NIC-1998** (1998-99 to 2003-04) → **NIC-2004** (2004-05 to 2007-08) → NIC-2008.
+SC: The pre-NIC classification came first. Then the NIC years run in order.
+
+Q: The National Product Classification for Manufacturing Sector (NPCMS), 2011 is based on:
+A) Sections 0 to 4 of the Central Product Classification (CPC) Ver. 2.0
+B) Harmonised System of Customs
+C) ISIC Rev. 4
+D) SITC Rev. 4
+ANS: A
+D: Medium
+P: 155
+EXP: **NPCMS 2011** was prepared by CSO (IS Wing) from **CPC Ver. 2.0, Sections 0–4**, which cover manufactured goods. It is a **7-digit** code: **5-digit CPC + 2 Indian digits**.
+SC: NPCMS = CPC (products). NIC = ISIC (industries).
+
+Q: NPCMS-2011 has how many digits and sub-classes?
+A) 7-digit; 1503 sub-classes
+B) 5-digit; 786 sub-classes
+C) 8-digit; 192 sub-classes
+D) 4-digit; 39 sub-classes
+ANS: A
+D: Hard
+P: 155
+EXP: NPCMS-2011 has **5 Sections, 39 Divisions, 192 Groups, 786 Classes and 1503 Sub-classes**, with 7-digit products. It has been used for input and output items from **ASI 2010-11**, with a revised version from 2015-16.
+SC: Remember the chain 5-39-192-786-1503.
+
+@topic ASI: Factory & Capital Concepts
+Q: As per Section 2(m) of the Factories Act, 1948, premises using power in a manufacturing process qualify as a factory if they employ:
+A) 10 or more workers
+B) 20 or more workers
+C) 50 or more workers
+D) 5 or more workers
+ANS: A
+D: Easy
+P: 156
+EXP: **2m(i)**: **10 or more workers with power**. **2m(ii)**: **20 or more without power**. For **Rajasthan and Maharashtra**, amendments raised these to **20 with power and 40 without**, applied from ASI 2015-16.
+SC: 10 with power, 20 without. Rajasthan and Maharashtra doubled both.
+
+Q: For ASI purposes, "power" means any motive power used to drive the plant and machinery, except:
+A) animal and human power
+B) electrical power
+C) steam power
+D) solar power
+ANS: A
+D: Easy
+P: 156
+EXP: Under the Factories Act, **power** means any **motive power except animal and human power**.
+SC: Muscle power (human or animal) is not "power".
+
+Q: Fixed capital in ASI excludes intangible assets, except:
+A) computer software
+B) goodwill
+C) patents
+D) trademarks
+ANS: A
+D: Medium
+P: 157
+EXP: **Fixed capital** is the **depreciated value** of fixed assets (life above 1 year) on the closing day. It includes head office assets allocable to the factory and **hire-purchase assets at full value (excluding interest)**, and **excludes intangibles except computer software**.
+SC: Software is the only intangible counted in fixed capital.
+
+Q: In ASI, "invested capital" is defined as:
+A) Fixed capital + Physical working capital
+B) Fixed capital + Working capital
+C) Working capital − Outstanding loans
+D) Gross value of plant and machinery + stocks
+ANS: A
+D: Medium
+P: 158
+EXP: **Invested capital = fixed capital + physical working capital**. **Productive capital = fixed capital + working capital**, where working capital adds cash and net receivables to physical working capital.
+SC: Invested uses physical WC (inventories). Productive uses total WC (plus cash and receivables).
+
+Q: Which of the following is EXCLUDED from physical working capital in ASI?
+A) Stock of materials supplied by others to the factory for processing
+B) Stock of fuels and lubricants owned by the factory
+C) Finished goods ready for sale at the end of the year
+D) Semi-finished goods owned by the factory
+ANS: A
+D: Medium
+P: 157
+EXP: Physical working capital covers inventories **owned or controlled** by the factory. **Materials supplied by others for processing** are **excluded** because the factory does not own them. Finished goods processed by others from the factory's materials are included.
+SC: Ownership decides. Goods owned by others are excluded.
+
+Q: For ASI purposes, "outstanding loans" represent:
+A) long-term loans with duration of more than one year
+B) all short-term borrowings
+C) unused overdraft facility
+D) trade credit from suppliers
+ANS: A
+D: Medium
+P: 158
+EXP: In the ASI, outstanding loans are **only long-term liabilities (over one year)**, interest-bearing or not, as on the closing day.
+SC: ASI loans = long-term only.
+
+@topic ASI: Labour & Output Concepts
+Q: In ASI, "Total Persons Engaged" includes:
+1. Working proprietors and their family members actively engaged without pay
+2. Watch and ward staff and sales department staff
+3. Unpaid members of co-operative societies working for the factory
+Select the correct answer using the code given below:
+A) 1 and 2 only
+B) 2 and 3 only
+C) 1 and 3 only
+D) 1, 2 and 3
+ANS: D
+T: Statement
+D: Medium
+P: 158
+EXP: All three are included. Total persons engaged = all persons connected directly or indirectly with manufacturing, including administrative, clerical, supervisory, sales, watch and ward staff, **working proprietors and unpaid family members**, and **unpaid co-operative members**.
+SC: "Total persons engaged" covers everyone, paid or unpaid.
+
+Q: A worker engaged through a third-party agency that charges the factory for the service is termed in ASI as:
+A) contract worker
+B) casual worker
+C) apprentice
+D) outworker
+ANS: A
+D: Easy
+P: 158
+EXP: **Contract workers** are not employed directly by the factory. They are engaged through an **agency or contractor**, which charges the factory.
+SC: A third-party contractor means a contract worker.
+
+Q: In computing labour turnover in ASI, which of the following is ignored?
+A) Inter-departmental transfers within the same establishment
+B) Transfers to other establishments under the same management
+C) Retirement
+D) Retrenchment due to modernisation
+ANS: A
+D: Medium
+P: 158
+EXP: **Accession** and **separation** include transfers **to or from other establishments**, death, retirement and retrenchment. **Transfers within the same establishment are ignored**.
+SC: Only movement across the factory gate counts.
+
+Q: Which of the following is EXCLUDED from "wages" in ASI?
+A) Employer's contribution to provident fund and other social security
+B) Dearness allowance
+C) Overtime payment
+D) Production bonus paid regularly
+ANS: A
+D: Medium
+P: 159
+EXP: **Wages** include basic pay, DA, HRA and other allowances, overtime, pay for leave and holidays, and **regular** bonuses. They **exclude employer contributions to PF and social security**, maternity and creche expenses, group benefits and reimbursed business expenses. Wages are **gross** of employee deductions.
+SC: Employer contributions are supplements, not wages.
+
+Q: In ASI, Compensation of Employees is defined as:
+A) Emoluments + Supplements to emoluments
+B) Wages + Bonus
+C) Wages − Provident fund deductions
+D) Emoluments − Taxes
+ANS: A
+D: Easy
+P: 160
+EXP: **Emoluments** = wages to all employees + imputed benefits in kind + infrequent bonuses. **Supplements** = employer's PF, pension and gratuity contributions, ESI and other social security, and group benefits. **CE = emoluments + supplements**.
+SC: CE = E + S (emoluments + supplements).
+
+Q: Cotton waste used in a factory, which assists the manufacturing process but loses its identity without entering the product, is an example of:
+A) consumable stores
+B) basic materials
+C) intermediate products
+D) by-products
+ANS: A
+D: Easy
+P: 160
+EXP: **Consumable stores** help the process and lose their identity without entering the product, for example **cotton waste**. **Basic materials** such as metal for machines or leather for shoes change form but stay in the product.
+SC: Consumed in the process = stores. Embodied in the product = materials.
+
+Q: In ASI, "Gross Output" includes which of the following?
+1. Ex-factory value of products and by-products
+2. Net value of semi-finished goods
+3. Rent received for buildings and plant & machinery
+4. An amount equal to expenses on R&D
+Select the correct answer using the code given below:
+A) 1 and 2 only
+B) 1, 2 and 3 only
+C) 2, 3 and 4 only
+D) 1, 2, 3 and 4
+ANS: D
+T: Statement
+D: Hard
+P: 161
+EXP: Gross output = products and by-products (**ex-factory value**, excluding taxes and including subsidies) + **net value of semi-finished goods** + own construction + receipts for industrial and non-industrial services + **rent received** + net sale value of goods resold in the same condition + electricity generated and sold + **an amount equal to R&D expenses**. R&D is also added to **total input**, so it does not change GVA.
+SC: R&D is added to both output and input, so it has no effect on GVA.
+
+Q: Products in ASI are valued at ex-factory value, which means:
+A) exclusive of taxes and duties on sale and inclusive of subsidies
+B) inclusive of all taxes and duties
+C) exclusive of subsidies
+D) at retail price
+ANS: A
+D: Medium
+P: 161
+EXP: **Ex-factory value** excludes taxes and duties on sale and includes subsidies. This corresponds to the **basic price** concept.
+SC: Ex-factory = net of taxes, plus subsidies = basic price.
+
+Q: In ASI, Net Value Added (NVA) is obtained by:
+A) deducting total input and depreciation from gross output
+B) deducting depreciation from total input
+C) deducting rent and interest from GVA
+D) deducting compensation of employees from gross output
+ANS: A
+D: Easy
+P: 162
+EXP: **GVA = gross output − total input**. **NVA = GVA − depreciation**. **Net income = NVA − rent paid − interest paid**. **Profit = net income − compensation of employees**.
+SC: Output → GVA (minus input) → NVA (minus depreciation) → Net income (minus rent and interest) → Profit (minus CE).
+
+Q: In ASI, "Profit" is obtained by deducting which item from Net Income?
+A) Compensation of employees
+B) Depreciation
+C) Rent paid
+D) Total input
+ANS: A
+D: Medium
+P: 162
+EXP: **Profit = net income − compensation of employees**. Rent and interest are deducted earlier (NVA → net income), and depreciation is deducted before that (GVA → NVA).
+SC: The last step subtracts labour cost (CE) to get profit.
+
+Q: Given ASI data for a factory: Gross output = ₹500 lakh, Total input = ₹350 lakh, Depreciation = ₹20 lakh, Rent paid = ₹5 lakh, Interest paid = ₹15 lakh, Compensation of employees = ₹60 lakh. What is the profit?
+A) ₹50 lakh
+B) ₹70 lakh
+C) ₹110 lakh
+D) ₹130 lakh
+ANS: A
+T: Numerical
+D: Medium
+P: 162
+EXP: GVA = 500 − 350 = 150. NVA = 150 − 20 = 130. Net income = 130 − 5 − 15 = 110. **Profit = 110 − 60 = ₹50 lakh**.
+SC: Subtract step by step: input, depreciation, rent and interest, then CE.

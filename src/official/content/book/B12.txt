@@ -1,0 +1,517 @@
+@set B12
+@title ASI Manual (III): Blocks E to L, Scrutiny, Part-II Labour Schedule & Head Office
+@pages 184-204
+@desc Employment categories, bonus, PF, welfare, mandays; Block F other expenses; Block G other output; Blocks H/I inputs; Block J products and ex-factory value; ICT and energy blocks; scrutiny; Part-II absenteeism and turnover; general rules and head-office treatment
+
+@topic Block E: Employment & Labour Cost
+Q: In a highly automated factory where only "supervisors" work on the factory floor and are directly engaged in production, ASI treats them as:
+A) workers, irrespective of their designation
+B) supervisory staff
+C) other employees
+D) unpaid family members
+ANS: A
+D: Medium
+P: 184
+EXP: If a person is **directly engaged in production**, they are treated as a **worker regardless of designation**. Clerks in planning, estimating and drawing offices, and gatekeepers guarding manufacturing areas, are also workers.
+SC: What the person does decides the category, not the job title.
+
+Q: Persons (not workers under the Factories Act) who are given material by the factory to work in their own homes are treated in ASI as follows:
+A) not shown in Block E; payment to them is shown in Block F, item 1
+B) shown as workers in Block E
+C) shown as contract workers in Block E
+D) excluded entirely from the schedule
+ANS: A
+D: Hard
+P: 184
+EXP: **Home workers** are not reported in Block E. Their remuneration goes to **Block F, item 1** (work done by others on materials supplied by the factory).
+SC: Home workers are treated as outsourced work (Block F-1), not as employees.
+
+Q: Working proprietors, partners and family members are reported in Block E items 1–7 only when they are:
+A) paid; otherwise they are reported against item 8
+B) aged above 18
+C) registered under the Factories Act
+D) resident in the factory
+ANS: A
+D: Medium
+P: 184
+EXP: Paid proprietors, partners and co-op members go in items 1–7. **Unpaid** ones go in **item 8 (unpaid family members/proprietor/co-op members)**. Dormant or inactive partners are excluded.
+SC: Paid ones go in items 1-7. Unpaid active ones go in item 8.
+
+Q: Which of the following is recorded against "bonus" (Block E, item 10) in ASI?
+A) Profit-sharing, festival and year-end bonuses paid at less frequent intervals
+B) Production bonus paid every pay period
+C) Good attendance bonus paid monthly
+D) Incentive bonus paid with each salary
+ANS: A
+D: Medium
+P: 185
+EXP: **Item 10 (bonus)** covers **infrequent** bonuses such as profit sharing, festival, year-end and ex-gratia. **Regular** bonuses paid each pay period (production, attendance, incentive) are part of **wages/salary (column 8)**.
+SC: Regular bonuses go in wages. Occasional bonuses go in the bonus item.
+
+Q: Expenditure incurred by a factory on "labour welfare fund" is recorded in ASI Block E under:
+A) contribution to provident fund and other funds (item 11)
+B) workmen and staff welfare expenses (item 12)
+C) wages/salary
+D) Block F operating expenses
+ANS: A
+D: Hard
+P: 185
+EXP: **Item 11** covers PF, pension, gratuity, ESI, work-injury compensation, retrenchment and lay-off benefits, **VRS payments** and **labour welfare fund**. **Item 12** covers welfare benefits in kind such as canteen, medical, creche, LTC and clothing other than uniforms.
+SC: Payments into funds go in item 11. Benefits in kind go in item 12.
+
+Q: House Rent Allowance (HRA) paid in cash to employees is treated in ASI as part of:
+A) wages and salaries
+B) workmen and staff welfare expenses
+C) supplements to emoluments
+D) operating expenses
+ANS: A
+D: Medium
+P: 185
+EXP: The manual notes that **HRA is part of wages and salaries**. Welfare expenses (item 12) include cheap rations, meals, medical, LTC, children's education allowance and hired buses.
+SC: Cash allowances (HRA, DA) count as wages.
+
+Q: In ASI, "non-manufacturing days" include:
+A) days on which only repair/maintenance and construction work was undertaken, as well as non-working days
+B) Sundays and public holidays when the factory is closed
+C) days of lock-out
+D) days on which the factory produced output
+ANS: A
+D: Medium
+P: 185
+EXP: **Manufacturing days** are days with actual production. **Non-manufacturing days** are days with only repair, maintenance or construction, plus **non-working days**, when the factory or office is open but no work is done because of a lack of materials or power.
+SC: Open but not producing means a non-manufacturing day.
+
+Q: For a factory with status of unit code 2 (existing with assets and staff but not producing), mandays in ASI Block E are reported under:
+A) non-manufacturing days only
+B) manufacturing days only
+C) both, equally split
+D) not reported
+ANS: A
+D: Hard
+P: 185
+EXP: A status-2 unit has no production, so its **mandays go only under non-manufacturing days**.
+SC: No production means no manufacturing days.
+
+Q: In ASI Block E, the "average number of persons worked" is computed as:
+A) total mandays worked ÷ number of working days
+B) total mandays paid ÷ 365
+C) number on rolls on the last day
+D) mandays worked ÷ 12
+ANS: A
+D: Easy
+P: 185
+EXP: **Average persons worked = total mandays worked (column 5) ÷ number of working days (item 13(iii))**.
+SC: Person-days divided by days gives persons.
+
+Q: For workers employed through contractors, the wages recorded in ASI Block E are:
+A) the payment made to these workers; the difference between the payment to the contractor and the workers' payment goes to Block F, item 3
+B) the entire payment made to the contractor
+C) zero
+D) the contractor's profit
+ANS: A
+D: Hard
+P: 186
+EXP: Block E records **what the contract workers actually receive**. The **contractor's margin** (payment to contractor minus workers' dues) goes to **Block F, item 3 (operating expenses)**.
+SC: The workers' share goes in Block E and the contractor's cut goes in Block F-3.
+
+Q: Income tax of employees paid by the factory over and above their salary is treated in ASI as:
+A) part of salaries/wages
+B) operating expenses
+C) excluded
+D) welfare expenses
+ANS: A
+D: Medium
+P: 186
+EXP: The manual says **income tax of employees paid by the owners over and above salary is included in salaries/wages**. Retaining allowances and cash allowances (car maintenance, garden upkeep) are included too.
+SC: Tax paid on the employee's behalf is a perk, so it counts as salary.
+
+@topic Block F: Other Expenses
+Q: Kerosene oil used for cleaning machinery is recorded in ASI under:
+A) repair and maintenance expenditure (Block F, item 2)
+B) consumable stores (Block H)
+C) fuel consumed
+D) operating expenses
+ANS: A
+D: Hard
+P: 187
+EXP: Kerosene used for cleaning machinery **helps keep the machinery in working condition**, so it goes under **repair and maintenance (F-2)**. Consumable stores help production directly.
+SC: If it maintains the fixed assets, it is repair and maintenance. If it aids production, it is stores.
+
+Q: Which of the following is included under "operating expenses" (Block F, item 3) in ASI?
+A) Uniforms provided mandatorily to employees for working hours
+B) Rent paid for buildings
+C) Interest paid on loans
+D) Insurance charges
+ANS: A
+D: Medium
+P: 188
+EXP: Operating expenses (SG&A) include inward freight, rates and taxes (not income tax), communication, audit fees, bank charges, advertising, legal services, consultancy, payments to labour contractors, exchange fluctuation loss, key-man insurance and **mandatory uniforms**. Rent, interest and insurance have **separate items** in Block F.
+SC: Anything without its own item (rent, interest, insurance, R&D) falls into operating expenses.
+
+Q: Legal charges recorded under operating expenses in ASI EXCLUDE:
+A) fees paid to Income Tax/Sales Tax practitioners
+B) stamp papers
+C) legal services rendered to the unit
+D) filing fees
+ANS: A
+D: Hard
+P: 187
+EXP: Fees to **Income Tax/Sales Tax practitioners** are **post-manufacturing expenses** and are excluded from legal charges in operating expenses. Stamp papers and other legal charges are included.
+SC: Tax consultants' fees are post-manufacturing, so they are excluded.
+
+Q: In ASI, labour cost incurred for own construction of fixed assets is recorded in:
+A) Block E (not in Block F, item 4)
+B) Block F, item 4
+C) Block G, item 4
+D) Block C
+ANS: A
+D: Medium
+P: 188
+EXP: **Block F, item 4** records only **raw materials and components** used for own construction. **Labour cost** for own construction goes in **Block E**. Any F-4 entry must have a matching **G-4 (value of own construction)** entry.
+SC: Materials go in F-4, labour goes in E, and output goes in G-4.
+
+Q: Interest paid to partners and proprietors on their capital is:
+A) not included in interest paid (Block F, item 10)
+B) included in interest paid
+C) included in operating expenses
+D) included in rent paid
+ANS: A
+D: Medium
+P: 189
+EXP: Block F-10 includes **all interest paid on loans** of the factory, of any duration. **Interest on partners' or proprietors' capital is excluded**, because it is a return to owners and not a cost.
+SC: Paying interest to yourself is not a cost.
+
+Q: A factory manufacturing cottonseed oil also buys and sells cotton as a subsidiary activity. The purchase value of cotton sold is recorded in:
+A) Block F, item 11 (purchase value of goods sold in the same condition as purchased)
+B) Block H (indigenous inputs)
+C) Block J (products)
+D) Block G, item 1
+ANS: A
+D: Medium
+P: 189
+EXP: Goods **resold without transformation** are recorded at **purchase value in F-11** and at **sale value in G-11**. The **net balance (G-11 − F-11)** is entered in **G-5** and counts in gross output.
+SC: Resold goods: purchase in F-11, sale in G-11, margin in G-5.
+
+Q: Why is "inward transportation cost" (Block F, item 12) NOT added while calculating total input in ASI?
+A) It is already included in operating expenses (F-3) or in the delivered value of raw materials, so adding it would double count
+B) It is not a real cost
+C) It is part of gross output
+D) It is borne by suppliers
+ANS: A
+D: Hard
+P: 189
+EXP: Inward freight is already inside **F-3** or in the **delivered value** of materials in Blocks H/I. **Items 12 and 13 (inward and outward transport)** are collected **separately** only to estimate transport costs explicitly.
+SC: F-12 and F-13 are memo items for measuring transport, not for totals.
+
+@topic Block G: Other Output & Receipts
+Q: Which of the following is EXCLUDED from "receipts from manufacturing services" (Block G, item 1)?
+A) Imputed value of free after-sales services during the warranty period for own products
+B) Job work done for others on their materials
+C) Repair and maintenance of others' machinery
+D) Sale value of waste left by the party
+ANS: A
+D: Medium
+P: 190
+EXP: G-1 covers **job work** and repair services **for others**. It excludes **free warranty service** on own products, repairs to **own** fixed assets, and servicing on own account.
+SC: Only services sold to others count. Free or self-service does not.
+
+Q: For a factory (not an electricity undertaking) that generates and sells electricity, the value of electricity sold is recorded in:
+A) Block G, item 3
+B) Block J
+C) Block H, item 15
+D) Block F, item 11
+ANS: A
+D: Medium
+P: 190
+EXP: Non-electricity factories report electricity sold in **G-3** (book value for sister concerns, market value otherwise). **Electricity undertakings** report electricity generated in **Block J** as their product.
+SC: For a factory, electricity is a side output (G-3). For a power plant it is the main product (J).
+
+Q: The variation in stock of semi-finished goods reported in Block G, item 7 is derived from:
+A) closing minus opening values of semi-finished goods in Block D, item 5
+B) Block C, item 9
+C) Block J, column 5
+D) Block H, item 21
+ANS: A
+D: Medium
+P: 191
+EXP: **G-7 = column 4 − column 3 of D-5** (closing minus opening WIP). It enters gross output as the net value of semi-finished goods.
+SC: The change in WIP (from Block D) feeds output (Block G).
+
+Q: Interest received on fixed deposits of any tenure is recorded in ASI in:
+A) Block G, item 10 (interest received)
+B) Block F, item 10
+C) Block D
+D) excluded
+ANS: A
+D: Medium
+P: 191
+EXP: **All interest received** on loans given by the factory is recorded in **G-10**, including **FD interest**, because FDs of any tenure are now treated as current assets.
+SC: Interest received goes in G-10 and interest paid goes in F-10.
+
+Q: A subsidy received from Government for employing physically handicapped persons or installing pollution control equipment is recorded in ASI as:
+A) other production subsidies (Block G, item 12)
+B) product subsidy in Block J
+C) receipts from non-manufacturing services
+D) reduction in wages
+ANS: A
+D: Medium
+P: 192
+EXP: **Production subsidies** that are not tied to output units (disabled employment, pollution control, worker training) go in **G-12**. **Product subsidies** (per unit of output) go in **Block J**.
+SC: Production subsidy goes in G-12. Product subsidy goes in Block J. This matches the national accounts split.
+
+Q: The sale value of scrap and discarded material is recorded in ASI under:
+A) sale value of goods sold in the same condition as purchased (Block G, item 11)
+B) by-products in Block J
+C) receipts from manufacturing services
+D) other production subsidies
+ANS: A
+D: Hard
+P: 191
+EXP: Scrap and discarded material are **generally not by-products** and are sold as they are, so their sale value may be included in **G-11**.
+SC: Scrap is not a by-product. It is recorded as goods sold in the same condition.
+
+@topic Blocks H, I & J: Inputs and Products
+Q: In a cotton textile mill, yarn produced and then used for making cloth in the same mill is treated in ASI as:
+A) an intermediate product, excluded from inputs consumed
+B) a basic material in Block H
+C) a product in Block J
+D) a consumable store
+ANS: A
+D: Easy
+P: 192
+EXP: Yarn produced and **consumed internally** is an **intermediate product**, so it is excluded from Block H. The same yarn becomes a **final product** in Block J if it is **sold**.
+SC: Made and used inside is intermediate. Made and sold is final.
+
+Q: Inputs in ASI Block H are valued at:
+A) delivered value, i.e., purchase value plus transport, commission and taxes paid
+B) ex-factory value of the supplier
+C) market retail price
+D) cost of production of the supplier
+ANS: A
+D: Easy
+P: 192
+EXP: Inputs are valued at **delivered value**: purchase price + **transport to factory** + purchasing agents' commission + **taxes and duties**. Transfers from sister concerns use book value.
+SC: Inputs are valued at the factory gate, i.e. delivered value.
+
+Q: A cement factory obtains limestone from a leased quarry. The purchase value of limestone for Block H is taken as:
+A) the annual lease money paid plus transport and incidental charges
+B) market price of limestone
+C) zero
+D) royalty only
+ANS: A
+D: Hard
+P: 192
+EXP: For materials that are **not purchased** (for example from leased mines), the purchase value = **cost of production = annual lease money + transport + incidental charges**.
+SC: Self-sourced inputs are valued at the cost of getting them.
+
+Q: If electricity is generated from purchased water, the water is treated in ASI as:
+A) a basic input in Block H (quantity and value)
+B) consumable store
+C) welfare expense
+D) not recorded
+ANS: A
+D: Medium
+P: 193
+EXP: **Purchased water** used to generate electricity is a **basic input** in Block H. Water taken **free from natural sources** is not recorded. **Drinking water** for staff is a **welfare expense** (E-12). Water for washing is a **consumable store** (H-21).
+SC: Classify water by its use: basic input, stores or welfare.
+
+Q: From ASI 2015-16 onwards, items in Blocks H, I and J are classified using:
+A) the revised NPCMS-2011 (7-digit, based on CPC Ver. 2)
+B) NIC-2008 5-digit
+C) HS 8-digit
+D) ASICC
+ANS: A
+D: Easy
+P: 193
+EXP: The **revised NPCMS-2011** is used for input and output items. It is a 7-digit product classification based on **CPC Ver. 2**, with generic (not brand) descriptions.
+SC: Items use NPCMS (products). Units use NIC (industry).
+
+Q: "Additional requirement of electricity (unmet demand)" in ASI Block H is computed as:
+A) total electricity requirement − (own generated + purchased and consumed)
+B) purchased − own generated
+C) own generated × 2
+D) total requirement ÷ purchased
+ANS: A
+D: Medium
+P: 194
+EXP: **Unmet demand = total requirement − (H-15 own generated + H-16 purchased and consumed)**. It is used to estimate production lost because of power shortages.
+SC: Demand minus what was actually available.
+
+Q: If a factory directly imports packing material, it is recorded in:
+A) Block I (imported inputs), not Block H
+B) Block H, item 14
+C) Block F
+D) Block J
+ANS: A
+D: Medium
+P: 194
+EXP: **Any directly imported item**, whether basic material, consumable stores or packing, goes in **Block I**. Block H is for indigenous inputs only.
+SC: If it is imported, it goes in Block I.
+
+Q: In ASI Block J, gross sale value includes:
+A) excise duty/GST paid and distributive expenses like discounts, outward carriage and selling commission
+B) only the net amount received after discounts
+C) only the cost of production
+D) subsidies received
+ANS: A
+D: Medium
+P: 195
+EXP: **Gross sale value** is what is charged to customers, **including GST or excise** and **distributive expenses** (discounts, rebates, outward carriage, selling agents' commission).
+SC: Gross sale value is the full invoice amount including taxes and distribution costs.
+
+Q: Per unit net sale value in ASI Block J is computed as:
+A) [Gross sale value − (GST + other taxes + other distributive expenses − subsidy)] ÷ quantity sold
+B) Gross sale value ÷ quantity manufactured
+C) (Gross sale value + subsidy) ÷ quantity manufactured
+D) Ex-factory value ÷ quantity sold
+ANS: A
+D: Medium
+P: 196
+EXP: Per unit net sale value = **[col 7 − (col 8 + col 9 + col 10 − col 11)] ÷ col 6 (quantity sold)**, to two decimals. **Ex-factory value = per unit NSV × quantity manufactured (col 5)**.
+SC: Remove taxes and distribution costs, add back the subsidy, then divide by quantity sold. Multiply by quantity made for ex-factory value.
+
+Q: A product has gross sale value ₹1,200, GST ₹180, other distributive expenses ₹60, subsidy ₹40, quantity sold 10 units and quantity manufactured 12 units. The ex-factory value of output is:
+A) ₹1,200
+B) ₹1,000
+C) ₹1,440
+D) ₹960
+ANS: A
+T: Numerical
+D: Hard
+P: 196
+EXP: Net sale value = 1,200 − (180 + 60 − 40) = 1,000. Per unit NSV = 1,000 ÷ 10 = ₹100. **Ex-factory value = 100 × 12 (manufactured) = ₹1,200**.
+SC: Price per unit comes from units sold. Value comes from units made.
+
+Q: If a factory produced an item during the year but did not sell any quantity of it, its ex-factory value in Block J is calculated at:
+A) the cost price of producing the item
+B) zero
+C) the last year's sale price
+D) the market price of competitors
+ANS: A
+D: Medium
+P: 197
+EXP: If there were **no sales** of an item produced this year, output is valued **at cost of production**. If the item was **not produced** this year but sold from old stock, its sale value is **not counted**.
+SC: Produced but unsold is valued at cost. Sold but not produced is not counted.
+
+Q: Export insurance charges, if paid, are treated in ASI as:
+A) part of distributive expenses in Block J
+B) insurance charges in Block F, item 5
+C) operating expenses
+D) welfare expenses
+ANS: A
+D: Hard
+P: 196
+EXP: **Export insurance** is part of **distributive expenses (Block J, col 10)**, not the general insurance charges in Block F.
+SC: Insurance on goods sold (in transit or for export) is a distribution cost.
+
+@topic Blocks K, L, Scrutiny & Part-II
+Q: For ICT usage in ASI Block K, "narrowband" Internet access refers to advertised download speeds of less than:
+A) 256 kbit/s
+B) 2 Mbit/s
+C) 64 kbit/s
+D) 10 Mbit/s
+ANS: A
+D: Hard
+P: 198
+EXP: **Narrowband** means below **256 kbit/s** (dial-up, ISDN, slow DSL, GPRS/WAP). **Fixed broadband** means DSL at 256 kbit/s or more, cable, fibre, leased lines and so on. **Mobile broadband** means W-CDMA/UMTS, HSDPA and similar.
+SC: The narrowband/broadband cut-off is 256 kbit/s.
+
+Q: In the ASI scrutiny sheet (Part A), the Scrutinising Officer must ensure that Gross Value Added calculated by the gross sale value approach tallies with GVA calculated by:
+A) the ex-factory value approach
+B) the income approach
+C) the expenditure approach
+D) the input-output approach
+ANS: A
+D: Hard
+P: 199
+EXP: Scrutiny Part A, serial 4: **GVA by the gross sale value approach (serial 9)** must **tally** with **GVA by the ex-factory value approach (serial 14)**.
+SC: Two routes to the same GVA must agree.
+
+Q: Labour Bureau's reports based on ASI Part-II meet India's statutory obligation under Article 11 of Part-II of which ILO Convention?
+A) Convention No. 160 on Labour Statistics, ratified by India on 1.4.1992
+B) Convention No. 81 on Labour Inspection
+C) Convention No. 144 on Tripartite Consultation
+D) Convention No. 138 on Minimum Age
+ANS: A
+D: Hard
+P: 200
+EXP: Labour Bureau reports (2 volumes) on **absenteeism, labour turnover, employment and labour cost** meet **Article 11, Part-II of ILO Convention No. 160 (Labour Statistics)**, which India ratified on **01.04.1992**.
+SC: ILO C-160 is the labour statistics convention.
+
+Q: The scope of ASI Part-II Block 2 (absenteeism and labour turnover) is limited to:
+A) regular workers directly employed (permanent, probationers and temporary)
+B) all workers including casual, badli and contract workers
+C) supervisory staff only
+D) apprentices only
+ANS: A
+D: Medium
+P: 200
+EXP: Block 2 covers **regular workers directly employed**. **Casual, badli (substitute) and contract workers** and **apprentices** are excluded. In tea factories, only regular factory-side workers are covered.
+SC: Absenteeism and turnover are measured for regular direct workers only.
+
+Q: In ASI Part-II, a worker who reports for duty for part of a shift is counted as:
+A) having worked the full shift (not absent)
+B) absent
+C) half present
+D) on leave
+ANS: A
+D: Medium
+P: 201
+EXP: Anyone attending **even part of a shift** counts as having **worked the full shift** and is not absent. The manual's example: 50 reported in the morning and 5 left mid-shift, so attendance is 50.
+SC: Partial attendance counts as full attendance for mandays.
+
+Q: For absenteeism statistics in ASI Part-II, which of the following is NOT counted as absence?
+A) Absence due to strike, lock-out, lay-off or weekly rest
+B) Absence with prior permission
+C) Absence without pay
+D) Absence with pay
+ANS: A
+D: Medium
+P: 202
+EXP: Absence means failing to report when **scheduled to work**, and it **includes** absence with prior permission, with or without pay. **Strikes, lock-outs, lay-offs, weekly rest and suspension are not absence**, because the worker was not scheduled to work.
+SC: Absence counts only if the worker was scheduled to work.
+
+Q: In ASI Part-II, separations due to death or retirement are recorded in column ___ and those due to other causes in column ___.
+A) 8; 9
+B) 9; 8
+C) 7; 8
+D) 5; 6
+ANS: A
+D: Hard
+P: 202
+EXP: **Column 7 = accessions**, **column 8 = separations due to death or retirement**, **column 9 = separations for other reasons** (resignation, dismissal, transfer to another establishment, retrenchment).
+SC: Column 7 is people joining, 8 is natural exits, 9 is all other exits.
+
+@topic General Rules & Head Office
+Q: A jail workshop registered as a factory, whose products are incidental to training of convicts and are not sold, is:
+A) outside the purview of ASI
+B) covered under ASI like any factory
+C) covered under the census scheme
+D) covered only in Part-II
+ANS: A
+D: Medium
+P: 203
+EXP: Workshops in jails and training centres whose products have **no sale value** and are incidental to training are **outside ASI**. The facts are reported to the Statistics Authority. They are covered only if the products are **meant for sale**.
+SC: No sale means no ASI coverage.
+
+Q: If a head office controls factories in different States, its information in ASI is accounted for in:
+A) the return of the factory situated in the same State as the head office
+B) all factories, allocated proportionately
+C) none of the returns
+D) the largest factory, irrespective of State
+ANS: A
+D: Hard
+P: 204
+EXP: Head office data go into **one factory in the same State**. If the HO is **outside the State** of its factories, its data are **not included**. HO data are **never allocated** across units, unless the HO itself distributes expenses, in which case the unit's share goes in Block F.
+SC: The HO goes with a factory in the same State, is never split, and is dropped if it is out of State.
+
+Q: If a factory as a whole has been rented out, the ASI return is filled from the point of view of:
+A) the occupier
+B) the owner
+C) the CIF
+D) the landlord's bank
+ANS: A
+D: Medium
+P: 203
+EXP: If the whole factory is rented out, the return is filled **from the occupier's point of view**. If part is run by the owner and part by the occupier, **one return** covers both.
+SC: Whoever runs production reports it.

@@ -130,7 +130,7 @@ def clean_text(s):
 
 FIXED_TYPES = {"Statement", "Match", "Chronology", "Assertion-Reason"}
 FIXED_WORDS = re.compile(r"\b(above|both|neither|all of|none of|only)\b", re.I)
-NUMERIC = re.compile(r"^[\s~<>≈]*[-+]?[\d.,]+")
+NUMERIC = re.compile(r"^[\s~<>≈₹]*[-+]?[\d.,]+")
 
 
 def shuffle_ok(q):

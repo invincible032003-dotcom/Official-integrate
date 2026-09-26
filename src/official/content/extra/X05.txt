@@ -1,0 +1,427 @@
+@set X05
+@title UPSC+ · Poverty, Inequality, Consumption (HCES) & Development Indices
+@pages Syllabus: Socio-economic indicators
+@desc Poverty-line committees (1962 to Rangarajan), FGT measures, Lorenz/Gini/Palma, MPI (global & NITI national), international poverty line, HCES 2022-23 and 2023-24 design and results, Engel's law, HDI family (IHDI, GDI, GII, MPI), SDG India Index
+
+@topic Poverty Lines in India
+Q: Arrange the following expert groups on poverty estimation in chronological order:
+1. Tendulkar Expert Group
+2. Lakdawala Expert Group
+3. Rangarajan Expert Group
+4. Alagh Task Force
+A) 4-2-1-3
+B) 2-4-1-3
+C) 4-1-2-3
+D) 4-2-3-1
+ANS: A
+T: Chronology
+D: Easy
+EXP: The order is **Alagh (1979) → Lakdawala (1993) → Tendulkar (2009) → Rangarajan (2014)**. A 1962 Working Group had earlier set **₹20 per capita per month** at 1960-61 prices.
+SC: 79 Alagh, 93 Lakdawala, 2009 Tendulkar, 2014 Rangarajan.
+
+Q: The Alagh Task Force (1979) anchored poverty lines to calorie norms of:
+A) 2,400 kcal (rural) and 2,100 kcal (urban) per capita per day
+B) 2,100 kcal (rural) and 2,400 kcal (urban)
+C) 2,250 kcal for both
+D) 1,800 kcal (rural) and 1,600 kcal (urban)
+ANS: A
+D: Medium
+EXP: **Alagh: 2,400 kcal rural, 2,100 kcal urban**, which gave poverty lines of ₹49.09 (rural) and ₹56.64 (urban) at 1973-74 prices. Rural norms are higher because of **heavier manual work**.
+SC: Rural 2,400, urban 2,100: rural work is heavier.
+
+Q: The Lakdawala Expert Group (1993) recommended that State-specific poverty lines be updated using:
+A) CPI-AL for rural areas and CPI-IW for urban areas
+B) WPI for both
+C) CPI (Combined) for both
+D) the GDP deflator
+ANS: A
+D: Medium
+EXP: **Lakdawala** disaggregated to **State-specific** lines, updated with **CPI-AL (rural)** and **CPI-IW (urban)**. That is why CPI-AL is still cited for **rural poverty lines** and CPI-IW for **urban** ones.
+SC: Lakdawala updates rural lines with CPI-AL and urban lines with CPI-IW.
+
+Q: Which of the following statements about the Tendulkar Expert Group is/are correct?
+1. It moved away from calorie anchoring of the poverty line.
+2. It used a uniform poverty line basket (the urban PLB) for rural and urban areas.
+3. It estimated poverty in 2011-12 at 21.9% using its methodology.
+Select the correct answer using the code given below:
+A) 1 and 2 only
+B) 2 and 3 only
+C) 1 and 3 only
+D) 1, 2 and 3
+ANS: D
+T: Statement
+D: Medium
+EXP: All three are correct. **Tendulkar** dropped calorie anchoring, used a **uniform PLB** (the urban 2004-05 basket) on the **MRP** basis, and gave **37.2% (2004-05)** and **21.9% (2011-12)** poverty, with rural 25.7% and urban 13.7%.
+SC: Tendulkar: no calories, one basket, 37.2 → 21.9.
+
+Q: As per the Tendulkar methodology, the poverty lines for 2011-12 were about:
+A) ₹816 (rural) and ₹1,000 (urban) per capita per month
+B) ₹972 (rural) and ₹1,407 (urban) per capita per month
+C) ₹32 (rural) and ₹47 (urban) per capita per day
+D) ₹49 (rural) and ₹57 (urban) per capita per month
+ANS: A
+D: Hard
+EXP: **Tendulkar 2011-12: ₹816 rural, ₹1,000 urban** per month (about ₹27 and ₹33 a day). **Rangarajan 2011-12: ₹972 and ₹1,407** per month (about ₹32 and ₹47 a day).
+SC: Tendulkar 816/1000; Rangarajan 972/1407.
+
+Q: The Rangarajan Expert Group (2014) estimated the poverty ratio in India for 2011-12 at:
+A) 29.5%
+B) 21.9%
+C) 37.2%
+D) 25.7%
+ANS: A
+D: Medium
+EXP: **Rangarajan: 29.5% in 2011-12** (rural 30.9%, urban 26.4%). It used **MMRP** and revived nutrition-based norms (calories, protein, fat) plus non-food essentials. The Government did not formally adopt a newer line.
+SC: Rangarajan 29.5%; Tendulkar 21.9% for the same year.
+
+Q: Which reference period was used by the Rangarajan Expert Group for consumption data?
+A) Modified Mixed Reference Period (MMRP)
+B) Uniform Reference Period (URP)
+C) Mixed Reference Period (MRP)
+D) Current Weekly Status
+ANS: A
+D: Medium
+EXP: **Rangarajan used MMRP**. **Tendulkar used MRP**, and earlier estimates (Lakdawala) used **URP**. MMRP gives **higher MPCE** for the same households.
+SC: URP is Lakdawala's, MRP Tendulkar's, MMRP Rangarajan's.
+
+@topic Poverty & Inequality Measures
+Q: In the Foster-Greer-Thorbecke (FGT) class of poverty measures, α = 0, 1 and 2 correspond respectively to:
+A) headcount ratio, poverty gap index, squared poverty gap (severity)
+B) poverty gap, headcount, Sen index
+C) Gini, Theil, Atkinson
+D) squared poverty gap, poverty gap, headcount ratio
+ANS: A
+D: Medium
+EXP: **FGT(α)**: **α = 0 is the headcount ratio** (incidence); **α = 1 is the poverty gap index** (depth); **α = 2 is the squared poverty gap** (severity, weighting the poorest more).
+SC: α = 0 incidence, 1 depth, 2 severity.
+
+Q: A limitation of the headcount ratio as a poverty measure is that it:
+A) is insensitive to how far below the poverty line the poor are
+B) cannot be computed from survey data
+C) always overstates poverty
+D) requires a price index
+ANS: A
+T: Conceptual
+D: Medium
+EXP: The **headcount ratio** counts the poor but ignores **depth**. A transfer from a very poor person to one just below the line can even **reduce** it. The **poverty gap** and **squared gap** address this.
+SC: Headcount counts the poor but ignores how poor they are.
+
+Q: The Gini coefficient derived from a Lorenz curve is equal to:
+A) the area between the line of equality and the Lorenz curve divided by the total area under the line of equality
+B) the area under the Lorenz curve
+C) the slope of the Lorenz curve at the median
+D) the ratio of the top 10% share to the bottom 40% share
+ANS: A
+D: Medium
+EXP: **Gini = A/(A + B)**, where A is the area between the diagonal and the Lorenz curve. Equivalently **Gini = 1 − 2 × (area under Lorenz)**. The **Palma ratio** is the **top 10% ÷ bottom 40%** share.
+SC: Gini = gap area ÷ half-square = 1 − 2 × area under the Lorenz curve.
+
+Q: If the area under a Lorenz curve (in the unit square) is 0.35, the Gini coefficient is:
+A) 0.30
+B) 0.35
+C) 0.65
+D) 0.70
+ANS: A
+T: Numerical
+D: Medium
+EXP: **Gini = 1 − 2 × 0.35 = 0.30**. With perfect equality the area is 0.5 and the Gini is 0.
+SC: Gini = 1 − 2 × area.
+
+Q: The Gini coefficient lies between:
+A) 0 (perfect equality) and 1 (perfect inequality)
+B) −1 and +1
+C) 0 and 100, with 0 meaning perfect inequality
+D) 1 and infinity
+ANS: A
+D: Easy
+EXP: The Gini runs from **0 (all equal)** to **1 (one person has everything)**. It is often reported as ×100.
+SC: 0 means equal; 1 means one person has everything.
+
+Q: The Palma ratio measures inequality as:
+A) the income share of the top 10% divided by that of the bottom 40%
+B) the share of the top 20% divided by the bottom 20%
+C) the difference between mean and median income
+D) the Gini coefficient times 100
+ANS: A
+D: Medium
+EXP: The **Palma ratio** is **top 10% ÷ bottom 40%**, reflecting the observation that the middle 50% tends to keep a stable share. The **S80/S20** ratio compares the top and bottom quintiles.
+SC: Palma = top 10 ÷ bottom 40.
+
+@topic Multidimensional Poverty
+Q: The global Multidimensional Poverty Index (MPI) is jointly produced by:
+A) UNDP and the Oxford Poverty and Human Development Initiative (OPHI)
+B) World Bank and IMF
+C) NITI Aayog and UNICEF
+D) FAO and WFP
+ANS: A
+D: Easy
+EXP: The **Global MPI** (since the **2010** HDR) is produced by **UNDP and OPHI**. It uses the **Alkire-Foster** method and replaced the **Human Poverty Index**.
+SC: The Global MPI comes from UNDP and OPHI, using Alkire-Foster.
+
+Q: In the MPI, the index is computed as:
+A) MPI = H × A, where H is the headcount of the multidimensionally poor and A is the average intensity of their deprivation
+B) MPI = H + A
+C) MPI = H / A
+D) MPI = geometric mean of the three dimension indices
+ANS: A
+D: Medium
+EXP: **MPI = H × A**. A person is **poor if deprived in at least 1/3 of the weighted indicators**. Health, education and living standards carry **equal weights (1/3 each)**.
+SC: MPI = incidence × intensity; poor if deprived in at least a third.
+
+Q: Compared with the 10 indicators of the global MPI, India's National MPI (NITI Aayog) adds which two indicators?
+A) Maternal health and bank account
+B) Child labour and crime
+C) Internet access and electricity
+D) Income and employment
+ANS: A
+D: Medium
+EXP: The **National MPI** has **12 indicators**. It adds **maternal health** (under health) and **bank account** (under living standards) to the global 10. It uses **NFHS** data.
+SC: National MPI = global 10 + maternal health + bank account.
+
+Q: As per NITI Aayog's National MPI progress review (2023), the share of the multidimensionally poor in India fell between NFHS-4 (2015-16) and NFHS-5 (2019-21) from:
+A) 24.85% to 14.96%, lifting about 13.5 crore people out of poverty
+B) 37.2% to 21.9%
+C) 29.5% to 21.9%
+D) 55% to 28%
+ANS: A
+D: Hard
+EXP: **National MPI headcount: 24.85% → 14.96%**, with about **13.5 crore** people exiting multidimensional poverty. A **2024 NITI discussion paper** estimated a fall from about 29% (2013-14) to about 11% (2022-23).
+SC: National MPI: about 25% to 15%, 13.5 crore people out.
+
+Q: The Human Poverty Index was replaced in UNDP's Human Development Report by the MPI in:
+A) 2010
+B) 1997
+C) 2000
+D) 2015
+ANS: A
+D: Medium
+EXP: The **2010 HDR** (20th anniversary) introduced the **MPI, IHDI and GII**, replacing the **HPI (1997)** and **GEM**.
+SC: HDR 2010 brought in the MPI, IHDI and GII.
+
+Q: The World Bank's international extreme poverty line, which was USD 2.15 a day at 2017 PPPs, was revised in 2025 (using 2021 PPPs) to:
+A) USD 3.00 a day
+B) USD 1.90 a day
+C) USD 2.50 a day
+D) USD 5.50 a day
+ANS: A
+D: Hard
+EXP: The extreme poverty line has moved **USD 1.90 (2011 PPP) → USD 2.15 (2017 PPP, from 2022) → USD 3.00 (2021 PPP, June 2025 update)**. Poverty comparisons shift with each **ICP round**.
+SC: USD 1.90 → USD 2.15 → USD 3.00, following each new PPP round.
+
+@topic Household Consumption Expenditure Survey
+Q: The Household Consumption Expenditure Survey (HCES) 2022-23 collected data using:
+A) three separate questionnaires (food; consumables & services; durable goods) canvassed in three monthly visits
+B) a single schedule canvassed in one visit
+C) telephonic interviews only
+D) administrative data from GST
+ANS: A
+D: Medium
+EXP: **HCES 2022-23** (August 2022 – July 2023) used **three questionnaires**: **FDQ** (food), **CSQ** (consumables & services) and **DGQ** (durable goods). Each was canvassed in a **separate monthly visit** to the same household, on the **MMRP** basis. Items received free through welfare schemes were **imputed** in a separate estimate.
+SC: HCES 2022-23 used three questionnaires in three visits with MMRP.
+
+Q: As per HCES 2022-23, the average monthly per capita consumption expenditure (MPCE, without imputation) was about:
+A) ₹3,773 in rural and ₹6,459 in urban India
+B) ₹1,430 in rural and ₹2,630 in urban India
+C) ₹4,122 in rural and ₹6,996 in urban India
+D) ₹2,500 in rural and ₹5,000 in urban India
+ANS: A
+D: Hard
+EXP: The MPCE figures are **HCES 2022-23: rural ₹3,773, urban ₹6,459**; **HCES 2023-24: rural ₹4,122, urban ₹6,996**; **2011-12 (MMRP): rural ₹1,430, urban ₹2,630**. The urban-rural gap narrowed from **84% (2011-12)** to **71% (2022-23)** and **70% (2023-24)**.
+SC: 2022-23: 3.8k rural / 6.5k urban; 2023-24: 4.1k / 7.0k.
+
+Q: The HCES results for 2022-23 showed that the share of food in total consumption expenditure was:
+A) below 50% in both rural and urban areas
+B) above 60% in rural areas
+C) higher in urban than in rural areas
+D) exactly 50% in both areas
+ANS: A
+D: Medium
+EXP: The food share fell to about **46% (rural)** and **39% (urban)**. The rural share stayed above the urban share, consistent with **Engel's law**. Within food, **beverages and processed food** took a rising share.
+SC: Food fell below half the budget, lower in urban areas.
+
+Q: Engel's law states that as household income rises:
+A) the proportion of income spent on food falls, although absolute food spending may rise
+B) absolute spending on food falls
+C) the proportion of income spent on food rises
+D) the proportion spent on all goods remains constant
+ANS: A
+D: Easy
+EXP: **Engel's law**: the **food share (Engel ratio)** falls as income rises, and the **income elasticity of food demand is below 1**. The falling food share in HCES is consistent with rising living standards.
+SC: The richer the household, the smaller its food share.
+
+Q: Why was the NSS Consumer Expenditure Survey of 2017-18 not released?
+A) The Government cited data quality concerns, including divergence from administrative data, and decided to improve survey methodology
+B) The fieldwork was never started
+C) It was merged into the Population Census
+D) The data were released only to the RBI
+ANS: A
+D: Medium
+EXP: The **2017-18 CES (NSS 75th round)** results were **withheld in 2019** over **data-quality concerns**. The next full survey was the redesigned **HCES 2022-23**.
+SC: The 2017-18 CES was withheld; HCES 2022-23 was the redesigned successor.
+
+Q: Consumption rather than income is generally used for measuring poverty in India because:
+A) consumption is more stable and more reliably reported than income, particularly for self-employed and agricultural households
+B) income data are illegal to collect
+C) consumption is always higher than income
+D) the Constitution requires it
+ANS: A
+T: Conceptual
+D: Medium
+EXP: **Consumption** is **smoother** (households smooth it over the year) and **better reported**, while incomes of the self-employed and farmers are **volatile** and under-reported. Poverty lines are therefore consumption-based.
+SC: Consumption is smooth and well reported; income is volatile.
+
+@topic Development Indices
+Q: The first Human Development Report was published by UNDP in:
+A) 1990
+B) 1985
+C) 1995
+D) 2000
+ANS: A
+D: Easy
+EXP: The first **HDR (1990)** was led by **Mahbub ul Haq** with **Amartya Sen's** capability approach. It introduced the **HDI**.
+SC: HDR began in 1990, led by Mahbub ul Haq.
+
+Q: In the HDI, the education dimension is measured by:
+A) mean years of schooling (adults 25+) and expected years of schooling (children of school-entry age)
+B) literacy rate and gross enrolment ratio
+C) GER and NER
+D) number of schools per lakh population
+ANS: A
+D: Medium
+EXP: Since **2010**, the HDI uses **mean years of schooling (25+)** and **expected years of schooling**. It earlier used **adult literacy and combined GER**. Health uses **life expectancy at birth**; income uses **GNI per capita (PPP, log)**.
+SC: HDI education = mean + expected years of schooling (since 2010).
+
+Q: Since 2010, the three HDI dimension indices are combined using:
+A) the geometric mean
+B) the arithmetic mean
+C) the harmonic mean
+D) the median
+ANS: A
+D: Medium
+EXP: The **geometric mean** (since 2010) means poor performance in one dimension is **not fully offset** by others. Earlier HDRs used the **arithmetic mean**.
+SC: The GM stops strength in one dimension from masking weakness in another.
+
+Q: With an HDI value of about 0.68, India falls in which UNDP human development category?
+A) Medium human development
+B) Low human development
+C) High human development
+D) Very high human development
+ANS: A
+D: Medium
+EXP: UNDP categories: **very high ≥ 0.800**, **high 0.700-0.799**, **medium 0.550-0.699**, **low < 0.550**. India is in the **medium** group.
+SC: 0.55-0.70 is medium.
+
+Q: The Inequality-adjusted HDI (IHDI) will equal the HDI when:
+A) there is no inequality in the distribution of achievements across people
+B) the HDI is above 0.8
+C) the GII is zero
+D) income is the only dimension
+ANS: A
+D: Medium
+EXP: The **IHDI** discounts each dimension by its **inequality (Atkinson measure)**. With **perfect equality, IHDI = HDI**. The gap measures the **loss due to inequality**.
+SC: No inequality means IHDI = HDI.
+
+Q: The SDG India Index, prepared by NITI Aayog since 2018, classifies States with a composite score of 65-99 as:
+A) Front Runner
+B) Achiever
+C) Performer
+D) Aspirant
+ANS: A
+D: Medium
+EXP: The categories are **Aspirant (0-49)**, **Performer (50-64)**, **Front Runner (65-99)** and **Achiever (100)**. India's composite score rose to **71** in the 2023-24 edition, with Kerala and Uttarakhand at the top.
+SC: Aspirant < 50, Performer 50-64, Front Runner 65-99, Achiever 100.
+
+Q: The Physical Quality of Life Index (PQLI), developed by Morris D. Morris, uses which indicators?
+A) Literacy rate, infant mortality rate and life expectancy at age one
+B) Life expectancy at birth, GNI per capita and schooling
+C) IMR, MMR and literacy
+D) GDP per capita, literacy and life expectancy
+ANS: A
+D: Easy
+EXP: **PQLI** combines **literacy**, **IMR** and **life expectancy at age 1**, each scaled 0-100 and averaged. It deliberately **excludes income**.
+SC: PQLI = literacy + IMR + LE at age 1, with no income.
+
+@topic Concepts & Numericals
+Q: In a village of 1,000 persons, 200 are below the poverty line. The average shortfall of their consumption from the poverty line is 25% of the line. The poverty gap index is:
+A) 0.05
+B) 0.20
+C) 0.25
+D) 0.45
+ANS: A
+T: Numerical
+D: Hard
+EXP: **PGI = H × (average gap ratio among the poor) = 0.20 × 0.25 = 0.05**. Equivalently, it is the mean over the **whole population** of the normalised shortfall, counting zero for the non-poor.
+SC: Poverty gap = headcount × average relative gap.
+
+Q: Assertion (A): The poverty gap index can decline even if the headcount ratio remains unchanged.
+Reason (R): The poverty gap index is sensitive to changes in the consumption of the poor below the poverty line.
+A) Both A and R are true, and R is the correct explanation of A
+B) Both A and R are true, but R is not the correct explanation of A
+C) A is true, but R is false
+D) A is false, but R is true
+ANS: A
+T: Assertion-Reason
+D: Medium
+EXP: If the poor gain but **stay below the line**, **H is unchanged** while the **gap shrinks**, so the PGI falls. The sensitivity in R is exactly why A holds.
+SC: Depth can improve without the headcount moving.
+
+Q: The Lorenz curve plots:
+A) the cumulative percentage of population (from poorest) against the cumulative percentage of income or consumption
+B) income against time
+C) the poverty line against price index
+D) mean income against median income
+ANS: A
+D: Easy
+EXP: The **Lorenz curve** puts the **cumulative population share** (x-axis, ranked poorest first) against the **cumulative income share** (y-axis). The further it bows from the diagonal, the greater the inequality.
+SC: The more the Lorenz curve bows, the more unequal.
+
+Q: The Kuznets curve hypothesis relates:
+A) income inequality to per capita income, suggesting inequality first rises and then falls with development
+B) pollution to income, suggesting it always rises
+C) poverty to inflation
+D) unemployment to inflation
+ANS: A
+D: Medium
+EXP: The **Kuznets curve** is an **inverted U**: **inequality rises, then falls** as per capita income grows. The **Environmental Kuznets Curve** applies the same idea to pollution. The unemployment-inflation link is the Phillips curve.
+SC: Kuznets: inequality traces an inverted U against development.
+
+Q: Which poverty measure satisfies the "transfer principle", rising when income is transferred from a poorer to a less poor person below the line?
+A) Squared poverty gap index (FGT α = 2)
+B) Headcount ratio
+C) Poverty gap index
+D) Number of poor
+ANS: A
+D: Hard
+EXP: **FGT α = 2 (severity)** gives more weight to the **poorest**, so a regressive transfer among the poor **raises** it. The **poverty gap (α = 1)** is unchanged by such transfers, and the **headcount** may even fall.
+SC: Only the squared gap penalises transfers away from the poorest.
+
+Q: The Tendulkar methodology estimated India's poverty ratio for 2004-05 at:
+A) 37.2%
+B) 27.5%
+C) 21.9%
+D) 29.8%
+ANS: A
+D: Medium
+EXP: **Tendulkar: 37.2% (2004-05)**, **29.8% (2009-10)** and **21.9% (2011-12)**. The Lakdawala method gave **27.5%** for 2004-05.
+SC: Tendulkar: 37.2 → 29.8 → 21.9.
+
+Q: The urban-rural gap in average MPCE (urban MPCE relative to rural) narrowed from about 84% in 2011-12 to about:
+A) 70-71% in 2022-24
+B) 100% in 2022-24
+C) 40% in 2022-24
+D) It widened to 95%
+ANS: A
+D: Medium
+EXP: The gap was **2011-12: 84%**, **2022-23: 71%** and **2023-24: 70%**, meaning **rural consumption grew faster**.
+SC: The urban-rural consumption gap shrank from 84% to about 70%.
+
+Q: Which of the following is NOT an indicator in the global MPI?
+A) Income below USD 3 per day
+B) Nutrition
+C) Years of schooling
+D) Cooking fuel
+ANS: A
+T: Odd-one-out
+D: Easy
+EXP: The **MPI is non-monetary**. Its 10 indicators are **nutrition, child mortality, years of schooling, school attendance, cooking fuel, sanitation, drinking water, electricity, housing and assets**. Income poverty is measured separately.
+SC: The MPI contains no income indicator.

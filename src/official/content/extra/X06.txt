@@ -1,0 +1,439 @@
+@set X06
+@title UPSC+ · Population Census 2011, Census 2027 & Demographic Measures
+@pages Syllabus: Population census – need, data, periodicity, methods, agencies
+@desc Census 2011 headline results, urban definitions (statutory/census towns, UAs), workers (main/marginal), SC/ST shares, State extremes; Census 2011 schedule; Census 2027 (reference dates, digital, caste); TFR/GRR/NRR, dependency ratio, growth and doubling time, population projections
+
+@topic Census 2011: Headline Results
+Q: As per Census 2011, the population of India was about:
+A) 121.09 crore
+B) 102.87 crore
+C) 131.10 crore
+D) 118.20 crore
+ANS: A
+D: Easy
+EXP: Census 2011 counted **121.09 crore** people (males 62.32 crore, females 58.75 crore). **102.87 crore** was the **2001** count.
+SC: 2011: about 121 crore; 2001: about 103 crore.
+
+Q: The decadal growth rate of India's population during 2001-2011 was about:
+A) 17.7%
+B) 21.5%
+C) 23.9%
+D) 12.3%
+ANS: A
+D: Medium
+EXP: The decadal growth rate was **17.7% (2001-11)**, down from **21.5% (1991-2001)**. 2001-11 was the first decade since 1911-21 in which the absolute addition was lower than in the previous decade.
+SC: Growth slowed from 21.5% to 17.7%.
+
+Q: As per Census 2011, the population density of India was:
+A) 382 persons per sq km
+B) 325 persons per sq km
+C) 267 persons per sq km
+D) 420 persons per sq km
+ANS: A
+D: Medium
+EXP: Density was **382 per sq km (2011)**, up from **325 (2001)**. The most dense State was **Bihar (1,106)** and the least **Arunachal Pradesh (17)**. Among UTs, **Delhi** was the most dense.
+SC: 382 nationally; Bihar highest, Arunachal lowest.
+
+Q: As per Census 2011, the overall sex ratio and child sex ratio (0-6 years) of India were respectively:
+A) 943 and 918
+B) 933 and 927
+C) 940 and 914
+D) 918 and 943
+ANS: A
+D: Easy
+EXP: **2011: sex ratio 943, CSR 918**. **2001: 933 and 927**. The sex ratio improved while the CSR worsened.
+SC: 2011: 943 overall, 918 for children.
+
+Q: As per Census 2011, which State had the highest sex ratio and which had the lowest?
+A) Kerala (1084) highest; Haryana (879) lowest
+B) Tamil Nadu highest; Punjab lowest
+C) Kerala highest; Bihar lowest
+D) Puducherry highest; Daman & Diu lowest (among States)
+ANS: A
+D: Medium
+EXP: Among **States**: **Kerala 1084** was highest and **Haryana 879** lowest. Among **UTs**: **Puducherry 1037** was highest and **Daman & Diu 618** lowest. The lowest **child** sex ratio was also **Haryana (834)**.
+SC: Kerala tops the sex ratio; Haryana is lowest for both overall and child sex ratio.
+
+Q: As per Census 2011, the effective literacy rate of India was about:
+A) 74.04% (male 82.14%, female 65.46%)
+B) 64.8% (male 75.3%, female 53.7%)
+C) 80.0% (male 85%, female 75%)
+D) 69.3% (male 78.8%, female 59.3%)
+ANS: A
+D: Easy
+EXP: **2011: 74.04%** (M 82.14, F 65.46). **2001: 64.84%** (M 75.26, F 53.67). The State extremes were **Kerala about 94%** (highest) and **Bihar about 61.8%** (lowest).
+SC: 74-82-65 in 2011; Kerala top, Bihar bottom.
+
+Q: As per Census 2011, the percentage of urban population in India was about:
+A) 31%
+B) 28%
+C) 35%
+D) 40%
+ANS: A
+D: Easy
+EXP: The urban share was **about 31% (37.7 crore)** in 2011, up from **27.8% in 2001**. For the first time, the **absolute increase** in urban population exceeded that in rural population.
+SC: About 31% urban in 2011.
+
+Q: As per Census 2011, Scheduled Castes and Scheduled Tribes constituted about what share of India's population?
+A) SC 16.6%, ST 8.6%
+B) SC 8.6%, ST 16.6%
+C) SC 20.1%, ST 10.4%
+D) SC 15.0%, ST 7.5%
+ANS: A
+D: Medium
+EXP: **SC 16.6% (20.14 crore)**, **ST 8.6% (10.43 crore)**. The largest ST populations are in **Madhya Pradesh** (numbers) and **Mizoram/Lakshadweep** (shares).
+SC: SC 16.6, ST 8.6.
+
+Q: The most populous and the least populous States as per Census 2011 were respectively:
+A) Uttar Pradesh and Sikkim
+B) Maharashtra and Goa
+C) Uttar Pradesh and Goa
+D) Bihar and Sikkim
+ANS: A
+D: Easy
+EXP: **Uttar Pradesh** had about **19.98 crore (16.5%)** and **Sikkim** about **6.1 lakh**. Maharashtra was second largest.
+SC: UP is the largest State, Sikkim the smallest.
+
+Q: The Work Participation Rate (WPR) as per Census 2011 was about:
+A) 39.8% (male 53.3%, female 25.5%)
+B) 50.9%
+C) 25.5% overall
+D) 60.1%
+ANS: A
+D: Hard
+EXP: The **Census WPR** is total workers (main + marginal) ÷ population = **39.8%**, with **female 25.5%**. It uses the **total population** as denominator, unlike PLFS's 15+ figures.
+SC: Census 2011 WPR: about 40% overall, 25.5% for females.
+
+@topic Census Concepts & Operations
+Q: In the Census, a "main worker" is one who has worked for:
+A) 6 months (183 days) or more during the reference year
+B) 30 days or more during the last 365 days
+C) at least one hour on any day of the reference week
+D) the majority of the last 7 days
+ANS: A
+D: Medium
+EXP: Census workers are **main workers (≥ 6 months, 183 days)** or **marginal workers (< 6 months)**. Marginal workers are further split into **3-6 months** and **< 3 months**. Distractors B and C are **PLFS** concepts (ss and CWS).
+SC: Census main worker ≥ 183 days; marginal < 183 days.
+
+Q: A "Census Town" in the 2011 Census must satisfy which criteria?
+1. A minimum population of 5,000
+2. At least 75% of the male main working population engaged in non-agricultural pursuits
+3. A density of at least 400 persons per sq km
+4. A municipality or cantonment board
+Select the correct answer using the code given below:
+A) 1, 2 and 3 only
+B) 1 and 4 only
+C) 2, 3 and 4 only
+D) 1, 2, 3 and 4
+ANS: A
+T: Statement
+D: Medium
+EXP: A **Census Town** needs all three criteria: **5,000+ population**, **75%+ male main workers in non-agriculture** and **400+ per sq km**. Places with a **municipality, corporation, cantonment board or notified town area** are **statutory towns**, whatever their size.
+SC: Census town = 5,000 people, 75% non-farm, 400 per sq km, with no municipal status.
+
+Q: As per Census 2011, the number of towns in India was 7,935. Of these, the numbers of statutory towns and census towns were respectively:
+A) 4,041 and 3,894
+B) 3,894 and 4,041
+C) 5,161 and 2,774
+D) 3,799 and 4,136
+ANS: A
+D: Hard
+EXP: Census 2011 had **4,041 statutory towns** and **3,894 census towns**. Census towns grew sharply from **1,362 in 2001**. There were **6,40,867 villages**.
+SC: 4,041 statutory + 3,894 census = 7,935 towns.
+
+Q: As per Census 2011, the number of million-plus cities / urban agglomerations in India was:
+A) 53
+B) 35
+C) 23
+D) 75
+ANS: A
+D: Medium
+EXP: There were **53 million-plus UAs/cities in 2011**, up from **35 in 2001**. Greater **Mumbai UA** was the largest, followed by **Delhi UA** and **Kolkata UA**.
+SC: 35 million-plus cities in 2001, 53 in 2011.
+
+Q: The reference date for Census 2011 population enumeration was:
+A) 00:00 hours of 1 March 2011
+B) 1 January 2011
+C) 00:00 hours of 9 February 2011
+D) 31 March 2011
+ANS: A
+D: Medium
+EXP: Enumeration ran **9-28 February 2011**, with a **revisional round** in early March. The reference moment was **00:00 hrs, 1 March 2011**. Snow-bound areas used **1 October 2010**. Houselisting took place **April-September 2010**.
+SC: Enumeration in February; reference moment 00:00 on 1 March.
+
+Q: Which of the following was introduced for the first time in the 2011 Census?
+A) Preparation of the National Population Register along with the Houselisting operations
+B) Counting of Scheduled Castes
+C) Use of the canvasser method
+D) Enumeration of literacy
+ANS: A
+D: Medium
+EXP: **Census 2011** collected **NPR** schedules during **Houselisting** (2010), for the first time. SC enumeration, the canvasser method and literacy questions are all old. The tagline was **"Our Census, Our Future"**.
+SC: The NPR first came with Census 2011 houselisting.
+
+Q: Which of the following is NOT a statutory basis or feature of the Population Census in India?
+A) It is conducted under the Collection of Statistics Act, 2008
+B) It is conducted under the Census Act, 1948
+C) Individual data collected are confidential under the Census Act
+D) It is conducted by the Registrar General & Census Commissioner, MHA
+ANS: A
+T: Odd-one-out
+D: Medium
+EXP: The **Census** runs under the **Census Act 1948** and **Census Rules 1990**, which include **confidentiality** (Section 15). The **CoS Act 2008** governs other statistical surveys such as the ASI.
+SC: The Census has its own Act (1948); the CoS Act covers other surveys.
+
+@topic Census 2027
+Q: The next Population Census of India, notified in 2025, has a reference date for most of the country of:
+A) 00:00 hours of 1 March 2027
+B) 1 March 2026
+C) 1 October 2025
+D) 1 January 2028
+ANS: A
+D: Medium
+EXP: The **Census 2027** reference date is **00:00 hrs, 1 March 2027**. The **snow-bound areas** (Ladakh, J&K, Himachal Pradesh, Uttarakhand) use **00:00 hrs, 1 October 2026**. Houselisting precedes enumeration, beginning in 2026.
+SC: Census 2027: 1 March 2027, or 1 October 2026 for snow-bound areas.
+
+Q: Which of the following are features of Census 2027 as announced?
+1. It is to be conducted digitally, using mobile applications
+2. It includes enumeration of castes
+3. It is conducted under the Collection of Statistics Act, 2008
+Select the correct answer using the code given below:
+A) 1 and 2 only
+B) 2 and 3 only
+C) 1 only
+D) 1, 2 and 3
+ANS: A
+T: Statement
+D: Medium
+EXP: **Census 2027** is to be the first **digital census**, with data collected on mobile apps and a **self-enumeration** option. It includes **caste enumeration** for the first time since 1931 (beyond SC/ST). It is conducted under the **Census Act 1948**, not the CoS Act.
+SC: Census 2027 is digital and includes caste, under the Census Act.
+
+Q: Census 2027 will be the:
+A) 16th Census of India counting from 1872, and the 8th after Independence
+B) 15th Census counting from 1872
+C) 17th Census and the 9th after Independence
+D) first Census after Independence to use the canvasser method
+ANS: A
+D: Medium
+EXP: 2011 was the **15th census (7th after Independence)**. The postponed 2021 round becomes **Census 2027**, the **16th** (8th after Independence).
+SC: 2011 = 15th, so the 2027 census is the 16th.
+
+@topic Demographic Measures
+Q: The Total Fertility Rate (TFR), using five-year age groups, is computed as:
+A) 5 × Σ ASFR (per woman), summed over ages 15-49
+B) Σ ASFR over single years × 1000
+C) live births ÷ women 15-49 × 1000
+D) CBR × 5
+ANS: A
+D: Medium
+EXP: **TFR = 5 × Σ ASFR** (ASFR per woman, 5-year groups 15-19 to 45-49). It is the number of children a woman would bear at current rates. **GFR** = births ÷ women 15-49 × 1000.
+SC: TFR = 5 × the sum of 5-year ASFRs.
+
+Q: The Gross Reproduction Rate (GRR) differs from the TFR in that the GRR:
+A) counts only female births
+B) accounts for mortality of mothers
+C) uses married women only
+D) is measured per 1,000 population
+ANS: A
+D: Medium
+EXP: **GRR = TFR × proportion of female births** (about 0.488). The **NRR** additionally adjusts for **female survival** to childbearing ages. **NRR = 1** is **replacement level**.
+SC: GRR counts daughters; NRR counts surviving daughters.
+
+Q: A Net Reproduction Rate (NRR) of 1 implies that:
+A) each generation of women exactly replaces itself
+B) population will double in one generation
+C) TFR equals 1
+D) population is declining
+ANS: A
+D: Easy
+EXP: **NRR = 1** means **replacement fertility**. It corresponds to **TFR of about 2.1** in low-mortality populations. The **National Population Policy 2000** aimed at NRR = 1 (TFR 2.1).
+SC: NRR 1 means each mother is replaced by one daughter.
+
+Q: Why is replacement-level TFR about 2.1 rather than exactly 2.0?
+A) Because slightly more boys than girls are born and some girls die before reaching reproductive age
+B) Because of migration
+C) Because of multiple births
+D) Because TFR is measured per 1,000 women
+ANS: A
+T: Conceptual
+D: Medium
+EXP: A **sex ratio at birth** above parity (about 105 boys per 100 girls) and **female mortality** before and during the reproductive ages push replacement above 2. It is about **2.1** where mortality is low and higher where mortality is high.
+SC: Extra boys and female deaths push replacement above 2.
+
+Q: The dependency ratio is defined as:
+A) (population aged 0-14 + population aged 65+) ÷ population aged 15-64 × 100
+B) population aged 15-64 ÷ total population
+C) workers ÷ non-workers
+D) population aged 65+ ÷ population aged 0-14
+ANS: A
+D: Easy
+EXP: The **total dependency ratio** is **(young + old) ÷ working-age population**. Indian publications often use **0-14, 60+ and 15-59**. The **ageing index** is old ÷ young.
+SC: Dependency = (young + old) ÷ working age.
+
+Q: A population grows at a constant annual rate of 2%. Its approximate doubling time is:
+A) 35 years
+B) 50 years
+C) 20 years
+D) 70 years
+ANS: A
+T: Numerical
+D: Easy
+EXP: By the **rule of 70**, doubling time ≈ **70 ÷ 2 = 35 years**. Exactly, it is ln 2/r = 0.693/0.02 ≈ 34.7.
+SC: Doubling time = 70 ÷ growth %.
+
+Q: Population was 100 crore in year t and 121 crore in year t + 10. The average annual exponential growth rate is about:
+A) 1.9%
+B) 2.1%
+C) 1.2%
+D) 2.4%
+ANS: A
+T: Numerical
+D: Hard
+EXP: **r = ln(121/100)/10 = ln(1.21)/10 = 0.1906/10 ≈ 1.9%**. The simple average of 21%/10 = 2.1% overstates the compound rate.
+SC: Exponential r = ln(P2/P1) ÷ years.
+
+Q: The "demographic dividend" refers to:
+A) the growth potential arising when the share of the working-age population rises relative to dependants
+B) the revenue from a population tax
+C) the decline in population after replacement fertility
+D) the benefit from emigration
+ANS: A
+T: Conceptual
+D: Easy
+EXP: A **falling dependency ratio** (fewer children per worker as fertility declines) creates a **window** for faster growth, provided the extra workers are **employed and productive**.
+SC: More workers per dependant opens a demographic window.
+
+@topic Projections & Global Comparisons
+Q: According to the UN (World Population Prospects), India overtook China as the world's most populous country in:
+A) 2023
+B) 2011
+C) 2030
+D) 2020
+ANS: A
+D: Easy
+EXP: The **UN DESA** estimated India overtook China around **April 2023**. China's population had begun **declining** in 2022.
+SC: India became the most populous country in 2023.
+
+Q: As per the Report of the Technical Group on Population Projections (2020), India's population is projected to reach about what size by 2036?
+A) 152 crore
+B) 170 crore
+C) 140 crore
+D) 130 crore
+ANS: A
+D: Hard
+EXP: The **Technical Group (National Commission on Population)** projected India's population to rise from **121.1 crore (2011)** to about **152.2 crore (2036)**. It used the **cohort component method**, with **Census 2011 + SRS** inputs.
+SC: Projection: about 152 crore by 2036.
+
+Q: The cohort component method of population projection projects each age-sex cohort using:
+A) fertility, mortality and migration assumptions
+B) a fitted logistic curve to total population
+C) linear extrapolation of total population
+D) administrative Aadhaar enrolment counts
+ANS: A
+D: Easy
+EXP: The **cohort component** method ages each cohort forward, applies **survival rates**, adds **births** (from ASFRs) and adjusts for **migration**. **Mathematical** methods (linear, exponential, logistic) are used for small units.
+SC: Cohort method = births + deaths + migration, cohort by cohort.
+
+@topic Mixed Census Items
+Q: Which State had the highest literacy rate and which had the lowest as per Census 2011?
+A) Kerala highest; Bihar lowest
+B) Mizoram highest; Arunachal Pradesh lowest
+C) Kerala highest; Rajasthan lowest
+D) Goa highest; Jharkhand lowest
+ANS: A
+D: Easy
+EXP: **Kerala (about 94%)** was highest and **Bihar (about 61.8%)** lowest, with **Arunachal Pradesh** the second lowest. Mizoram and Goa were also above 85%.
+SC: Kerala top, Bihar bottom.
+
+Q: As per Census 2011, the lowest child sex ratio (0-6 years) among States was recorded in:
+A) Haryana
+B) Punjab
+C) Rajasthan
+D) Delhi
+ANS: A
+D: Medium
+EXP: **Haryana (834)** was lowest, followed by **Punjab (846)**. This regional pattern led to programmes such as Beti Bachao Beti Padhao, launched at Panipat, Haryana in 2015.
+SC: Haryana is lowest on child sex ratio.
+
+Q: An Urban Agglomeration (UA) in the Census consists of:
+A) a continuous urban spread of a town and its adjoining outgrowths, or two or more physically contiguous towns
+B) any district headquarters
+C) all villages within 10 km of a city
+D) a municipal corporation only
+ANS: A
+D: Medium
+EXP: A **UA** is a continuous urban spread: a **town + outgrowths (OGs)**, or **contiguous towns** with or without OGs. In 2011 the core had to be a **statutory town** and the UA needed a population of **at least 20,000**.
+SC: A UA is contiguous urban spread around a statutory core.
+
+Q: In the Census, the Houselisting and Housing Census collects information mainly on:
+A) building use, housing condition, amenities and assets of households
+B) individual age, education and migration
+C) crop production
+D) enterprises and employment by industry
+ANS: A
+D: Easy
+EXP: **Houselisting** covers **buildings, census houses, amenities** (water, sanitation, fuel, electricity) and **assets**, and builds the **frame** for enumeration. **Population enumeration** collects the **individual** characteristics.
+SC: Houselisting covers houses and amenities; enumeration covers persons.
+
+Q: Assertion (A): Census data are used as the sampling frame for most household surveys in India.
+Reason (R): The Census provides a complete list of villages and enumeration blocks with population counts.
+A) Both A and R are true, and R is the correct explanation of A
+B) Both A and R are true, but R is not the correct explanation of A
+C) A is true, but R is false
+D) A is false, but R is true
+ANS: A
+T: Assertion-Reason
+D: Easy
+EXP: The **Census village list and CEBs** give the **rural frame** (and NFHS's urban frame). NSS urban frames use **UFS blocks**. The complete listing in R is why the Census serves as the frame.
+SC: A complete Census list makes the Census the frame.
+
+Q: The sex ratio at birth (SRB) as per SRS is expressed in India as:
+A) females born per 1,000 males born
+B) males born per 100 females born
+C) females per 1,000 males in the total population
+D) girls aged 0-6 per 1,000 boys aged 0-6
+ANS: A
+D: Easy
+EXP: India reports **SRB as females per 1,000 males born** (SRS, CRS, NFHS). The biologically normal SRB is about **950** by this convention (about 105 boys per 100 girls).
+SC: SRB is girls per 1,000 boys at birth; a natural level is about 950.
+
+Q: The Census of India has been conducted every ten years without interruption from 1881 to 2011. Census 2021 was:
+A) postponed, and is now being conducted as Census 2027
+B) conducted on schedule in February 2021
+C) replaced permanently by the NPR
+D) conducted only in urban areas
+ANS: A
+D: Easy
+EXP: The **2021 Census** was postponed because of **COVID-19** and later notified as **Census 2027**. It is the first break in the decennial series since **1881**.
+SC: The 2021 census slipped to 2027.
+
+Q: Which of the following Census 2011 figures is correctly matched?
+A) Number of villages – about 6.41 lakh
+B) Number of districts – 593
+C) Number of million-plus cities – 35
+D) Urban population share – 27.8%
+ANS: A
+D: Medium
+EXP: The 2011 figures are **6,40,867 villages** and **640 districts**. The other options are **2001** figures: **593 districts**, **35 million-plus cities** and **27.8% urban**.
+SC: 2011 had 640 districts and 53 million-plus cities; 593 and 35 were 2001 figures.
+
+Q: As per Census 2011, the State with the highest population density was:
+A) Bihar
+B) West Bengal
+C) Kerala
+D) Uttar Pradesh
+ANS: A
+D: Easy
+EXP: **Bihar (1,106 per sq km)** was the most dense State, followed by **West Bengal (1,028)** and **Kerala (860)**. **Arunachal Pradesh (17)** was the least dense.
+SC: Bihar is densest, then West Bengal, then Kerala.
+
+Q: The Census sex ratio of India increased between 2001 and 2011 while the child sex ratio declined. This divergence is best explained by:
+A) improving female survival at older ages alongside sex-selective practices at birth and in early childhood
+B) emigration of men only
+C) a change in the definition of sex ratio
+D) undercounting of women in 2001
+ANS: A
+T: Conceptual
+D: Medium
+EXP: The **overall sex ratio (933 → 943)** rose as adult female survival and life expectancy improved. The **child sex ratio (927 → 918)** fell, reflecting **sex selection** at birth and **excess girl-child mortality**.
+SC: Adult gains lifted the overall ratio while losses at birth cut the child ratio.

@@ -1,0 +1,460 @@
+@set X04
+@title UPSC+ · Social Sector Statistics: Health, Education, Gender, Child, Disability & Elderly
+@pages Syllabus: Sector-wise statistics – health, education, women & child; gender statistics
+@desc Health data systems (HMIS, NHA, NFHS-5 headline indicators, SRS/MMR), health targets (NHP 2017, SDG 3); education statistics (UDISE+, AISHE, GER/NER/GPI/PTR, RTE, NEP targets); gender statistics (sex-ratio conventions, GDI/GII/GGGI, gender budgeting, time use); disability (Census, NSS 76th, RPwD Act); elderly (LASI) and youth definitions
+
+@topic Health Data Systems
+Q: The Health Management Information System (HMIS), a web-based facility reporting system for public health programmes, was launched under the:
+A) National Rural Health Mission, in 2008
+B) Ayushman Bharat programme, in 2018
+C) Twelfth Five Year Plan, in 2012
+D) National Health Policy, 1983
+ANS: A
+D: Medium
+EXP: **HMIS** was rolled out in **2008** under the **NRHM**. Facilities report monthly service data (ANC, deliveries, immunisation and so on). Unlike household surveys such as **NFHS**, it is **administrative** data.
+SC: HMIS is the administrative monthly facility-reporting system of NRHM (2008).
+
+Q: National Health Accounts (NHA) estimates for India, which track total and out-of-pocket health expenditure, are prepared by:
+A) National Health Systems Resource Centre (NHA Technical Secretariat) for MoHFW
+B) CBHI
+C) NSO (NAD)
+D) World Health Organization
+ANS: A
+D: Hard
+EXP: The **NHA estimates** are prepared by the **NHSRC**, designated as the **NHA Technical Secretariat**, following the WHO **System of Health Accounts (SHA 2011)**. They report **government health expenditure** and **out-of-pocket expenditure** shares.
+SC: NHA comes from NHSRC using SHA 2011.
+
+Q: Consider the following statements about sources of health statistics in India:
+1. NFHS is a household sample survey providing State and district estimates.
+2. HMIS is an administrative reporting system based on service delivery at health facilities.
+3. SRS provides annual State-level estimates of IMR and MMR.
+Which of the statements given above is/are correct?
+A) 1 and 2 only
+B) 2 and 3 only
+C) 1 and 3 only
+D) 1, 2 and 3
+ANS: D
+T: Statement
+D: Easy
+EXP: All three are correct: **NFHS** is a **survey** (State and district level); **HMIS** is **administrative facility data**; **SRS** gives **annual vital rates**, with **MMR** in special bulletins.
+SC: Survey (NFHS), administrative (HMIS), vital registration sample (SRS): three distinct sources.
+
+@topic NFHS-5 Headline Indicators
+Q: As per NFHS-5 (2019-21), India's Total Fertility Rate was:
+A) 2.0, below the replacement level
+B) 2.2, at replacement level
+C) 2.7
+D) 1.6
+ANS: A
+D: Easy
+EXP: **NFHS-5 TFR = 2.0** (NFHS-4: 2.2), below the **replacement level of 2.1**. Only a few States, such as Bihar, UP, Jharkhand, Meghalaya and Manipur, remained above 2.1.
+SC: NFHS-5 TFR was 2.0, below the replacement level of 2.1.
+
+Q: As per NFHS-5, the percentage of institutional births in India was about:
+A) 88.6%
+B) 78.9%
+C) 95.2%
+D) 64.0%
+ANS: A
+D: Medium
+EXP: **Institutional births** rose from **78.9% (NFHS-4)** to **88.6% (NFHS-5)**.
+SC: Institutional births went from about 79% to about 89%.
+
+Q: As per NFHS-5, the prevalence of stunting, wasting and underweight among children under five years was respectively about:
+A) 35.5%, 19.3% and 32.1%
+B) 38.4%, 21.0% and 35.8%
+C) 19.3%, 35.5% and 32.1%
+D) 32.1%, 19.3% and 35.5%
+ANS: A
+D: Hard
+EXP: NFHS-5: **stunting 35.5%**, **wasting 19.3%**, **underweight 32.1%**. NFHS-4 (option B) was 38.4 / 21.0 / 35.8. Stunting is low height-for-age (chronic); wasting is low weight-for-height (acute); underweight is low weight-for-age.
+SC: NFHS-5 child malnutrition: stunting 35.5, wasting 19.3, underweight 32.1.
+
+Q: As per NFHS-5, the prevalence of anaemia among women aged 15-49 years was about:
+A) 57%
+B) 35%
+C) 67%
+D) 25%
+ANS: A
+D: Medium
+EXP: **Anaemia**: **women 15-49: 57.0%** (up from 53.1%); **children 6-59 months: 67.1%** (up from 58.6%). Anaemia worsened between rounds.
+SC: Anaemia: women 57%, children 67%, both up from NFHS-4.
+
+Q: The sex ratio of the total population (females per 1,000 males) reported by NFHS-5, which crossed 1,000 for the first time in the NFHS series, was:
+A) 1020
+B) 991
+C) 943
+D) 929
+ANS: A
+D: Medium
+EXP: **NFHS-5 sex ratio = 1020** (NFHS-4: 991). The **sex ratio at birth** (last 5 years) was **929**. **943** is the **Census 2011** figure. NFHS counts the de facto population, so the 1020 should be read cautiously (absent male migrants).
+SC: NFHS-5: 1020 overall, 929 at birth; Census 2011: 943.
+
+Q: Stunting among children, as used in NFHS, refers to:
+A) low height-for-age, reflecting chronic undernutrition
+B) low weight-for-height, reflecting acute undernutrition
+C) low weight-for-age
+D) high weight-for-height
+ANS: A
+D: Easy
+EXP: **Stunting = height-for-age < −2 SD** (chronic). **Wasting = weight-for-height < −2 SD** (acute). **Underweight = weight-for-age < −2 SD** (composite). The reference is the **WHO Child Growth Standards**.
+SC: Stunted means short for age; wasted means thin for height.
+
+@topic Mortality & Health Targets
+Q: The Maternal Mortality Ratio (MMR) is expressed as:
+A) maternal deaths per 1,00,000 live births
+B) maternal deaths per 1,000 live births
+C) maternal deaths per 1,00,000 women aged 15-49
+D) maternal deaths per 1,000 women aged 15-49
+ANS: A
+D: Easy
+EXP: **MMR = maternal deaths per 1 lakh live births**. The **Maternal Mortality Rate** uses **1 lakh women aged 15-49**. SRS reported India's MMR at **97 (2018-20)**, below the NHP 2017 target of 100.
+SC: The MMR ratio is per lakh live births; the MM rate is per lakh women.
+TIP: The SRS special bulletin for 2019-21 put India's MMR at about 93. Check the latest bulletin before the exam.
+
+Q: SDG target 3.1 aims to reduce the global maternal mortality ratio by 2030 to less than:
+A) 70 per 1,00,000 live births
+B) 100 per 1,00,000 live births
+C) 25 per 1,000 live births
+D) 12 per 1,000 live births
+ANS: A
+D: Medium
+EXP: **SDG 3.1**: MMR **below 70** per lakh live births. **SDG 3.2**: **NMR ≤ 12** and **U5MR ≤ 25** per 1,000 live births, by 2030.
+SC: SDG 3: MMR < 70, NMR ≤ 12, U5MR ≤ 25.
+
+Q: Which of the following were among the targets of India's National Health Policy 2017?
+1. Increase life expectancy at birth to 70 years by 2025
+2. Reduce TFR to 2.1 at national and sub-national levels by 2025
+3. Reduce MMR to 100 by 2020
+Select the correct answer using the code given below:
+A) 1 and 2 only
+B) 2 and 3 only
+C) 1 and 3 only
+D) 1, 2 and 3
+ANS: D
+T: Statement
+D: Medium
+EXP: All three were **NHP 2017** targets: **LE 70 by 2025**, **TFR 2.1 by 2025**, **MMR 100 by 2020**. It also set **IMR 28 by 2019**, **U5MR 23 by 2025** and health spending of **2.5% of GDP by 2025**.
+SC: NHP 2017: LE 70, TFR 2.1, MMR 100, IMR 28, health spend 2.5% of GDP.
+
+Q: The Under-five Mortality Rate (U5MR) is defined as:
+A) deaths of children below 5 years per 1,000 live births
+B) deaths of children aged 1-4 years per 1,000 children aged 1-4
+C) deaths of children below 5 years per 1,000 population
+D) deaths of infants per 1,000 children under five
+ANS: A
+D: Medium
+EXP: **U5MR** is the probability of dying before age 5, expressed **per 1,000 live births**. The **child mortality rate** (ages 1-4) uses **children aged 1-4** in the denominator.
+SC: U5MR is per 1,000 live births, like IMR.
+
+Q: As per SRS 2020, India's IMR was:
+A) 28 per 1,000 live births
+B) 32 per 1,000 live births
+C) 40 per 1,000 live births
+D) 22 per 1,000 live births
+ANS: A
+D: Hard
+EXP: SRS IMR fell from **32 (2018)** to **30 (2019)**, **28 (2020)** and **27 (2021)**. The long-run decline has continued.
+SC: SRS IMR: 32 → 30 → 28 → 27 (2018-21).
+
+@topic Education Statistics
+Q: The Gender Parity Index (GPI) in education is defined as:
+A) the ratio of the female GER to the male GER
+B) the ratio of female to male literacy rates in the 15+ age group only
+C) the number of girls per 100 boys enrolled
+D) female enrolment minus male enrolment
+ANS: A
+D: Easy
+EXP: **GPI = female GER ÷ male GER**. A value of **1** means parity; above 1 favours girls. It is reported in UDISE+ and AISHE.
+SC: GPI is girls' GER divided by boys' GER.
+
+Q: The Pupil-Teacher Ratio (PTR) norm under the RTE Act, 2009 for primary classes is:
+A) 30:1
+B) 40:1
+C) 35:1
+D) 25:1
+ANS: A
+D: Medium
+EXP: The **RTE Act schedule** sets **PTR 30:1 at primary** and **35:1 at upper primary**. The Act guarantees free and compulsory education for children aged **6-14 years**.
+SC: RTE: PTR 30 (primary), 35 (upper primary), ages 6-14.
+
+Q: The Right of Children to Free and Compulsory Education Act, 2009 applies to children in the age group:
+A) 6-14 years
+B) 3-18 years
+C) 5-15 years
+D) 6-18 years
+ANS: A
+D: Easy
+EXP: RTE covers ages **6-14**, under **Article 21A** (86th Amendment, 2002). **NEP 2020** proposes extending the scope to **3-18 years**.
+SC: RTE covers 6-14; NEP 2020 envisions 3-18.
+
+Q: NEP 2020 targets a Gross Enrolment Ratio in higher education (including vocational education) of:
+A) 50% by 2035
+B) 100% by 2030
+C) 35% by 2025
+D) 75% by 2040
+ANS: A
+D: Medium
+EXP: **NEP 2020**: **higher education GER 50% by 2035**, and **100% GER in school education (pre-school to secondary) by 2030**. Its school structure is **5+3+3+4**.
+SC: NEP targets 50% higher-education GER by 2035 and universal schooling by 2030.
+
+Q: In AISHE, the Gross Enrolment Ratio in higher education is computed for the population in the age group:
+A) 18-23 years
+B) 17-22 years
+C) 15-24 years
+D) 18-25 years
+ANS: A
+D: Medium
+EXP: The **AISHE GER** = total higher-education enrolment ÷ population aged **18-23** × 100.
+SC: The higher education GER uses ages 18-23.
+
+Q: Under the Census definition, a person is literate if he/she:
+A) is aged 7 or above and can both read and write with understanding in any language
+B) has completed primary schooling
+C) can sign his/her name
+D) is aged 5 or above and can read in any language
+ANS: A
+D: Easy
+EXP: Census literacy covers **age 7+** and requires **reading and writing with understanding** in any language. Formal schooling is **not required**, and signing one's name alone is not enough. The **effective literacy rate** uses the **7+ population** as its denominator.
+SC: 7+, read and write, with understanding, in any language.
+
+Q: The difference between the "effective literacy rate" and the "crude literacy rate" lies in:
+A) the denominator: the population aged 7+ versus the total population
+B) the numerator: literates aged 15+ versus 7+
+C) the language considered
+D) the inclusion of school enrolment
+ANS: A
+T: Conceptual
+D: Medium
+EXP: **Effective literacy rate = literates ÷ population aged 7+**. **Crude literacy rate = literates ÷ total population**. Crude is lower because children aged 0-6 sit in its denominator. Census 2011 effective literacy was **74.04%**.
+SC: Effective excludes children aged 0-6 from the denominator.
+
+@topic Gender Statistics
+Q: In India, the sex ratio is conventionally expressed as:
+A) number of females per 1,000 males
+B) number of males per 100 females
+C) number of males per 1,000 females
+D) percentage of females in the population
+ANS: A
+D: Easy
+EXP: India uses **females per 1,000 males** (Census 2011: **943**). The international convention, as in the UN, is **males per 100 females**. The **child sex ratio** covers ages **0-6** (918 in 2011).
+SC: India counts females per 1,000 males; the UN counts males per 100 females.
+
+Q: The Gender Development Index (GDI) of UNDP is computed as:
+A) the ratio of female HDI to male HDI
+B) the HDI adjusted for inequality
+C) a composite of reproductive health, empowerment and labour market
+D) the gap between male and female incomes
+ANS: A
+D: Medium
+EXP: **GDI = female HDI ÷ male HDI**, using the same dimensions as HDI. The **GII** measures loss from inequality across **reproductive health** (MMR, adolescent birth rate), **empowerment** (parliamentary seats, secondary education) and the **labour market** (LFPR). The **IHDI** is the inequality-adjusted HDI.
+SC: GDI is a ratio of HDIs; GII is a loss measure across three dimensions.
+
+Q: Which of the following is NOT a dimension of UNDP's Gender Inequality Index (GII)?
+A) Command over economic resources measured by earned income
+B) Reproductive health
+C) Empowerment
+D) Labour market participation
+ANS: A
+T: Odd-one-out
+D: Medium
+EXP: The **GII** dimensions are **reproductive health, empowerment and labour market**. **Earned income** enters the **GDI** (via the HDI's income dimension), not the GII.
+SC: GII has no income dimension.
+
+Q: The Global Gender Gap Index of the World Economic Forum is based on which four sub-indices?
+A) Economic participation & opportunity, educational attainment, health & survival, political empowerment
+B) Health, education, standard of living, security
+C) Reproductive health, empowerment, labour market, income
+D) Literacy, IMR, life expectancy, income
+ANS: A
+D: Medium
+EXP: The **WEF GGGI** uses four sub-indices: **economic participation & opportunity, educational attainment, health & survival, political empowerment**. It scores from 0 to 1, where 1 is parity.
+SC: GGGI covers economy, education, health and politics.
+
+Q: Gender budgeting was formally introduced in India's Union Budget, with a Gender Budget Statement, in:
+A) 2005-06
+B) 1991-92
+C) 2014-15
+D) 2000-01
+ANS: A
+D: Medium
+EXP: The **Gender Budget Statement** has appeared in the Union Budget since **2005-06**. **Part A** lists schemes with **100%** provision for women; **Part B** lists schemes with **at least 30%**.
+SC: Gender budgeting started in 2005-06: Part A 100%, Part B 30%+.
+
+Q: As per the Time Use Survey 2019, the average time spent per day by women (per participant) on unpaid domestic services for household members was about:
+A) 299 minutes, compared with about 97 minutes for men
+B) 97 minutes, compared with about 299 minutes for men
+C) 180 minutes for both
+D) 60 minutes, compared with 30 minutes for men
+ANS: A
+D: Hard
+EXP: TUS 2019: **women about 299 minutes/day** against **men about 97 minutes/day** on **unpaid domestic services** (per participant). A second **Time Use Survey** was carried out in **2024**.
+SC: Unpaid domestic work: women about 5 hours a day, men about 1.5 hours.
+
+Q: Which of the following sources provides data on crimes against women in India?
+A) NCRB's Crime in India
+B) NFHS only
+C) Census
+D) PLFS
+ANS: A
+D: Easy
+EXP: **NCRB** reports **registered crimes** (administrative data). **NFHS** also collects **domestic violence** data through surveys, which capture unreported cases.
+SC: NCRB gives registered crimes; NFHS gives self-reported violence.
+
+@topic Disability, Elderly & Youth
+Q: As per Census 2011, persons with disabilities constituted about what percentage of India's population?
+A) 2.21%
+B) 5.6%
+C) 1.2%
+D) 8.6%
+ANS: A
+D: Medium
+EXP: Census 2011 counted **2.68 crore** persons with disabilities, **2.21%** of the population. The **NSS 76th round (2018)** estimated prevalence at about **2.2%**. **8.6%** is the share of **elderly (60+)** in 2011.
+SC: Disability about 2.2% (Census and NSS); elderly 8.6%.
+
+Q: The Rights of Persons with Disabilities Act, 2016 recognises how many types of disabilities?
+A) 21
+B) 7
+C) 14
+D) 12
+ANS: A
+D: Medium
+EXP: The **RPwD Act 2016** expanded the list from **7** (PwD Act 1995) to **21** types of disability. These include acid-attack victims, autism spectrum, specific learning disabilities and others.
+SC: 7 types in 1995, 21 in 2016.
+
+Q: The Longitudinal Ageing Study in India (LASI), the country's first large survey on ageing, is conducted by:
+A) IIPS, Mumbai, for MoHFW (with Harvard and USC partners)
+B) NSO, MoSPI
+C) HelpAge India
+D) Ministry of Social Justice and Empowerment
+ANS: A
+D: Medium
+EXP: **LASI Wave 1 (2017-18)** was conducted by **IIPS** for **MoHFW**, covering persons aged **45+** and spouses. It gives data on the health, economic and social wellbeing of older adults.
+SC: LASI is IIPS's ageing survey, like NFHS.
+
+Q: As per the National Youth Policy 2014, "youth" is defined as persons in the age group:
+A) 15-29 years
+B) 13-35 years
+C) 15-24 years
+D) 18-30 years
+ANS: A
+D: Medium
+EXP: The **National Youth Policy 2014** defines youth as **15-29 years** (the earlier policy used 13-35). The **UN's** statistical definition is **15-24 years**. PLFS youth unemployment uses **15-29**.
+SC: India: youth 15-29; UN: 15-24.
+
+Q: In official statistics, the elderly are usually defined as persons aged:
+A) 60 years and above
+B) 65 years and above
+C) 55 years and above
+D) 70 years and above
+ANS: A
+D: Easy
+EXP: India's official definition of the elderly is **60+** (National Policy on Older Persons, 1999; MoSPI "Elderly in India"). Many international comparisons use **65+**. The **old-age dependency ratio** uses the 60+ (or 65+) population over the working-age population.
+SC: India's elderly are 60+.
+
+@topic Child & Nutrition Data
+Q: The Poshan Tracker, an ICT application for real-time monitoring of anganwadi services and child growth, is under:
+A) Ministry of Women and Child Development
+B) MoHFW
+C) Ministry of Education
+D) NSO
+ANS: A
+D: Medium
+EXP: The **Poshan Tracker** (under **Mission Poshan 2.0**) records **growth measurements** and **service delivery** at anganwadi centres. It is administrative data from **MoWCD**, distinct from survey estimates such as NFHS.
+SC: Poshan Tracker is MoWCD's anganwadi administrative data.
+
+Q: "Children in India", published by MoSPI, defines children as persons aged:
+A) 0-18 years (below 18), consistent with the UN Convention on the Rights of the Child
+B) 0-6 years only
+C) 0-14 years only
+D) 5-15 years
+ANS: A
+D: Medium
+EXP: For **child statistics** generally, **children** are persons **below 18** (UNCRC). Specific indicators use narrower ages: **child sex ratio (0-6)**, **RTE (6-14)**, and **child labour** under 14.
+SC: A child is under 18; sub-indicators use narrower ages.
+
+Q: The Child Sex Ratio in the Census refers to the number of females per 1,000 males in the age group:
+A) 0-6 years
+B) 0-14 years
+C) 0-4 years
+D) 0-18 years
+ANS: A
+D: Easy
+EXP: The **Child Sex Ratio** covers **0-6 years**: **927 (2001)** and **918 (2011)**. Its decline motivated **Beti Bachao Beti Padhao (2015)**. The **SRB** (sex ratio at birth) is a separate measure from SRS or CRS.
+SC: Child sex ratio covers ages 0-6: 927 in 2001, 918 in 2011.
+
+@topic Concepts & Measurement Issues
+Q: Assertion (A): Registered crime statistics may understate the actual incidence of crimes against women.
+Reason (R): Administrative data capture only reported and registered cases, and under-reporting is common for sensitive crimes.
+A) Both A and R are true, and R is the correct explanation of A
+B) Both A and R are true, but R is not the correct explanation of A
+C) A is true, but R is false
+D) A is false, but R is true
+ANS: A
+T: Assertion-Reason
+D: Easy
+EXP: Administrative data such as NCRB's show only **reported and registered** crimes. **Victimisation surveys** or NFHS modules capture unreported cases, so R explains A.
+SC: Administrative data miss what is never reported.
+
+Q: Which of the following is an example of an "administrative" data source in the social sector?
+A) UDISE+ school returns
+B) NFHS
+C) PLFS
+D) NSS Household Social Consumption: Education survey
+ANS: A
+D: Easy
+EXP: **UDISE+** is compiled from **school returns**, a by-product of administration. **NFHS, PLFS and NSS** are **sample surveys** of households.
+SC: School returns are administrative; household questionnaires are surveys.
+
+Q: Why may GER exceed 100% at the primary level?
+A) Because enrolment includes over-age and under-age children, while the denominator is only the official-age population
+B) Because of double counting of schools
+C) Because the Census undercounts children
+D) GER can never exceed 100%
+ANS: A
+T: Conceptual
+D: Easy
+EXP: **GER** counts **all enrolled** children regardless of age, divided by the **official-age population**. Over-age and under-age pupils can push it **above 100%**. **NER** cannot exceed 100%.
+SC: GER can exceed 100%; NER cannot.
+
+Q: The Gender Parity Index for GER at the secondary level is 1.02. This means:
+A) the female GER is slightly higher than the male GER
+B) there are 102 girls per 100 boys in the population
+C) girls' literacy exceeds boys' by 2%
+D) the male GER is higher than the female GER
+ANS: A
+T: Numerical
+D: Easy
+EXP: **GPI > 1** means the **female GER exceeds the male GER**. A GPI between 0.97 and 1.03 is generally regarded as parity.
+SC: GPI above 1 favours girls.
+
+Q: The Human Development Index of UNDP combines which dimensions?
+A) Long and healthy life, knowledge, and a decent standard of living
+B) Health, gender equality and security
+C) Education, employment and environment
+D) Income, inequality and poverty
+ANS: A
+D: Easy
+EXP: HDI has **three dimensions**: **health** (life expectancy at birth), **knowledge** (expected and mean years of schooling) and **standard of living** (GNI per capita, PPP). They are aggregated by a **geometric mean**.
+SC: HDI = health, knowledge, income, combined by GM.
+
+Q: A State's IMR falls from 40 to 30 per 1,000 live births. The percentage decline is:
+A) 25%
+B) 33.3%
+C) 10%
+D) 75%
+ANS: A
+T: Numerical
+D: Easy
+EXP: The decline is **(40 − 30)/40 = 25%**. Percentage change is always measured on the starting value.
+SC: Divide the change by the old value.
+
+Q: Which survey is India's main source for district-level estimates of child nutrition, anaemia and family planning indicators?
+A) NFHS (since NFHS-4)
+B) SRS
+C) Census
+D) PLFS
+ANS: A
+D: Easy
+EXP: **NFHS-4 (2015-16)** and **NFHS-5 (2019-21)** give **district-level** estimates for key indicators. The earlier DLHS and AHS did so for some States. **SRS** gives **State** vital rates only.
+SC: District health indicators come from NFHS.

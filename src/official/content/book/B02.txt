@@ -1,0 +1,527 @@
+@set B02
+@title Statistical System at Centre & States, MoSPI Vision and Structure
+@pages 7-13
+@desc Subject-wise decentralisation, State DESs, functions of the Statistics Wing, MoSPI vision/mission, functional and administrative structure, NSO
+
+@topic Statistical System at the Centre
+Q: In the Indian statistical system, collection of statistics for subject areas like agriculture, labour, commerce and industry vests with:
+A) the National Statistical Office exclusively
+B) the corresponding administrative ministries
+C) the Reserve Bank of India
+D) the State Directorates of Economics and Statistics only
+ANS: B
+D: Easy
+P: 7
+EXP: The system is **decentralised by subject**. Statistics on a subject are collected by the **administrative ministry in charge of that subject**, often as a by-product of administration or of monitoring programmes. MoSPI/NSO coordinates and sets standards.
+SC: The ministry that administers a subject also collects its statistics.
+
+Q: Consider the following statements:
+1. Much statistical information in India is collected as a by-product of administration.
+2. All ministries of the Government of India have full-fledged statistical divisions.
+3. Ministries such as Agriculture, Water Resources and Health have full-fledged statistical divisions.
+Which of the statements given above is/are correct?
+A) 1 and 2 only
+B) 1 and 3 only
+C) 2 and 3 only
+D) 1, 2 and 3
+ANS: B
+T: Statement
+D: Easy
+P: 7
+EXP: Statements 1 and 3 are correct. Statement 2 is wrong: **only some** ministries (Agriculture, Water Resources, Health, etc.) have full statistical divisions, and **most others have only a nucleus cell**.
+SC: "All ministries" is an absolute claim, so treat it with suspicion. The source says "most others have only a nucleus cell".
+
+Q: In important central ministries, statistical functions are performed by officers of which service along with subordinate statistical staff?
+A) Indian Economic Service
+B) Indian Statistical Service
+C) Indian Administrative Service
+D) Central Secretariat Service
+ANS: B
+D: Easy
+P: 7
+EXP: Officers of the **Indian Statistical Service (ISS)** and the Subordinate Statistical Service (SSS) do the statistical work in ministries. MoSPI is the **cadre-controlling authority** for the ISS.
+SC: Statistical work is done by the ISS (officers) and the SSS (subordinate staff).
+
+Q: Which statistical operations are generally centralised in India because they serve the needs of many ministries and the States?
+A) Population Census, Annual Survey of Industries and Economic Census
+B) Crop-cutting experiments, land-use statistics and livestock census
+C) Retail price collection and district statistical handbooks
+D) Registration of births and deaths
+ANS: A
+D: Easy
+P: 7
+EXP: **Large-scale operations** such as the **Population Census, ASI and Economic Census** are centralised. Crop statistics, price collection at the district level and registration of vital events are carried out in a decentralised way through the States.
+SC: Big national frames (Census, ASI, EC) are centralised. Routine field and administrative data are decentralised.
+
+@topic Statistical System in the States
+Q: At the apex level in a State, which body is formally responsible for coordinating statistical activities?
+A) State Planning Department
+B) Directorate (formerly Bureau) of Economics and Statistics
+C) State Statistical Commission
+D) Office of the Chief Secretary
+ANS: B
+D: Easy
+P: 7
+EXP: The **Directorate of Economics and Statistics (DES)**, earlier called the Bureau of Economics and Statistics, is the apex statistical body of a State. It has statistical offices in the districts and sometimes in regions.
+SC: The DES is the State-level counterpart of the CSO/NSO.
+
+Q: Which of the following is NOT a regular activity of the State Directorates of Economics and Statistics?
+A) Estimating State Domestic Product
+B) Publishing district statistical abstracts
+C) Compiling the national Index of Industrial Production
+D) Compiling retail price index numbers
+ANS: C
+T: Odd-one-out
+D: Medium
+P: 7
+EXP: State DESs estimate **SDP**, compile **retail price index numbers**, and publish statistical abstracts, handbooks, economic surveys, district abstracts and budget analyses. The **all-India IIP** is compiled and released monthly by the **NSO (ESD)** at the Centre.
+SC: National aggregates (all-India IIP, GDP) belong to the Centre. State aggregates (SDP, State RPI) belong to the DES.
+
+Q: The Statistical System in the States is generally:
+A) centralised entirely in the State DES
+B) decentralised laterally over the departments of the State Government
+C) run directly by the NSO field offices
+D) outsourced to the Indian Statistical Institute
+ANS: B
+D: Easy
+P: 7
+EXP: Like the Centre, a State's system is **decentralised laterally across departments**. Big departments such as agriculture and health have large statistical divisions, and the DES coordinates at the top. Many States have a **common statistical cadre**.
+SC: The State system mirrors the Centre: the departments collect and the DES coordinates.
+
+@topic Functions of the Statistics Wing
+Q: The Statistics Wing of MoSPI (before the 2019 integration into NSO) consisted of:
+A) CSO, NSSO and the Computer Centre
+B) CSO, RGI and DGCI&S
+C) NSSO, Labour Bureau and DES
+D) CSO, ISI and NSC
+ANS: A
+D: Medium
+P: 7
+EXP: The source says the Statistics Wing consisted of the **CSO, NSSO and the Computer Centre**. The CSO and NSSO were merged into the **National Statistical Office (NSO)** in May 2019. The Computer Centre's work continues in the Data Informatics and Innovation Division (DIID).
+SC: CSO + NSSO + Computer Centre made up the Statistics Wing.
+
+Q: Consider the following functions:
+1. Compilation and release of the Index of Industrial Production
+2. Cadre-controlling authority for the Indian Statistical Service
+3. Ensuring the functioning of the Indian Statistical Institute, Kolkata
+4. Compilation of India's merchandise trade statistics
+Which of the above are functions of the Ministry of Statistics (Statistics Wing)?
+A) 1 and 2 only
+B) 1, 2 and 3 only
+C) 2, 3 and 4 only
+D) 1, 2, 3 and 4
+ANS: B
+T: Statement
+D: Medium
+P: 8
+EXP: Functions 1, 2 and 3 are listed for MoSPI. **Merchandise trade statistics** are compiled by the **DGCI&S, Kolkata (Ministry of Commerce)**, not by MoSPI.
+SC: Trade always means DGCI&S. Everything else here (IIP, ISS cadre, ISI) is MoSPI.
+
+Q: Which of the following is NOT listed among the functions of the Statistics Wing of MoSPI?
+A) Preparing national and regional accounts
+B) Conducting the Economic Census and follow-up surveys
+C) Conducting the decennial Population Census
+D) Disseminating statistical information to national and international agencies
+ANS: C
+T: Odd-one-out
+D: Easy
+P: 8
+EXP: The **Population Census** is conducted by the **Registrar General & Census Commissioner (Ministry of Home Affairs)**. MoSPI prepares national/regional accounts, runs the Economic Census, ASI and large sample surveys, and disseminates statistics.
+SC: Population Census is RGI/MHA. Economic Census is MoSPI. This pair is a classic trap.
+
+Q: Which of the following activities is broadly covered by the State Directorates of Economics and Statistics?
+1. Coordination of statistical activities among State departments
+2. Liaison between statistical organisations of the Centre and the State
+3. Statistical work relating to planning
+Select the correct answer using the code given below:
+A) 1 and 2 only
+B) 2 and 3 only
+C) 1 and 3 only
+D) 1, 2 and 3
+ANS: D
+T: Statement
+D: Easy
+P: 8
+EXP: All three are listed DES activities, along with publishing statistical abstracts and organising surveys.
+SC: The DES coordinates, liaises and plans. All three fit.
+
+@topic MoSPI: Vision and Mission
+Q: Before it became an independent Ministry on 15 October 1999, MoSPI's statistics function existed as:
+A) the Planning Commission's Statistics Division
+B) the Department of Statistics
+C) the Central Statistical Commission
+D) the Directorate of Economics and Statistics
+ANS: B
+D: Easy
+P: 8
+EXP: MoSPI was formed on **15-10-1999** by merging the **Department of Statistics** and the **Department of Programme Implementation**. Before that, statistics was handled by the Department of Statistics.
+SC: Department of Statistics + Department of Programme Implementation = MoSPI (1999).
+
+Q: The vision of MoSPI is "to be the best and most innovative National Statistical System in the world; and to ___".
+A) publish the largest number of statistical reports
+B) effectively monitor programmes and projects for ensuring efficient use of national resources
+C) replace administrative statistics with sample surveys
+D) centralise all data collection in the Ministry
+ANS: B
+D: Medium
+P: 8
+EXP: The vision has two parts that match MoSPI's two wings: the **best and most innovative statistical system** (Statistics Wing) and **effective monitoring of programmes and projects** for efficient use of resources (Programme Implementation Wing).
+SC: Two wings give a two-part vision: statistics plus programme monitoring.
+
+Q: Which of the following is part of MoSPI's stated mission?
+1. To reduce respondent burden and avoid unnecessary duplication in data collection
+2. To maintain confidentiality of data providers and promote integrity and impartiality
+3. To participate actively in international initiatives and support statistical systems around the world
+Select the correct answer using the code given below:
+A) 1 only
+B) 1 and 2 only
+C) 2 and 3 only
+D) 1, 2 and 3
+ANS: D
+T: Statement
+D: Medium
+P: 8
+EXP: All three are part of the MoSPI mission. It also covers timely and reliable statistics, standards and methodologies, leadership and coordination of the NSS, HR capacity building, monitoring of infrastructure projects, and monitoring MPLADS and the Twenty Point Programme.
+SC: The mission echoes the UN FPOS (confidentiality, impartiality, cooperation), so all three fit.
+
+Q: Monitoring the implementation of which of the following falls within MoSPI's mission?
+A) MPLADS and the Twenty Point Programme
+B) MGNREGA and PM-KISAN
+C) Mid-Day Meal and ICDS
+D) Swachh Bharat and Jal Jeevan Mission
+ANS: A
+D: Easy
+P: 9
+EXP: The **Programme Implementation Wing** monitors **MPLADS**, the **Twenty Point Programme (TPP)** and **infrastructure/large central projects** (IPMD). The other schemes are run by their own line ministries.
+SC: The PI Wing has three areas: MPLADS, TPP and infrastructure projects.
+
+@topic MoSPI: Functional & Administrative Structure
+Q: MoSPI has which two wings?
+A) Statistics Wing and Programme Implementation Wing
+B) Survey Wing and Census Wing
+C) Statistics Wing and Economic Advisory Wing
+D) National Accounts Wing and Price Statistics Wing
+ANS: A
+D: Easy
+P: 10
+EXP: The two wings are the **Statistics Wing (NSO)** and the **Programme Implementation (PI) Wing**. The **National Statistical Commission** sits alongside both in the functional structure.
+SC: MoSPI = Statistics + Programme Implementation, which is the S and the PI in its name.
+
+Q: In MoSPI's functional structure, which of the following falls under the Programme Implementation Wing?
+A) National Sample Survey Office
+B) Indian Statistical Institute, Kolkata
+C) Infrastructure & Project Monitoring
+D) Central Statistical Office
+ANS: C
+D: Easy
+P: 10
+EXP: The PI Wing covers the **MPLAD Scheme, Twenty Point Programme and Infrastructure & Project Monitoring**. The CSO, NSSO and ISI Kolkata are on the Statistics side.
+SC: Words like "Programme", "Project" and "Scheme" point to the PI Wing. "Statistical" and "Survey" point to the Statistics Wing.
+
+Q: Who is the Secretary to the National Statistical Commission?
+A) Director General, NSSO
+B) Secretary, MoSPI cum Chief Statistician of India
+C) Chief Economic Adviser
+D) Director, Indian Statistical Institute
+ANS: B
+D: Easy
+P: 10
+EXP: The **Secretary, MoSPI** is also the **Chief Statistician of India (CSI)** and serves as **Secretary to the NSC**.
+SC: The CSI holds three roles: Secretary MoSPI, Chief Statistician and NSC Secretary.
+
+Q: As per the administrative structure shown in the source, which division was headed by an ADG under the DG & CEO (NSSO)?
+A) National Accounts Division
+B) Field Operations Division
+C) Economic Statistics Division
+D) Social Statistics Division
+ANS: B
+D: Medium
+P: 10
+EXP: Under **DG & CEO (NSSO)** were ADG (**FOD**), ADG (**DPD**), ADG (**SDRD**) and DDG (**CPD**). Under **DG (CSO)** were ADG (NAD), ADG (SSD), ADG (ESD), ADG (Training), ADG (CAP) and DDG (Computer Centre).
+SC: NSSO is survey-oriented: Field (FOD), Design (SDRD), Processing (DPD) and Coordination (CPD). CSO is subject-oriented: NAD, ESD, SSD.
+
+Q: Match List-I (Division) with List-II (Parent organisation before the 2019 merger):
+| List-I | List-II |
+|---|---|
+| A. Survey Design and Research Division | 1. CSO |
+| B. National Accounts Division | 2. NSSO |
+| C. Data Processing Division | 3. Programme Implementation Wing |
+| D. Infrastructure & Project Monitoring Division | |
+A) A-2, B-1, C-2, D-3
+B) A-1, B-2, C-2, D-3
+C) A-2, B-1, C-1, D-3
+D) A-2, B-2, C-1, D-3
+ANS: A
+T: Match
+D: Medium
+P: 10
+EXP: **SDRD** and **DPD** were NSSO divisions. **NAD** was a CSO division. **IPMD** is in the PI Wing.
+SC: Survey-cycle divisions (Design → Field → Processing) were NSSO. Subject divisions were CSO. "Project" means PI.
+
+Q: In the administrative structure, the Directorate of MPLADS and the Directorate of the Twenty Point Programme work under:
+A) DG (CSO)
+B) DDG (Programme Implementation)
+C) DG & CEO (NSSO)
+D) Joint Secretary (Administration)
+ANS: B
+D: Medium
+P: 10
+EXP: The source's chart places **Dir (MPLADS)**, **Dir (TPP)** and **JA (IPMD)** under the **DDG (PI)**. JS (Admin) oversees Dir (Admin), Dir & CVO, Dir (ISS), Dir (Coord) and DS (SSS).
+SC: MPLADS and TPP are programmes, so they sit under the PI head.
+
+Q: The cadre management of the Indian Statistical Service (ISS) and the Subordinate Statistical Service (SSS) is handled on the administrative side of MoSPI through:
+A) Dir (ISS) and DS (SSS) under JS (Administration)
+B) ADG (Training) under DG (CSO)
+C) DDG (CPD) under DG & CEO (NSSO)
+D) Dir (Coord) under DDG (PI)
+ANS: A
+D: Hard
+P: 10
+EXP: In the administrative chart, **Dir (ISS)** and **DS (SSS)** sit under **JS (Adm)**, which reports to the Additional Secretary. Training of ISS/SSS is a separate function under ADG (Training).
+SC: Cadre matters are administration. Training is a separate division.
+
+@topic Abbreviations & Divisions
+Q: In MoSPI usage, "DQAD" stands for:
+A) Data Quality Assurance Division
+B) Data Query and Analysis Directorate
+C) Directorate of Quality Audit and Dissemination
+D) Data Quantification and Aggregation Division
+ANS: A
+D: Medium
+P: 11
+EXP: **DQAD = Data Quality Assurance Division**. It works on quality standards and scrutiny, for example of ASI data received from the field (the IS Wing/DQAD query process).
+SC: D-Q-A-D reads as Data Quality Assurance Division.
+
+Q: The Data Informatics and Innovation Division (DIID) of MoSPI was established out of:
+A) the Coordination and Publication Division
+B) the erstwhile Computer Centre / DSDD
+C) the Field Operations Division
+D) the Indian Statistical Institute
+ANS: B
+D: Medium
+P: 11
+EXP: The source notes that **DIID** was formed from the **erstwhile Computer Centre (later the Data Storage & Dissemination Division, DSDD)**. It carries on MoSPI's IT, data warehousing and dissemination work.
+SC: Computer Centre (1967) → DSDD → DIID. The IT lineage runs in a straight line.
+
+Q: SIAP, with which Indian statistical training institutions collaborate, stands for:
+A) Statistical Institute for Asia and the Pacific
+B) South Indian Academy of Planning
+C) Survey Institute of Applied Probability
+D) Statistical Information and Analysis Programme
+ANS: A
+D: Medium
+P: 11
+EXP: **SIAP = Statistical Institute for Asia and the Pacific**, a UN ESCAP regional training institute based in Chiba, Japan. It trains official statisticians of the region.
+SC: The "AP" ending means Asia-Pacific, the ESCAP region.
+
+Q: CSO and NSSO were integrated to form the National Statistical Office (NSO) in:
+A) May 2019
+B) June 2005
+C) October 1999
+D) April 2020
+ANS: A
+D: Easy
+P: 11
+EXP: By a Government order of **May 2019**, the **CSO and NSSO were merged into the NSO**, which is headed by the Secretary cum Chief Statistician of India.
+SC: The NSO dates from 2019. 2005 is the NSC resolution and 1999 is MoSPI.
+
+Q: "CAPI", a data-collection mode increasingly used in NSO surveys, stands for:
+A) Computer Assisted Personal Interviewing
+B) Centralised Automated Processing of Information
+C) Computer Aided Planning Instrument
+D) Coded Answer Processing Interface
+ANS: A
+D: Easy
+P: 11
+EXP: **CAPI = Computer Assisted Personal Interviewing**. Enumerators record responses on tablets during a face-to-face interview. It is used in PLFS and NSS rounds, with built-in validation checks that improve data quality and timeliness.
+SC: C-A-P-I means Computer Assisted Personal Interviewing, i.e. tablets in the field.
+
+Q: In the list of abbreviations used by MoSPI, "PCL" stands for:
+A) Price and Cost of Living
+B) Planning and Coordination Level
+C) Public Consumption Ledger
+D) Price Collection Laboratory
+ANS: A
+D: Medium
+P: 11
+EXP: **PCL = Price and Cost of Living**, the unit that handles price statistics and cost-of-living indices. CPI (Rural/Urban) work is now carried out by the Price Statistics Division.
+SC: Price + Cost of Living = PCL, i.e. consumer prices.
+
+Q: Match List-I (Abbreviation) with List-II (Expansion):
+| List-I | List-II |
+|---|---|
+| A. ScD | 1. Economic Statistics Division |
+| B. ESD | 2. Survey Coordination Division |
+| C. CPD | 3. Social Statistics Division |
+| D. SSD | 4. Coordination and Publication Division |
+A) A-2, B-1, C-4, D-3
+B) A-3, B-1, C-4, D-2
+C) A-2, B-4, C-1, D-3
+D) A-2, B-1, C-3, D-4
+ANS: A
+T: Match
+D: Easy
+P: 11
+EXP: ScD = Survey Coordination Division. ESD = Economic Statistics Division. CPD = Coordination and Publication Division. SSD = Social Statistics Division.
+SC: The lowercase "c" in ScD separates Survey Coordination from SSD (Social Statistics).
+
+Q: OCMS, used by the Programme Implementation side of MoSPI, stands for:
+A) Online Computerised Monitoring System
+B) Official Compilation and Monitoring Standard
+C) Online Census Management Software
+D) Open Coordination and Monitoring Service
+ANS: A
+D: Medium
+P: 11
+EXP: **OCMS = Online Computerised Monitoring System**. It is the web system used by IPMD to monitor central-sector infrastructure projects costing ₹150 crore and above.
+SC: "Monitoring" gives the M, and monitoring is PI Wing work.
+
+Q: IS Wing of MoSPI, located at Kolkata, is responsible mainly for:
+A) Index of Services Production
+B) Industrial Statistics, especially the Annual Survey of Industries
+C) International Statistics coordination
+D) Information Systems of the Ministry
+ANS: B
+D: Easy
+P: 11
+EXP: The **Industrial Statistics (IS) Wing, Kolkata** (formerly CSO-IS Wing) handles the **Annual Survey of Industries** and the **National Industrial Classification (NIC)**.
+SC: IS Wing means Industrial Statistics, based in Kolkata, running the ASI.
+
+@topic National Statistical Office (NSO)
+Q: Which of the following economic indicators are brought out by the National Statistical Office?
+1. Gross Domestic Product
+2. Index of Industrial Production
+3. Consumer Price Index (Rural/Urban/Combined)
+4. Wholesale Price Index
+Select the correct answer using the code given below:
+A) 1 and 2 only
+B) 1, 2 and 3 only
+C) 2, 3 and 4 only
+D) 1, 2, 3 and 4
+ANS: B
+T: Statement
+D: Medium
+P: 13
+EXP: The NSO releases **GDP, IIP and CPI (R/U/C)**. The **WPI** is compiled by the **Office of the Economic Adviser, DPIIT (Ministry of Commerce & Industry)**.
+SC: WPI is compiled by the OEA in the Commerce Ministry, not by the NSO.
+
+Q: Consider the following statements about the NSO:
+1. It coordinates statistical activities in the country and evolves statistical standards.
+2. It has a large network of field offices for nationwide socio-economic surveys.
+3. It coordinates only with central ministries and has no role with State/UT Governments.
+Which of the statements given above is/are correct?
+A) 1 and 2 only
+B) 2 and 3 only
+C) 1 only
+D) 1, 2 and 3
+ANS: A
+T: Statement
+D: Easy
+P: 13
+EXP: Statements 1 and 2 are correct. Statement 3 is wrong. As the **nodal agency**, the NSO coordinates with Central ministries **and with State/UT Governments**.
+SC: The nodal agency coordinates both horizontally (ministries) and vertically (States). "Only" makes the statement false.
+
+Q: The NSO's statistics support Government decision-making mainly by providing:
+A) legal enforcement of data submission by firms
+B) official statistics such as GDP, IIP and CPI for framing socio-economic policies
+C) direct implementation of welfare schemes
+D) audit of government accounts
+ANS: B
+D: Easy
+P: 13
+EXP: The NSO produces **official statistics (GDP, IIP, CPI and survey indicators)** that feed into policy. Legal enforcement comes under the CoS Act authorities, audit is done by the CAG, and schemes are implemented by line ministries.
+SC: The NSO measures. It does not implement or audit.
+
+Q: Which of the following statements about statistical functions at the Centre is correct?
+A) Statistical work of all ministries is done exclusively by MoSPI staff posted in MoSPI
+B) Line ministries collect subject statistics while MoSPI/NSO acts as the nodal coordinating agency
+C) State DESs report directly to the NSSO and not to State Governments
+D) The CSO was abolished in 1999 and its work transferred to State DESs
+ANS: B
+D: Medium
+P: 7
+EXP: **Line ministries** collect their own subject statistics, often through ISS officers posted there, while **MoSPI/NSO coordinates** and sets standards. State DESs are State Government bodies. The CSO continued until it merged into the NSO in 2019.
+SC: Subject ministries collect and MoSPI coordinates. Any "exclusive" or "abolished" wording is wrong.
+
+Q: Which agency is formally responsible for coordinating statistical activities between Government of India agencies and State Directorates of Economics and Statistics?
+A) CSO (now NSO) in MoSPI
+B) Planning Commission / NITI Aayog
+C) Registrar General of India
+D) Reserve Bank of India
+ANS: A
+D: Easy
+P: 7
+EXP: The **CSO (now NSO)** is the nodal agency for planned development of the statistical system and for **coordination among Central agencies and State DESs**.
+SC: The nodal coordinator is always the CSO or NSO.
+
+Q: A common statistical cadre, in the context of Indian States, refers to:
+A) a single pool of statistical staff posted across State departments
+B) the ISS officers deputed to States
+C) the NSSO field staff working in States
+D) statistical staff of the RBI regional offices
+ANS: A
+D: Medium
+P: 7
+EXP: Many States have a **common statistical cadre**: one pool of statistical officers controlled by the DES and posted across State departments. This helps uniformity and coordination.
+SC: "Common cadre" means one pool of State statistical staff shared across departments.
+
+Q: Which of the following is NOT typically published by a State Directorate of Economics and Statistics?
+A) Statistical Abstract of the State
+B) Annual Economic Review/Survey of the State
+C) State Budget analysis
+D) Monthly Abstract of Statistics (all-India)
+ANS: D
+T: Odd-one-out
+D: Medium
+P: 7
+EXP: The **Monthly Abstract of Statistics** is an **all-India** publication of the NSO/CSO (Coordination and Publication Division). State DESs publish State abstracts, handbooks, economic reviews, district abstracts and budget analyses.
+SC: The word "all-India" points to a Central (NSO) publication.
+
+Q: Which of the following correctly describes the role of MoSPI regarding the Indian Statistical Institute (ISI), Kolkata?
+A) ISI is a division of the NSO
+B) MoSPI is the nodal Ministry ensuring ISI functions according to the ISI Act, 1959
+C) ISI conducts the Population Census on behalf of MoSPI
+D) ISI is the cadre-controlling authority for the ISS
+ANS: B
+D: Medium
+P: 8
+EXP: The **ISI** is an autonomous institute of national importance under the **ISI Act, 1959**. **MoSPI is its nodal Ministry** and ensures it functions according to the Act. The ISS cadre is controlled by MoSPI, not by the ISI.
+SC: ISI is autonomous, set up under the 1959 Act, with MoSPI as its nodal ministry.
+
+Q: Which of the following is a function of MoSPI as listed in the source?
+A) Liaison with international agencies in statistical matters
+B) Framing the Union Budget
+C) Conducting the decennial agricultural census alone
+D) Registration of companies
+ANS: A
+D: Easy
+P: 8
+EXP: **Liaison with international agencies** (UNSD, ESCAP, IMF, World Bank and others) on statistical matters is a listed MoSPI function. The Budget is the Finance Ministry's job, the Agriculture Census is run by the Ministry of Agriculture, and company registration is done by MCA.
+SC: International statistical liaison is MoSPI. Budget, agriculture and companies belong to other ministries.
+
+Q: The Index of Industrial Production (IIP) is released by the NSO at what frequency?
+A) Weekly
+B) Monthly
+C) Quarterly
+D) Annually
+ANS: B
+D: Easy
+P: 8
+EXP: The **IIP** is compiled and released **monthly**, earlier by the CSO's Economic Statistics Division and now by the NSO. Quick estimates are later revised as more data come in.
+SC: IIP is monthly. GDP is quarterly and annual. ASI is annual.
+
+Q: Consider the following pairs:
+1. Statistics Wing – National Sample Survey Office
+2. Programme Implementation Wing – Twenty Point Programme
+3. Statistics Wing – MPLAD Scheme
+Which of the pairs given above is/are correctly matched?
+A) 1 and 2 only
+B) 2 and 3 only
+C) 1 only
+D) 1, 2 and 3
+ANS: A
+T: Statement
+D: Easy
+P: 10
+EXP: Pairs 1 and 2 are correct. **MPLADS** belongs to the **Programme Implementation Wing**, not the Statistics Wing.
+SC: Schemes (MPLADS, TPP) go with PI. Offices (NSSO, CSO) go with Statistics.

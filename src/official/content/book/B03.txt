@@ -1,0 +1,568 @@
+@set B03
+@title NSC, CSO Divisions, National Accounts Formulae & SDG Framework
+@pages 14-20
+@desc National Statistical Commission, CSO and its divisions (NAD, ESD, SSD, CPD, Training, Computer Centre), macro-aggregate identities, SDGs and NIF
+
+@topic National Statistical Commission
+Q: The present National Statistical Commission was set up on the recommendation of:
+A) the Mahalanobis Committee
+B) the Rangarajan Commission
+C) the Sengupta Committee
+D) the Lakdawala Committee
+ANS: B
+D: Easy
+P: 14
+EXP: The **Rangarajan Commission (2001)** reviewed the Indian statistical system and recommended a permanent **National Statistical Commission**, which was set up by Government Resolution.
+SC: Rangarajan reviewed the system in 2001, which led to the NSC in 2005/06.
+
+Q: The National Statistical Commission was set up through a Government Resolution dated ___ and constituted on ___.
+A) 1 June 2005; 12 July 2006
+B) 12 July 2006; 1 June 2005
+C) 15 October 1999; 1 June 2005
+D) 1 June 2006; 12 July 2005
+ANS: A
+T: Chronology
+D: Medium
+P: 14
+EXP: The NSC was **set up by Resolution on 1 June 2005** and **constituted on 12 July 2006**. The resolution must come first, and the constitution followed a year later.
+SC: The order is Resolution (2005) then Constitution (2006). Any option with the constitution first is wrong.
+
+Q: Consider the following about the composition of the National Statistical Commission:
+1. It has a part-time Chairperson with the rank of a Minister of State.
+2. It has four part-time Members.
+3. The Secretary, Planning Commission (now CEO, NITI Aayog) is an ex-officio Member.
+Which of the statements given above is/are correct?
+A) 1 and 2 only
+B) 2 and 3 only
+C) 1 and 3 only
+D) 1, 2 and 3
+ANS: D
+T: Statement
+D: Medium
+P: 14
+EXP: All three are correct. The NSC has a **part-time Chairperson (MoS rank)**, **four part-time Members**, and the **Secretary, Planning Commission (now CEO, NITI Aayog)** as an **ex-officio Member**. The **Chief Statistician of India** is its **Secretary**.
+SC: Composition is 1 Chair + 4 Members + 1 ex officio, with the CSI as Secretary.
+
+Q: Which of the following is a function of the National Statistical Commission?
+A) To identify core statistics of national importance
+B) To conduct the Population Census
+C) To compile the Wholesale Price Index
+D) To approve the Union Budget
+ANS: A
+D: Easy
+P: 14
+EXP: The first listed NSC function is to **identify core statistics** that are of national importance and critical to the development of the economy. Census is done by the RGI, WPI by the OEA-DPIIT, and the Budget by the Finance Ministry.
+SC: The NSC sets policy, standards and core statistics. It does not collect data.
+
+Q: Consider the following functions:
+1. Exercising statistical audit over statistical activities
+2. Evolving a release calendar for core statistics
+3. Advising Government on legislative measures, including a statute for the NSC
+4. Directly conducting large-scale sample surveys
+Which of the above are functions of the National Statistical Commission?
+A) 1 and 2 only
+B) 1, 2 and 3 only
+C) 2, 3 and 4 only
+D) 1, 2, 3 and 4
+ANS: B
+T: Statement
+D: Medium
+P: 14
+EXP: Functions 1, 2 and 3 are among the NSC's 13 listed functions (a to m). **Conducting surveys** is the NSO's job. The NSC is an **oversight and policy body**.
+SC: The NSC does policy, standards, audit, coordination and advice. The NSO does data collection.
+
+Q: The Rangarajan Commission, which comprehensively reviewed the Indian statistical system, submitted its report in:
+A) 1999
+B) 2001
+C) 2005
+D) 2006
+ANS: B
+D: Easy
+P: 14
+EXP: The **Dr. C. Rangarajan Commission** (set up in 2000) submitted its report in **August 2001**. The NSC followed through the 2005 resolution and was constituted in 2006.
+SC: The sequence is Report 2001 → Resolution 2005 → Constitution 2006.
+
+Q: The NSC's function of "statistical audit" is aimed at ensuring:
+A) financial propriety of statistical offices
+B) quality and integrity of statistical products
+C) compliance with the Right to Information Act
+D) recovery of penalties under the CoS Act
+ANS: B
+D: Medium
+P: 14
+EXP: The NSC exercises **statistical audit over statistical activities to ensure the quality and integrity of statistical products**. It is a quality audit, not a financial audit.
+SC: In a statistical audit the thing being audited is data quality, not money.
+
+Q: The National Statistical Commission evolves measures for effective coordination with State Governments and UT Administrations. Under the NSC's list of functions, it can recommend measures to effectively implement standards and strategies evolved under clauses:
+A) (a) to (b)
+B) (c) to (h)
+C) (i) to (m)
+D) (a) to (m)
+ANS: B
+D: Hard
+P: 14
+EXP: Function (k) lets the NSC **recommend to the Central or any State Government** measures to implement the standards, strategies and other measures evolved under **clauses (c) to (h)**, which cover policies, standard concepts, strategies for core statistics, HRD, public trust and Centre-State coordination.
+SC: Clause (k) points back to clauses (c)-(h), the "evolve" clauses.
+
+@topic Central Statistical Office & NAD
+Q: According to the source, the CSO was headed by a Director General and had how many main divisions besides a Computer Centre?
+A) 3
+B) 4
+C) 5
+D) 7
+ANS: C
+D: Medium
+P: 15
+EXP: The CSO had **5 main divisions**: National Accounts, Economic Statistics, Social Statistics, Coordination & Publication, and Training. Each was headed by an ADG. The **Computer Centre** was headed by a DDG.
+SC: Remember N-E-S-C-T for NAD, ESD, SSD, CAP/CPD and Training. That makes five.
+
+Q: Which of the following was a main objective of the CSO?
+A) Laying down and maintaining norms and standards in statistics
+B) Conducting the decennial Population Census
+C) Compiling foreign trade statistics
+D) Registering births and deaths
+ANS: A
+D: Easy
+P: 15
+EXP: CSO objectives included **coordination** to find gaps and duplication, **laying down norms and standards**, and **advising ministries** on methodology and analysis.
+SC: The CSO coordinates, sets standards and advises. The census, trade data and registration belong to other agencies.
+
+Q: Which of the following was NOT a responsibility of the National Accounts Division (NAD) as per the source?
+A) Preparation of national income (GDP) estimates
+B) Coordination of the International Comparison Programme (ICP) of the UN
+C) Monthly release of the Index of Industrial Production
+D) Publication of National Accounts Statistics
+ANS: C
+T: Odd-one-out
+D: Medium
+P: 15
+EXP: **IIP** was the job of the **Economic Statistics Division (ESD)**. NAD prepared GDP estimates, published NAS, coordinated the **ICP** (PPP comparisons), and according to the source also compiled CPI (Rural/Urban).
+SC: NAD handles accounts, GDP and ICP. ESD handles industry, IIP and the Economic Census.
+
+Q: As per the national income release calendar, the Provisional Estimates of GDP for the previous year are released on:
+A) 7 January
+B) 31 January
+C) 28 February
+D) 31 May
+ANS: D
+D: Medium
+P: 15
+EXP: **Provisional Estimates** for the previous year come out on **31 May**, together with the Q4 (January–March) estimate. First Revised Estimates came out on 31 January in the source's calendar, Q1 at end-August, Q2 at end-November and Q3 at end-February.
+SC: The year-end numbers appear with the "May PE", released together with Q4.
+TIP: The source gives 7 February for Advance Estimates. Since 2017, when the Union Budget moved to 1 February, the First Advance Estimates have been released around 7 January.
+
+Q: Quarterly GDP estimates for Q1 (April–June) are released at the end of:
+A) June
+B) July
+C) August
+D) September
+ANS: C
+D: Easy
+P: 15
+EXP: Quarterly estimates are released with a **lag of about two months**. Q1 (April–June) comes at the **end of August**, Q2 at the end of November, Q3 at the end of February, and Q4 with the PE at the end of May.
+SC: Quarter end + 2 months = release month (June + 2 = August).
+
+Q: Which of the following was a publication of the National Accounts Division?
+A) National Accounts Statistics – Sources and Methods
+B) Monthly Abstract of Statistics
+C) Women & Men in India
+D) Compendium of Environment Statistics
+ANS: A
+D: Easy
+P: 15
+EXP: NAD published **National Accounts Statistics** (annual), the **NAS Back Series from 1950-51**, **Input-Output Transactions Tables**, **NAS – Sources and Methods**, and State-wise and crop-wise value of output. The Monthly Abstract is a CPD publication. Women & Men in India and the Environment Compendium are SSD publications.
+SC: A title with "National Accounts" in it is NAD. Gender and environment titles are SSD. "Abstract" titles are CPD.
+
+@topic Macro-economic Aggregates & Formulae
+Q: GVA at basic prices is given by:
+A) CE + OS/MI + CFC + Production taxes − Production subsidies
+B) CE + OS/MI + CFC + Product taxes − Product subsidies
+C) GDP − CFC
+D) CE + OS/MI − CFC + Net factor income from abroad
+ANS: A
+D: Medium
+P: 16
+EXP: **GVA at basic prices = CE + OS/MI + CFC + (production taxes − production subsidies)**. Adding **product taxes net of product subsidies** to GVA at basic prices gives **GDP**.
+SC: Basic prices include production taxes. Market prices (GDP) add product taxes on top.
+
+Q: GDP at market prices is obtained from GVA at basic prices by adding:
+A) consumption of fixed capital
+B) product taxes less product subsidies
+C) production taxes less production subsidies
+D) net primary income from abroad
+ANS: B
+D: Easy
+P: 16
+EXP: **GDP = GVA at basic prices + product taxes − product subsidies**. Adding net primary income from abroad gives GNI, and subtracting CFC gives net measures.
+SC: Going from GVA (basic) to GDP (market) means adding the per-unit (product) taxes.
+
+Q: Which of the following is a PRODUCTION tax (as distinct from a product tax) as per the national accounts classification?
+A) Excise duty
+B) Sales tax
+C) Stamps and registration fees
+D) Import duty
+ANS: C
+D: Medium
+P: 17
+EXP: **Production taxes** are paid in connection with production **regardless of the volume of output**, for example **land revenue, stamps and registration fees**. **Product taxes** are levied **per unit** of product: excise, sales tax, service tax, import and export duties.
+SC: Ask whether the tax rises with each unit sold. If yes, it is a product tax. If no, it is a production tax.
+
+Q: Match List-I (Item) with List-II (Category):
+| List-I | List-II |
+|---|---|
+| A. Fertiliser subsidy | 1. Production subsidy |
+| B. Subsidy to Railways | 2. Product subsidy |
+| C. Land revenue | 3. Product tax |
+| D. Service tax | 4. Production tax |
+A) A-2, B-1, C-4, D-3
+B) A-1, B-2, C-4, D-3
+C) A-2, B-1, C-3, D-4
+D) A-1, B-2, C-3, D-4
+ANS: A
+T: Match
+D: Medium
+P: 17
+EXP: Food, petroleum and **fertiliser subsidies** are **product subsidies** (per unit). Subsidies to **Railways** and village/small industries are **production subsidies**. **Land revenue** is a **production tax**. **Service tax** is a **product tax**.
+SC: Per unit means "product". Lump sum or independent of volume means "production".
+
+Q: GNI (GNP) is obtained from GDP by:
+A) subtracting consumption of fixed capital
+B) adding net primary income from the rest of the world
+C) adding other current transfers from abroad
+D) subtracting net indirect taxes
+ANS: B
+D: Easy
+P: 16
+EXP: **GNI = GDP + net primary income from abroad** (receipts minus payments of compensation and property income from the rest of the world). Subtracting CFC gives NNI. Adding current transfers gives disposable income (GNDI).
+SC: "National" means adding net income earned abroad (NFIA).
+
+Q: Net National Income at factor cost (NNP at factor cost) is commonly called:
+A) Gross Value Added
+B) National Income
+C) Personal Disposable Income
+D) Gross National Disposable Income
+ANS: B
+D: Easy
+P: 16
+EXP: The source's derivation chart ends with **(NNP)fc = National Income**. Start from GDPmp, subtract depreciation, add NFIA and subtract net indirect taxes.
+SC: National Income is Net, National, at Factor cost: N-N-F.
+
+Q: Gross National Disposable Income (GNDI) equals:
+A) GNI + other current transfers from the rest of the world (net)
+B) GNI − CFC
+C) NNI + CFC − current transfers
+D) GDP + product taxes
+ANS: A
+D: Medium
+P: 16
+EXP: **NNDI = NNI + other current transfers from ROW (net)**, and **GNDI = NNDI + CFC = GNI + other current transfers (net)**. Current transfers are items such as remittances and grants, other than primary incomes.
+SC: "Disposable" means adding current transfers (remittances) to national income.
+
+Q: As per the identity used in Indian national accounts, Gross Capital Formation equals:
+A) Gross Savings + Net capital inflow from the rest of the world
+B) GFCF − Changes in stocks
+C) Gross Savings − Net capital inflow
+D) PFCE + GFCE
+ANS: A
+D: Medium
+P: 16
+EXP: **GCF = Gross Savings + Net Capital Inflow from ROW**. This is treated as the **firmer** estimate. When GCF is also built up as **GFCF + CIS + valuables**, the difference between the two is recorded as **errors and omissions**.
+SC: Investment = domestic saving + foreign saving.
+
+Q: In the national accounts, "errors and omissions" in capital formation arise as the difference between:
+A) GDP by the production and expenditure approaches
+B) GCF derived from savings plus net capital inflow and the sum of GFCF, CIS and valuables
+C) Advance and Provisional estimates
+D) GVA at basic prices and GVA at factor cost
+ANS: B
+D: Hard
+P: 17
+EXP: The source says GCF from **savings + net capital inflow** is taken as the **firmer** estimate. The gap between it and **GFCF + CIS + valuables** is shown as "**errors and omissions**".
+SC: E&O is the balancing item that makes the savings side equal the asset side.
+
+Q: Primary incomes, as used in national accounts, comprise:
+A) Compensation of employees and property & entrepreneurial income
+B) Current transfers and capital transfers
+C) Taxes and subsidies
+D) Wages and pensions only
+ANS: A
+D: Medium
+P: 16
+EXP: **Primary incomes = compensation of employees + property and entrepreneurial income**. These are incomes earned from taking part in production or from owning assets. Transfers are secondary distributions.
+SC: Primary income is earned (labour or property). Transfers are given (secondary).
+
+Q: The gross disposable income of the Government equals:
+A) GFCE + Gross Saving of General Government
+B) PFCE + GFCE
+C) GNDI − CFC
+D) Taxes − Subsidies
+ANS: A
+D: Hard
+P: 16
+EXP: Disposable income is either consumed or saved. So **GDI of Government = GFCE + Gross saving of general government**. The GDI of households is found as **GNDI − GDI of Government − Gross savings of all corporations**.
+SC: Disposable income = consumption + saving, which holds for any sector.
+
+@topic Economic Statistics Division
+Q: As per the source, the 5th Economic Census was conducted in:
+A) 1998
+B) 2005
+C) 2013
+D) 2019
+ANS: B
+D: Medium
+P: 17
+EXP: The source says the **5th EC was held in 2005** and the 6th was then in progress (it was conducted in 2013-14). The **7th EC** began in 2019 using CSC e-Governance as the implementing agency.
+SC: EC years: 4th 1998, 5th 2005, 6th 2013-14, 7th 2019-21.
+
+Q: The National Industrial Classification referred to in the source (NIC 2008) is maintained by:
+A) CSO (Industrial Statistics Wing), Kolkata
+B) Office of the Economic Adviser
+C) Registrar of Companies
+D) Labour Bureau
+ANS: A
+D: Medium
+P: 17
+EXP: The source says **ASI** and **NIC** work are done through the **CSO (IS Wing), Kolkata**. NIC-2008 is aligned to ISIC Rev.4.
+SC: The IS Wing in Kolkata handles industry work: ASI and NIC.
+
+Q: Which of the following were listed as new initiatives of the Economic Statistics Division?
+A) Infrastructure statistics, Index of Service Production and National Product Classification
+B) Time Use Survey and Disability Manual
+C) SDG dashboard and NIF
+D) Sample Registration System and MCCD
+ANS: A
+D: Medium
+P: 17
+EXP: The source lists ESD's **new initiatives** as **infrastructure statistics, the Index of Service Production and the National Product Classification**. The Time Use Survey and Disability Manual are SSD items, and the SDG dashboard is SSD work. SRS/MCCD belong to the RGI.
+SC: ESD covers economic items (services index, product classification). SSD covers social and SDG items.
+
+@topic Social Statistics Division & SDGs
+Q: The first Time Use Survey conducted by the CSO in 1998-99 was aimed mainly at:
+A) estimating the labour force participation of children
+B) properly quantifying the economic contribution of women in the national economy
+C) measuring leisure time of urban households
+D) estimating hours worked in the organised sector
+ANS: B
+D: Medium
+P: 17
+EXP: The **1998-99 pilot Time Use Survey**, carried out in six States, sought to **quantify women's economic contribution**, including unpaid household and care work. A full-scale national TUS was later done by the NSO in **2019**.
+SC: Time Use Survey 1998-99 was about making women's unpaid work visible.
+
+Q: The National Indicator Framework (NIF) developed by MoSPI for SDGs originally consisted of how many national indicators?
+A) 169
+B) 232
+C) 306
+D) 17
+ANS: C
+D: Medium
+P: 17
+EXP: The source says the **NIF** was developed with **306 national indicators**, with data sources and periodicity identified. Globally there are **17 Goals, 169 targets and about 231/232 global indicators**.
+SC: Remember the ladder 17 → 169 → 232 → 306: Goals, targets, global indicators, India's NIF (original version).
+
+Q: The SDG India Dashboard of MoSPI, launched on 29 June 2019, was developed in collaboration with:
+A) the UN Resident Coordinator's Office
+B) the World Bank
+C) NITI Aayog alone
+D) the Asian Development Bank
+ANS: A
+D: Medium
+P: 18
+EXP: The **SDGs Dashboard** (sdgindia2030.mospi.gov.in) was launched on **29 June 2019** (Statistics Day). MoSPI developed it with the **UN Resident Coordinator (UNRC) Office** as a single repository of NIF indicators.
+SC: 29 June is Statistics Day (Mahalanobis's birthday), the day MoSPI launches its flagship products.
+
+Q: Which SDG is "Industry, Innovation and Infrastructure"?
+A) SDG 7
+B) SDG 8
+C) SDG 9
+D) SDG 11
+ANS: C
+D: Easy
+P: 18
+EXP: SDG 7 is Affordable and clean energy. SDG 8 is Decent work and economic growth. **SDG 9 is Industry, innovation and infrastructure**. SDG 11 is Sustainable cities and communities.
+SC: Goals 7-8-9 run energy → jobs → industry.
+
+Q: Match List-I (SDG number) with List-II (Goal):
+| List-I | List-II |
+|---|---|
+| A. SDG 5 | 1. Life below water |
+| B. SDG 12 | 2. Gender equality |
+| C. SDG 14 | 3. Peace, justice and strong institutions |
+| D. SDG 16 | 4. Responsible consumption and production |
+A) A-2, B-4, C-1, D-3
+B) A-2, B-1, C-4, D-3
+C) A-4, B-2, C-1, D-3
+D) A-2, B-4, C-3, D-1
+ANS: A
+T: Match
+D: Medium
+P: 18
+EXP: SDG 5 is Gender equality. SDG 12 is Responsible consumption and production. SDG 14 is Life below water. SDG 16 is Peace, justice and strong institutions.
+SC: 13-14-15 go climate → water → land. 16 is institutions and 17 is partnership.
+
+Q: The 2030 Agenda for Sustainable Development is organised around five "P"s. Which of the following is NOT one of them?
+A) People
+B) Planet
+C) Productivity
+D) Partnership
+ANS: C
+T: Odd-one-out
+D: Easy
+P: 18
+EXP: The five Ps are **People, Planet, Prosperity, Peace and Partnership**. "Productivity" is not one of them.
+SC: Prosperity is a P, but productivity is not.
+
+Q: The SDGs were adopted by all UN Member States in:
+A) 2000
+B) 2012
+C) 2015
+D) 2016
+ANS: C
+D: Easy
+P: 18
+EXP: The **SDGs** were adopted in **September 2015** (UNGA resolution 70/1) as a universal call to action to be achieved by **2030**. They succeeded the MDGs (2000–2015) and came into force on 1 January 2016.
+SC: MDGs 2000 → SDGs 2015 (in force from 2016) → target year 2030.
+
+Q: The SDG pledge to "Leave No One Behind" commits countries to:
+A) fast-track progress for those furthest behind first
+B) give equal budget shares to all regions
+C) achieve all goals simultaneously by 2020
+D) prioritise GDP growth over equity
+ANS: A
+D: Easy
+P: 18
+EXP: "Leave No One Behind" means countries commit to **reach those furthest behind first**. The aim is several "zeros": zero poverty, zero hunger, zero AIDS and zero discrimination against women and girls.
+SC: LNOB means helping the furthest behind first.
+
+Q: The publications 'Handbook on National Indicator Framework' and 'Data Snapshot on SDG NIF Baseline Report 2015-16' were released on:
+A) 29 June 2019
+B) 20 October 2015
+C) 15 October 2019
+D) 1 January 2016
+ANS: A
+D: Medium
+P: 17
+EXP: Both were released on **29 June 2019 (Statistics Day)**, the same day as the SDG India Dashboard.
+SC: Launches on 29 June are tied to Statistics Day.
+
+Q: Which of the following publications belongs to the Social Statistics Division?
+A) Women & Men in India
+B) Statistical Pocket Book
+C) Input-Output Transactions Table
+D) Monthly Abstract of Statistics
+ANS: A
+D: Easy
+P: 19
+EXP: SSD publishes **Women & Men in India**, Situation Analysis of the Elderly, Children in India, Selected Socio-Economic Statistics, MDG/SAARC country reports, the Compendium of Environment Statistics and the Manual on Disability Statistics. The Pocket Book and Monthly Abstract are CPD titles. The I-O Table is NAD.
+SC: Gender, children, elderly, disability and environment all belong to SSD.
+
+Q: The India Statistical Strengthening Project (ISSP) was:
+A) a World Bank project to strengthen State statistical systems
+B) an ADB project for computerising NSSO
+C) a UNDP project for the SDG dashboard
+D) an IMF project on SDDS subscription
+ANS: A
+D: Medium
+P: 19
+EXP: The **ISSP** was a **World Bank** project. The **State DESs** were its main executors. It aimed to improve the reliability, credibility, timeliness and coverage of State statistics for planning.
+SC: ISSP was a World Bank project run through the States, whose DESs carried it out.
+
+Q: "Green National Accounts in India – A Framework" and the "Compendium of Environment Statistics" are associated with the development of:
+A) environment statistics and natural resource accounting
+B) energy balance sheets
+C) agricultural cost of cultivation
+D) financial inclusion statistics
+ANS: A
+D: Easy
+P: 19
+EXP: SSD handles **environment statistics and natural resource accounting**, which later evolved into MoSPI's **EnviStats** and **SEEA-based** environmental-economic accounts.
+SC: Green accounts and environment statistics both come under SSD's environment work.
+
+@topic Coordination & Publication Division
+Q: Which of the following is an annual publication of the Coordination & Publication Division?
+A) Monthly Abstract of Statistics
+B) Statistical Abstract India
+C) Children in India
+D) National Accounts Statistics – Back Series
+ANS: B
+D: Easy
+P: 19
+EXP: CPD brings out the **Monthly Abstract of Statistics** (monthly), **Statistical Abstract India** (annual), the **Statistical Pocket Book** (annual), **India in Figures** (annual), the Statistical Year Book and others.
+SC: The word "Monthly" rules out the first option. The others belong to SSD and NAD.
+
+Q: The Coordination & Publication Division disseminates data to which of the following international agencies?
+A) UNSD, ESCAP, SAARC, ADB and ILO
+B) WTO and WIPO only
+C) Interpol and UNHCR
+D) NATO and OECD only
+ANS: A
+D: Easy
+P: 19
+EXP: CPD disseminates Indian socio-economic data to **UNSD, ESCAP, SAARC, ADB and ILO**, among others.
+SC: Statistical and development agencies receive the data, not trade-law or security bodies.
+
+@topic Training Division & Computer Centre
+Q: The National Academy of Statistical Administration (NASA), set up by MoSPI for training, is located at:
+A) Kolkata
+B) Greater Noida
+C) Hyderabad
+D) Faridabad
+ANS: B
+D: Easy
+P: 19
+EXP: **NASA**, now the **National Statistical Systems Training Academy (NSSTA)**, is at **Greater Noida**. It trains ISS probationers, SSS officials, State and PSU staff, and participants from developing countries.
+SC: The training academy is in Greater Noida. The ISI and IS Wing are in Kolkata, and FOD is in Delhi/Faridabad.
+
+Q: Training activities of MoSPI's Training Division are guided by the "Training Programmes Approval Committee (TPAC)" chaired by:
+A) the Chief Statistician of India
+B) the DG, CSO
+C) the Director, ISI
+D) the Chairperson, NSC
+ANS: B
+D: Hard
+P: 19
+EXP: The source states that **TPAC** is a high-powered advisory committee under the **chairmanship of the DG, CSO, MoSPI**. It decides coverage, duration, methodology, curriculum and modules of training.
+SC: The Training Division sat under the CSO, so the CSO's head chairs TPAC.
+
+Q: How long is the probationary training for newly recruited Indian Statistical Service officers?
+A) One year
+B) Two years
+C) Six months
+D) Three years
+ANS: B
+D: Easy
+P: 20
+EXP: The Training Division runs a **two-year probationary training** for new ISS officers, refresher courses for serving officers, SSS courses, and courses for **ISEC** and SAARC and other countries.
+SC: ISS probation lasts two years, the same as most Group-A services.
+
+Q: The MoSPI Computer Centre was set up in 1967 as an attached office under:
+A) the Department of Statistics, Cabinet Secretariat
+B) the Planning Commission
+C) the Ministry of Electronics
+D) the Indian Statistical Institute
+ANS: A
+D: Medium
+P: 20
+EXP: The **Computer Centre (1967)** was an attached office of the then **Department of Statistics in the Cabinet Secretariat**. It handled large-scale data processing (for example Economic Census 2005), the data warehouse, the National Data Bank of Socio-Religious Categories, and the MoSPI website.
+SC: In 1967 the Department of Statistics sat in the Cabinet Secretariat, and MoSPI did not exist until 1999.
+
+Q: Which of the following was a function of the MoSPI Computer Centre?
+A) Maintaining the National Data Bank on Socio-Religious Categories
+B) Conducting crop-cutting experiments
+C) Compiling the WPI
+D) Conducting the SRS half-yearly survey
+ANS: A
+D: Medium
+P: 20
+EXP: The Computer Centre kept the **National Data Bank of Socio-Religious Categories**, a **data warehouse** for preserving and disseminating official statistics, developed software, maintained **mospi.gov.in**, and ran IT training.
+SC: Anything to do with data banks, warehouses or websites was the Computer Centre.
+
+Q: The International Statistical Education Centre (ISEC), for whose courses MoSPI's Training Division provides training, is associated with:
+A) the Indian Statistical Institute, Kolkata
+B) NITI Aayog
+C) IIT Delhi
+D) the Reserve Bank of India
+ANS: A
+D: Medium
+P: 20
+EXP: **ISEC** was set up at the **ISI, Kolkata** (1950, with UNESCO/Government of India support). It trains statisticians from developing countries, and MoSPI's Training Division contributes courses.
+SC: ISEC is part of the ISI and teaches international trainees.

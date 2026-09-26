@@ -153,6 +153,17 @@ def rebalance(qs, dist):
         dist[k] = 0
     movable = []
     for q in qs:
+        if (q["questionType"] not in FIXED_TYPES and all(NUMERIC.match(o) for o in q["options"])
+                and not any(FIXED_WORDS.search(o) for o in q["options"])):
+            # Numeric ladders are shown in ascending order (UPSC convention).
+            def lead(o):
+                m = re.search(r"[-+]?\d[\d,]*\.?\d*", o)
+                return float(m.group(0).replace(",", "")) if m else 0.0
+            vals = [lead(o) for o in q["options"]]
+            if len(set(vals)) == 4:
+                correct = q["options"][q["correctAnswer"]]
+                q["options"] = sorted(q["options"], key=lead)
+                q["correctAnswer"] = q["options"].index(correct)
         if shuffle_ok(q):
             movable.append(q)
         else:

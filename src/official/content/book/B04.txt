@@ -1,0 +1,579 @@
+@set B04
+@title NSSO & its Divisions, NSS Subjects, PI Wing, ISI, Health Surveys & HDI
+@pages 21-32
+@desc NSSO structure (SDRD, FOD, DPD, CPD), Agriculture Census & ICS, NSS subject coverage and decennial programme, PI Wing (TPP, MPLADS, IPMD), Statistics Day, ISI, NFHS/DLHS/AHS, HDI
+
+@topic NSSO: Origin & Governance
+Q: The National Sample Survey Organisation (NSSO) was created in March 1970 by reorganising:
+A) the Central Statistical Unit
+B) the Directorate of National Sample Survey set up in 1950
+C) the Computer Centre
+D) the Indian Statistical Institute's survey unit
+ANS: B
+D: Easy
+P: 21
+EXP: The **Directorate of NSS (1950)** was reorganised in **March 1970** into the **NSSO**. In 2019 the NSSO became part of the **NSO**, and its surveys continue under the NSO's Survey wing.
+SC: NSS started as a Directorate in 1950 and became the Organisation (NSSO) in 1970.
+
+Q: To ensure objectivity and autonomy in NSS data collection, the NSSO functioned under the technical control of:
+A) the Planning Commission
+B) a Steering Committee with a non-official Chairman
+C) the Comptroller and Auditor General
+D) the Reserve Bank of India
+ANS: B
+D: Medium
+P: 21
+EXP: NSS work was under the technical guidance of a **Steering Committee** with a **non-official Chairman** and academicians, with the **DG & CEO, NSSO as Member Secretary**. This arrangement protects the professional autonomy of survey design and results.
+SC: Autonomy is protected by a non-official chair who steers the surveys.
+
+Q: Who acted as Member Secretary of the NSSO Steering Committee?
+A) Secretary, MoSPI
+B) DG & CEO, NSSO
+C) ADG, SDRD
+D) Chairperson, NSC
+ANS: B
+D: Medium
+P: 21
+EXP: The **DG & CEO of the NSSO** was the **Member Secretary** of the Steering Committee. The Coordination & Publication Division gave it technical and secretarial support.
+SC: The head of the survey office services its own steering body as Member Secretary.
+
+Q: Which of the following were the two most important publications of the NSSO?
+A) NSS round reports and the journal 'Sarvekshana'
+B) Statistical Abstract India and Monthly Abstract
+C) National Accounts Statistics and Input-Output Table
+D) Women & Men in India and Children in India
+ANS: A
+D: Easy
+P: 21
+EXP: The NSSO's key outputs are the **reports of the NSS rounds** and **'Sarvekshana'**, its technical journal. Sarvekshana is brought out by CPD and carries survey results and analysis.
+SC: Sarvekshana means "survey" in Sanskrit, so it is the NSSO's journal.
+
+Q: Which of the following activities was undertaken by the NSSO?
+1. Collecting retail prices for CPI (Rural/Urban) and CPI-AL/RL
+2. Urban Frame Survey to maintain a frame of urban area units
+3. Technical guidance to States for crop estimation surveys under the ICS scheme
+4. Field work of the Annual Survey of Industries
+Select the correct answer using the code given below:
+A) 1 and 2 only
+B) 2 and 3 only
+C) 1, 3 and 4 only
+D) 1, 2, 3 and 4
+ANS: D
+T: Statement
+D: Medium
+P: 21
+EXP: All four are NSSO activities. It collects **rural and urban retail prices**, runs the **Urban Frame Survey (UFS)**, guides crop estimation surveys under **ICS**, and conducts **ASI field work** through FOD. It also runs enterprise surveys that follow the Economic Census.
+SC: FOD is the field arm for almost every national survey, so all four apply.
+
+@topic NSSO Divisions: SDRD, FOD, DPD, CPD
+Q: How many divisions did the NSSO have?
+A) Three
+B) Four
+C) Five
+D) Six
+ANS: B
+D: Easy
+P: 21
+EXP: The NSSO had **four** divisions: **SDRD** (Survey Design & Research), **FOD** (Field Operations), **DPD** (Data Processing) and **CPD** (Coordination & Publication).
+SC: They follow the survey life-cycle: Design → Field → Process → Publish.
+
+Q: Formulation of the sample design, drawing up schedules of enquiry and preparing survey reports is the mandate of:
+A) Field Operations Division
+B) Survey Design & Research Division
+C) Data Processing Division
+D) Coordination & Publication Division
+ANS: B
+D: Easy
+P: 21
+EXP: **SDRD** is the professional core of the NSSO. It plans surveys, sets the **sample design**, **schedules**, **concepts and definitions**, instruction manuals, scrutiny checks and **tabulation plans**, and writes the **survey reports**.
+SC: Design and reports are both "thinking" work, and both belong to SDRD.
+
+Q: The headquarters of the Field Operations Division of NSSO is located at:
+A) Kolkata
+B) New Delhi and Faridabad
+C) Nagpur
+D) Greater Noida
+ANS: B
+D: Easy
+P: 23
+EXP: **FOD** has its headquarters at **New Delhi and Faridabad**. **DPD** is headquartered at **Kolkata**, and the **Training Academy** is at Greater Noida.
+SC: Field work is run from Delhi/Faridabad. Processing is run from Kolkata.
+
+Q: As per the source, the Field Operations Division works through a network of:
+A) 6 Zonal Offices, 49 Regional Offices and 116 Sub-Regional Offices
+B) 4 Zonal Offices, 36 Regional Offices and 100 Sub-Regional Offices
+C) 5 Zonal Offices, 49 Regional Offices and 118 Sub-Regional Offices
+D) 6 Zonal Offices, 52 Regional Offices and 116 Sub-Regional Offices
+ANS: A
+D: Medium
+P: 23
+EXP: The source gives **6 Zonal Offices**, **49 Regional Offices** and **116 Sub-Regional Offices**, with about **4,000 staff**. Zonal Offices are headed by DDGs. ROs are headed by DDG/Director-level officers, except **Port Blair**, which is headed by an Assistant Director.
+SC: Remember 6-49-116 for Zonal-Regional-Sub-Regional.
+
+Q: Which Regional Office of FOD is an exception in being headed by an Assistant Director rather than a DDG/Director-level officer?
+A) Port Blair
+B) Leh
+C) Gangtok
+D) Kavaratti
+ANS: A
+D: Hard
+P: 23
+EXP: The source notes that all Regional Offices are headed by DDG/Director-level officers **except Port Blair**, which is headed by an **Assistant Director**.
+SC: Port Blair is the small island RO, so it has a junior head.
+
+Q: The Improvement of Crop Statistics (ICS) scheme, supervised through NSSO's FOD, aims primarily to:
+A) replace State crop statistics with NSSO estimates
+B) identify deficiencies in the State system of crop statistics and suggest remedies through joint Central-State effort
+C) conduct the Agriculture Census every year
+D) fix Minimum Support Prices
+ANS: B
+D: Medium
+P: 22
+EXP: **ICS** supervises area enumeration and crop-cutting experiments on a sample basis to **detect deficiencies** in State crop statistics and **suggest remedial measures**. It is a joint **Central–State** effort. The source says it covered **18 land-record States/UTs and 3 non-land-record States**.
+SC: ICS is a quality check on State crop data. It improves State data rather than replacing it.
+
+Q: The Centrally Sponsored Scheme 'Improvement of Agricultural Statistics' consisted of which components?
+A) TRS, EARAS and ICS
+B) TRS, UFS and ASI
+C) EARAS, CCE and NAS
+D) ICS, PLFS and SRS
+ANS: A
+D: Medium
+P: 22
+EXP: The scheme had three components: **Timely Reporting Scheme (TRS)**, **Establishment of an Agency for Reporting of Agricultural Statistics (EARAS)**, used in non-land-record States (Kerala, Odisha, West Bengal), and **Improvement of Crop Statistics (ICS)**.
+SC: T-E-I: Timely reporting, EARAS for non-land-record States, ICS for quality.
+
+@topic Agriculture Census
+Q: The first Agriculture Census in India was conducted in:
+A) 1950-51
+B) 1960-61
+C) 1970-71
+D) 1980-81
+ANS: C
+D: Easy
+P: 22
+EXP: The **first Agriculture Census** was held in **1970-71**, as part of the FAO's World Census of Agriculture programme. It is repeated every **five years** (quinquennially) in India.
+SC: The first Agriculture Census was in 1970-71, the same year the NSSO was set up.
+
+Q: Consider the following statements:
+1. In India, the Agriculture Census is conducted quinquennially.
+2. The FAO's World Programme for the Census of Agriculture is decennial.
+3. Indian agricultural statistics relate to the agricultural year July–June.
+Which of the statements given above is/are correct?
+A) 1 and 2 only
+B) 2 and 3 only
+C) 1 and 3 only
+D) 1, 2 and 3
+ANS: D
+T: Statement
+D: Medium
+P: 22
+EXP: All three are correct. India runs the Agriculture Census **every 5 years** (census-cum-sample), while the **world programme is decennial**. The **agricultural year** is **July–June**. Forest statistics use the **financial year** (April–March).
+SC: India every 5 years, FAO every 10. Agricultural year July-June, forests April-March.
+
+Q: In land-record States, data on the number and area of operational holdings for the Agriculture Census are obtained by:
+A) household enquiry on a 20 per cent sample
+B) re-tabulation by Patwaris from the land records (Khasra register)
+C) satellite imagery only
+D) self-reporting by farmers online
+ANS: B
+D: Medium
+P: 22
+EXP: In **land-record States**, which cover about **86%** of the reported area, **Patwaris retabulate** holdings from the **Khasra** register. In **non-land-record States**, data come from a **household enquiry** in a sample of villages.
+SC: Land-record States use the Patwari and Khasra. Non-land-record States use a sample household survey.
+
+Q: The Agriculture Census is carried out in three phases. Which phase collects data on input use from holdings in about 7 per cent of villages?
+A) Phase I
+B) Phase II
+C) Phase III
+D) Phase IV
+ANS: C
+D: Medium
+P: 23
+EXP: **Phase I**: listing of holdings (census in land-record States, 20% sample villages in others). **Phase II**: detailed agricultural characteristics from **20% sample villages**. **Phase III (Input Survey)**: input-use patterns from holdings in **7% of villages**, estimated at the district and State level.
+SC: Phases 1-2-3 run List → Detail (20%) → Inputs (7%). The sample shrinks as the detail grows.
+
+@topic Data Processing & Coordination
+Q: The Data Processing Division (DPD) of NSSO had its headquarters at:
+A) New Delhi
+B) Kolkata
+C) Nagpur
+D) Ahmedabad
+ANS: B
+D: Easy
+P: 23
+EXP: **DPD headquarters is Kolkata**, with six Data Processing Centres at **Kolkata, Ahmedabad, Bangalore, Delhi, Giridih and Nagpur**.
+SC: Kolkata hosts the processing HQ, the ISI and the IS Wing.
+
+Q: Which of the following is NOT one of the Data Processing Centres of NSSO's DPD?
+A) Giridih
+B) Nagpur
+C) Chennai
+D) Ahmedabad
+ANS: C
+T: Odd-one-out
+D: Medium
+P: 23
+EXP: The six DPCs are **Kolkata, Ahmedabad, Bangalore, Delhi, Giridih and Nagpur**. **Chennai** is not one of them. Giridih (Jharkhand) is the one people usually forget.
+SC: Giridih is the surprise name on the list. Chennai is not on it.
+
+Q: The quarterly Rural Price Bulletin, based on monthly rural retail prices, is released after processing by:
+A) Field Operations Division
+B) Data Processing Division
+C) Labour Bureau
+D) Office of the Economic Adviser
+ANS: B
+D: Hard
+P: 24
+EXP: One of **DPD's** functions is **processing and tabulating monthly rural retail price data** and releasing the **quarterly Rural Price Bulletin**. DPD also maintains the sampling frame, updates the UFS database and selects samples.
+SC: Raw prices are collected by FOD and turned into the bulletin by DPD.
+
+Q: Maintenance of the sampling frame, updating the Urban Frame Survey database and selection of samples were functions of:
+A) SDRD
+B) DPD
+C) CPD
+D) FOD
+ANS: B
+D: Hard
+P: 24
+EXP: The source lists these under **DPD's main functions**, along with pre-entry scrutiny, in-house validation and tabulation software, data entry, validation and tabulation. The UFS **field work** itself is done by FOD.
+SC: Frame maintenance and sample selection are data-handling tasks, so they sit with DPD.
+
+Q: Supplying NSS unit-level survey data to individuals, researchers and institutions, and providing secretarial support to the Steering Committee, is the role of:
+A) Coordination & Publication Division
+B) Field Operations Division
+C) Survey Design & Research Division
+D) National Accounts Division
+ANS: A
+D: Medium
+P: 24
+EXP: **CPD (New Delhi)** coordinates all NSSO divisions, publishes **Sarvekshana**, organises **National Seminars** on survey results, **supplies data to users**, and gives technical and secretarial help to the Steering Committee and the DG & CEO.
+SC: Coordination, publication and data supply are the outward-facing jobs, and they belong to CPD.
+
+@topic NSS Subject Coverage & Decennial Programme
+Q: Under the decennial programme of NSS, which subjects are covered once in five years?
+A) Employment-unemployment and consumer expenditure
+B) Debt & investment and land holdings
+C) Disability and morbidity
+D) Fertility and family planning
+ANS: A
+D: Medium
+P: 27
+EXP: The **quinquennial** subjects were **employment-unemployment** (with the rural labour enquiry), **consumer expenditure** and **self-employment in the non-agricultural sector**. **Debt & investment** and **land & livestock holdings** are **decennial**, as are demographic and health subjects.
+SC: Frequent topics (jobs, consumption) come every 5 years. Slow-changing stocks (land, debt) come every 10.
+
+Q: In the NSS decennial programme, how many years of the 10-year cycle were left open for new subjects and special requests from Governments?
+A) 2
+B) 3
+C) 4
+D) 5
+ANS: B
+D: Medium
+P: 27
+EXP: The fixed programme took **7 of the 10 years**. The remaining **3 years** were left open for unexplored subjects and special requests from Central or State Governments.
+SC: 7 fixed years + 3 open years = 10.
+
+Q: Which NSS round (January–December 2019) covered land and livestock holdings, the situation assessment of agricultural households, and debt & investment?
+A) 70th round
+B) 75th round
+C) 77th round
+D) 78th round
+ANS: C
+D: Medium
+P: 26
+EXP: The **77th round (January–December 2019)** covered **Land & livestock holdings with the Situation Assessment Survey of agricultural households** and **Debt & Investment**. The same pairing was last done in the **70th round (2013)**, which fits the decennial cycle.
+SC: 70th (2013) and 77th (2019) both cover land, SAS and debt.
+
+Q: The NSS 76th round (July–December 2018) covered:
+A) persons with disabilities, and drinking water, sanitation, hygiene and housing condition
+B) domestic tourism expenditure
+C) unincorporated non-agricultural enterprises
+D) household consumer expenditure
+ANS: A
+D: Medium
+P: 26
+EXP: The **76th round** covered **persons with disabilities** and **drinking water, sanitation, hygiene and housing condition**. Domestic tourism was covered in the **72nd and 78th** rounds, unincorporated enterprises in the **73rd**, and consumer expenditure in the **75th** (results not released).
+SC: 76th = Disability + WaSH. It came six years after the 69th (WaSH/slums, 2012).
+
+Q: The NSS 73rd round (July 2015–June 2016) was devoted to:
+A) unincorporated non-agricultural enterprises (excluding construction)
+B) health and morbidity
+C) periodic labour force
+D) household social consumption on education
+ANS: A
+D: Medium
+P: 26
+EXP: The **73rd round** surveyed **unincorporated non-agricultural enterprises** in manufacturing, trade and other services, **excluding construction**. It follows up the Economic Census for the informal enterprise sector.
+SC: 73rd round = unincorporated enterprises, the follow-up to the Economic Census.
+
+Q: The NSS 78th round (2020) included, besides domestic tourism expenditure, which survey designed to generate SDG indicators?
+A) Multiple Indicator Survey (MIS)
+B) Time Use Survey
+C) Comprehensive Annual Modular Survey
+D) Survey of Unincorporated Sector Enterprises
+ANS: A
+D: Medium
+P: 26
+EXP: The **78th round** carried the **Multiple Indicator Survey (MIS)** to produce **SDG** indicators such as access to improved water, ICT skills and assets, along with **domestic tourism expenditure**.
+SC: MIS gives multiple indicators, and those indicators are for the SDGs.
+
+Q: Effective literacy rate, as used by the Census since 1991, is defined as:
+A) (Literates of all ages / Total population) × 100
+B) (Literates aged 7+ / Population aged 7+) × 100
+C) (Literates aged 15+ / Population aged 15+) × 100
+D) (Literates aged 6+ / Population aged 6+) × 100
+ANS: B
+D: Easy
+P: 25
+EXP: **Effective literacy rate = (literates aged 7 and above ÷ population aged 7 and above) × 100**. Children aged **0–6 are treated as illiterate** by definition and so are excluded. **Crude literacy rate** divides literates by the **total** population. The adult literacy rate uses 15+.
+SC: Census literacy uses 7+ (effective). The 15+ base is the adult literacy rate used internationally.
+
+Q: India's literacy rate as per Census 2011 was about:
+A) 64.8%
+B) 74.0%
+C) 82.1%
+D) 65.5%
+ANS: B
+D: Easy
+P: 25
+EXP: Census 2011 literacy (effective) was **74.04%**: **male 82.14%** and **female 65.46%**. 64.8% was the 2001 figure.
+SC: Remember 74 (all), 82 (male), 65 (female) for 2011.
+
+Q: Which of the following is a subject covered by NSS under "Household Wealth and Finance"?
+A) Household indebtedness and capital expenditure
+B) Morbidity and treatment of ailments
+C) Literacy and vocational training
+D) Travel by Indian households
+ANS: A
+D: Easy
+P: 25
+EXP: The **Wealth and Finance** group covers household **assets and liabilities**, **indebtedness**, **borrowings and repayments** and **capital expenditure**, which is the Debt & Investment survey. Morbidity falls under Health, literacy under Education, and travel under Other subjects.
+SC: Wealth and finance means debt, assets and investment.
+
+@topic Programme Implementation Wing
+Q: The Twenty Point Programme was started in 1975 and restructured several times. TPP-2006 covers how many monitorable items?
+A) 20
+B) 54
+C) 66
+D) 119
+ANS: C
+D: Medium
+P: 28
+EXP: **TPP-2006** has **20 points and 66 items**. The TPP started in **1975** and was restructured in **1982, 1986 and 2006**. MoSPI monitors it through Monthly Progress Reports, Capsule Reports and yearly reviews. It is implemented by the States.
+SC: There are 20 points but 66 items. Don't answer "20" to an items question.
+
+Q: MoSPI's Infrastructure and Project Monitoring Division monitors Central Sector Projects costing:
+A) ₹20 crore and above
+B) ₹100 crore and above
+C) ₹150 crore and above
+D) ₹500 crore and above
+ANS: C
+D: Medium
+P: 28
+EXP: **IPMD monitors all Central Sector Projects of ₹150 crore and above**, across 16 sectors in the source's listing, through its Online Computerised Monitoring System (OCMS). It also does monthly monitoring of the **11 key infrastructure sectors**.
+SC: The project threshold is ₹150 crore.
+
+Q: Which of the following is NOT among the 11 key infrastructure sectors monitored monthly by MoSPI's PI Wing (as per the source)?
+A) Civil Aviation
+B) Fertilizers
+C) Textiles
+D) Cement
+ANS: C
+T: Odd-one-out
+D: Medium
+P: 28
+EXP: The 11 sectors are **Power, Coal, Steel, Railways, Telecommunications, Ports, Fertilizers, Cement, Petroleum & Natural Gas, Roads and Civil Aviation**. **Textiles** is not one of them.
+SC: Infrastructure means energy, transport, basic materials and telecom. Textiles is a consumer industry.
+
+Q: Consider the following statements about MPLADS:
+1. It was launched in 1993-94.
+2. Funds released under MPLADS are non-lapsable.
+3. The annual entitlement per MP started at ₹5 crore.
+Which of the statements given above is/are correct?
+A) 1 and 2 only
+B) 2 and 3 only
+C) 1 and 3 only
+D) 1, 2 and 3
+ANS: A
+T: Statement
+D: Medium
+P: 28
+EXP: Statements 1 and 2 are correct. The entitlement **started at ₹5 lakh** per MP in 1993-94. It was raised in stages to ₹1 crore, ₹2 crore and then **₹5 crore** per year. The aim is **durable community assets** based on locally felt needs.
+SC: The amount went from ₹5 lakh to ₹5 crore. The unit changed, not the digit.
+
+Q: The primary objective of MPLADS is to:
+A) provide salary support to MPs' staff
+B) create durable community assets based on locally felt needs
+C) fund election campaigns
+D) provide direct cash transfers to the poor
+ANS: B
+D: Easy
+P: 28
+EXP: MPLADS lets MPs **recommend developmental works** that create **durable community assets** and basic facilities, including community infrastructure, based on **locally felt needs**.
+SC: MPLADS is about durable, local community assets.
+
+Q: The Accelerated Irrigation Benefit Programme (AIBP) was monitored by which unit of MoSPI?
+A) Infrastructure and Project Monitoring Division
+B) Social Statistics Division
+C) National Accounts Division
+D) Field Operations Division
+ANS: A
+D: Hard
+P: 28
+EXP: The source lists **AIBP monitoring** under the **Project Monitoring** functions of **IPMD**, alongside monitoring Central Sector Projects of ₹150 crore and above.
+SC: Irrigation projects count as projects, so they fall under IPMD.
+
+@topic Statistics Day & Indian Statistical Institute
+Q: Statistics Day is celebrated in India on 29 June every year to commemorate:
+A) the establishment of the CSO
+B) the birth anniversary of Prof. P. C. Mahalanobis
+C) the enactment of the Collection of Statistics Act
+D) the first NSS round
+ANS: B
+D: Easy
+P: 28
+EXP: **29 June** is the **birth anniversary of Prof. Prasanta Chandra Mahalanobis** (born 1893). It is observed as **Statistics Day** in the "Special Day" category to recognise his contributions to economic planning and statistics.
+SC: 29 June is Mahalanobis's birthday. World Statistics Day is 20 October.
+
+Q: The Indian Statistical Institute was founded by Prof. Mahalanobis in ___ and declared an Institute of National Importance by an Act of Parliament in ___.
+A) 1931; 1959
+B) 1950; 1959
+C) 1931; 1969
+D) 1947; 1956
+ANS: A
+T: Chronology
+D: Easy
+P: 29
+EXP: The **ISI** was founded in **1931** in Kolkata and declared an **Institute of National Importance** by the **ISI Act, 1959**. It is fully funded by the Central Government, with MoSPI as its nodal Ministry and the ISI Council as its top policy body.
+SC: 1931 founded, 1959 Act.
+
+Q: Which of the following is the highest policy-making body of the Indian Statistical Institute?
+A) The ISI Council
+B) The Governing Body of MoSPI
+C) The National Statistical Commission
+D) The Academic Council of UGC
+ANS: A
+D: Easy
+P: 29
+EXP: The **ISI Council** is the institute's **highest policy-making body**. MoSPI is the administrative/nodal ministry, and the ISI is autonomous.
+SC: For an autonomous institute, the Council sits at the top.
+
+Q: As per the source, besides its Kolkata headquarters, the ISI has centres at:
+A) Delhi, Bangalore, Chennai and Tezpur
+B) Mumbai, Pune, Hyderabad and Tezpur
+C) Delhi, Mumbai, Chennai and Lucknow
+D) Bangalore, Hyderabad, Bhopal and Shillong
+ANS: A
+D: Medium
+P: 29
+EXP: The source lists centres at **Delhi, Bangalore, Chennai and Tezpur**, with the HQ in **Kolkata**. The Institute also runs smaller units such as Giridih and Hyderabad.
+SC: One centre per region: North (Delhi), South (Bangalore, Chennai), North-East (Tezpur).
+
+@topic Health Statistics & Surveys
+Q: Which institution has been the nodal agency of the Ministry of Health & Family Welfare for conducting NFHS and DLHS?
+A) National Institute of Health and Family Welfare, New Delhi
+B) International Institute for Population Sciences, Mumbai
+C) Office of the Registrar General of India
+D) Indian Council of Medical Research
+ANS: B
+D: Easy
+P: 30
+EXP: **IIPS, Mumbai** is the **nodal agency** for **NFHS** and **DLHS**. The **Annual Health Survey (AHS)** was conducted by the **ORGI**.
+SC: NFHS and DLHS were run by IIPS. AHS was run by the RGI.
+
+Q: The web-based system through which the Ministry of Health & Family Welfare monitors health programmes routinely is:
+A) HMIS (Health Management Information System)
+B) NDAP
+C) e-Sankhyiki
+D) OCMS
+ANS: A
+D: Easy
+P: 30
+EXP: The MoHFW Statistics Division routinely monitors programmes through the web-based **Health Management Information System (HMIS)**. NDAP is NITI Aayog's data platform, e-Sankhyiki is MoSPI's data portal, and OCMS is MoSPI's project-monitoring system.
+SC: Health programme monitoring is done through HMIS.
+
+Q: Consider the following statements about the National Family Health Survey (NFHS):
+1. It provides data on fertility, family planning, infant and child mortality and women's nutrition.
+2. NFHS-4 was conducted in 2015-16.
+3. It can give estimates for slum and non-slum areas.
+Which of the statements given above is/are correct?
+A) 1 and 2 only
+B) 2 and 3 only
+C) 1 and 3 only
+D) 1, 2 and 3
+ANS: D
+T: Statement
+D: Medium
+P: 30
+EXP: All three are correct. The NFHS rounds are **NFHS-1 (1992-93), NFHS-2 (1998-99), NFHS-3 (2005-06), NFHS-4 (2015-16) and NFHS-5 (2019-21)**. NFHS-3 gave slum and non-slum estimates for selected cities.
+SC: NFHS gaps: 92-93 → 98-99 → 05-06 → 15-16 → 19-21.
+TIP: The source prints 1991-92 and 2014-15 for rounds 1 and 4. The official IIPS years are 1992-93 and 2015-16.
+
+Q: The District Level Household Survey (DLHS) was designed mainly to provide district-level data on:
+A) reproductive and child health indicators
+B) agricultural wages
+C) industrial output
+D) consumer prices
+ANS: A
+D: Easy
+P: 31
+EXP: **DLHS** gives **district-level reproductive and child health (RCH)** indicators: antenatal care, immunisation, safe deliveries, contraceptive prevalence and maternal health. Its rounds were **1998-99, 2002-04, 2007-08 and 2012-13**.
+SC: DLHS means RCH at district level.
+
+Q: The Annual Health Survey (AHS) covered which States?
+A) All States and UTs
+B) The 8 Empowered Action Group (EAG) States and Assam
+C) Only the north-eastern States
+D) Only the southern States
+ANS: B
+D: Medium
+P: 31
+EXP: The **AHS** (first round 2010-11, run by **ORGI**) covered the **8 EAG States** (Bihar, Jharkhand, Madhya Pradesh, Chhattisgarh, Odisha, Rajasthan, Uttar Pradesh, Uttarakhand) **plus Assam**, which have high fertility and mortality. It gave annual district benchmarks of vital and health indicators.
+SC: AHS covered 8 EAG States + Assam = 9 States.
+
+@topic Human Development Index
+Q: Which of the following is NOT a component indicator of UNDP's Human Development Index?
+A) Life expectancy at birth
+B) Expected years of schooling
+C) GNI per capita (PPP)
+D) Infant mortality rate
+ANS: D
+T: Odd-one-out
+D: Easy
+P: 32
+EXP: The HDI combines **life expectancy at birth** (health), **mean and expected years of schooling** (education) and **GNI per capita PPP** (standard of living). **IMR** is not a component. It appears in the PQLI.
+SC: HDI has three dimensions and four indicators (LE, MYS, EYS, GNIpc). IMR belongs to PQLI.
+
+Q: As per UNDP classification, a country with an HDI value of 0.645 falls in which category?
+A) Very high human development
+B) High human development
+C) Medium human development
+D) Low human development
+ANS: C
+T: Numerical
+D: Easy
+P: 32
+EXP: The bands are **very high ≥ 0.800**, **high 0.700–0.799**, **medium 0.550–0.699** and **low < 0.550**. So 0.645 is **medium**, the category India falls in.
+SC: The cut-offs are 0.8 / 0.7 / 0.55. Anything from 0.55 to 0.70 is medium.
+
+Q: Into how many tiers does UNDP group countries on the basis of HDI?
+A) Three
+B) Four
+C) Five
+D) Six
+ANS: B
+D: Easy
+P: 32
+EXP: UNDP uses **four** tiers: **very high, high, medium and low** human development.
+SC: Four tiers, split at 0.80, 0.70 and 0.55.
+
+Q: Which of the following statements about the HDI is correct?
+A) It is published in UNDP's annual Human Development Report
+B) It is computed by the World Bank in the World Development Report
+C) It uses the arithmetic mean of 10 indicators
+D) Its value ranges from 0 to 100
+ANS: A
+D: Easy
+P: 32
+EXP: The HDI is published in **UNDP's annual Human Development Report** and takes values **between 0 and 1**. Since 2010 it has been the **geometric mean** of the three dimension indices.
+SC: HDI means UNDP, the HDR, a value from 0 to 1, and a geometric mean.

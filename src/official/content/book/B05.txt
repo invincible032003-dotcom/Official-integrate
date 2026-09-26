@@ -1,0 +1,483 @@
+@set B05
+@title Rangarajan Commission Recommendations: Agriculture & Industry; MSP
+@pages 33-42
+@desc NSC (2001) report chapters 4-5: crop area, production, forecasts, land use, irrigation, Agri/Livestock census, prices, fisheries, forestry; ASI frame, unregistered manufacture, SSI, IIP; MSP calculation
+
+@topic Crop Area, Production & Forecasts
+Q: The Rangarajan Commission recommended that crop area forecasts and final area estimates be based on:
+A) complete enumeration of all villages by patwaris
+B) the 20 per cent TRS villages in temporarily settled States and EARAS villages in permanently settled States
+C) satellite imagery alone in all States
+D) NSS household surveys on land use
+ANS: B
+D: Medium
+P: 33
+EXP: A **20% sample** is large enough to estimate crop area precisely at the national, State and district levels. Area estimates should therefore come from **TRS villages** (temporarily settled/land-record States) and **EARAS villages** (permanently settled States). **Remote sensing** was suggested for the North-Eastern States after its viability was tested.
+SC: TRS covers land-record States, EARAS covers non-land-record States, and remote sensing covers the NE.
+
+Q: "Girdawari", to which the Commission wanted patwaris to give the highest priority, refers to:
+A) crop inspection and recording of area sown, field by field
+B) collection of land revenue
+C) conduct of crop-cutting experiments
+D) registration of land transfers
+ANS: A
+D: Medium
+P: 33
+EXP: **Girdawari** is the patwari's **field-by-field crop inspection**, done each season to record the area under crops in the Khasra. It is the base of land-use and crop-area statistics, so the Commission asked that patwaris be freed from other duties during the girdawari.
+SC: Girdawari is crop inspection, which gives the crop area.
+
+Q: The Commission recommended that the Timely Reporting Scheme (TRS) and EARAS be regarded as:
+A) programmes of national importance
+B) optional State schemes
+C) schemes to be wound up after remote sensing
+D) private sector responsibilities
+ANS: A
+D: Easy
+P: 33
+EXP: TRS and EARAS were to be treated as **programmes of national importance**. The Centre was to press the States at the highest level to give them priority, deploy resources and run field operations on time.
+SC: If the programme is the base of crop area data, the recommendation is to give it "national importance".
+
+Q: Why did the Commission recommend that crop-cutting experiments under NAIS and GCES should NOT be combined for estimating production?
+A) The objectives of the two series are different and merging would affect the quality of general crop estimates
+B) NAIS experiments are conducted only in irrigated areas
+C) GCES is conducted by private insurers
+D) NAIS has a larger sample size
+ANS: A
+D: Medium
+P: 33
+EXP: **NAIS** (crop insurance) experiments serve **insurance claims** at the unit-area level. **GCES** serves **general production estimates**. Because their **objectives differ**, merging them would lower the quality of the general crop estimates.
+SC: Different purposes mean separate series.
+
+Q: For crop estimates below the district level (e.g. for crop insurance), the Commission recommended that the NSO develop:
+A) small area estimation techniques
+B) a complete census of fields
+C) a price-based estimation method
+D) household consumption-based estimates
+ANS: A
+D: Medium
+P: 33
+EXP: Sub-district estimates are needed for **NAIS**, among other uses. The Commission asked for special studies to develop **small area estimation** techniques.
+SC: Below-district estimates need small area estimation (SAE).
+
+Q: What is the expansion of FASAL, the programme recommended for active pursuit in crop forecasting?
+A) Forecasting Agricultural output using Space, Agro-meteorology and Land based observations
+B) Farm and Agriculture Satellite Assessment for Land use
+C) Forecasting Area Sown and Area Lost
+D) Field Area Survey and Agricultural Land Records
+ANS: A
+D: Medium
+P: 33
+EXP: **FASAL** = Forecasting Agricultural output using **Space** (remote sensing), **Agro-meteorology** and **Land-based** observations. It is run with the Mahalanobis National Crop Forecast Centre (MNCFC), successor to the NCFC.
+SC: The three inputs are Space + Agro-met + Land.
+
+Q: With regard to the Improvement of Crop Statistics (ICS) data, the Commission took the view that redesigning the ICS should at present be restricted to:
+A) working out a correction or adjustment factor for official crop area statistics
+B) replacing official crop statistics altogether
+C) estimating crop prices
+D) estimating livestock numbers
+ANS: A
+D: Hard
+P: 33
+EXP: Remembering the controversy over the **NSS Land Utilisation Surveys**, the Commission limited the ICS redesign to working out a **correction factor**. ICS would not produce a parallel official series.
+SC: ICS gives a correction factor, not a replacement series.
+
+Q: Which body was suggested to form part of the expert team to review methodology for estimating production of horticultural crops, along with IASRI, DESMOA and major States?
+A) NSSO (FOD)
+B) Labour Bureau
+C) RBI
+D) CACP
+ANS: A
+D: Medium
+P: 33
+EXP: The team was to include **IASRI, DESMOA, NSSO (FOD)** and one or two major horticultural States. The same team was proposed for mushrooms, herbs and floriculture.
+SC: The same four members appear in every expert team: IASRI + DESMOA + NSSO(FOD) + States.
+
+@topic Land Use & Irrigation Statistics
+Q: The Commission recommended that the nine-fold classification of land use be enlarged to include which additional categories?
+A) Social forestry, marshy and water-logged land, and land under still waters
+B) Urban land, industrial land and mining land
+C) Orchards, plantations and pastures
+D) Barren land and culturable waste
+ANS: A
+D: Medium
+P: 33
+EXP: The nine-fold classification should be **slightly enlarged** with **social forestry**, **marshy and water-logged land** and **land under still waters**, all of which a patwari can identify visually. Pastures, culturable waste and barren land are already in the nine-fold scheme.
+SC: The new categories are the "wet" and "social-forest" ones. The existing nine already cover barren land, pastures and waste.
+
+Q: To address divergence in irrigated area data from the Ministry of Agriculture and the Ministry of Water Resources, the Commission recommended that the nodal agency for irrigation statistics in States should be:
+A) the State Directorate of Economics and Statistics
+B) the Central Water Commission
+C) the State Irrigation Department
+D) the Revenue Department
+ANS: A
+D: Medium
+P: 34
+EXP: The **State DESs** were to be the **nodal agencies for irrigation statistics**, with direct links to State and Central agencies. **Statistical monitoring cells** were proposed in the **CWC** field offices, and the CSO was to name a senior officer for water statistics.
+SC: When two ministries' figures diverge, a neutral statistical agency (the DES) is made nodal.
+
+@topic Agricultural & Livestock Census
+Q: As per the Rangarajan Commission, the Agricultural Census should henceforth be conducted:
+A) on a 20 per cent sample of villages
+B) on complete enumeration every year
+C) only through remote sensing
+D) once every 20 years
+ANS: A
+D: Medium
+P: 34
+EXP: The Commission proposed a **20% sample of villages**, adding a **household enquiry** element besides re-tabulation in temporarily settled States. It also asked for faster computerisation of land records.
+SC: The Commission's sampling figure for area and census work is 20%.
+
+Q: The Commission recommended restoring the post of Agricultural Census Commissioner of India at the level of:
+A) Joint Secretary
+B) Additional Secretary
+C) Secretary
+D) Director
+ANS: B
+D: Hard
+P: 34
+EXP: The post was to be at **Additional Secretary** level so the holder could deal effectively with State Governments, and it was to be **earmarked for a senior statistician**. The **Census Monitoring Board** was also to be revived.
+SC: Additional Secretary rank, reserved for a statistician.
+
+Q: What did the Commission recommend regarding the quinquennial Livestock Census?
+A) It should be taken in a 20 per cent sample of villages instead of complete coverage
+B) It should be discontinued
+C) It should be made annual
+D) It should be merged with the Population Census
+ANS: A
+D: Medium
+P: 34
+EXP: The **Livestock Census** was to move to a **20% village sample**, collect some **household information** (size, occupation), and be **integrated** with the Agricultural Census in the same 20% sample after a pilot.
+SC: Once more the answer is a 20% sample, integrated with the Agricultural Census.
+
+Q: Consider the following recommendations of the Commission:
+1. Livestock and Agricultural Censuses should be integrated and taken together in a 20% sample of villages.
+2. A limited pilot investigation should precede the integration.
+3. The NSS survey on land and livestock holdings should be synchronised with these censuses.
+Which of the above is/are correct?
+A) 1 only
+B) 1 and 2 only
+C) 2 and 3 only
+D) 1, 2 and 3
+ANS: D
+T: Statement
+D: Medium
+P: 34
+EXP: All three are Commission recommendations (Para 4.14.3). **Synchronising** with the NSS land & livestock survey lets the sources cross-check each other.
+SC: Integrate, pilot first, then synchronise with the NSS. All three hold.
+
+@topic Agricultural Prices, Cost of Cultivation & Other Agricultural Statistics
+Q: Regarding agricultural prices, the Commission recommended that the number of essential commodities for which prices are collected should be:
+A) reduced to an absolute minimum, especially non-food crops
+B) doubled to improve coverage
+C) left to each State
+D) aligned with the WPI basket only
+ANS: A
+D: Medium
+P: 34
+EXP: The list should be **cut to an absolute minimum**, especially **non-food crops**, in consultation with the Ministry of Consumer Affairs and the Cabinet Committee on Prices. Collection centres should match those used for wholesale prices.
+SC: Fewer commodities with better quality: the reports push parsimony.
+
+Q: The Commission recommended that the Cost of Cultivation Studies should:
+A) continue, with a review of centres, methodology and sample size, and with reduced delays by DESMOA
+B) be abolished as irrelevant
+C) be handed over to the CACP for field work
+D) be replaced by NSS consumption surveys
+ANS: A
+D: Easy
+P: 34
+EXP: Cost of Cultivation Studies are central to **price administration (MSP)**, so the **programme should continue**. A **review** of centres, methodology and sample size was proposed, and **DESMOA** was asked to reduce delays in results.
+SC: CoC feeds MSP, so the recommendation is to continue it and improve it.
+
+Q: Which institute was to be entrusted with developing methodologies to fill data gaps in estimates of mutton, pork, poultry meat and meat by-products?
+A) Indian Agricultural Statistics Research Institute (IASRI)
+B) National Dairy Research Institute
+C) Indian Veterinary Research Institute
+D) National Institute of Nutrition
+ANS: A
+D: Medium
+P: 35
+EXP: **IASRI** (ICAR, New Delhi), the methodology institute for agricultural statistics, was to develop the methods. For inland fisheries, IASRI was to work with **CIFRI**.
+SC: For agricultural statistical methodology, pick IASRI.
+
+Q: For developing inland fisheries production methodology (rivers and canals), the Commission recommended support to IASRI along with:
+A) Central Inland Fisheries Research Institute (CIFRI)
+B) Central Marine Fisheries Research Institute
+C) National Institute of Oceanography
+D) Fishery Survey of India
+ANS: A
+D: Medium
+P: 35
+EXP: For **inland (running water) fisheries**, the source names **IASRI with CIFRI**. Marine fisheries survey designs were to be revised to reflect current landing sites and catch volumes.
+SC: Inland fisheries go to the Central Inland Fisheries Research Institute.
+
+Q: On forestry statistics, the Commission recommended that the two divergent series from land records and State Forest Departments should:
+A) both continue, with the reasons for divergence clearly indicated
+B) be merged into one series
+C) be replaced by FAO estimates
+D) be discontinued in favour of remote sensing only
+ANS: A
+D: Hard
+P: 35
+EXP: The divergence is **unavoidable** because coverage and concepts differ, so **both series should continue**, with the **reasons for divergence clearly stated** for users. The Commission also sought wide use of remote sensing and a **Statistics Division in the Ministry of Environment & Forests**.
+SC: Where concepts differ, keep both series and explain the gap.
+
+Q: The Commission recommended that a Farm Management Survey on an all-India basis be conducted at an interval of:
+A) two years
+B) five years
+C) ten years
+D) every year
+ANS: B
+D: Medium
+P: 35
+EXP: Under **Input Statistics** (Para 4.22.8), a **Farm Management Survey** was to be run all-India regularly, **preferably every five years**. **PPQ&S** was to be the depository of plant protection data.
+SC: A periodic benchmark survey means five years.
+
+Q: The Statistical Cell recommended for improving market research surveys was to be set up in:
+A) the Directorate of Marketing and Inspection (DMI)
+B) the Food Corporation of India
+C) NAFED
+D) APEDA
+ANS: A
+D: Hard
+P: 35
+EXP: The **DMI** was to set up a **Statistical Cell**, either on its own or within the **Market Research and Planning Cell (MRPC)**, to analyse survey data and standardise the methodology of market research surveys.
+SC: Market research falls under the Directorate of Marketing & Inspection.
+
+Q: Regarding Index Numbers of Area, Production and Yield, the Commission recommended that the item basket:
+A) be reviewed immediately and be different for different States
+B) be fixed permanently at the 1950 base
+C) be identical for all States
+D) exclude all commercial crops
+ANS: A
+D: Medium
+P: 35
+EXP: The item basket was to be **reviewed immediately** and made **State-specific** to reflect each State's crop pattern. The existing arrangement for the **Index of Terms of Trade** was to continue.
+SC: Crop patterns differ by State, so the baskets should differ too.
+
+@topic Minimum Support Price
+Q: MSP is fixed by the Government on the recommendation of:
+A) Commission for Agricultural Costs and Prices (CACP)
+B) NITI Aayog
+C) Food Corporation of India
+D) Directorate of Economics and Statistics
+ANS: A
+D: Easy
+P: 37
+EXP: MSPs are announced on the recommendation of the **CACP**, an attached office of the Ministry of Agriculture & Farmers Welfare. The CACP uses **Cost of Cultivation** data compiled by the DES.
+SC: Prices are recommended by the CACP (Costs And Prices).
+
+Q: The Union Budget 2018-19 announced the principle of keeping MSP at what level relative to the cost of production?
+A) 1.25 times
+B) 1.5 times
+C) 2 times
+D) equal to cost
+ANS: B
+D: Easy
+P: 37
+EXP: The Budget for 2018-19 set MSP at **one and a half times the cost of production**, giving a return of **at least 50%** over the A2+FL cost for mandated crops from 2018-19.
+SC: 1.5 times cost means a 50% margin.
+
+Q: While recommending MSP, the CACP reckons the return on which cost concept?
+A) A2 + FL
+B) C2
+C) A1
+D) C3
+ANS: A
+D: Medium
+P: 37
+EXP: The CACP looks at **both A2+FL and C2**, but it calculates the **return only on A2+FL** (paid-out costs plus the imputed value of family labour). **C2** (which adds imputed rent and interest on owned land and capital) is used as a **benchmark** to check that MSP covers it in the major producing States.
+SC: Return is on A2+FL. C2 is only a reference point, and farmer groups demand C2.
+
+Q: The umbrella scheme PM-AASHA comprises which of the following components?
+A) Price Support Scheme, Price Deficiency Payment Scheme and Pilot of Private Procurement & Stockist Scheme
+B) PM-KISAN, PMFBY and e-NAM
+C) Soil Health Card, Neem-coated urea and KCC
+D) MGNREGA, PDS and ICDS
+ANS: A
+D: Medium
+P: 37
+EXP: **PM-AASHA** (Pradhan Mantri Annadata Aay SanraksHan Abhiyan) has **PSS** (pulses, oilseeds, copra), **PDPS** and **PPSS** (pilot, oilseeds) to make sure farmers get MSP.
+SC: AASHA means price assurance: PSS + PDPS + PPSS. All three contain "P" for price or procurement.
+
+Q: Under the Government's agricultural marketing architecture, Gramin Agricultural Markets (GrAMs) aimed to promote how many retail markets close to the farm gate?
+A) 10,000
+B) 22,000
+C) 5,000
+D) 50,000
+ANS: B
+D: Hard
+P: 37
+EXP: The plan was to develop **22,000 GrAMs** (Gramin Agricultural Markets) as retail markets near farm gates. Wholesale trade was to be competitive through **e-NAM**, and the **Model APLM Act, 2017** was enacted.
+SC: GrAMs: 22,000 rural haats.
+
+@topic ASI Frame & Industrial Surveys
+Q: The Commission recommended that directories of establishments employing at least how many workers be prepared from the Fourth Economic Census and follow-up surveys to help Chief Inspectors of Factories update lists?
+A) 10
+B) 20
+C) 50
+D) 100
+ANS: A
+D: Medium
+P: 39
+EXP: The CSO and NSSO were to prepare **directories of establishments employing at least 10 workers** from the **Fourth Economic Census** and follow-up surveys. These would help the CIFs update the factory registers that form the **ASI frame**.
+SC: Ten or more workers is the factory-scale threshold (with power), so the directories use 10.
+
+Q: The State Level Coordination Committee (SLCC) for revision of ASI frames was to be reconstituted with whom as Chairman?
+A) Secretary, Department of Industry of the State
+B) Chief Inspector of Factories
+C) Director, DES
+D) Labour Commissioner
+ANS: A
+D: Hard
+P: 39
+EXP: The SLCC was to be chaired by the **Secretary, Department of Industry**, with the Labour Commissioner, CIF and Director of Industries as members. The aim was more rigour in revising the frame.
+SC: The senior-most administrator (Secretary) chairs the committee and the technical heads are members.
+
+Q: A one-time Census of Industries recommended by the Commission was expected to help in:
+1. generating benchmark estimates at disaggregated levels
+2. providing an efficient weighting diagram for revising the IIP base year
+3. updating the ASI frame
+Select the correct answer using the code given below:
+A) 1 only
+B) 1 and 3 only
+C) 2 and 3 only
+D) 1, 2 and 3
+ANS: D
+T: Statement
+D: Medium
+P: 39
+EXP: The source lists all three benefits. The census would first be **piloted** to test alternative frame sources and estimate the resources needed.
+SC: A census gives a benchmark, weights and a frame, so all three apply.
+
+Q: The Commission recommended that final ASI results be released within what time of the commencement of fieldwork?
+A) Six months
+B) One year
+C) Two years
+D) Three years
+ANS: B
+D: Medium
+P: 39
+EXP: The target was to release **final ASI results within one year** of fieldwork starting, with an **advance release calendar** for quick, provisional and final results published through the media and a website.
+SC: Final results within one year, with an advance calendar.
+
+Q: For State participation in ASI, the Commission recommended that the Directors of State DESs be declared as:
+A) statistical authority under the Collection of Statistics Act for collecting ASI data within the State
+B) Chief Inspectors of Factories
+C) members of the National Statistical Commission
+D) returning officers
+ANS: A
+D: Medium
+P: 40
+EXP: To let States canvass ASI schedules in **residual units** not covered by the NSSO, DES Directors were to be declared **statistical authority under the Collection of Statistics Act** for ASI and related industrial statistics.
+SC: Legal power to collect data comes from being named "statistical authority" under the CoS Act.
+
+Q: The unregistered manufacturing enterprises whose data collection the Commission wanted integrated into the Follow-up Enterprise Surveys include:
+A) OAMEs, NDMEs and DMEs
+B) Only factories registered under Section 2m(i)
+C) Only public sector undertakings
+D) Only cooperatives
+ANS: A
+D: Medium
+P: 40
+EXP: **OAME** is an Own-Account Manufacturing Enterprise with no hired worker. **NDME** is a Non-Directory Manufacturing Establishment with 1–5 workers, at least one hired. **DME** is a Directory Manufacturing Establishment with 6 or more workers, at least one hired. The **NSSO** was to survey, process and report all three through FuS.
+SC: OAME has 0 hired workers, NDME has 1-5 workers, DME has 6 or more.
+
+Q: Which of the following was recommended to improve the accuracy of surveys on unregistered manufacture?
+A) Standard errors of important estimates should invariably be published in reports
+B) Sample sizes should be reduced to save cost
+C) Post-survey evaluation should be stopped
+D) Survey agencies should avoid interaction with data users
+ANS: A
+D: Easy
+P: 40
+EXP: The Commission wanted **standard errors published**, **post-survey evaluation**, regular **interaction with data users**, stratification to capture bigger units, better training and scrutiny, and extension of the **CoS Act** to such surveys.
+SC: Transparency on precision means publishing standard errors.
+
+@topic Small Scale Industries & IIP
+Q: The Commission recommended that the Office of the DCSSI should compile which index at monthly frequency instead of its then quarterly practice?
+A) Index of Industrial Production for the SSI sector
+B) Wholesale Price Index
+C) Index of Services
+D) Export Price Index
+ANS: A
+D: Medium
+P: 40
+EXP: DCSSI was compiling a **quarterly IIP for SSI**. The Commission wanted a **monthly** index with wider item coverage and a **base year close to (if not the same as) the all-India IIP**, and it wanted the index published.
+SC: Monthly, like the all-India IIP, and on the same base.
+
+Q: The Commission recommended that the base year of the all-India IIP be revised:
+A) every year
+B) quinquennially
+C) decennially
+D) only when GDP base changes
+ANS: B
+D: Medium
+P: 41
+EXP: The CSO was to revise the **IIP base quinquennially** to capture structural change. The item basket was to be representative at least at the **2-digit NIC** level.
+SC: Base revision every 5 years, matching the Commission's standard for price and production indices.
+
+Q: As an interim quality standard for the IIP, source agencies were asked to target a response rate (in terms of production) of:
+A) 60% in the first month and 80% at final revision
+B) 50% in the first month and 70% at final revision
+C) 80% in the first month and 100% at final revision
+D) 40% in the first month and 60% at final revision
+ANS: A
+D: Hard
+P: 41
+EXP: Until the source agencies were strengthened, they were to reach a response rate of **at least 60% in the first month** and **80% at the final revision**, measured by production.
+SC: Remember 60 then 80: the first release, then the final revision.
+
+Q: To avoid extreme fluctuations due to non-response, source agencies should preferably avoid including IIP items for which fewer than how many units report production?
+A) 5
+B) 10
+C) 3
+D) 20
+ANS: A
+D: Hard
+P: 41
+EXP: Items with **very few reporting units (say fewer than 5)** swing sharply when one unit fails to report. They should be avoided or monitored closely.
+SC: Fewer than 5 reporters makes an item fragile.
+
+Q: The proposed "Additional Index of Industrial Production" was to be based on direct collection of monthly production data from factories employing:
+A) 200 or more workers
+B) 100 or more workers
+C) 50 or more workers
+D) 10 or more workers
+ANS: A
+D: Hard
+P: 41
+EXP: Mail enquiries were proving difficult, so the Commission suggested an **Additional IIP** built from direct monthly collection by **NSSO (FOD)** from factories with **200 or more workers**. It was to be tried for one year first and checked against ASI-based growth.
+SC: The Additional IIP uses large factories (200+) with FOD collecting directly.
+
+Q: The Commission recommended that Comparable State-level IIPs should use which measure for the weighting diagram, to match the all-India IIP?
+A) Gross Value Added
+B) Gross Value of Output
+C) Employment
+D) Invested capital
+ANS: A
+D: Medium
+P: 41
+EXP: The all-India IIP uses **GVA** weights, while State IIPs were using **GVO**, which made them incomparable. The Commission asked that **GVA be used for State IIPs** as well.
+SC: For comparability, use the same weights: GVA for both.
+
+Q: Which administrative data source did the Commission suggest exploring for compiling an all-India IIP?
+A) Production data available with the Central Board of Excise and Customs
+B) Income tax returns
+C) Electricity bills of households
+D) Passport records
+ANS: A
+D: Medium
+P: 41
+EXP: An exploratory study was proposed on using **CBEC production (excise) data** for the IIP, and **sales tax** data for State-level indices. Today GST data serve a similar purpose.
+SC: Excise was the production-linked tax, so it fits a production index.
+
+Q: Administratively, the Small Scale Sector was divided into how many sub-sectors under different ministries, as per the source?
+A) Five
+B) Seven
+C) Nine
+D) Eleven
+ANS: B
+D: Hard
+P: 41
+EXP: The source says the SSI sector was split into **seven sub-sectors** under different ministries. The **DCSSI**, which controlled the largest segment, was to coordinate with the other **six** to build a sector database and an overall index.
+SC: Seven sub-sectors: DCSSI plus six others.

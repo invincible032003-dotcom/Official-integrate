@@ -1,0 +1,449 @@
+@set B06
+@title Education Performance Indicators & PLFS 2019-20 Highlights
+@pages 43-60
+@desc GER/NER, intake rates, cohort survival, coefficient of efficiency, promotion/repetition/dropout/transition/completion/retention rates; PLFS 2019-20 key results
+
+@topic Education Indicators: Access & Participation
+Q: The Apparent (Gross) Intake Rate is used as a substitute for the Net Intake Rate when:
+A) data on new entrants by single years of age are not available
+B) enrolment data are not available at all
+C) population projections are not available
+D) the school-entrance age is not defined
+ANS: A
+D: Medium
+P: 43
+EXP: **AIR = (Grade 1 enrolment of all ages ÷ population of the official entrance age) × 100**. It is used instead of the **NIR** when **single-year age data on new entrants** are missing. The NIR counts only entrants **of the official entrance age**.
+SC: Apparent/Gross means all ages in the numerator. Net means the right-age entrants only.
+
+Q: The Net Intake Rate differs from the Apparent Intake Rate in that its numerator includes:
+A) only Grade 1 entrants of the official school-entrance age
+B) all Grade 1 entrants irrespective of age
+C) repeaters in Grade 1
+D) pre-school enrolment
+ANS: A
+D: Easy
+P: 44
+EXP: **NIR = (Grade 1 entrants of official entrance age ÷ population of that age) × 100**. It measures access more precisely than the AIR, which can go above 100% because of over-age and under-age entrants.
+SC: "Net" removes the wrong-age children. The numerator and denominator refer to the same age.
+
+Q: Gross Enrolment Ratio (GER) at the primary level can exceed 100 per cent because:
+A) its numerator includes over-aged and under-aged pupils while the denominator is the official age-group population
+B) its denominator includes adults
+C) it double-counts girls
+D) it excludes private schools
+ANS: A
+D: Easy
+P: 44
+EXP: **GER = total enrolment (all ages) ÷ population of the official age group × 100**. Over-age and under-age enrolment in the numerator can push it **above 100%**. **NER** counts only official-age children, so NER ≤ 100% and GER ≥ NER.
+SC: GER − NER gives the extent of over- and under-age enrolment.
+
+Q: Used together, GER and NER help measure:
+A) the extent of over-aged and under-aged enrolment
+B) teacher-pupil ratio
+C) the dropout rate
+D) transition to secondary level
+ANS: A
+D: Medium
+P: 44
+EXP: The source notes that GER can be used **together with NER to measure the extent of over-aged and under-aged enrolment**. The gap between them is enrolment outside the official age band.
+SC: The GER−NER gap measures age mismatch.
+
+Q: Gross Enrolment Ratio in Early Childhood Development programmes indicates:
+A) the capacity of the education system to prepare young children for elementary education
+B) the proportion of Grade 6 graduates
+C) adult literacy
+D) teacher availability
+ANS: A
+D: Easy
+P: 43
+EXP: **ECD GER** measures young children's participation in pre-school or ECD programmes. It shows how well the system **prepares children for elementary education**.
+SC: ECD means pre-school readiness.
+
+@topic Education Indicators: Internal Efficiency
+Q: The Cohort Survival Rate, computed by the reconstructed cohort method, is used primarily to assess:
+A) internal efficiency and "wastage" in education
+B) population growth of school-age children
+C) the literacy rate
+D) gender parity
+ANS: A
+D: Medium
+P: 44
+EXP: The **Cohort Survival Rate** is the share of a cohort that reaches a given grade. It measures **internal efficiency** and **wastage** from dropout and repetition. It is built by the **reconstructed cohort method** from promotion, repetition and dropout rates, and it is sensitive to migration.
+SC: Survival tracks how many of 1,000 entrants reach the final grade, which is a measure of wastage.
+
+Q: In the reconstructed cohort method, the flow rates needed for each grade are:
+A) promotion, repetition and dropout (school leaver) rates
+B) enrolment, population and literacy rates
+C) birth, death and migration rates
+D) pass, fail and absentee rates
+ANS: A
+D: Medium
+P: 45
+EXP: The method follows a notional cohort (for example 1,000 pupils) using **promotion** and **repetition** rates for each grade. **Dropout** is the remainder (1 − promotion − repetition). Summing gives pupil-years and total promotees.
+SC: Every pupil in a grade is promoted, repeats, or drops out, and these three shares add to 100%.
+
+Q: The School Leaver Rate is given by:
+A) 1 − Promotion Rate − Repetition Rate
+B) Promotion Rate − Repetition Rate
+C) 1 − Survival Rate
+D) Dropouts ÷ Graduates
+ANS: A
+D: Medium
+P: 47
+EXP: **School Leaver Rate = 1 − promotion rate − repetition rate**. It is the EFA measure of dropout. It counts pupils who leave during the grade **and** those who finish but do not enrol the next year. It is more complete than the **Simple Dropout Rate** but unreliable where migration is heavy.
+SC: Whatever is not promoted and not repeating has left.
+
+Q: How does the Simple Dropout Rate differ from the School Leaver Rate?
+A) It does not capture pupils who finish a grade but fail to enrol in the next grade the following year
+B) It includes repeaters
+C) It is computed only for secondary level
+D) It is always larger than the school leaver rate
+ANS: A
+D: Medium
+P: 47
+EXP: The **Simple Dropout Rate** counts only pupils who **do not finish** a grade. It misses those who finish but do **not enrol** the next year. So the School Leaver Rate is theoretically **more comprehensive**.
+SC: Simple dropout counts mid-year leavers only. School leaver counts mid-year leavers plus those who do not return.
+
+Q: The Coefficient of Efficiency is computed as:
+A) (Total promotees/graduates including repeaters × number of years of the cycle) ÷ pupil-years
+B) Pupil-years ÷ graduates
+C) Enrolment ÷ population
+D) Repeaters ÷ enrolment
+ANS: A
+D: Hard
+P: 45
+EXP: **Coefficient of Efficiency = (graduates × ideal years of the cycle) ÷ actual pupil-years spent**, for example ×6 for elementary and ×4 for secondary. A value of 1 (100%) means no wastage. Its reciprocal relates to **years input per graduate**.
+SC: CE = ideal years ÷ actual years. Wastage pushes it below 1.
+
+Q: "Years input per graduate" is calculated as:
+A) Pupil-years ÷ total promotees/graduates (including repeaters)
+B) Graduates ÷ pupil-years
+C) Enrolment ÷ graduates
+D) Grade 1 entrants ÷ population
+ANS: A
+D: Medium
+P: 46
+EXP: **Years input per graduate = pupil-years ÷ graduates**. It is the average number of years spent to produce one graduate. In an efficient system it equals the cycle length (6 for elementary).
+SC: Input years per output graduate, so pupil-years go on top.
+
+Q: If the reconstructed cohort gives total pupil-years of 5,000 for a 6-year elementary cycle and 700 graduates, the years input per graduate is approximately:
+A) 7.14
+B) 6.00
+C) 0.84
+D) 8.57
+ANS: A
+T: Numerical
+D: Medium
+P: 46
+EXP: Years input per graduate = **5,000 ÷ 700 ≈ 7.14 years**, compared with the ideal 6 years. The coefficient of efficiency = (700 × 6) ÷ 5,000 = **0.84**, which is a distractor here.
+SC: YIPG = pupil-years ÷ graduates. CE = ideal ÷ YIPG = 6 ÷ 7.14 ≈ 0.84.
+
+Q: The Repetition Rate for a grade is:
+A) Repeaters in the grade this year ÷ enrolment in that grade the previous year × 100
+B) Repeaters ÷ graduates × 100
+C) Promotees ÷ repeaters × 100
+D) Dropouts ÷ population × 100
+ANS: A
+D: Medium
+P: 46
+EXP: **Repetition Rate (grade x, year n) = repeaters in grade x in year n ÷ enrolment in grade x in year n−1 × 100**. It is an EFA indicator of how many pupils repeat a grade.
+SC: The base is always last year's enrolment in the same grade.
+
+Q: The Transition Rate from elementary to secondary level assesses:
+A) the extent to which pupils move to the next higher level of education
+B) teacher transfers between schools
+C) change in the pupil-teacher ratio
+D) movement of pupils between private and public schools
+ANS: A
+D: Easy
+P: 47
+EXP: **Transition Rate = new entrants to the first grade of the higher level ÷ graduates of the lower level in the previous year × 100**. It is sensitive to migration, so it is not computed at school level.
+SC: Transition means crossing a level, for example from primary to secondary.
+
+Q: The Completion Rate measures:
+A) the percentage of grade/year 1 entrants who graduate from the level
+B) the percentage of teachers completing training
+C) the literacy rate of adults
+D) the proportion of schools completing construction
+ANS: A
+D: Easy
+P: 48
+EXP: **Completion Rate = graduates of the final grade ÷ grade 1 entrants of the matching cohort × 100**. It shows what share of entrants actually finish the cycle.
+SC: Completion = finishers ÷ starters.
+
+Q: The Failure Rate for a grade is based on:
+A) enrolment minus promotees
+B) repeaters minus dropouts
+C) graduates minus entrants
+D) population minus enrolment
+ANS: A
+D: Medium
+P: 48
+EXP: The source defines **Failures = Enrolment − Promotees**, so the Failure Rate = failures ÷ enrolment × 100.
+SC: Anyone enrolled but not promoted has failed that grade.
+
+Q: The Retention Rate determines:
+A) the proportion of pupils in one school year who continue in school in the succeeding year
+B) the proportion of teachers retained
+C) the percentage of graduates getting jobs
+D) the share of girls in enrolment
+ANS: A
+D: Easy
+P: 49
+EXP: **Retention Rate = enrolment in grades 2–6 this year ÷ enrolment in grades 1–5 last year × 100** (elementary). It shows how many stay on in school. It is affected by migration, so it is not advised at school level.
+SC: Retention is this year's continuing pupils compared with last year's base.
+
+Q: Which of the following education indicators is described as vulnerable to migration and hence NOT advisable at the school level?
+1. Cohort Survival Rate
+2. School Leaver Rate
+3. Retention Rate
+Select the correct answer using the code given below:
+A) 1 and 2 only
+B) 2 and 3 only
+C) 1 and 3 only
+D) 1, 2 and 3
+ANS: D
+T: Statement
+D: Hard
+P: 49
+EXP: All three are flagged as **vulnerable to migration**. Pupils moving in or out of an area distort cohort-based ratios at small levels (school, municipality). The Transition Rate carries the same caution.
+SC: Any indicator that follows the same children across years is affected by migration.
+
+@topic PLFS 2019-20: Survey Design
+Q: The PLFS Annual Report 2019-20 covered which survey period?
+A) July 2019 – June 2020
+B) April 2019 – March 2020
+C) January 2019 – December 2019
+D) July 2018 – June 2019
+ANS: A
+D: Easy
+P: 50
+EXP: PLFS annual rounds run **July to June**. The third annual report, **2019-20**, covered **July 2019–June 2020**.
+SC: PLFS annual reports ran July-June, matching the old NSS agricultural year.
+
+Q: In PLFS 2019-20, the total number of First Stage Units (FSUs) surveyed was about:
+A) 12,569 (6,913 villages and 5,656 urban blocks)
+B) 1,00,480
+C) 4,18,297
+D) 7,014
+ANS: A
+D: Medium
+P: 50
+EXP: **12,569 FSUs**: 6,913 villages and 5,656 urban blocks. **1,00,480 households** (55,291 rural, 45,189 urban) and **4,18,297 persons** were surveyed.
+SC: The scale goes FSUs (about 12.5 thousand) → households (about 1 lakh) → persons (about 4.2 lakh).
+
+Q: Which area was excluded from the PLFS 2019-20 coverage?
+A) Villages in Andaman and Nicobar Islands that remained extremely difficult to access
+B) All of Jammu & Kashmir
+C) Urban areas of the north-eastern States
+D) Ladakh
+ANS: A
+D: Medium
+P: 50
+EXP: The survey covered the **whole Indian Union except the villages in the Andaman & Nicobar Islands** that stayed extremely difficult to access through the year.
+SC: The standard NSS exclusion is the inaccessible A&N villages.
+
+Q: In PLFS, the reference period for the usual status (ps+ss) approach and for current weekly status (CWS) are respectively:
+A) 365 days and 7 days
+B) 30 days and 7 days
+C) 7 days and 1 day
+D) 365 days and 30 days
+ANS: A
+D: Easy
+P: 50
+EXP: **Usual status (ps+ss)** uses a **1-year (365 days)** reference period. **CWS** uses **1 week (7 days)**. Current daily status (CDS) uses each day of the reference week.
+SC: Usual = year, weekly = week.
+
+@topic PLFS 2019-20: Key Results
+Q: As per PLFS 2019-20, the Labour Force Participation Rate (usual status ps+ss) for persons of all ages in India was:
+A) 40.1%
+B) 53.5%
+C) 38.2%
+D) 50.9%
+ANS: A
+D: Medium
+P: 52
+EXP: LFPR (all ages, ps+ss) = **40.1%**. For **age 15+** it was **53.5%**. The WPR was 38.2% (all ages) and 50.9% (15+).
+SC: 40.1 LFPR and 38.2 WPR (all ages). The gap is about 1.9 points, i.e. the unemployed.
+
+Q: In PLFS 2019-20, the Unemployment Rate (usual status ps+ss) for persons of all ages was:
+A) 4.8%
+B) 6.1%
+C) 10.1%
+D) 15.0%
+ANS: A
+D: Easy
+P: 60
+EXP: UR (ps+ss, all ages) = **4.8%**. For **educated persons aged 15+** (secondary and above) it was **10.1%**, and for **youth aged 15–29** it was **15.0%**. The 6.1% figure is from PLFS 2017-18.
+SC: 4.8 overall, 10.1 educated, 15.0 youth. The rate rises as the group narrows.
+
+Q: Among the following groups, which had the highest usual-status unemployment rate for age 15–29 years in PLFS 2019-20?
+A) Urban female
+B) Urban male
+C) Rural male
+D) Rural female
+ANS: A
+D: Medium
+P: 60
+EXP: Youth UR (15–29): **urban female 24.9%**, urban male 18.2%, rural male 13.8%, rural female 10.3%. Urban educated young women have the highest unemployment rate.
+SC: The urban female youth rate is always the highest, and here it is close to 25%.
+
+Q: As per PLFS 2019-20, which of the following groups had the lowest LFPR (ps+ss, all ages)?
+A) Urban female
+B) Rural female
+C) Rural male
+D) Urban male
+ANS: A
+D: Medium
+P: 52
+EXP: LFPR (all ages): rural male 56.3%, urban male 57.8%, rural female 24.7%, **urban female 18.5%**. Urban women have the lowest participation.
+SC: Female LFPR is lower than male, and urban female is lower than rural female.
+
+Q: As per PLFS 2019-20, the share of self-employed among rural female workers (ps+ss) was about:
+A) 63.0%
+B) 34.6%
+C) 9.5%
+D) 27.5%
+ANS: A
+D: Medium
+P: 54
+EXP: Self-employed share: rural male 58.4%, **rural female 63.0%**, urban male 38.7%, urban female 34.6%. Regular wage/salaried was highest among **urban females (54.2%)**.
+SC: Rural women are mostly self-employed (often helpers in household enterprises). Urban women are mostly salaried.
+
+Q: As per PLFS 2019-20, among urban workers (ps+ss), the largest share of female workers was in which status of employment?
+A) Regular wage/salaried employees
+B) Self-employed
+C) Casual labour
+D) Unpaid apprentices
+ANS: A
+D: Medium
+P: 54
+EXP: Urban female workers: **regular wage/salaried 54.2%**, self-employed 34.6%, casual 11.1%.
+SC: Urban female workers are mostly salaried (over half).
+
+Q: As per PLFS 2019-20, the share of workers engaged in agriculture among rural female workers (ps+ss) was about:
+A) 75.7%
+B) 55.4%
+C) 61.5%
+D) 27.4%
+ANS: A
+D: Medium
+P: 54
+EXP: Rural agriculture share: male 55.4%, **female 75.7%**, person 61.5%. In urban areas, trade, hotels and restaurants (27.4%) and manufacturing (20.8%) lead.
+SC: Three out of four rural working women are in agriculture.
+
+Q: In urban India (PLFS 2019-20), which industry group had the largest share of workers (ps+ss)?
+A) Trade, hotel and restaurant
+B) Manufacturing
+C) Construction
+D) Transport, storage and communication
+ANS: A
+D: Medium
+P: 54
+EXP: Urban shares: **trade, hotel and restaurant 27.4%**, manufacturing 20.8%, construction 10.3%, transport, storage and communication 10.2%.
+SC: Urban jobs are led by services (trade), then manufacturing.
+
+Q: As per PLFS 2019-20, what percentage of workers (ps+ss) engaged in the non-agriculture sector were in the informal sector?
+A) 69.5%
+B) 56.5%
+C) 54.2%
+D) 90.0%
+ANS: A
+D: Medium
+P: 56
+EXP: **69.5%** of non-agricultural workers were in the **informal sector** (proprietary and partnership enterprises): male 72.9%, female 56.5%.
+SC: About 70% of non-farm workers are in the informal sector (proprietary/partnership units).
+
+Q: Consider the following about regular wage/salaried employees in the non-agriculture sector (PLFS 2019-20):
+1. About two-thirds had no written job contract.
+2. More than half were not eligible for paid leave.
+3. More than half were not eligible for any social security benefit.
+Which of the statements given above is/are correct?
+A) 1 only
+B) 1 and 2 only
+C) 2 and 3 only
+D) 1, 2 and 3
+ANS: D
+T: Statement
+D: Medium
+P: 56
+EXP: All three are correct: **67.3%** had no written job contract, **52.3%** were not eligible for paid leave, and **54.2%** had no social security. These are the "conditions of employment" indicators.
+SC: Remember 67-52-54 for no contract, no paid leave, no social security.
+
+Q: In PLFS, information on earnings of regular wage/salaried employees in CWS is collected for which reference period?
+A) Last calendar month
+B) Last 30 days
+C) Each day of the reference week
+D) Last 365 days
+ANS: A
+D: Hard
+P: 57
+EXP: Earnings are collected for **regular wage/salaried: the last calendar month**, **self-employed: the last 30 days** (gross earnings), and **casual labour: each day of the reference week**.
+SC: Salaried = calendar month, self-employed = 30 days, casual = daily.
+
+Q: In PLFS, the earnings estimates for urban areas are based on:
+A) first visit and revisit schedules
+B) first visit schedule only
+C) revisit schedule only
+D) administrative records
+ANS: A
+D: Hard
+P: 57
+EXP: For **rural** areas, estimates use the **first visit** only, because rural households are surveyed once a year. For **urban** areas, they use the **first visit and revisits**, because urban households are revisited quarterly in the rotational panel.
+SC: Urban uses a rotational panel with revisits. Rural uses one visit only.
+
+Q: As per PLFS 2019-20, the literacy rate among urban males aged 7 years and above was about:
+A) 91.8%
+B) 82.2%
+C) 66.3%
+D) 83.0%
+ANS: A
+D: Medium
+P: 51
+EXP: Literacy (7+): rural male 82.2%, rural female 66.3%, **urban male 91.8%**, urban female 83.0%.
+SC: Urban male is always the highest, above 90%. Rural female is always the lowest, about two-thirds.
+
+Q: As per PLFS 2019-20, the most common major source of income (household type) among urban households was:
+A) Regular wage/salary earning
+B) Self-employment
+C) Casual labour
+D) Others
+ANS: A
+D: Medium
+P: 51
+EXP: Urban households: **regular wage/salary 43.1%**, self-employment 30.7%, casual labour 11.5%, others 14.7%. Rural households: **self-employment 53.2%**, casual labour 24.8%, regular 12.9%, others 9.1%.
+SC: Rural households mostly rely on self-employment. Urban households mostly rely on salaries.
+
+Q: The average hours actually worked in a week by a worker in CWS during July 2019–June 2020 ranged between:
+A) 37 and 48 hours
+B) 20 and 30 hours
+C) 48 and 60 hours
+D) 30 and 37 hours
+ANS: A
+D: Hard
+P: 59
+EXP: Across quarters, average weekly hours actually worked ranged from **37 to 48 hours**: rural 39–46 hours and urban 30–54 hours. The low end reflects the April–June 2020 lockdown quarter.
+SC: Normally about 48 hours, falling to the 30s in the COVID quarter.
+
+Q: Worker Population Ratio (WPR) is defined as:
+A) number of employed persons per 100 persons in the population
+B) number of employed persons per 100 persons in the labour force
+C) number of unemployed persons per 100 persons in the labour force
+D) number of persons in the labour force per 100 persons in the population
+ANS: A
+D: Easy
+P: 53
+EXP: **WPR = employed ÷ total population × 100**. **LFPR** = labour force ÷ population × 100. **UR** = unemployed ÷ labour force × 100. So WPR = LFPR × (1 − UR/100).
+SC: WPR and LFPR both have the population as the base. UR has the labour force as the base.
+
+Q: Using PLFS 2019-20 figures (all ages, ps+ss), if LFPR = 40.1% and WPR = 38.2%, the implied unemployment rate is approximately:
+A) 4.7%
+B) 1.9%
+C) 9.5%
+D) 2.4%
+ANS: A
+T: Numerical
+D: Medium
+P: 60
+EXP: UR = (LFPR − WPR) ÷ LFPR × 100 = (40.1 − 38.2) ÷ 40.1 × 100 ≈ **4.7%**. This matches the published **4.8%** after rounding. The value 1.9% is the unemployed share of the whole population, not of the labour force.
+SC: UR = 1 − WPR/LFPR. Divide by the labour force, not the population.

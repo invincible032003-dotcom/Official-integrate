@@ -1,0 +1,493 @@
+@set N14
+@title Topic 19 · Miscellaneous Statistics
+@pages Notes 19, pp. 1-5
+@desc Payroll reporting (EPF/ESI/NPS); literacy age norm; MISO; base-year criteria; DQAD data processing centres; population projections (cohort component); unorganised sector data & labour input method; informal sector (SNA, 15th ICLS, NCEUS, Delhi Group); IIP use-based categories
+
+@note 19
+@topic Payroll, MISO & Base Year Criteria
+Q: The "Payroll Reporting in India: An Employment Perspective" report uses subscriber data from which schemes?
+A) EPF, ESI and NPS
+B) MGNREGA, PMKVY and NPS
+C) EPF, PMJDY and Atal Pension Yojana
+D) ESI, PLFS and QES
+ANS: A
+D: Easy
+P: 1
+EXP: Since **April 2018**, MoSPI has published **formal-sector employment** statistics, from **September 2017 onwards**, using new subscribers to the **EPF, ESI and NPS** schemes. The report is released around the **25th of each month**.
+SC: The payroll report is built from EPF, ESI and NPS subscribers.
+
+Q: MoSPI started releasing payroll-based formal employment statistics in April 2018, covering the period from:
+A) September 2017 onwards
+B) April 2017 onwards
+C) January 2018 onwards
+D) April 2015 onwards
+ANS: A
+D: Medium
+P: 1
+EXP: The **first release (April 2018)** covered data from **September 2017** onwards. It is published **monthly (around the 25th)** as a formal-sector employment perspective.
+SC: Released from April 2018, with data from September 2017.
+
+Q: The internationally accepted minimum age for literacy data is:
+A) 15 years and above
+B) 7 years and above
+C) 6 years and above
+D) 10 years and above
+ANS: A
+D: Easy
+P: 1
+EXP: International literacy comparisons use **age 15+** (the adult literacy rate). The Indian Census's **effective literacy rate** uses **7+**.
+SC: The international norm is 15+; the Indian Census uses 7+.
+
+Q: The main statistical organisation in the Ministry of Defence, located in Army HQ, is:
+A) Management Information System Organisation (MISO)
+B) Defence Research and Development Organisation
+C) Directorate General of Quality Assurance
+D) Controller General of Defence Accounts
+ANS: A
+D: Medium
+P: 1
+EXP: **MISO (Army HQ)** is MoD's main statistical unit. It builds databases on **prices of important items** in domestic and global markets, **exchange rates**, allocations and so on.
+SC: Defence statistics come from MISO in Army HQ.
+
+Q: Which of the following are criteria for selecting the base year of a price index?
+1. It should preferably synchronise with the income and expenditure survey period.
+2. Reliable price data should be available for it.
+3. It should be a normal year, free of abnormal price variations.
+4. The base year of constituent centres should be uniform.
+Select the correct answer using the code given below:
+A) 1 and 3 only
+B) 1, 2 and 3 only
+C) 2, 3 and 4 only
+D) 1, 2, 3 and 4
+ANS: D
+T: Statement
+D: Medium
+P: 1
+EXP: All four criteria hold: the base year should be **close to the expenditure survey**, have **reliable prices**, be a **normal year**, and be **uniform across centres** for easy compilation of the all-India index.
+SC: A base year should be near the survey, reliable, normal and uniform.
+
+Q: Assertion (A): 2009-10 was not chosen as the base year for the national accounts series that followed 2004-05.
+Reason (R): A base year should be a normal year without abnormalities in price levels and economic conditions.
+A) Both A and R are true, and R is the correct explanation of A
+B) Both A and R are true, but R is not the correct explanation of A
+C) A is true, but R is false
+D) A is false, but R is true
+ANS: A
+T: Assertion-Reason
+D: Medium
+P: 1
+EXP: **2009-10** followed the **2008 global slowdown**, so it was not **normal**. A fresh EUS in **2011-12** became the base. This shows the **"normal year" criterion** directly, so R explains A.
+SC: An abnormal year cannot be a base year, hence 2011-12.
+
+Q: The Data Quality Assurance Division (DQAD) of NSO has data processing centres at how many locations?
+A) Six: Delhi, Bengaluru, Kolkata, Ahmedabad, Giridih and Nagpur
+B) Four: Delhi, Mumbai, Chennai and Kolkata
+C) Five: Delhi, Kolkata, Nagpur, Bhopal and Chennai
+D) Three: Delhi, Kolkata and Nagpur
+ANS: A
+D: Hard
+P: 1
+EXP: As per the notes, DQAD has **6 data processing centres**: **Delhi, Bengaluru, Kolkata, Ahmedabad, Giridih and Nagpur**. DQAD itself is headquartered in **Kolkata**.
+SC: The six centres are Delhi, Bengaluru, Kolkata, Ahmedabad, Giridih and Nagpur.
+
+Q: Which of the following cities is NOT among the locations of DQAD data processing centres listed in the notes?
+A) Chennai
+B) Giridih
+C) Nagpur
+D) Ahmedabad
+ANS: A
+T: Odd-one-out
+D: Medium
+P: 1
+EXP: The centres are **Delhi, Bengaluru, Kolkata, Ahmedabad, Giridih (Jharkhand) and Nagpur**. **Chennai** is not on the list.
+SC: There is no Chennai centre.
+
+@topic Population Projections
+Q: The universally accepted method for making population projections, which accounts for fertility, mortality and migration, is:
+A) the Cohort Component Method
+B) the Mathematical (exponential) Method
+C) the Ratio Method
+D) the Logistic Curve Method
+ANS: A
+D: Easy
+P: 2
+EXP: The **Cohort Component Method** projects each **age-sex cohort** forward using **fertility, mortality and migration**. It was applied to **21 States + 1 UT** in India's projections.
+SC: Projections use the cohort component method: births, deaths and moves by cohort.
+
+Q: In India's official population projections discussed in the notes, the Cohort Component Method was applied to how many States/UTs individually?
+A) 21 States and 1 UT
+B) 28 States and 8 UTs
+C) 15 States only
+D) All States and UTs
+ANS: A
+D: Medium
+P: 2
+EXP: **21 States + 1 UT (J&K)** were projected individually by cohort component. The **7 NE States (excluding Assam)** were projected **as a whole**, and **Ladakh** was derived as a **residual**. **Goa and the remaining UTs** used the **mathematical method**.
+SC: 21 + 1 by cohort, the NE States as one block, Ladakh by residual, the rest mathematical.
+
+Q: For population projections, which method was applied for Goa and the remaining UTs?
+A) Mathematical method
+B) Cohort component method
+C) Residual method
+D) Delphi method
+ANS: A
+D: Medium
+P: 2
+EXP: **Goa and the remaining UTs** use the **mathematical method**, because their numbers are too small for stable cohort-component inputs.
+SC: Goa and the small UTs are projected mathematically.
+
+Q: The population of Ladakh (UT) in the projections was obtained as:
+A) the residual of the projected population of J&K (State) and J&K (UT)
+B) a separate cohort component projection
+C) a mathematical projection from Census 2001
+D) an SRS-based estimate
+ANS: A
+D: Hard
+P: 2
+EXP: **Ladakh = J&K (State) projection − J&K (UT) projection**, a **residual**. Both of those were projected by cohort component.
+SC: Ladakh = old J&K minus new J&K.
+
+Q: The data used for official population projections in the notes are:
+A) Census 2011 and the Sample Registration System
+B) NFHS-5 and PLFS
+C) Economic Census and ASI
+D) Aadhaar enrolment data
+ANS: A
+D: Easy
+P: 2
+EXP: The projections use **Census 2011** as the **base population** and the **SRS** for **time series of fertility and mortality** to predict their future levels.
+SC: Projections use the Census for the base and the SRS for the rates.
+
+@topic Unorganised & Informal Sector
+Q: In the absence of regular annual enterprise survey data, GVA estimates for the unorganised segments of manufacturing and services are compiled indirectly through:
+A) the labour input method using the benchmark-indicator procedure
+B) the commodity flow method
+C) the expenditure approach
+D) direct annual census of all enterprises
+ANS: A
+D: Medium
+P: 2
+EXP: The **labour input method** gives unorganised GVA as **workforce × GVA per worker**. **GVA per worker** comes from benchmark enterprise surveys and is moved forward with **indicators**.
+SC: Unorganised GVA = workers × GVA per worker.
+
+Q: The unorganised manufacturing sector accounts for roughly what share of the manufacturing sector's contribution to GDP, as per the notes?
+A) About one-third
+B) About two-thirds
+C) About one-tenth
+D) About half
+ANS: A
+D: Medium
+P: 3
+EXP: As per the notes, **unorganised manufacturing is about 1/3** of manufacturing GDP, and the **unorganised service sector is about 30%** of GDP.
+SC: About a third of manufacturing is unorganised.
+
+Q: In the service sector, which units are considered "organised" for national accounts purposes?
+A) Units registered under the Companies Act or Societies Act, and educational institutions whose salaries are funded by the Government
+B) All units with more than 5 workers
+C) Only public sector undertakings
+D) Units registered under the Factories Act
+ANS: A
+T: Conceptual
+D: Medium
+P: 3
+EXP: **No single Act** separates organised from unorganised services. Units registered under the **Companies or Societies Acts** count as **organised**. In **education**, **Government-funded-salary institutions** are organised. In **manufacturing**, the dividing line is the **Factories Act, 1948**.
+SC: Services are organised by Companies/Societies registration; manufacturing by the Factories Act.
+
+Q: Apart from enterprise surveys, information on the number of workers in unregistered manufacturing is also available from which sources?
+1. NSSO Employment-Unemployment Surveys
+2. Decennial Population Census
+3. Periodic Economic Censuses
+Select the correct answer using the code given below:
+A) 1 only
+B) 1 and 2 only
+C) 2 and 3 only
+D) 1, 2 and 3
+ANS: D
+T: Statement
+D: Medium
+P: 3
+EXP: All three give worker counts: the **EUS, the Population Census and the Economic Census**, each covering **all workers**, registered or not. The **EC** also gives the **number of enterprises**.
+SC: Worker counts come from the EUS, the Census and the EC.
+
+Q: The informal sector is characterised as consisting of units engaged in production with the primary objective of generating employment and incomes to the persons concerned. This definition was given by:
+A) the 15th International Conference of Labour Statisticians (ILO, 1993)
+B) the 19th ICLS (2013)
+C) SNA 2008 alone
+D) the NCEUS (2007)
+ANS: A
+D: Medium
+P: 4
+EXP: The **15th ICLS (1993)** gave this definition. Such units operate at a **low level of organisation**, with **little division between labour and capital**, on a **small scale**. Labour relations rest on **casual employment, kinship or personal ties**.
+SC: The informal sector definition comes from the 15th ICLS, 1993.
+
+Q: The National Commission for Enterprises in the Unorganised Sector (NCEUS) was set up by the Government of India in:
+A) 2004
+B) 1997
+C) 1993
+D) 2008
+ANS: A
+D: Medium
+P: 4
+EXP: **NCEUS (2004)**, chaired by **Arjun Sengupta**, reviewed the unorganised sector: its enterprises, size, spread and employment. The **Delhi Group** dates from **1997** and the **15th ICLS** from **1993**.
+SC: NCEUS 2004; Delhi Group 1997; 15th ICLS 1993.
+
+Q: The Expert Group on Informal Sector Statistics, set up in 1997 as a city group of the UN Statistical Commission, is commonly known as:
+A) Delhi Group
+B) Voorburg Group
+C) Wiesbaden Group
+D) Ottawa Group
+ANS: A
+D: Easy
+P: 4
+EXP: The **Delhi Group (1997)** deals with **informal sector** methodology. Other city groups: **Voorburg** (service statistics), **Ottawa** (price indices), **Wiesbaden** (business registers), **London** (environmental accounting).
+SC: Delhi covers the informal sector, Ottawa prices, Voorburg services.
+
+Q: Under the UN SNA, production units owned by a single household or a group of households form part of:
+A) the household sector, as household (unincorporated) enterprises
+B) the non-financial corporations sector
+C) the general government sector
+D) the NPISH sector
+ANS: A
+D: Medium
+P: 4
+EXP: Units **owned by households** are **household (unincorporated) enterprises** in the **household sector**. Informal units typically have this character.
+SC: Household-owned units belong to the household sector.
+
+Q: The characteristics of informal sector units include which of the following?
+1. Low level of organisation
+2. Little or no division between labour and capital
+3. Labour relations based mostly on casual employment, kinship or personal relations
+4. Formal written contracts with social security guarantees
+Select the correct answer using the code given below:
+A) 1 and 2 only
+B) 1, 2 and 3 only
+C) 2, 3 and 4 only
+D) 1, 2, 3 and 4
+ANS: B
+T: Statement
+D: Medium
+P: 4
+EXP: Informal units show **low organisation, little labour-capital separation, small scale**, and **casual or kinship-based** labour relations, **not** contracts with formal guarantees.
+SC: Informal means no formal contracts.
+
+Q: The terms "unorganised sector" and "informal sector" in India are:
+A) often used interchangeably
+B) legally defined as mutually exclusive
+C) used only for agriculture
+D) defined identically in the Factories Act
+ANS: A
+D: Easy
+P: 4
+EXP: The notes state that **"unorganised" and "informal" are often used interchangeably**, although there is no precise definition of the informal sector.
+SC: Unorganised and informal are used as synonyms.
+
+@topic IIP Use-Based Classification
+Q: In the IIP use-based classification (base 2011-12), the category "Primary goods" replaced which earlier category because of definitional ambiguity?
+A) Basic goods
+B) Intermediate goods
+C) Capital goods
+D) Consumer non-durables
+ANS: A
+D: Medium
+P: 5
+EXP: **Primary goods** replaced **"Basic goods"**, which had **definitional ambiguity** and overlapped with intermediate goods. Primary goods are those **directly obtained from natural sources**: ores and minerals, fuels, and electricity.
+SC: Primary replaced Basic.
+
+Q: Which of the following is classified under "Infrastructure/construction goods" in the IIP use-based classification?
+A) Cement, paints, cables, bricks and tiles
+B) Tractors and boilers
+C) Cotton yarn and plywood
+D) Pressure cookers and TV sets
+ANS: A
+D: Medium
+P: 5
+EXP: **Infrastructure/construction goods**: paints, **cement**, cables, **bricks and tiles**, rail materials. **Capital goods**: boilers, **tractors**, engines, machinery. **Intermediate goods**: **cotton yarn, plywood**, steel pipes, fasteners. **Consumer durables**: cookers, ACs, TVs, cars, two-wheelers, gold jewellery.
+SC: Cement is infrastructure, tractors are capital, yarn is intermediate, TVs are durables.
+
+Q: In the IIP use-based classification, "Consumer durables" are products directly used by consumers with durability of more than:
+A) 2-3 years
+B) 6 months
+C) 10 years
+D) 1 month
+ANS: A
+D: Easy
+P: 5
+EXP: **Consumer durables** last **more than 2-3 years**, e.g. pressure cookers, ACs, **tyres**, mobile phones, TVs, cars, two-wheelers and **gold jewellery**. **Non-durables** cannot be preserved long: milk, rice, biscuits, sugar, tea, cigarettes.
+SC: Durables last more than 2-3 years.
+
+Q: Match List-I (Item) with List-II (IIP use-based category):
+| List-I | List-II |
+|---|---|
+| A. Commercial vehicles | 1. Consumer non-durables |
+| B. Steel tubes and pipes | 2. Capital goods |
+| C. Tea and sugar | 3. Primary goods |
+| D. Electricity | 4. Intermediate goods |
+A) A-2, B-4, C-1, D-3
+B) A-4, B-2, C-1, D-3
+C) A-2, B-4, C-3, D-1
+D) A-2, B-1, C-4, D-3
+ANS: A
+T: Match
+D: Medium
+P: 5
+EXP: **Commercial vehicles are capital goods**, **steel tubes are intermediate**, **tea and sugar are consumer non-durables** and **electricity is a primary good**.
+SC: Commercial vehicles are capital, and electricity is primary.
+
+Q: Under the IIP use-based classification, "Passenger cars" and "Two-wheelers" fall under:
+A) Consumer durables
+B) Capital goods
+C) Intermediate goods
+D) Infrastructure/construction goods
+ANS: A
+D: Easy
+P: 5
+EXP: **Passenger cars and two-wheelers** are **consumer durables**, while **commercial vehicles** are **capital goods**.
+SC: Passenger vehicles are durables; commercial vehicles are capital goods.
+
+Q: Diesel, ATF, kerosene and LPG are classified in the IIP use-based classification as:
+A) Primary goods
+B) Intermediate goods
+C) Consumer non-durables
+D) Infrastructure goods
+ANS: A
+D: Medium
+P: 5
+EXP: **Fuels (diesel, ATF, kerosene, LPG)**, **ores and minerals**, and **electricity** are **primary goods**.
+SC: Fuels are primary goods.
+
+Q: Which IIP use-based category was created to classify items that could not be categorised under consumer durables or intermediate goods and are primarily inputs to construction?
+A) Infrastructure/construction goods
+B) Primary goods
+C) Capital goods
+D) Consumer non-durables
+ANS: A
+D: Medium
+P: 5
+EXP: **Infrastructure/construction goods** were **created** in the 2011-12 series for construction inputs that fit neither **durables nor intermediates**.
+SC: The infrastructure category was new in the 2011-12 series.
+
+Q: An item produced as an incomplete product, or one that goes as an input for further finishing, is classified in IIP as:
+A) Intermediate goods
+B) Primary goods
+C) Capital goods
+D) Consumer durables
+ANS: A
+T: Conceptual
+D: Easy
+P: 5
+EXP: **Intermediate goods** are incomplete products or inputs for further finishing, e.g. **cotton yarn, plywood, steel tubes and fasteners**.
+SC: Semi-finished products are intermediate goods.
+
+@topic Payroll, MISO & Base Year Criteria
+Q: The payroll data on EPF, ESI and NPS subscribers provide a perspective on employment mainly in which segment?
+A) The formal sector
+B) The informal agricultural sector
+C) Self-employed household enterprises
+D) Unpaid domestic work
+ANS: A
+D: Easy
+P: 1
+EXP: EPF, ESI and NPS cover **formal** employees, so the payroll report gives a **formal-sector** employment perspective. It is **not** total employment, which is the role of **PLFS**.
+SC: Payroll data measure formal jobs only.
+
+Q: Why should the base year of constituent centres of a CPI be uniform?
+A) To facilitate easy and quick compilation of the all-India index
+B) To reduce the sample size
+C) To eliminate seasonality
+D) To comply with WTO rules
+ANS: A
+T: Conceptual
+D: Easy
+P: 1
+EXP: A **uniform base across centres** lets the **all-India index** be compiled easily, as a weighted average of centre indices, without re-linking.
+SC: A common base lets centre indices be aggregated.
+
+@topic Unorganised & Informal Sector
+Q: As per the notes, data for the residual non-factory unorganised manufacturing sector are collected periodically through:
+A) NSS follow-up surveys of the Economic Censuses
+B) the Annual Survey of Industries
+C) the Population Census
+D) the IIP
+ANS: A
+D: Easy
+P: 3
+EXP: **Organised** manufacturing (Factories Act units) is covered by the **ASI**. **Unorganised** manufacturing is covered by **NSS follow-up surveys of the EC**, now the **ASUSE**.
+SC: Organised units are in the ASI; unorganised ones in the EC follow-up surveys.
+
+Q: The contribution of the unorganised service sector to GDP, as per the notes, is about:
+A) 30%
+B) 10%
+C) 50%
+D) 70%
+ANS: A
+D: Medium
+P: 3
+EXP: As per the notes, the **unorganised service sector contributes about 30%** of GDP, and **unorganised manufacturing** makes up about **1/3 of manufacturing GDP**. Yet data flows for these segments are irregular.
+SC: Unorganised services are about 30% of GDP.
+
+Q: Which UN city group deals with price index methodology?
+A) Ottawa Group
+B) Delhi Group
+C) Voorburg Group
+D) Rio Group
+ANS: A
+D: Medium
+P: 4
+EXP: The **Ottawa Group** covers **price indices**, the **Delhi Group** the **informal sector**, the **Voorburg Group** **services**, and the **Rio Group** **poverty statistics**.
+SC: Ottawa for prices, Delhi for informality, Voorburg for services, Rio for poverty.
+
+Q: The main challenge in estimating GVA of the unorganised non-agricultural sector is:
+A) an irregular flow of current data due to the absence of regular annual enterprise surveys
+B) excess data from multiple annual censuses
+C) that the sector has negligible contribution to GDP
+D) that it is covered fully by the ASI
+ANS: A
+D: Easy
+P: 2
+EXP: Despite a **major GDP contribution**, the unorganised segment has an **irregular data flow**, so indirect methods such as the **labour input method** are needed. **ASUSE** (annual since 2021-22) aims to fix this.
+SC: The unorganised sector matters but lacks regular data.
+
+Q: Which of the following matches of UN city groups is correct?
+A) Delhi Group – Informal sector statistics
+B) Ottawa Group – Service statistics
+C) Voorburg Group – Price indices
+D) Wiesbaden Group – Poverty statistics
+ANS: A
+D: Medium
+P: 4
+EXP: The correct pairings are **Delhi → informal sector**, **Ottawa → prices**, **Voorburg → services**, **Wiesbaden → business registers** and **Rio → poverty**.
+SC: Delhi covers informality; the other options are mismatched.
+
+@topic IIP Use-Based Classification
+Q: In the IIP use-based classification, "Tyres" and "Jewellery of gold" are classified as:
+A) Consumer durables
+B) Intermediate goods
+C) Capital goods
+D) Primary goods
+ANS: A
+D: Hard
+P: 5
+EXP: The notes' list of **consumer durables** explicitly includes **tyres** and **gold jewellery**, along with pressure cookers, ACs, mobile phones, TV sets, passenger cars and two-wheelers.
+SC: Tyres and gold jewellery are consumer durables in IIP; a common trap.
+
+Q: Soyabean oil, milk powder, maida and biscuits fall under which IIP use-based category?
+A) Consumer non-durables
+B) Consumer durables
+C) Primary goods
+D) Intermediate goods
+ANS: A
+D: Easy
+P: 5
+EXP: **Consumer non-durables** are used directly by consumers and **cannot be preserved long**: edible oil, milk products, maida, rice, biscuits, sugar, tea and cigarettes.
+SC: Everyday food items are consumer non-durables.
+
+Q: Air and gas compressors, transformers and textile machinery are classified in IIP as:
+A) Capital goods
+B) Infrastructure/construction goods
+C) Intermediate goods
+D) Consumer durables
+ANS: A
+D: Easy
+P: 5
+EXP: **Capital goods** are plant, machinery and goods for **further investment**: boilers, compressors, engines, tractors, **transformers**, commercial vehicles and all machinery.
+SC: Machinery used for investment is a capital good.

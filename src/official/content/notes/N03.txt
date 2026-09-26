@@ -1,0 +1,490 @@
+@set N03
+@title Topic 2 · NSO (II): Indices, Development Indicators, Surveys & Core Statistics
+@pages Notes 2, pp. 10-21
+@desc CPI-AL/RL, CPI(R/U/C), CPI-IW, WPI, IIP, Eight Core, ISP; HDI, GDI, GII, GHI, PQLI, HPI; PLFS, ASI, UFS, QES, ASUSE, censuses; RBI surveys; the 8 groups of core statistics
+
+@note 2
+@topic Price Indices
+Q: The base year of the Consumer Price Index for Agricultural and Rural Labourers (CPI-AL/RL) is:
+A) 1986-87
+B) 2012
+C) 2016
+D) 2011-12
+ANS: A
+D: Medium
+P: 10
+EXP: **CPI-AL/RL: base 1986-87** (Labour Bureau). **CPI (R/U/C): 2012** (NSO-PSD). **CPI-IW: 2016** (Labour Bureau). **WPI and IIP: 2011-12**.
+SC: AL/RL 1986-87, R/U/C 2012, IW 2016, WPI/IIP 2011-12.
+
+Q: CPI-AL is used for which of the following purposes?
+1. Fixation and revision of minimum wages in the agricultural sector
+2. Moving base-year poverty lines for rural areas to subsequent years
+3. Calculating Dearness Allowance of Central Government employees
+Select the correct answer using the code given below:
+A) 1 and 2 only
+B) 2 and 3 only
+C) 1 and 3 only
+D) 1, 2 and 3
+ANS: A
+T: Statement
+D: Medium
+P: 10
+EXP: **CPI-AL** is used for **agricultural minimum wages** and for **updating rural poverty lines**. **DA of Government employees** is based on **CPI-IW**, which is also used for updating urban poverty lines.
+SC: AL is for rural wages and rural poverty. IW is for DA and urban poverty.
+
+Q: CPI (Rural) and CPI (Urban) of the NSO have base year:
+A) 2012 = 100
+B) 2001 = 100
+C) 2016 = 100
+D) 1986-87 = 100
+ANS: A
+D: Easy
+P: 10
+EXP: **CPI (R/U/C)** are compiled by **PSD, NSO** on **base 2012 = 100** and released on the **12th of every month**.
+SC: The NSO's CPI uses 2012.
+
+Q: Price data for CPI (Rural) are collected from about how many village markets?
+A) 1,181
+B) 310
+C) 600
+D) 1,114
+ANS: A
+D: Medium
+P: 10
+EXP: **CPI (Rural)** uses **1,181 village markets** and **CPI (Urban)** uses markets in **310 towns**. Rural prices are now collected by **FOD, NSO**. Before September 2018 the **Department of Posts** collected them.
+SC: Rural 1,181 villages, urban 310 towns.
+
+Q: Before September 2018, rural retail price data for CPI (Rural) were collected by:
+A) the Department of Posts
+B) the Labour Bureau
+C) the State DESs
+D) the RBI
+ANS: A
+D: Hard
+P: 10
+EXP: The notes say rural price data were collected by the **Department of Posts** until September 2018, and are now collected by **FOD, NSO** for PSD.
+SC: Post offices collected rural CPI data before 2018.
+
+Q: CPI-IW (base 2016) is compiled by the Labour Bureau and is primarily used for:
+A) calculating DA of Government employees and industrial workers and revising minimum wages in scheduled employments
+B) compiling GDP deflators only
+C) setting repo rates
+D) revising MSP
+ANS: A
+D: Easy
+P: 11
+EXP: **CPI-IW** (Labour Bureau, released on the **last working day of every month**) is used for **DA**, **minimum wage revision** in scheduled employments, and **updating urban poverty lines**.
+SC: IW (industrial workers) is the DA index.
+
+Q: Which statement about the Wholesale Price Index (WPI) is correct?
+A) It is compiled monthly by the Office of the Economic Adviser, DPIIT, with base 2011-12, and covers goods only, not services
+B) It is compiled by NSO and covers services
+C) Its base year is 2012
+D) It is released quarterly
+ANS: A
+D: Easy
+P: 11
+EXP: **WPI**: base **2011-12**, **monthly**, compiled by the **OEA, DPIIT** (Ministry of Commerce & Industry), **goods only**. Price quotations are collected by FOD, NSO, and OEA compiles and releases the index.
+SC: WPI covers wholesale goods and no services, and is compiled by the OEA.
+
+@topic Production Indices
+Q: In the IIP (base 2011-12), the approximate weights of Manufacturing, Mining and Electricity are:
+A) 77.63%, 14.37% and 7.99%
+B) 60%, 25% and 15%
+C) 70%, 20% and 10%
+D) 40.27%, 30% and 29.73%
+ANS: A
+D: Medium
+P: 12
+EXP: IIP weights: **Manufacturing 77.63%, Mining 14.37%, Electricity 7.99%**. Mining data come from the **IBM** and electricity data from the **CEA**. 40.27% is the weight of the Eight Core industries in the IIP.
+SC: Manufacturing about 78, Mining about 14, Electricity about 8.
+
+Q: The IIP is released by NSO (ESD) on the 12th of every month with a lag of:
+A) six weeks
+B) two weeks
+C) three months
+D) one year
+ANS: A
+D: Easy
+P: 12
+EXP: The notes: IIP (base 2011-12) is released on the **12th of every month** with a **six-week lag**.
+SC: IIP comes out on the 12th with a 6-week lag.
+
+Q: The Index of Eight Core Industries is compiled by:
+A) Office of the Economic Adviser, DPIIT
+B) NSO (ESD)
+C) Labour Bureau
+D) CEA
+ANS: A
+D: Medium
+P: 12
+EXP: The **Eight Core index** (base 2011-12) is compiled by the **OEA, DPIIT**. It covers **40.27%** of IIP weight and is released **before the IIP**, so it acts as a lead indicator.
+SC: The core index comes from the OEA, is released earlier, and covers 40% of IIP.
+
+Q: The Eight Core Industries constitute approximately what percentage of the overall IIP weight?
+A) 40.27%
+B) 77.63%
+C) 14.37%
+D) 60.50%
+ANS: A
+D: Medium
+P: 12
+EXP: The eight core industries (coal, crude oil, natural gas, refinery products, fertilisers, steel, cement, electricity) account for **40.27%** of IIP weight.
+SC: Core ≈ 40% of IIP.
+
+Q: Why was the Index of Service Production (ISP) initiated by ESD, NSO?
+A) Because IIP and ASI cover only manufacturing items and electricity, while ISP covers services such as banking, transport and telecom
+B) To replace the WPI
+C) To measure agricultural output
+D) To measure consumer confidence
+ANS: A
+D: Medium
+P: 12
+EXP: **IIP and ASI** cover only **manufacturing, mining and electricity**. The **ISP** is meant to track **services** such as banking, insurance, education, transport and telecom.
+SC: IIP covers industry, ISP covers services.
+
+@topic Development Indices
+Q: Which of the following indices uses "Estimated earned income (male and female) per capita" as its standard of living indicator?
+A) Gender Development Index (GDI)
+B) Human Development Index (HDI)
+C) Gender Inequality Index (GII)
+D) Global Hunger Index (GHI)
+ANS: A
+D: Medium
+P: 13
+EXP: The **GDI** computes HDI separately for females and males, using **estimated earned income by sex**. The **HDI** uses GNI per capita (the notes use per capita GSDP for sub-national HDI). The **GII** uses reproductive health, empowerment and labour market dimensions.
+SC: GDI is the HDI by sex, so it needs earned income by sex.
+
+Q: The Gender Inequality Index (GII) is based on which three dimensions?
+A) Reproductive health, empowerment and economic status (labour market)
+B) Health, education and income
+C) Literacy, IMR and life expectancy
+D) Undernourishment, wasting and stunting
+ANS: A
+D: Medium
+P: 13
+EXP: **GII**: **reproductive health** (MMR, adolescent birth rate), **empowerment** (parliamentary seats held by women, secondary education of those aged 25+) and **economic status** (female LFPR).
+SC: GII = Reproductive health + Empowerment + Labour.
+
+Q: Which of the following is NOT an indicator of the Global Hunger Index?
+A) Maternal mortality ratio
+B) Undernourishment
+C) Child stunting
+D) Under-five mortality rate
+ANS: A
+T: Odd-one-out
+D: Medium
+P: 14
+EXP: GHI uses four indicators: **undernourishment**, **child wasting** (low weight-for-height), **child stunting** (low height-for-age) and **child mortality** (under-5). **MMR** belongs to the GII.
+SC: GHI = Undernourishment + Wasting + Stunting + Under-5 mortality.
+
+Q: Child wasting, used in the Global Hunger Index, reflects:
+A) acute undernutrition (low weight for height)
+B) chronic undernutrition (low height for age)
+C) obesity
+D) low birth weight
+ANS: A
+D: Medium
+P: 14
+EXP: **Wasting = low weight-for-height = acute** undernutrition. **Stunting = low height-for-age = chronic** undernutrition.
+SC: Wasting is acute (weight), stunting is chronic (height).
+
+Q: The Physical Quality of Life Index (PQLI) is based on:
+A) literacy rate, infant mortality rate and life expectancy at age one
+B) GNI per capita, schooling and life expectancy at birth
+C) poverty, unemployment and inflation
+D) internet affordability and e-government
+ANS: A
+D: Medium
+P: 14
+EXP: **PQLI** (Morris D. Morris) = **literacy rate + IMR + life expectancy at age one**. It deliberately excludes income.
+SC: PQLI = Literacy + IMR + LE at age 1, with no income.
+
+Q: The Human Poverty Index considers deprivations in:
+A) longevity, knowledge and standard of living
+B) income only
+C) housing and sanitation only
+D) gender parity only
+ANS: A
+D: Medium
+P: 14
+EXP: The **HPI** measured deprivation in **longevity, knowledge and a decent standard of living**, the same dimensions as the HDI. It was later replaced by the **Multidimensional Poverty Index**.
+SC: HPI = deprivation in the HDI dimensions.
+
+Q: The "Digital Quality of Life Index", on which India was ranked 57/85 as per the notes, is published by:
+A) Surfshark
+B) UNDP
+C) World Bank
+D) ITU
+ANS: A
+D: Hard
+P: 14
+EXP: **Surfshark's** Digital Quality of Life Index covers **internet affordability, internet quality, electronic infrastructure, electronic security and e-government**. India was ranked **57/85** per the notes.
+SC: DQL is a private index (Surfshark).
+
+Q: The SDG India Index is prepared by:
+A) NITI Aayog
+B) NSO
+C) UNDP India
+D) RBI
+ANS: A
+D: Easy
+P: 14
+EXP: The **SDG India Index** (first released 2018) ranks States and UTs on SDG progress. It is prepared by **NITI Aayog**. MoSPI maintains the **NIF** and the SDG progress reports.
+SC: NITI publishes the SDG ranking index. MoSPI handles the SDG indicators.
+
+@topic Surveys & Censuses
+Q: The Urban Frame Survey (UFS) is conducted by FOD, NSO:
+A) quinquennially, to update UFS blocks as the frame for selecting FSUs in urban areas
+B) annually, to estimate urban unemployment
+C) decennially, along with the Population Census
+D) monthly, for urban prices
+ANS: A
+D: Medium
+P: 16
+EXP: The **UFS** forms and updates **urban blocks**, which serve as the **urban FSU frame** for NSO surveys. It is done **quinquennially** by **FOD**.
+SC: UFS = urban frame, updated every 5 years by FOD.
+
+Q: The Quarterly Employment Survey (QES) of the Ministry of Labour and Employment covers how many sectors?
+A) 9
+B) 8
+C) 12
+D) 5
+ANS: A
+D: Medium
+P: 16
+EXP: **QES** covers **9 sectors**: manufacturing, construction, trade, transport, education, health, accommodation & restaurants, IT/BPO, and financial services.
+SC: QES covers 9 sectors, the organised ones with 10+ workers.
+
+Q: The Annual Survey of Unincorporated Sector Enterprises (ASUSE) is devoted to:
+A) unincorporated non-agricultural establishments
+B) registered factories
+C) agricultural households
+D) government enterprises
+ANS: A
+D: Easy
+P: 16
+EXP: **ASUSE** covers **unincorporated non-agricultural establishments** (manufacturing, trade and other services) every year. It complements the **ASI**, which covers registered factories.
+SC: ASUSE covers the informal enterprises that ASI misses.
+
+Q: Match List-I (Census) with List-II (Conducting agency):
+| List-I | List-II |
+|---|---|
+| A. Population Census | 1. ESD, NSO |
+| B. Economic Census | 2. Department of Animal Husbandry |
+| C. Livestock Census | 3. Office of RGI, MHA |
+| D. Agriculture Census | 4. Department of Agriculture & Farmers Welfare |
+A) A-3, B-1, C-2, D-4
+B) A-1, B-3, C-2, D-4
+C) A-3, B-2, C-1, D-4
+D) A-3, B-1, C-4, D-2
+ANS: A
+T: Match
+D: Easy
+P: 16
+EXP: **Population Census**: ORGI, MHA (decennial). **Economic Census**: ESD, NSO (complete count of non-farm establishments). **Livestock Census**: Department of Animal Husbandry (quinquennial). **Agriculture Census**: DoA&FW (quinquennial, operational holdings).
+SC: People go to RGI, enterprises to NSO, animals to Animal Husbandry, holdings to Agriculture.
+
+Q: The Economic Census is:
+A) a complete count of all non-farm economic establishments within India
+B) a sample survey of factories
+C) a census of agricultural holdings
+D) a household consumption survey
+ANS: A
+D: Easy
+P: 16
+EXP: The **Economic Census** is a **complete enumeration of non-farm establishments**, which provides the frame for enterprise surveys. The 7th EC was held in 2019-20.
+SC: EC counts every non-farm establishment.
+
+Q: Which of the following RBI surveys is conducted on the manufacturing sector at quarterly frequency?
+A) OBICUS (Order Books, Inventories and Capacity Utilisation Survey)
+B) Consumer Confidence Survey
+C) Inflation Expectations Survey of Households
+D) Survey of Professional Forecasters
+ANS: A
+D: Medium
+P: 17
+EXP: **OBICUS** and the **Industrial Outlook Survey** are **quarterly** manufacturing surveys. The RBI also runs the Consumer Confidence Survey, the Inflation Expectations Survey of Households, the Survey of Professional Forecasters, the Bank Lending Survey and the Services & Infrastructure Outlook Survey.
+SC: The capacity-utilisation survey is OBICUS, run quarterly.
+
+Q: Which of the following is NOT a survey conducted by the RBI?
+A) Quarterly Employment Survey
+B) Consumer Confidence Survey
+C) Inflation Expectations Survey of Households
+D) Bank Lending Survey
+ANS: A
+T: Odd-one-out
+D: Easy
+P: 17
+EXP: The **QES** is run by the **Ministry of Labour & Employment (Labour Bureau)**. The other three are RBI surveys.
+SC: Employment surveys come from the Labour Bureau.
+
+@topic Core Statistics
+Q: How many groups of official statistics products were identified as "Core Statistics"?
+A) 8
+B) 5
+C) 10
+D) 12
+ANS: A
+D: Medium
+P: 18
+EXP: The **8 core statistics groups**: (1) National Income, (2) Production & Service Sectors, (3) Budgetary Transactions, (4) Money & Banking, (5) Capital Market, (6) Indices & short-term indicators, (7) External Sector, (8) Demography, Social & Environment.
+SC: Eight groups: Income, Production, Budget, Money, Capital market, Indices, External, Demography.
+
+Q: As per the list of core statistics, the Input-Output Transactions Table (IOTT) is released by NSO (NAD) at what periodicity?
+A) Every 5 years
+B) Annually
+C) Quarterly
+D) Monthly
+ANS: A
+D: Hard
+P: 18
+EXP: **GDP** is quarterly and annual. **IOTT** is every **5 years**. Informal sector output and value added are **5-yearly** (NSO and States). IIP is **monthly**.
+SC: IOTT is a 5-year product.
+
+Q: Under the core statistics list, "Resource Mobilisation from Primary Market" is released by:
+A) SEBI
+B) RBI
+C) Ministry of Finance
+D) NSO
+ANS: A
+D: Medium
+P: 19
+EXP: Capital market core statistics, **resource mobilisation from the primary market**, come from **SEBI** annually. Currency with the public comes from the **RBI**. Fiscal and revenue deficits come from the **Ministry of Finance**.
+SC: Capital market data come from SEBI.
+
+Q: Under the core statistics list, the Balance of Payments and Foreign Exchange Reserves are released by the RBI with periodicity respectively:
+A) Annually and monthly
+B) Monthly and annually
+C) Quarterly and quarterly
+D) Weekly and annually
+ANS: A
+D: Hard
+P: 19
+EXP: The core statistics list gives **Foreign Exchange Reserves: monthly** and **Balance of Payments: annually**, both from the **RBI**. The RBI also publishes quarterly BoP data, but the core list records annual.
+SC: Forex is monthly. BoP is annual in the core list.
+
+Q: Which of the following is correctly matched as per the core statistics list?
+A) CPI (IW/AL/RL) – Labour Bureau – Monthly
+B) WPI – NSO (PSD) – Monthly
+C) Population Census – NSO – Quinquennial
+D) Fiscal Deficit – RBI – Monthly
+ANS: A
+D: Medium
+P: 19
+EXP: **CPI-IW/AL/RL – Labour Bureau – monthly** is correct. WPI comes from the OEA-DPIIT. The Population Census is done by the ORGI decennially. The fiscal deficit comes from the Ministry of Finance annually.
+SC: Check the agency first. Labour Bureau is the only correct match.
+
+Q: Statistics on the number of persons employed according to usual status/CWS, and LFPR/WFPR, are listed as core statistics released by NSO with what periodicity in the notes' list?
+A) 5 years
+B) Monthly
+C) Annually
+D) Decennially
+ANS: A
+D: Hard
+P: 19
+EXP: The core list (from before PLFS) records employment by US/CWS and LFPR/WFPR as **5-yearly** from NSO, matching the old quinquennial employment-unemployment rounds. PLFS now provides quarterly and annual estimates.
+SC: The core list reflects the old quinquennial NSS rounds.
+
+Q: SDG statistics listed among core statistics are released by which NSO division?
+A) Social Statistics Division (SSD)
+B) National Accounts Division
+C) Economic Statistics Division
+D) Price Statistics Division
+ANS: A
+D: Easy
+P: 20
+EXP: The core list shows **SDGs – NSO (SSD) – annually**. SSD maintains the **NIF** and brings out the **SDG progress reports**.
+SC: SDG statistics come from SSD.
+
+@topic Price Indices
+Q: CPI-IW is released on:
+A) the last working day of every month
+B) the 12th of every month
+C) the 14th of every month
+D) the first working day of every quarter
+ANS: A
+D: Medium
+P: 11
+EXP: **CPI-IW**: **last working day of the month** (Labour Bureau). **CPI (R/U/C)** and **IIP**: **12th** (NSO). **WPI**: **14th** (OEA).
+SC: IW at month-end, CPI and IIP on the 12th, WPI on the 14th.
+
+Q: Which price index is also used in moving base-year poverty lines for urban areas to subsequent years, as per the notes?
+A) CPI-IW
+B) CPI-AL
+C) WPI
+D) CPI (Rural)
+ANS: A
+D: Medium
+P: 11
+EXP: The notes list **CPI-IW** for moving **urban poverty lines** and **CPI-AL** for **rural poverty lines**.
+SC: Urban uses IW, rural uses AL.
+
+@topic Surveys & Censuses
+Q: The PLFS uses which sampling design in urban areas, as mentioned in the notes' survey table?
+A) Rotational panel sampling design
+B) Simple random sampling
+C) Quota sampling
+D) Snowball sampling
+ANS: A
+D: Easy
+P: 15
+EXP: The **PLFS** uses a **rotational panel design** in urban areas for **quarterly CWS** estimates. It also releases **annual** reports in usual status and CWS.
+SC: PLFS urban uses a rotational panel.
+
+Q: The ASI covers:
+A) only the organised (registered) manufacturing sector
+B) all unincorporated enterprises
+C) agriculture and allied sectors
+D) only services
+ANS: A
+D: Easy
+P: 15
+EXP: The **ASI** is the principal source of industrial statistics for the **registered (organised) manufacturing sector**. It is conducted annually by the **IS Wing, DQAD**, with field work by FOD.
+SC: ASI covers registered units only.
+
+@topic Core Statistics
+Q: As per the core statistics list, the Index of Industrial Production (IIP) is released by:
+A) NSO (ESD), monthly
+B) Office of the Economic Adviser, DPIIT, monthly
+C) RBI, quarterly
+D) Labour Bureau, monthly
+ANS: A
+D: Easy
+P: 18
+EXP: **IIP** is released **monthly** by **NSO (ESD)**, and so is the **Index of Service Production (ISP)**. **WPI** comes from the **OEA, DPIIT**, and **CPI-IW/AL/RL** from the **Labour Bureau**.
+SC: IIP comes from ESD (NSO) and WPI from OEA (DPIIT).
+
+Q: In the core statistics list, the Revenue Deficit and the Fiscal Deficit are released by:
+A) Ministry of Finance, annually
+B) RBI, monthly
+C) Comptroller and Auditor General, quarterly
+D) NSO (NAD), annually
+ANS: A
+D: Easy
+P: 18
+EXP: The **Budgetary Transactions** group (Revenue Deficit, Fiscal Deficit) is released **annually** by the **Ministry of Finance**. **Currency with the public** (Money & Banking) comes from the **RBI**.
+SC: Budget statistics come from the Ministry of Finance, once a year.
+
+Q: "Output, input, value added, capital and employment in the informal sector" are listed in the core statistics as released by:
+A) NSO and States/UTs, every 5 years
+B) RBI, annually
+C) Labour Bureau, quarterly
+D) Ministry of MSME, monthly
+ANS: A
+D: Medium
+P: 18
+EXP: Under **Production & Service Sectors**, informal-sector statistics come from **NSO together with States/UTs** once every **5 years**. **Landholdings** come from the **Department of Agriculture** (5 years), and **IIP** from **NSO (ESD)** (monthly).
+SC: Informal-sector statistics come every 5 years from NSO and the States.
+
+@topic Surveys & Censuses
+Q: The Livestock Census and the Agriculture Census are conducted:
+A) both quinquennially
+B) Livestock Census decennially, Agriculture Census quinquennially
+C) both decennially
+D) Livestock Census annually, Agriculture Census quinquennially
+ANS: A
+D: Easy
+P: 17
+EXP: The **Livestock Census** (Department of Animal Husbandry & Dairying) and the **Agriculture Census** (DoA&FW, covering operational holdings) are both **quinquennial**. The **Population Census** (ORGI, MHA) is **decennial**.
+SC: Animals and holdings are counted every 5 years, people every 10.

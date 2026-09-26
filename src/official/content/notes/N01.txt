@@ -1,0 +1,499 @@
+@set N01
+@title Topic 1 · MoSPI: Wings, History, Legal Base, ISS, NSS Design & Metadata
+@pages Notes 1 (10 pp.)
+@desc MoSPI structure, National Income Committee, SDDS, features of the statistical system, constitutional entries and laws, ISS and NSSTA, NSS design, e-SIGMA, National Metadata Structure, QuickShot facts
+
+@note 1
+@topic MoSPI: Structure & History
+Q: MoSPI came into existence as an independent Ministry on 15 October 1999 after the merger of:
+A) the Department of Statistics and the Department of Programme Implementation
+B) the CSO and the NSSO
+C) the Planning Commission and the Department of Statistics
+D) the Department of Economic Affairs and the Department of Statistics
+ANS: A
+D: Easy
+P: 1
+EXP: MoSPI was formed on **15.10.1999** by merging the **Department of Statistics** and the **Department of Programme Implementation**. The CSO and NSSO merged later, into the **NSO**, in 2019.
+SC: Statistics + Programme Implementation = MoSPI.
+
+Q: The Programme Implementation Wing of MoSPI has which two Divisions?
+A) Infrastructure and Project Monitoring; MPLADS
+B) Twenty Point Programme; Economic Census
+C) Survey Design; Field Operations
+D) National Accounts; Price Statistics
+ANS: A
+D: Medium
+P: 1
+EXP: Per the notes, the PI Wing has **two Divisions: (i) Infrastructure and Project Monitoring (IPMD) and (ii) MPLADS**. The Twenty Point Programme was also monitored by the PI Wing, and the notes' current structure counts two divisions.
+SC: Two PI divisions: Projects (IPMD) and MP funds (MPLADS).
+
+Q: Which committee, appointed in 1949, noticed large gaps in India's statistical database and recommended improvements in data collection?
+A) National Income Committee
+B) Mahalanobis Committee on Distribution of Income
+C) Rangarajan Commission
+D) Bowley-Robertson Committee
+ANS: A
+D: Medium
+P: 1
+EXP: The **National Income Committee (1949)**, chaired by P.C. Mahalanobis, found gaps in the database. This led to the **Central Statistical Unit (1949)**, CSO (1951), Directorate of NSS (1950), the Computer Centre (1967) and NSSO (1970).
+SC: The 1949 NIC found the gaps, and the CSU (1949) and NSS (1950) were created to fill them.
+
+Q: India subscribes to which data dissemination standard of the IMF?
+A) Special Data Dissemination Standard (SDDS)
+B) General Data Dissemination System (GDDS)
+C) Enhanced GDDS
+D) SDDS Plus
+ANS: A
+D: Easy
+P: 1
+EXP: India subscribes to the IMF's **SDDS** and meets it. MoSPI keeps an **Advance Release Calendar** for SDDS data categories, posted on its website and on the IMF's **Dissemination Standards Bulletin Board (DSBB)**.
+SC: India follows SDDS (Special), not GDDS (General). The calendar is posted on the DSBB.
+
+Q: MoSPI's Advance Release Calendar for data categories covered under SDDS is disseminated on the Ministry's website and on:
+A) the IMF's Dissemination Standards Bulletin Board (DSBB)
+B) the World Bank's Data Catalog
+C) the UN Data portal
+D) the RBI's DBIE
+ANS: A
+D: Medium
+P: 1
+EXP: The calendar is published on **mospi.gov.in and the IMF DSBB**, the board where SDDS subscribers post their metadata and calendars.
+SC: SDDS calendars go on the IMF's DSBB.
+
+Q: MoSPI acts as the nodal Ministry for the Indian Statistical Institute and ensures its functioning according to:
+A) the Indian Statistical Institute Act, 1959
+B) the Collection of Statistics Act, 2008
+C) the Societies Registration Act, 1860
+D) the University Grants Commission Act, 1956
+ANS: A
+D: Easy
+P: 1
+EXP: MoSPI is the nodal Ministry for the **ISI** under the **ISI Act, 1959**, which declared the ISI an Institute of National Importance.
+SC: The ISI is governed by the ISI Act of 1959.
+
+@topic Features of the Indian Statistical System
+Q: Consider the following statements about the Indian statistical system:
+1. The administrative statistics system is its major component.
+2. For most sectors, data collection, compilation and processing are carried out by the States.
+3. All-India statistics are generally obtained as aggregates of State-level statistics.
+Which of the statements given above is/are correct?
+A) 1 only
+B) 1 and 2 only
+C) 2 and 3 only
+D) 1, 2 and 3
+ANS: D
+T: Statement
+D: Medium
+P: 3
+EXP: All three are correct. The system is **laterally and vertically decentralised**. States collect and compile most sector data, which then flow to the Centre, where the all-India figures are aggregated.
+SC: Administrative statistics come from the States and add up to the national figure.
+
+Q: The notes point out that professional statistical work at the Centre and in the States being carried out mostly by non-professionals had implications for:
+A) quality, standardisation, credibility and timeliness of statistical products
+B) only the cost of surveys
+C) only international rankings
+D) only the size of the ISS cadre
+ANS: A
+D: Medium
+P: 3
+EXP: Most statistical work was done by **non-professionals**, which affected **data quality, standardisation** (for lack of uniform training), **credibility and timeliness**.
+SC: Non-professionals led to quality, uniformity, trust and timeliness problems.
+
+Q: The two broad sources of statistics in India, as per the notes, are:
+A) administrative statistics (statutory returns and by-products of administration) and censuses & sample surveys
+B) private data and international data
+C) media reports and academic studies
+D) tax records and court records only
+ANS: A
+D: Easy
+P: 3
+EXP: Sources are **(a) administrative statistics**, generally collected by State Governments through statutory returns and as a by-product of administration, and **(b) censuses and sample surveys**.
+SC: The two sources are administrative records and censuses/surveys.
+
+@topic Constitutional Provisions & Laws
+Q: The subject "Statistics" is covered in the Seventh Schedule under:
+A) Entry 94 of the Union List and Entry 45 of the Concurrent List
+B) Entry 69 of the Union List only
+C) Entry 30 of the State List
+D) Entry 20 of the Union List
+ANS: A
+D: Medium
+P: 4
+EXP: "Statistics" appears in **Union List Entry 94** and **Concurrent List Entry 45** (inquiries, surveys and statistics). Related entries: **Union Entry 69 (Census)**, **Concurrent Entry 20 (economic and social planning)** and **Concurrent Entry 30 (vital statistics)**.
+SC: Statistics = Union 94 + Concurrent 45. Census = Union 69.
+
+Q: Since "statistics" is not covered under the State List, statistics on matters in the State List fall under:
+A) the Concurrent jurisdiction of the Centre and the States
+B) exclusive State jurisdiction
+C) exclusive Union jurisdiction
+D) the jurisdiction of local bodies
+ANS: A
+D: Medium
+P: 4
+EXP: There is no statistics entry in List II. So under **Concurrent Entry 45**, statistics for State List matters are a **concurrent** subject, and both the Centre and the States can legislate.
+SC: No entry in the State List means the matter goes to the Concurrent List through Entry 45.
+
+Q: "Economic and social planning" is listed in which entry of the Concurrent List?
+A) Entry 20
+B) Entry 30
+C) Entry 45
+D) Entry 94
+ANS: A
+D: Hard
+P: 4
+EXP: **Concurrent List Entry 20** is economic and social planning. Entry 30 is vital statistics and Entry 45 is inquiries and statistics. Entry 94 is in the Union List.
+SC: Concurrent 20 is planning, 30 is vital statistics, 45 is statistics.
+
+Q: The Collection of Statistics Act, 2008 came into force on:
+A) 11 June 2010
+B) 7 January 2009
+C) 1 April 2011
+D) 15 October 1999
+ANS: A
+D: Medium
+P: 4
+EXP: The **CoS Act, 2008** (Act 7 of 2009) **came into force on 11 June 2010** and **repealed the CoS Act, 1953**. The **CoS Rules** followed in **2011**.
+SC: Enacted 2008, numbered Act 7 of 2009, in force 11.06.2010, Rules 2011.
+
+Q: Which law was repealed by the Collection of Statistics Act, 2008?
+A) Collection of Statistics Act, 1953
+B) Census Act, 1948
+C) Registration of Births and Deaths Act, 1969
+D) Indian Statistical Institute Act, 1959
+ANS: A
+D: Easy
+P: 4
+EXP: The **2008 Act repealed the CoS Act, 1953**. The **J&K CoS Act, 1961** applied separately until the 2017 amendment extended the central Act to J&K.
+SC: The new CoS Act replaced the old CoS Act (1953).
+
+Q: The powers and functions of the Governing Council for NSSO, set up by Government resolution, have now been given to:
+A) the National Statistical Commission
+B) the Chief Statistician of India
+C) the NITI Aayog
+D) the Indian Statistical Institute
+ANS: A
+D: Medium
+P: 4
+EXP: The notes say the **Governing Council for NSSO's** powers and functions are now with the **NSC**.
+SC: NSSO's governing council was absorbed into the NSC.
+
+@topic Indian Statistical Service & Training
+Q: The Indian Statistical Service was constituted as a Group A Central Service on:
+A) 1 November 1961
+B) 15 October 1999
+C) 1 January 1967
+D) 29 June 1968
+ANS: A
+D: Medium
+P: 5
+EXP: The **ISS** was constituted on **1 November 1961** by pooling statistical posts offered by ministries. The **first direct recruitment exam** was held in **1967**, and the **first batch** was appointed in **1968**.
+SC: ISS formed 1961, first exam 1967, first batch 1968.
+
+Q: The "congenital defect" of the ISS at its creation, as mentioned in the notes, was:
+A) a bottom-heavy structure with very few positions at the top
+B) lack of recruitment through UPSC
+C) absence of a cadre controlling authority
+D) inclusion of economists
+ANS: A
+D: Medium
+P: 5
+EXP: Only low-level posts were offered for encadrement, so the ISS started **bottom-heavy**, with **few top positions** to match career aspirations.
+SC: The defect was too many junior posts and too few senior ones.
+
+Q: Recruitment to the ISS and its sister service is made through a combined examination conducted by UPSC. The sister service is:
+A) Indian Economic Service
+B) Indian Revenue Service
+C) Indian Audit and Accounts Service
+D) Indian Foreign Service
+ANS: A
+D: Easy
+P: 5
+EXP: The **IES/ISS Examination** is conducted by the **UPSC** every year on an all-India basis.
+SC: ISS and IES share one examination.
+
+Q: The National Statistical Systems Training Academy (NSSTA), earlier known as NASA, came into existence on:
+A) 13 February 2009
+B) 1 November 1961
+C) 15 October 1999
+D) 29 June 2007
+ANS: A
+D: Hard
+P: 5
+EXP: **NSSTA** (earlier the **National Academy of Statistical Administration**) came into existence on **13 February 2009** at **Greater Noida**. A training unit also functioned at Pushpa Bhawan, Madangir Road, New Delhi.
+SC: NSSTA/NASA dates from 13.02.2009 at Greater Noida.
+
+Q: The Training Unit of MoSPI, along with NSSTA, was located at:
+A) Pushpa Bhawan, Madangir Road, New Delhi
+B) Sardar Patel Bhawan, New Delhi
+C) Khurshid Lal Bhawan, New Delhi
+D) Mahalanobis Bhawan, Kolkata
+ANS: A
+D: Hard
+P: 5
+EXP: The notes place the **Training Unit** at **Pushpa Bhawan, Madangir Road, New Delhi**. MoSPI HQ is at **Sardar Patel Bhawan**. The SSD's EnviStats address is **Khurshid Lal Bhawan, Janpath**.
+SC: The training unit was at Pushpa Bhawan.
+
+@topic National Sample Survey: Design
+Q: The National Sample Survey was initiated in 1950 on the proposal of:
+A) Prof. P.C. Mahalanobis
+B) Prof. P.V. Sukhatme
+C) Dr. V.K.R.V. Rao
+D) Prof. C.R. Rao
+ANS: A
+D: Easy
+P: 6
+EXP: The **NSS (1950)** was set up on **Mahalanobis's proposal** to fill data gaps for planning through sample surveys. It is described as the **largest repetitive survey operation in the world**.
+SC: Mahalanobis → NSS (1950) → sample surveys for planning.
+
+Q: The standard NSS sampling design used almost from its inception is described as:
+A) inter-penetrating, multi-stage, stratified, probability-proportional-to-size, circular systematic
+B) simple random sampling without replacement
+C) cluster sampling with equal probability
+D) quota sampling
+ANS: A
+D: Medium
+P: 6
+EXP: NSS has long used an **inter-penetrating, multi-stage, stratified, PPS, circular systematic** design. Inter-penetrating sub-samples allow the sampling error to be estimated easily.
+SC: IPNS + multi-stage + stratified + PPS + CSS.
+
+Q: The notes criticise the NSS's circular systematic sampling because:
+A) although it allows error estimation through inter-penetrating sub-samples, it cannot relate the error to the sample size
+B) it is too expensive
+C) it does not allow stratification
+D) it gives biased estimates of totals
+ANS: A
+D: Hard
+P: 6
+EXP: Circular systematic sampling was a fine innovation in the 1950s. However, although sub-samples give an estimate of error, **the error cannot be related to sample size**. The notes also note that no methodological studies were done to review the design.
+SC: The drawback is that error cannot be linked to n, so sample size is hard to plan.
+
+Q: The objective of MoSPI's e-SIGMA is to:
+A) convert data collection from paper schedules to CAPI with in-built validation, integrating SDRD, DQAD, FOD and SCD
+B) digitise the Census
+C) compute GDP in real time
+D) monitor MPLADS works
+ANS: A
+D: Medium
+P: 6
+EXP: **e-SIGMA** (e-Survey Instrument and Generalised Multimodal Application) moves data collection from paper to **CAPI** with built-in validation. It integrates **SDRD, DQAD, FOD and SCD** for faster, better-quality data.
+SC: e-SIGMA = paper to CAPI across the NSO survey divisions.
+
+Q: e-SIGMA is described as "multimodal" because it can support which survey modes?
+A) CAPI, CATI and CAWI
+B) PAPI only
+C) Postal and telephonic only
+D) Satellite and drone surveys
+ANS: A
+D: Medium
+P: 6
+EXP: e-SIGMA can handle **CAPI** (personal interview), **CATI** (telephone interview) and **CAWI** (web interview).
+SC: The three CA-modes: Personal, Telephone, Web.
+
+@topic Metadata & QuickShot Facts
+Q: The National Metadata Structure (NMDS) of MoSPI is meant to:
+A) provide guidelines for data producers to adhere to a basic minimum quality standard and ease data sharing
+B) replace all survey data with administrative data
+C) regulate social media data
+D) set GST rates
+ANS: A
+D: Easy
+P: 7
+EXP: **NMDS** gives data producers guidelines to meet a **basic minimum quality standard** and to make data easier to share and compare across producers and over time.
+SC: NMDS sets a minimum metadata standard.
+
+Q: Metadata is best described as:
+A) data about data, describing structure, definitions, collection methods and how data should be read
+B) the largest dataset in an organisation
+C) data after removing outliers
+D) encrypted data
+ANS: A
+D: Easy
+P: 7
+EXP: **Metadata = data about data**: methodology, sampling design, interview mode, definitions and structure. It improves accessibility and comparability and prevents misuse.
+SC: Meta means "about", so metadata is information about the data.
+
+Q: The first meeting of the Conference of Central and State Statistical Organisations (COCSSO) was held in:
+A) September 1971
+B) January 1949
+C) June 2005
+D) October 1999
+ANS: A
+D: Hard
+P: 9
+EXP: The notes' QuickShot says the **first COCSSO** was held in **September 1971**. COCSSO is the main Centre-State coordination forum in official statistics.
+SC: COCSSO began in 1971, soon after NSSO (1970).
+
+Q: The "Delhi Group" is an international expert group on:
+A) Informal Sector Statistics
+B) Price Indices
+C) Environmental Accounting
+D) Service Statistics
+ANS: A
+D: Easy
+P: 9
+EXP: The **Delhi Group** (chaired by India) works on **informal sector statistics**. Ottawa is prices, London environmental accounting, Voorburg services.
+SC: Delhi = informal sector.
+
+Q: The MoSPI Computer Centre was set up in 1967 with which computer systems?
+A) Three Honeywell-400 systems
+B) One Burroughs-3845 mainframe
+C) DPS 7000/240
+D) IBM 360
+ANS: A
+D: Hard
+P: 9
+EXP: The Centre started in **1967 with 3 Honeywell-400 systems**. These were replaced in **1981 by a Burroughs-3845**, then in **May 1992 by a DPS 7000/240**. Later came client-server PC systems.
+SC: Honeywell (1967) → Burroughs (1981) → DPS 7000 (1992).
+
+Q: Prof. P.C. Mahalanobis was appointed as the first Statistical Adviser to the Cabinet, Government of India in:
+A) January 1949
+B) June 1931
+C) October 1950
+D) March 1970
+ANS: A
+D: Medium
+P: 9
+EXP: Mahalanobis became the **first Statistical Adviser to the Cabinet in January 1949**. He was the **architect of independent India's statistical system**.
+SC: Statistical Adviser appointed in 1949, the same year as the CSU and the National Income Committee.
+
+Q: Who, as Statistical Adviser to the Ministry of Agriculture, was responsible for the development of agricultural statistics in India?
+A) Prof. P.V. Sukhatme
+B) Prof. P.C. Mahalanobis
+C) Dr. D.R. Gadgil
+D) Prof. K.N. Raj
+ANS: A
+D: Medium
+P: 9
+EXP: **P.V. Sukhatme** developed **agricultural statistics**, including crop-cutting experiments and sampling for crop estimation at the IASRI (then IARS). Mahalanobis built the overall system and the NSS.
+SC: Sukhatme = agriculture. Mahalanobis = the whole system.
+
+Q: As per the notes, the main sources of data for the services sector in India include:
+A) Follow-up Enterprise Surveys of the Economic Census, Department of Company Affairs and RBI
+B) Population Census and SRS
+C) CPI and WPI
+D) ASI and IIP
+ANS: A
+D: Medium
+P: 9
+EXP: Services sector data come from the **Follow-up Enterprise Surveys of the Economic Census**, the **Department of Company Affairs (now MCA)** and the **RBI**.
+SC: Services data come from EC follow-ups, company data and RBI.
+
+@topic Statistical System at Centre & States
+Q: As per the notes, which statement about the State Directorates of Economics and Statistics is correct?
+A) Their statistical activity is more or less uniform, including SDP estimates and retail price index numbers
+B) They are part of the NSO
+C) They compile India's GDP
+D) They are headed by ISS officers of the Centre
+ANS: A
+D: Easy
+P: 2
+EXP: DES activities are **broadly uniform** across States: statistical abstracts, economic surveys, district abstracts, budget analysis, **SDP** and **retail price indices**. They are State Government bodies.
+SC: State DES = SDP + State prices + State publications.
+
+Q: The nodal agency for the planned development of the statistical system and coordination between GoI agencies and State DESs is:
+A) CSO (now NSO) in MoSPI
+B) State Planning Boards
+C) NITI Aayog
+D) RBI
+ANS: A
+D: Easy
+P: 2
+EXP: The **CSO (now NSO)** has been the **nodal agency** for developing the statistical system and coordinating between Central agencies and State DESs.
+SC: The coordinator is the CSO/NSO.
+
+Q: Which of the following statistical operations are generally centralised in India?
+A) Population Census, Annual Survey of Industries and Economic Census
+B) Crop-cutting experiments and land records
+C) Birth and death registration
+D) State budget analysis
+ANS: A
+D: Easy
+P: 2
+EXP: **Large-scale operations** (Population Census, ASI, Economic Census) are centralised and serve ministries and States. Crop estimation, vital registration and budget analysis are done by the States.
+SC: Nationwide frames are centralised. State functions are decentralised.
+
+Q: In important ministries, statistical functions are performed by:
+A) ISS officers and Subordinate Statistical Service staff
+B) IAS officers only
+C) contract enumerators only
+D) State DES staff on deputation only
+ANS: A
+D: Easy
+P: 2
+EXP: The notes say **ISS officers and subordinate statistical staff** do the statistical work in important ministries. MoSPI controls the ISS cadre.
+SC: ISS and SSS staff run ministry statistics.
+
+@topic MoSPI: Structure & History
+Q: Arrange in chronological order: 1. Computer Centre 2. Central Statistical Unit 3. NSSO 4. Directorate of NSS
+A) 2, 4, 1, 3
+B) 4, 2, 1, 3
+C) 2, 4, 3, 1
+D) 2, 1, 4, 3
+ANS: A
+T: Chronology
+D: Medium
+P: 1
+EXP: **CSU (1949) → Directorate of NSS (1950) → Computer Centre (1967) → NSSO (1970)**. The CSO came in 1951 and MoSPI in 1999.
+SC: The years run 49 → 50 → 67 → 70.
+
+Q: As per the notes, the Statistics Wing of MoSPI is called:
+A) National Statistical Office (NSO)
+B) Central Statistical Organisation
+C) National Sample Survey Organisation
+D) Statistical Services Division
+ANS: A
+D: Easy
+P: 1
+EXP: MoSPI's **Statistics Wing is the NSO**, formed in 2019 by merging the CSO and NSSO. The other wing is **Programme Implementation**.
+SC: Statistics Wing = NSO.
+
+@topic Constitutional Provisions & Laws
+Q: The Collection of Statistics Act, 1953 applied throughout India except Jammu & Kashmir, where the corresponding law was:
+A) the Jammu and Kashmir Collection of Statistics Act, 1961
+B) the J&K Census Act, 1948
+C) the J&K Statistics Ordinance, 1953
+D) no law applied
+ANS: A
+D: Medium
+P: 4
+EXP: The **J&K CoS Act, 1961** (with Rules of 1964) applied in J&K. The ASI in J&K was run under it until the central CoS Act was extended by the 2017 amendment.
+SC: J&K had its own 1961 CoS Act.
+
+Q: Which of the following laws relates to the registration of vital events?
+A) Registration of Births and Deaths Act, 1969
+B) Census Act, 1948
+C) Collection of Statistics Act, 2008
+D) Factories Act, 1948
+ANS: A
+D: Easy
+P: 4
+EXP: The **RBD Act, 1969** makes registration of births and deaths compulsory. It is implemented by State Chief Registrars under the **RGI**. Vital statistics are in the Concurrent List (Entry 30).
+SC: RBD Act 1969 covers vital registration.
+
+@topic Metadata & QuickShot Facts
+Q: According to the notes, good metadata helps to:
+1. increase data accessibility
+2. prevent potential misuse of datasets
+3. ensure data comparability over time
+Select the correct answer using the code given below:
+A) 1 only
+B) 1 and 2 only
+C) 2 and 3 only
+D) 1, 2 and 3
+ANS: D
+T: Statement
+D: Easy
+P: 7
+EXP: Metadata **increases accessibility** by summarising methodology, **prevents misuse** by stating the proper uses, and supports **comparability** across producers and time.
+SC: Metadata improves access, prevents misuse and ensures comparability, so all three apply.
+
+Q: The Burroughs-3845 mainframe at the MoSPI Computer Centre was replaced in May 1992 by:
+A) DPS 7000/240
+B) Honeywell-400
+C) IBM System/370
+D) Cray-1
+ANS: A
+D: Hard
+P: 9
+EXP: The sequence was: **Honeywell-400 (1967) → Burroughs-3845 (1981) → DPS 7000/240 (May 1992)**. Later the Centre moved to client-server systems with Oracle and SPSS/STATA.
+SC: H-B-D: Honeywell, Burroughs, DPS.

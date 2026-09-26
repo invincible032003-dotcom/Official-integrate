@@ -1,0 +1,487 @@
+@set N02
+@title Topic 2 · NSO (I): Mandate, Survey Divisions, 12 Divisions, CSI & Statistics Days
+@pages Notes 2, pp. 1-10
+@desc NSO mandate and international liaison, SDRD/FOD/DQAD/SCD, Chief Statisticians of India, National Statistics Day and World Statistics Day themes, the 12 NSO divisions and their outputs
+
+@note 2
+@topic NSO: Mandate
+Q: Which of the following is NOT a responsibility of the National Statistical Office?
+A) Compiling the Wholesale Price Index
+B) Preparing national accounts and comparable SDP estimates
+C) Compiling the monthly IIP quick estimates
+D) Conducting the Economic Census and follow-up enterprise surveys
+ANS: A
+T: Odd-one-out
+D: Easy
+P: 2
+EXP: The NSO prepares **national accounts** and comparable **SDP**, compiles the **IIP**, runs the **ASI**, the **Economic Census** and follow-up surveys, and conducts large sample surveys. The **WPI** is compiled by the **Office of the Economic Adviser, DPIIT**.
+SC: WPI comes from the OEA in the Commerce Ministry.
+
+Q: The NSO coordinates statistical work of Ministries and advises them on methodology. It coordinates at the State level with:
+A) State Statistical Bureaus (SSBs)/DESs
+B) District Collectors
+C) Panchayati Raj institutions
+D) State Election Commissions
+ANS: A
+D: Easy
+P: 1
+EXP: NSO coordinates with Central Ministries and **State Statistical Bureaus (now the State DESs)**, and advises on statistical methodology and analysis.
+SC: The Centre's counterpart in each State is the SSB/DES.
+
+Q: With which of the following international organisations does the NSO maintain liaison?
+1. UNSD and ESCAP
+2. SIAP and IMF
+3. ADB, FAO and ILO
+Select the correct answer using the code given below:
+A) 1 only
+B) 1 and 2 only
+C) 2 and 3 only
+D) 1, 2 and 3
+ANS: D
+T: Statement
+D: Easy
+P: 2
+EXP: The notes list **UNSD, ESCAP, SIAP, IMF, ADB, FAO and ILO**. All three groups are correct.
+SC: All the statistical and development agencies are included.
+
+Q: The NSO releases grants-in-aid to registered NGOs and research institutions for:
+A) special studies/surveys, printing statistical reports and financing seminars on official statistics
+B) running schools
+C) rural employment works
+D) infrastructure construction
+ANS: A
+D: Medium
+P: 3
+EXP: Mandate item 10: **grants-in-aid** for **special studies or surveys**, **printing statistical reports** and **seminars, workshops and conferences** on official statistics.
+SC: Grants go to statistical research and outreach.
+
+Q: Which NSO responsibility involves examining survey reports from the technical angle and evaluating sampling designs of surveys by other Central Ministries?
+A) Technical evaluation of survey designs and feasibility studies
+B) Grants-in-aid
+C) Dissemination
+D) Economic Census
+ANS: A
+D: Medium
+P: 2
+EXP: Mandate item 8: NSO **examines survey reports technically** and **evaluates sampling designs**, including feasibility studies, for surveys by the NSSO and other Ministries. It acts as the system's technical reviewer.
+SC: NSO acts as the peer reviewer of government surveys.
+
+@topic NSS Divisions
+Q: Which NSO division, located at Kolkata, is responsible for technical planning of surveys, sample design, schedules and preparation of survey reports?
+A) Survey Design and Research Division (SDRD)
+B) Survey Coordination Division (SCD)
+C) Field Operations Division (FOD)
+D) Data Quality Assurance Division (DQAD)
+ANS: A
+D: Easy
+P: 3
+EXP: **SDRD (Kolkata)** does survey planning, sample design, schedules, concepts, tabulation plans, analysis and **survey reports**. It is **ISO:9000 certified**.
+SC: Design and reports are SDRD's job, based in Kolkata.
+
+Q: As per the notes, the Field Operations Division has a network of:
+A) 6 Zonal Offices, 53 Regional Offices and 116 Sub-Regional Offices
+B) 4 Zonal Offices, 49 Regional Offices and 118 Sub-Regional Offices
+C) 6 Zonal Offices, 49 Regional Offices and 100 Sub-Regional Offices
+D) 8 Zonal Offices, 60 Regional Offices and 150 Sub-Regional Offices
+ANS: A
+D: Medium
+P: 3
+EXP: The updated notes give **6 ZOs, 53 ROs and 116 SROs**, with HQ at **Delhi/Faridabad**. The older book figure was 49 ROs. FOD collects primary data for MoSPI surveys.
+SC: The notes give 6-53-116. The book gave 6-49-116.
+
+Q: The Data Quality Assurance Division (DQAD) of NSO:
+A) is headquartered at Kolkata, has six Data Processing Centres and houses the Industrial Statistics Wing
+B) is headquartered at Delhi and publishes Sarvekshana
+C) runs the Population Census
+D) compiles the CPI
+ANS: A
+D: Medium
+P: 3
+EXP: **DQAD (erstwhile DPD)**, HQ **Kolkata**, has 6 DPCs (Ahmedabad, Bangalore, Kolkata, Delhi, Giridih, Nagpur). It handles sample selection, software and processing, and houses the **IS Wing** (ASI design, validation and results).
+SC: DQAD = old DPD + IS Wing, in Kolkata.
+
+Q: Which NSO division publishes the technical journal "Sarvekshana" and organises National Seminars on survey results?
+A) Survey Coordination Division (SCD)
+B) SDRD
+C) FOD
+D) Social Statistics Division
+ANS: A
+D: Easy
+P: 3
+EXP: **SCD (Delhi)** coordinates the NSS divisions, organises **National Seminars**, publishes **Sarvekshana**, serves as the **Secretariat of DG (NSS)**, handles parliamentary questions on NSS and monitors the NSS budget.
+SC: SCD is the coordinator and publisher, in Delhi.
+
+Q: Sarvekshana, the journal of NSO, is published at what frequency and when was its first issue brought out?
+A) Bi-annual; July 1977
+B) Quarterly; July 1950
+C) Monthly; April 1970
+D) Annual; June 2007
+ANS: A
+D: Hard
+P: 9
+EXP: The notes say **Sarvekshana** is **bi-annual**, with the **first issue in July 1977**. The **112th issue** appeared in April 2022.
+SC: Sarvekshana: first issue 1977, published twice a year.
+
+Q: Which portal enables collection of ASI data "in a timely, transparent and reliable manner without physical movement of schedules"?
+A) ASI Web Portal
+B) e-Sankhyiki
+C) NDAP
+D) MPLADS portal
+ANS: A
+D: Easy
+P: 4
+EXP: The **ASI Web Portal**, used by the IS Wing of DQAD, collects and maintains ASI data securely, without paper schedules moving between offices.
+SC: ASI data go through the ASI Web Portal.
+
+@topic Chief Statistician of India
+Q: Who was the first Chief Statistician of India?
+A) Dr. Pronab Sen
+B) Prof. T.C.A. Anant
+C) Pravin Srivastava
+D) Dr. C. Rangarajan
+ANS: A
+D: Easy
+P: 4
+EXP: **Dr. Pronab Sen** was the first **CSI** (21 February 2007 – 30 June 2010). He was followed by **Prof. T.C.A. Anant** (1 July 2010 – 31 January 2017) and **Pravin Srivastava** (to 31 August 2020). The notes then list **G.P. Samanta**.
+SC: Sen → Anant → Srivastava → Samanta.
+
+Q: The post of Chief Statistician of India was first held from:
+A) 21 February 2007
+B) 15 October 1999
+C) 12 July 2006
+D) 1 June 2005
+ANS: A
+D: Medium
+P: 4
+EXP: The CSI post was created alongside the NSC. **Pronab Sen** took office on **21 February 2007**. The NSC was constituted on 12 July 2006.
+SC: The NSC was constituted in 2006 and the first CSI took office in 2007.
+
+Q: Prof. T.C.A. Anant served as Chief Statistician of India from 2010 to:
+A) January 2017
+B) June 2010
+C) August 2020
+D) March 2014
+ANS: A
+D: Hard
+P: 4
+EXP: **T.C.A. Anant** served from **1 July 2010 to 31 January 2017**. Pravin Srivastava was CSI until 31 August 2020.
+SC: Anant served 2010-2017.
+
+@topic Statistics Day & World Statistics Day
+Q: In which year was National Statistics Day first celebrated in India?
+A) 2007
+B) 1993
+C) 2010
+D) 1999
+ANS: A
+D: Easy
+P: 4
+EXP: **Statistics Day (29 June)**, Mahalanobis's birthday, was **first celebrated in 2007**. It aims to spread awareness, especially among young people, about the role of statistics in planning.
+SC: The first Statistics Day was in 2007, the same year the first CSI took office.
+
+Q: The theme of National Statistics Day 2022 was:
+A) Data for Sustainable Development
+B) Better data, better lives
+C) Connecting the world with data we can trust
+D) SDGs
+ANS: A
+D: Medium
+P: 4
+EXP: Themes per the notes: **2019 – SDGs**; **2020 – SDG 3 and SDG 5**; **2021 – SDG 2 (Zero Hunger)**; **2022 – Data for Sustainable Development**. The other options are World Statistics Day themes.
+SC: The 2022 theme is Data for Sustainable Development. The WSD themes use the "data we can trust" style.
+
+Q: National Statistics Day 2021 focused on which SDG?
+A) SDG 2 – End hunger, food security and nutrition, sustainable agriculture
+B) SDG 5 – Gender equality
+C) SDG 13 – Climate action
+D) SDG 16 – Peace and justice
+ANS: A
+D: Medium
+P: 4
+EXP: The **2021** theme was **SDG 2**. The **2020** theme combined **SDG 3 (health) and SDG 5 (gender)**.
+SC: 2020 covered SDGs 3 and 5. 2021 covered SDG 2.
+
+Q: World Statistics Day is celebrated on 20 October every:
+A) five years
+B) year
+C) two years
+D) ten years
+ANS: A
+D: Easy
+P: 4
+EXP: **World Statistics Day (20 October)** is celebrated **every five years**: **2010** (first), **2015** and **2020**. It follows UNGA resolution 64/267.
+SC: WSD is on 20.10, every 5 years: 2010, 2015, 2020.
+
+Q: Match List-I (World Statistics Day year) with List-II (Theme):
+| List-I | List-II |
+|---|---|
+| A. 2010 | 1. Connecting the world with data we can trust |
+| B. 2015 | 2. Better data, better lives |
+| C. 2020 | 3. Service, professionalism, integrity: celebrating the many contributions of official statistics |
+A) A-3, B-2, C-1
+B) A-2, B-3, C-1
+C) A-1, B-2, C-3
+D) A-3, B-1, C-2
+ANS: A
+T: Match
+D: Medium
+P: 4
+EXP: **2010**: "Service, professionalism, integrity...". **2015**: "Better data, better lives". **2020**: "Connecting the world with data we can trust".
+SC: The first WSD celebrated the FPOS values. Then better lives (2015), then trust (2020).
+
+@topic The 12 Divisions of NSO
+Q: Which NSO division is the nodal division for the Collection of Statistics Act, 2008 and organises COCSSO and Statistics Day?
+A) Coordination and Publication Division (CPD)
+B) Survey Coordination Division
+C) Social Statistics Division
+D) Policy Implementation and Monitoring Division
+ANS: A
+D: Medium
+P: 5
+EXP: **CPD** coordinates with Ministries and State DESs. It implements the SSS (Support for Statistical Strengthening) scheme and World Bank projects, is the **nodal division for the CoS Act**, **organises COCSSO and Statistics Day**, monitors the CD scheme, and handles parliamentary and RTI matters.
+SC: CPD handles the "C" tasks: Coordination, CoS Act, COCSSO.
+
+Q: Which NSO divisions are stated to be ISO:9000 certified in the notes?
+A) NAD, PSD and SDRD
+B) FOD, DQAD and SCD
+C) SSD, ESD and CPD
+D) DIID, PIMD and Training
+ANS: A
+D: Medium
+P: 5
+EXP: The notes mark **NAD, PSD and SDRD** as **ISO:9000**, consistent with the Vision 2024 document.
+SC: The certified trio is National accounts, Prices and Survey design.
+
+Q: The Data Informatics and Innovation Division (DIID) of NSO:
+A) develops application software, uses the IHSN toolkit, provides NIC cloud (MeghRaj) services, transforms data into SDMX and is developing NIIP and DI-Lab
+B) conducts field surveys
+C) compiles the CPI
+D) coordinates the SDG NIF
+ANS: A
+D: Medium
+P: 5
+EXP: **DIID** (erstwhile Computer Centre) handles MoSPI's software, the **IHSN microdata toolkit**, **MeghRaj (NIC cloud)**, **SDMX** conversion, **NIIP** and the **DI-Lab**.
+SC: DIID is MoSPI's IT and data-innovation division.
+
+Q: The Price Statistics Division (PSD) of NSO:
+A) compiles CPI (Rural/Urban/Combined) and State-wise CPI, and coordinates the International Comparison Programme
+B) compiles WPI and CPI-IW
+C) compiles IIP and ISP
+D) compiles terms of trade
+ANS: A
+D: Easy
+P: 6
+EXP: **PSD** (ISO 9000) compiles **CPI (R/U/C)** monthly, **State-wise CPI** and **CFPI**, and coordinates the **ICP** (PPPs). WPI is compiled by the OEA-DPIIT and CPI-IW by the Labour Bureau.
+SC: PSD handles CPI and PPP (ICP).
+
+Q: Which NSO division compiles the monthly IIP, energy statistics, NIC/NPC and conducts the Economic Census?
+A) Economic Statistics Division (ESD)
+B) National Accounts Division
+C) Price Statistics Division
+D) Survey Design and Research Division
+ANS: A
+D: Easy
+P: 7
+EXP: **ESD** covers the **IIP** (monthly, about a 6-week lag), **Energy Statistics** (annual), **NIC and NPC**, the **Economic Census** (7th in 2019-20) and the **Index of Service Production**.
+SC: ESD is the "economic" division: industry, energy, classifications and the EC.
+
+Q: Which NSO division was created with effect from January 2021 to devise data governance strategies and ensure use of Industry 4.0 technologies?
+A) Policy Implementation and Monitoring Division (PIMD)
+B) Data Informatics and Innovation Division
+C) Coordination and Publication Division
+D) Training Division
+ANS: A
+D: Hard
+P: 7
+EXP: **PIMD**, **new from January 2021**, is mandated to improve **data governance**, steer the action plan for **Industry 4.0 technologies**, lead **inter-ministerial statistical liaison** and develop a **quality framework** to international standards.
+SC: PIMD (2021) is the governance and Industry 4.0 division.
+
+Q: The Social Statistics Division (SSD) of NSO has which three units?
+A) SDG Unit, Social and Welfare Statistics Unit, and Environment Statistics Unit
+B) Price Unit, Wage Unit and Labour Unit
+C) Census Unit, SRS Unit and CRS Unit
+D) NIC Unit, NPC Unit and ISIC Unit
+ANS: A
+D: Medium
+P: 8
+EXP: SSD has **three units: SDG, Social & Welfare Statistics, and Environment Statistics**. It publishes **EnviStats India Vol. I and II**, **Women and Men in India**, the SAARC Social Charter report and the SDG NIF progress report. Per the notes, it also monitors the **Twenty Point Programme**.
+SC: SSD = SDG + Social welfare + Environment.
+
+Q: EnviStats India Vol. I (Environment Statistics) and Vol. II (Environmental Accounts) are released respectively on:
+A) the last working day of March and the last working day of September
+B) 29 June and 20 October
+C) 1 April and 1 October
+D) 31 December and 30 June
+ANS: A
+D: Hard
+P: 8
+EXP: Per the notes, **Vol. I** is released on the **last working day of March** and **Vol. II** on the **last working day of September**, both annually.
+SC: Statistics in March, accounts in September.
+
+Q: The SAARC Social Charter report brought out by SSD is published at what frequency?
+A) Biennial
+B) Annual
+C) Quinquennial
+D) Monthly
+ANS: A
+D: Hard
+P: 8
+EXP: The notes list the **SAARC Social Charter** report as **biennial**, while Women and Men in India, EnviStats and the SDG NIF report are **annual**.
+SC: SAARC Social Charter comes out every 2 years.
+
+Q: Which division functions as the Secretariat of DG (NSS), coordinates SDRD, DQAD and FOD, and replies to parliamentary questions on NSS surveys?
+A) Survey Coordination Division
+B) Coordination and Publication Division
+C) Policy Implementation and Monitoring Division
+D) Training Division
+ANS: A
+D: Medium
+P: 8
+EXP: **SCD** coordinates the NSS divisions (SDRD, DQAD, FOD), acts as **Secretariat to DG (NSS)**, handles **parliamentary questions** on NSS, monitors the **NSS budget** and publishes **Sarvekshana**.
+SC: For NSS-side coordination, pick SCD.
+
+Q: The Field Operations Division is associated with which of the following?
+1. Large-scale surveys such as ASI, PLFS and enterprise surveys
+2. Improvement of Crop Statistics (ICS) scheme
+3. Urban Frame Survey
+Select the correct answer using the code given below:
+A) 1 only
+B) 1 and 2 only
+C) 2 and 3 only
+D) 1, 2 and 3
+ANS: D
+T: Statement
+D: Easy
+P: 6
+EXP: FOD runs the field work for **ASI, PLFS and enterprise surveys**, is associated with the **ICS scheme** and is responsible for the **UFS**.
+SC: FOD is the field arm for everything, so all three apply.
+
+Q: The generalised survey solution "e-SIGMA" is being developed under which division?
+A) Data Quality Assurance Division (DQAD)
+B) Economic Statistics Division
+C) Price Statistics Division
+D) Coordination and Publication Division
+ANS: A
+D: Medium
+P: 6
+EXP: **DQAD** (erstwhile DPD) is developing **e-SIGMA**, which will synchronise the functions of **SDRD, FOD, DQAD and SCD**. It also ensures the quality of socio-economic survey data.
+SC: e-SIGMA sits with DQAD, the data quality division.
+
+Q: Which NSO division compiles annual and quarterly GDP estimates, Supply-Use Tables and Input-Output Transaction Tables?
+A) National Accounts Division (NAD)
+B) Economic Statistics Division
+C) Price Statistics Division
+D) Social Statistics Division
+ANS: A
+D: Easy
+P: 5
+EXP: **NAD** (ISO 9000) compiles **GDP** (annual and quarterly), National Accounts Statistics, **SUT**, **IOTT**, comparable **GSDP/NSDP and per capita income**, and the "Payroll Reporting in India" release.
+SC: Accounts, SUT and IOTT are NAD.
+
+Q: The publication "Payroll Reporting in India: An Employment Perspective" is brought out by which NSO division?
+A) National Accounts Division
+B) Survey Coordination Division
+C) Labour Bureau
+D) Social Statistics Division
+ANS: A
+D: Hard
+P: 5
+EXP: The notes list **Payroll Reporting in India** under **NAD**. It uses EPFO, ESIC and NPS subscription data as formal-employment indicators.
+SC: Payroll data (EPFO/ESIC/NPS) are released by NAD.
+
+Q: How many divisions are listed for NSO in the notes?
+A) 12
+B) 8
+C) 10
+D) 16
+ANS: A
+D: Medium
+P: 5
+EXP: The notes list **12 divisions**: CPD, NAD, DIID, PSD, FOD, DQAD, ESD, PIMD, SSD, SCD, SDRD and Training.
+SC: A dozen divisions.
+
+@topic NSO: Mandate
+Q: Official statistics, as defined in the notes, are:
+A) numerical data collected, compiled and published by different government bodies
+B) data published by private research firms
+C) only census data
+D) data used by courts
+ANS: A
+D: Easy
+P: 1
+EXP: The notes define **official statistics** as **numerical data collected, compiled and published by government bodies**. They are a public good.
+SC: If the government produces it, it is official statistics.
+
+Q: The NSO prepares comparable estimates of State Domestic Product at:
+A) current prices
+B) constant prices only
+C) factor cost of 1950-51
+D) purchasing power parity
+ANS: A
+D: Hard
+P: 2
+EXP: The mandate says NSO prepares **comparable estimates of SDP at current prices**, along with national product, consumption, capital formation, savings and capital stock estimates.
+SC: The mandate refers to comparable SDP at current prices.
+
+Q: IIP quick estimates are compiled and released by the NSO at what frequency?
+A) Every month
+B) Every quarter
+C) Every year
+D) Every five years
+ANS: A
+D: Easy
+P: 2
+EXP: The NSO releases **IIP quick estimates every month**, with a roughly 6-week lag, and conducts the **ASI** annually.
+SC: IIP is monthly.
+
+Q: The NSO disseminates data, on request, to which UN agencies, as per its mandate?
+A) UNSD, ESCAP, ILO and others
+B) UNHCR and UNICEF only
+C) WHO only
+D) UN Security Council
+ANS: A
+D: Easy
+P: 3
+EXP: Mandate item 9: disseminate publications to government and private users, and data on request to **UNSD, ESCAP, ILO** and other international agencies.
+SC: The statistical UN bodies are UNSD, ESCAP and ILO.
+
+@topic NSS Divisions
+Q: The Industrial Statistics (IS) Wing functions under which NSO division?
+A) Data Quality Assurance Division (DQAD)
+B) Economic Statistics Division
+C) Field Operations Division
+D) Survey Design and Research Division
+ANS: A
+D: Medium
+P: 3
+EXP: The **IS Wing** works **under DQAD**. It finalises the ASI sample design, validates data and prepares results. ESD looks after the IIP and industrial classification.
+SC: ASI processing = IS Wing in DQAD.
+
+Q: Where is the Survey Coordination Division of NSO headquartered?
+A) Delhi
+B) Kolkata
+C) Faridabad
+D) Nagpur
+ANS: A
+D: Easy
+P: 4
+EXP: **SCD is in Delhi**. **SDRD** and **DQAD** are in **Kolkata**. **FOD** HQ is in **Delhi/Faridabad**.
+SC: Coordination in Delhi, design and processing in Kolkata.
+
+Q: Match the NSO division with its location as per the notes:
+| Division | Location |
+|---|---|
+| A. SDRD | 1. Delhi |
+| B. DQAD | 2. Delhi/Faridabad |
+| C. SCD | 3. Kolkata |
+| D. FOD | 4. Kolkata (with 6 DPCs) |
+A) A-3, B-4, C-1, D-2
+B) A-1, B-3, C-4, D-2
+C) A-3, B-2, C-1, D-4
+D) A-4, B-3, C-2, D-1
+ANS: A
+T: Match
+D: Medium
+P: 3
+EXP: **SDRD – Kolkata**. **DQAD – Kolkata** (with 6 DPCs). **SCD – Delhi**. **FOD – Delhi/Faridabad**.
+SC: Design and processing are in Kolkata. Coordination and field HQ are in the Delhi region.

@@ -1,0 +1,481 @@
+@set N04
+@title Topics 3-4 · National Statistical Commission & Field Operations Division
+@pages Notes 3 (6 pp.) + Notes 4 (2 pp.)
+@desc NSC mandate, composition, chairpersons, 13 functions, powers, Rangarajan background, CSO-NSSO merger notification, draft NSC Bill 2019; FOD network, ICS, UFS, PLFS, TUS 2019, ASI and price data collection
+
+@note 3
+@topic NSC: Establishment & Composition
+Q: The National Statistical Commission was set up through a Government Resolution dated ___ and constituted with effect from ___.
+A) 1 June 2005; 12 July 2006
+B) 12 July 2006; 1 June 2005
+C) 15 October 1999; 1 June 2005
+D) 5 November 2019; 10 January 2020
+ANS: A
+T: Chronology
+D: Easy
+P: 1
+EXP: The NSC was **set up by resolution on 1 June 2005** on the Rangarajan Commission's recommendation, and **constituted with effect from 12 July 2006**. Its mandate is to evolve policies, priorities and standards in statistical matters.
+SC: Resolution in 2005, constituted in 2006.
+
+Q: As per the notes, the composition of the NSC is:
+A) Part-time Chairman (MoS level) + 4 part-time Members + CEO NITI Aayog (ex-officio member), with the CSI & Secretary MoSPI as non-member Secretary
+B) Full-time Chairman + 7 Members + RBI Governor
+C) Secretary MoSPI as Chairman + 4 DGs
+D) Prime Minister as Chairman + all Chief Ministers
+ANS: A
+D: Medium
+P: 1
+EXP: NSC = **part-time Chairman (MoS rank) + 4 part-time Members + CEO, NITI Aayog (ex officio)**. The **CSI & Secretary, MoSPI** is the **Secretary** of the NSC but **not a member**.
+SC: 1 + 4 + 1 ex officio. The CSI is its Secretary, not a member.
+
+Q: Who was the first Chairperson of the National Statistical Commission?
+A) Prof. Suresh D. Tendulkar
+B) Prof. R. Radhakrishna
+C) Dr. Pronab Sen
+D) Prof. Bimal Kumar Roy
+ANS: A
+D: Easy
+P: 1
+EXP: **Prof. Suresh D. Tendulkar** (12-07-2006 to 15-02-2009) was the first NSC Chairperson. He was followed by **R. Radhakrishna** (2009-12), **Pronab Sen** (2013-16), **R.B. Barman** (2016-18), **Bimal Kumar Roy** (2019-22) and **Rajeeva Laxman Karandikar** (appointed December 2022).
+SC: Tendulkar → Radhakrishna → Sen → Barman → Roy → Karandikar.
+
+Q: Arrange the following NSC Chairpersons in chronological order: 1. Dr. Radha Binod Barman 2. Prof. R. Radhakrishna 3. Prof. Bimal Kumar Roy 4. Dr. Pronab Sen
+A) 2, 4, 1, 3
+B) 4, 2, 1, 3
+C) 2, 1, 4, 3
+D) 1, 2, 4, 3
+ANS: A
+T: Chronology
+D: Medium
+P: 1
+EXP: **Radhakrishna (2009-12) → Pronab Sen (2013-16) → R.B. Barman (2016-18) → Bimal Kumar Roy (2019-22)**. Tendulkar came first (2006-09) and Karandikar followed from 2022.
+SC: Order: R → S → B → R, i.e. Radhakrishna, Sen, Barman, Roy.
+
+Q: Which person has served both as the first Chief Statistician of India and as Chairperson of the NSC?
+A) Dr. Pronab Sen
+B) Prof. T.C.A. Anant
+C) Prof. Suresh Tendulkar
+D) Dr. C. Rangarajan
+ANS: A
+D: Medium
+P: 1
+EXP: **Pronab Sen** was the **first CSI (2007-10)** and later **NSC Chairperson (2013-16)**. At the time of his NSC appointment he was Principal Adviser, Planning Commission.
+SC: Sen held both the CSI and NSC posts.
+
+Q: In December 2022, which academic was appointed as the part-time Chairperson of the NSC for three years?
+A) Prof. Rajeeva Laxman Karandikar
+B) Prof. Bimal Kumar Roy
+C) Prof. Sanghamitra Bandyopadhyay
+D) Dr. Surjit Bhalla
+ANS: A
+D: Medium
+P: 6
+EXP: **Prof. Rajeeva Laxman Karandikar**, Professor Emeritus and former Director of the Chennai Mathematical Institute, was appointed **part-time NSC Chairperson in December 2022** for three years.
+SC: The 2022 NSC chair was Karandikar of CMI.
+
+Q: Dr. Radha Binod Barman, NSC Chairperson during 2016-18, was formerly associated with:
+A) Reserve Bank of India (Executive Director)
+B) Indian Statistical Institute (Director)
+C) Planning Commission (Principal Adviser)
+D) Delhi University (Professor)
+ANS: A
+D: Hard
+P: 1
+EXP: **R.B. Barman** was a former **Executive Director of the RBI**. **Bimal Kumar Roy** was a former **Director of ISI**. **Tendulkar** was a Delhi University economist. **Radhakrishna** was at CESS Hyderabad.
+SC: Barman came from the RBI and Roy from the ISI.
+
+@topic NSC: Functions & Powers
+Q: The NSC's mandate consists of how many functions (clauses)?
+A) 13 (clauses a to m)
+B) 10
+C) 8
+D) 17
+ANS: A
+D: Easy
+P: 2
+EXP: The NSC has a **13-point mandate (a to m)**, from identifying core statistics (a) to monitoring and reviewing the statistical system (m).
+SC: The clauses run a to m, which is 13.
+
+Q: Which of the following powers does the NSC have, as per the notes?
+1. Require production of any document serving statistical purposes
+2. Require statistical agencies to provide details of concepts, methodology, quality standards and errors for core statistics
+3. Require attendance of any person including a public servant on matters connected with core statistics
+Select the correct answer using the code given below:
+A) 1 and 2 only
+B) 2 and 3 only
+C) 1 and 3 only
+D) 1, 2 and 3
+ANS: D
+T: Statement
+D: Medium
+P: 3
+EXP: All three are NSC powers. It can also **issue notices for examination of witnesses and documents** on core statistics.
+SC: The NSC can call for documents, details and persons, so all three apply.
+
+Q: Which clause of the NSC mandate deals with advising the Government on legislative measures, including the statute for the NSC?
+A) Clause (l)
+B) Clause (a)
+C) Clause (j)
+D) Clause (e)
+ANS: A
+D: Hard
+P: 2
+EXP: **(l)**: advise on legislative measures, including the NSC statute. **(a)**: core statistics. **(e)**: strategies and release calendar. **(j)**: statistical audit.
+SC: l for Legislation, j for audit (Judging quality), a for core statistics.
+
+Q: The NSC function of evolving national strategies for the collection, tabulation and dissemination of core statistics includes:
+A) the release calendar for various data sets
+B) fixing GDP growth targets
+C) approving the Union Budget
+D) conducting the Census
+ANS: A
+D: Medium
+P: 2
+EXP: Clause **(e)** covers national strategies for collection, tabulation and dissemination of core statistics, **including the release calendar**.
+SC: Dissemination strategy includes the release calendar.
+
+@topic NSC: Background, Merger & Draft Bill
+Q: The Rangarajan Commission, set up in January 2000, recommended that the permanent National Commission on Statistics be set up initially through:
+A) a Government order (resolution)
+B) a Constitutional amendment
+C) an Act of Parliament
+D) a Presidential ordinance
+ANS: A
+D: Medium
+P: 3
+EXP: The Commission (report August 2001) recommended a permanent **National Commission on Statistics** as the nodal empowered body, **set up initially through a Government order**, with a statute to follow. This is why the NSC exists by resolution and an NSC Bill has been under discussion.
+SC: The NSC was created by order first, with a statute to come later.
+
+Q: The Government notification stating that CSO and NSSO would be merged into a single entity (NSO) acting as the executive wing per NSC policies is dated:
+A) 5 November 2019
+B) 1 June 2005
+C) 23 May 2019
+D) 10 January 2020
+ANS: A
+D: Hard
+P: 4
+EXP: The notes cite the **Gazette notification (Government resolution) dated 5 November 2019**. It states that the NSO, headed by a Secretary-rank **CSI** who is also **Secretary of the NSC**, is the executive wing that follows NSC policies. The administrative merger order came in May 2019.
+SC: The executive order came in May 2019 and the gazette resolution on 5 November 2019.
+
+Q: When did MoSPI release the draft National Statistical Commission Bill, 2019?
+A) 10 January 2020
+B) 1 June 2005
+C) 12 July 2006
+D) 29 June 2019
+ANS: A
+D: Medium
+P: 4
+EXP: The **draft NSC Bill, 2019** was released on **10 January 2020**. It proposes a **nodal, autonomous statutory NSC** as a **body corporate**.
+SC: Draft Bill dated 2019, released in January 2020.
+
+Q: As per the draft NSC Bill, 2019, which of the following would be members of the Commission?
+A) Deputy Governor (RBI) as member, Chief Economic Adviser as ex-officio member, and CSI as member
+B) RBI Governor as Chairman
+C) Finance Minister as ex-officio Chairman
+D) Only academic members
+ANS: A
+D: Medium
+P: 4
+EXP: The draft Bill proposes a **full-time Chairman** and eminent members, including the **Deputy Governor (RBI)**, the **CEA (ex officio)** and the **CSI as a member**. Under the current resolution the CSI is only the NSC's Secretary.
+SC: The Bill makes the CSI a member and adds the RBI Deputy Governor and the CEA.
+
+Q: The draft NSC Bill provides for a National Statistical Audit and Assessment Organisation within the NSC, headed by:
+A) a Chief Statistical Auditor in the rank of Secretary to GoI
+B) the Comptroller and Auditor General
+C) the Chief Statistician of India
+D) the Director, ISI
+ANS: A
+D: Medium
+P: 4
+EXP: The Bill creates a **National Statistical Audit and Assessment Organisation** in the NSC, headed by a **Chief Statistical Auditor (Secretary rank)**. It also provides an **independent secretariat** under a Secretary-rank officer.
+SC: The statistical audit body is headed by the Chief Statistical Auditor.
+
+Q: To give the NSC financial autonomy, the draft Bill envisages:
+A) an independent National Statistical Fund
+B) a grant from NITI Aayog
+C) user fees on data
+D) a share of GST
+ANS: A
+D: Medium
+P: 4
+EXP: The Bill envisages an **independent National Statistical Fund** to support the NSC's financial autonomy.
+SC: A separate fund gives financial independence.
+
+Q: Under the draft NSC Bill, which function allows the NSC to take suo-motu cognisance of legislative, administrative and technology issues of Centre and States and advise the government?
+A) Advisory
+B) Rationalisation
+C) Standardisation
+D) Core statistics
+ANS: A
+D: Medium
+P: 5
+EXP: The Bill's functions are **core statistics** (mandatory standards), **standardisation** (priorities and audit), **rationalisation** (linking budget and statistical programmes) and **advisory**, which includes **suo motu** action.
+SC: Suo motu advice is the Advisory function.
+
+Q: The "Rationalisation" function under the draft NSC Bill aims to:
+A) ensure strong coordination through close linkage between budget and statistical programming agencies
+B) reduce the number of statistical staff
+C) merge all surveys into one
+D) privatise data collection
+ANS: A
+D: Hard
+P: 5
+EXP: **Rationalisation** means close **linkage between budget and statistical programming agencies** to produce robust data without duplication.
+SC: Rationalisation links budgets to statistical programmes.
+
+Q: Which of the following is cited in the notes as a significance of the NSC Bill?
+A) It provides statutory backing to data-collecting agencies to increase credibility and legitimacy of data
+B) It abolishes the NSO
+C) It makes all data confidential
+D) It transfers the Census to the NSC
+ANS: A
+D: Easy
+P: 5
+EXP: The Bill **gives teeth** to the NSC, supports **credible data** against fake or unreliable figures, provides **statutory backing** to data-collecting agencies, and lets the NSC work at **arm's length from government**.
+SC: Statutory backing brings credibility and independence.
+
+Q: The notes give which example to illustrate the need for data sharing under the NSC Bill?
+A) Data on homeless people could not be shared with the agency providing housing
+B) Census data could not be shared with States
+C) GDP data could not be shared with the IMF
+D) Tax data could not be shared with courts
+ANS: A
+D: Hard
+P: 5
+EXP: The notes cite **data on homeless people** that **could not be shared with the housing agency**. This shows why structured, statutory data sharing is needed.
+SC: The example is homeless data not reaching the housing agency.
+
+@note 4
+@topic FOD: Network & Crop Statistics
+Q: The Field Operations Division of NSO has its headquarters at:
+A) Delhi/Faridabad
+B) Kolkata
+C) Nagpur
+D) Greater Noida
+ANS: A
+D: Easy
+P: 1
+EXP: **FOD HQ: Delhi/Faridabad**, with **6 Zonal, 53 Regional and 116 Sub-Regional Offices**. It collects primary data for MoSPI surveys.
+SC: The field HQ is in Delhi/Faridabad.
+
+Q: Under the ICS scheme, FOD undertakes sample checks on area enumeration in approximately how many villages in an agricultural season?
+A) 5,000
+B) 16,000
+C) 1,181
+D) 12,800
+ANS: A
+D: Medium
+P: 1
+EXP: Under **ICS**, FOD checks **area enumeration in about 5,000 villages per season** and **supervises about 16,000 crop-cutting experiments** each agricultural year.
+SC: 5,000 villages for area, 16,000 CCEs for yield.
+
+Q: Under the ICS scheme, FOD supervises about how many crop-cutting experiments in each agricultural year?
+A) 16,000
+B) 5,000
+C) 50,000
+D) 1,000
+ANS: A
+D: Medium
+P: 1
+EXP: About **16,000 CCEs** are supervised each year. The data are also used to compute **yield rates** of specified crops under ICS, and a season-wise status report goes to each State government.
+SC: 16k CCEs supervised, 5k villages checked.
+
+Q: The objective of the ICS scheme is to:
+A) locate deficiencies in the system of collection of crop statistics by supervising primary field work and suggest remedies
+B) replace State crop estimates with FOD estimates
+C) compute MSP
+D) issue crop insurance
+ANS: A
+D: Easy
+P: 1
+EXP: **ICS** exercises **meaningful supervision** over primary field work (area enumeration, CCEs) to **find deficiencies** and **suggest remedies** that strengthen area and yield statistics.
+SC: ICS is supervision to improve State crop data.
+
+@topic FOD: Surveys & Price Collection
+Q: The Urban Frame Survey is conducted by FOD:
+A) in a phased manner over a period of 5 years
+B) every year in all towns
+C) once in 10 years with the Census
+D) only in metro cities
+ANS: A
+D: Medium
+P: 1
+EXP: The **UFS** is a **regular scheme run in phases over 5 years**. It forms and updates **UFS blocks**, the urban FSU frame for NSO surveys.
+SC: UFS runs as a 5-year phased cycle.
+
+Q: NSO conducted the first national Time Use Survey during:
+A) January 2019 to December 2019
+B) July 1998 to June 1999
+C) July 2017 to June 2018
+D) January 2024 to December 2024
+ANS: A
+D: Easy
+P: 2
+EXP: The **first national TUS** was held from **January to December 2019**. It measured participation of men, women and other groups in **paid and unpaid activities**, including unpaid care, volunteer work and domestic services. The 1998-99 survey was a six-State pilot.
+SC: TUS national in 2019. The 1998-99 survey was a pilot.
+
+Q: The primary objective of the Time Use Survey is to:
+A) measure participation of men, women and other groups in paid and unpaid activities
+B) measure household consumption
+C) estimate industrial output
+D) measure internet usage
+ANS: A
+D: Easy
+P: 2
+EXP: TUS measures **time spent on paid and unpaid activities**: unpaid care, volunteering, domestic services, and also learning, socialising, leisure and self-care.
+SC: Time use shows unpaid work, especially women's.
+
+Q: Price collection for CPI (Urban) by FOD on behalf of PSD started in:
+A) May 2008
+B) September 2018
+C) January 2012
+D) April 2017
+ANS: A
+D: Hard
+P: 2
+EXP: FOD started **CPI (Urban)** price collection in **May 2008**. It took over **CPI (Rural)** from the **Department of Posts in September 2018**. It also collects rural retail prices for **CPI-AL/RL** (compiled by the **Labour Bureau, Shimla**).
+SC: Urban from 2008, rural from 2018 (taken over from DoP).
+
+Q: CPI (AL/RL), for which FOD collects monthly rural retail prices, is compiled and published by:
+A) Labour Bureau, Shimla
+B) PSD, NSO
+C) Office of the Economic Adviser
+D) RBI
+ANS: A
+D: Easy
+P: 2
+EXP: FOD collects the prices, but the **Labour Bureau, Shimla** (Ministry of Labour & Employment) **compiles and publishes CPI-AL/RL**.
+SC: FOD collects and the Labour Bureau compiles.
+
+Q: For WPI, FOD's role is to:
+A) facilitate data collection/transmission from organised manufacturing units on behalf of the Office of the Economic Adviser
+B) compile and release the WPI
+C) fix WPI weights
+D) conduct WPI base revision alone
+ANS: A
+D: Medium
+P: 2
+EXP: FOD **facilitates WPI data collection and transmission** from organised-sector factories. The **OEA, DPIIT** compiles and releases the WPI monthly.
+SC: FOD collects, OEA compiles.
+
+Q: Which of the following surveys/works is/are undertaken by FOD?
+1. ASI field work
+2. PLFS
+3. Time Use Survey
+4. Urban Frame Survey
+Select the correct answer using the code given below:
+A) 1 and 2 only
+B) 1, 2 and 3 only
+C) 2, 3 and 4 only
+D) 1, 2, 3 and 4
+ANS: D
+T: Statement
+D: Easy
+P: 1
+EXP: FOD is the field arm for **ASI, PLFS, TUS, UFS**, ICS supervision and price collection.
+SC: If it involves field work, FOD does it, so all four apply.
+
+Q: The ASI covers which activities besides manufacturing processes, as per the FOD notes?
+A) Repair services, generation/transmission of electricity, gas and water supply, and cold storage
+B) Retail trade and banking
+C) Agriculture and fishing
+D) Construction and real estate
+ANS: A
+D: Medium
+P: 2
+EXP: ASI covers organised manufacturing plus **repair services, electricity (not CEA-registered), gas and water supply, and cold storage**. It is statutory under the **CoS Act 2008 (amended 2017)**.
+SC: Cold storage and utilities count as manufacturing processes under Section 2(k).
+
+@note 3
+@topic NSC: Establishment & Composition
+Q: Which member of the NSC is ex-officio as per the present resolution?
+A) CEO, NITI Aayog (earlier Secretary, Planning Commission)
+B) Governor, RBI
+C) Chief Economic Adviser
+D) Director, ISI
+ANS: A
+D: Easy
+P: 1
+EXP: The **CEO, NITI Aayog** (earlier the Secretary, Planning Commission) is the **ex officio member**. The draft Bill proposes the **CEA** as ex officio member instead.
+SC: At present NITI's CEO. Under the Bill, the CEA.
+
+Q: The NSC is described in the notes as mandated, "above all", to:
+A) evolve measures for improving public trust in official statistics
+B) collect primary data
+C) publish GDP
+D) run the Census
+ANS: A
+D: Medium
+P: 1
+EXP: Besides evolving policies and priorities and monitoring the system, the NSC's mandate, **"above all"**, is to **evolve measures for improving public trust in official statistics**.
+SC: The NSC's overriding aim is public trust.
+
+@topic NSC: Functions & Powers
+Q: Under the NSC's mandate, "statistical audit over statistical activities" is aimed at ensuring:
+A) quality and integrity of statistical products
+B) financial accounts of MoSPI
+C) GST compliance
+D) staff attendance
+ANS: A
+D: Easy
+P: 2
+EXP: Clause **(j)**: **statistical audit** to ensure the **quality and integrity** of statistical products.
+SC: Statistical audit checks quality, not money.
+
+Q: Clause (k) of the NSC mandate empowers it to recommend measures to effectively implement standards and strategies evolved under which clauses?
+A) (c) to (h)
+B) (a) to (b)
+C) (i) to (m)
+D) (a) to (m)
+ANS: A
+D: Hard
+P: 2
+EXP: **(k)** covers recommendations to the Centre or States for implementing measures from **clauses (c) to (h)**: policies, standards, core-statistics strategies, HRD, public trust and Centre-State coordination.
+SC: (k) implements (c) to (h).
+
+@topic NSC: Background, Merger & Draft Bill
+Q: Under the Government resolution (as per the notes), who heads the NSO and also functions as Secretary of the NSC?
+A) An officer of Secretary rank designated as Chief Statistician of India
+B) DG, CSO
+C) DG & CEO, NSSO
+D) Chairman, NSC
+ANS: A
+D: Easy
+P: 4
+EXP: The NSO is headed by a **Secretary-rank officer designated as CSI**, who is also **Secretary of the NSC** and discharges the functions of **Secretary, MoSPI**.
+SC: One person holds three roles: CSI, NSC Secretary and MoSPI Secretary.
+
+Q: The draft NSC Bill proposes the NSC to be:
+A) a body corporate
+B) an attached office of MoSPI
+C) a constitutional body
+D) a society registered under the Societies Act
+ANS: A
+D: Medium
+P: 4
+EXP: The draft Bill makes the NSC a **nodal, autonomous statutory body** and a **body corporate**, with perpetual succession and a common seal.
+SC: A statutory body corporate is the most autonomous option.
+
+@note 4
+@topic FOD: Network & Crop Statistics
+Q: The field network of FOD, NSO consists of:
+A) 6 Zonal Offices, 53 Regional Offices and 116 Sub-Regional Offices
+B) 4 Zonal Offices, 49 Regional Offices and 120 Sub-Regional Offices
+C) 6 Zonal Offices, 36 Regional Offices and 53 Sub-Regional Offices
+D) 8 Zonal Offices, 53 Regional Offices and 96 Sub-Regional Offices
+ANS: A
+D: Medium
+P: 1
+EXP: **FOD** has its HQ at **Delhi/Faridabad** and a network of **6 ZOs, 53 ROs and 116 SROs**. It is responsible for collecting **primary data** for MoSPI surveys.
+SC: 6-53-116: Zonal, Regional, Sub-Regional.
+
+Q: The data collected by FOD through supervision of crop-cutting experiments at harvest stage under the ICS scheme are also used to:
+A) compute estimates of yield rate of specified crops
+B) compile the Wholesale Price Index
+C) prepare the Agriculture Census frame
+D) estimate agricultural wages
+ANS: A
+D: Medium
+P: 1
+EXP: Under **ICS**, CCE supervision data are also used to compute **yield-rate estimates** of specified crops. A **season-wise status report** on the ICS scheme is presented to each State Government.
+SC: CCE data give crop yield rates.

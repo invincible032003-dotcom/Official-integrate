@@ -67,7 +67,7 @@ C) 19.3%, 35.5% and 32.1%
 D) 32.1%, 19.3% and 35.5%
 ANS: A
 D: Hard
-EXP: NFHS-5: **stunting 35.5%**, **wasting 19.3%**, **underweight 32.1%**. NFHS-4 (option B) was 38.4 / 21.0 / 35.8. Stunting is low height-for-age (chronic); wasting is low weight-for-height (acute); underweight is low weight-for-age.
+EXP: NFHS-5: **stunting 35.5%**, **wasting 19.3%**, **underweight 32.1%**. NFHS-4 figures were 38.4 / 21.0 / 35.8. Stunting is low height-for-age (chronic); wasting is low weight-for-height (acute); underweight is low weight-for-age.
 SC: NFHS-5 child malnutrition: stunting 35.5, wasting 19.3, underweight 32.1.
 
 Q: As per NFHS-5, the prevalence of anaemia among women aged 15-49 years was about:

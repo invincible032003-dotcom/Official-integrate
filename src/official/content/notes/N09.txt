@@ -203,7 +203,7 @@ D) 70%, 20% and 10%
 ANS: A
 D: Hard
 P: 5
-EXP: WRI weights are **Manufacturing 82.57**, **Mining 11.23** and **Plantation 6.20**. Distractor B gives the **IIP** sector weights and C the **WPI** major-group weights.
+EXP: WRI weights are **Manufacturing 82.57**, **Mining 11.23** and **Plantation 6.20**. The 77.63/14.37/7.99 distractor is the **IIP** sector split, and 64.23/22.62/13.15 is the **WPI** major-group split.
 SC: WRI is about 83/11/6; IIP 78/14/8; WPI 64/23/13.
 
 Q: Which of the following statements about the Wage Rate Index is/are correct?

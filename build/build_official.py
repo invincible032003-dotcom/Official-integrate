@@ -128,7 +128,7 @@ def clean_text(s):
     return s.replace("\\n", "\n").strip()
 
 
-FIXED_TYPES = {"Statement", "Match", "Chronology", "Assertion-Reason"}
+FIXED_TYPES = {"Statement", "Assertion-Reason"}  # Match / Chronology codes read fine in any order
 FIXED_WORDS = re.compile(r"\b(above|both|neither|all of|none of|only)\b", re.I)
 NUMERIC = re.compile(r"^[\s~<>≈₹]*[-+]?[\d.,]+")
 

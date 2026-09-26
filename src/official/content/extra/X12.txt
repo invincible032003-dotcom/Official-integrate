@@ -1,0 +1,418 @@
+@set X12
+@title UPSC+ · Labour & Employment: ILO Concepts, Unemployment Measures, Informality & Labour Data Systems
+@pages Syllabus: Labour statistics – concepts, surveys, indicators
+@desc ILO employment/unemployment criteria, potential labour force and LU1-LU4, types of unemployment and underemployment, US/CWS/CDS relationships, NEET, SDG 8 indicators, status in employment and sectoral structure, informality, gig workers, child labour law, labour codes, e-Shram, employment elasticity
+
+@topic ILO Concepts
+Q: As per the ILO (13th ICLS) standard definition, a person is "unemployed" if he/she is:
+A) without work, currently available for work, and seeking work during the reference period
+B) without work and not seeking work
+C) working less than 40 hours a week
+D) working without pay in a family enterprise
+ANS: A
+D: Easy
+EXP: The ILO's **three criteria** are **without work + available + seeking**. Unpaid family helpers are **employed**. Working fewer hours than desired is **time-related underemployment**, not unemployment.
+SC: Unemployed = no work + available + seeking.
+
+Q: The "potential labour force" introduced by the 19th ICLS refers to persons not in employment who:
+A) are either seeking work but not currently available, or available but not seeking work
+B) are working part-time
+C) are students
+D) are retired but receive pensions
+ANS: A
+D: Hard
+EXP: The **potential labour force** includes **unavailable job-seekers** and **available potential job-seekers** (including **discouraged workers**). Together with the unemployed they form part of **labour underutilisation**.
+SC: Potential LF = seeking but unavailable, or available but not seeking.
+
+Q: Under the ILO labour underutilisation measures, LU1 is:
+A) the unemployment rate
+B) the combined rate of time-related underemployment and unemployment
+C) the combined rate of unemployment and the potential labour force
+D) the composite measure of labour underutilisation
+ANS: A
+D: Hard
+EXP: The measures are **LU1 = unemployment rate**; **LU2 = unemployment + time-related underemployment**; **LU3 = unemployment + potential labour force**; **LU4 = composite of all three**.
+SC: LU1 is unemployment, LU2 adds underemployment, LU3 adds potential LF, LU4 adds everything.
+
+Q: The ILO minimum threshold of work used to classify a person as "employed" in the reference week is:
+A) at least one hour
+B) at least 4 hours on any day
+C) at least 15 hours
+D) at least 40 hours
+ANS: A
+D: Medium
+EXP: The ILO **one-hour criterion** gives complete coverage of employment. PLFS **CWS** uses **1 hour on any day of the week**. The **4-hour** rule is for CDS **full days**.
+SC: One hour of work in the week makes a person employed.
+
+Q: Which of the following is classified as employed under ILO and PLFS concepts?
+A) An unpaid helper working in the family's shop
+B) A full-time student not seeking work
+C) A person doing only unpaid domestic chores for the household
+D) A retired person living on a pension
+ANS: A
+D: Easy
+EXP: **Unpaid helpers in household enterprises** produce for the market, so they are **employed** (self-employed, code 21). Students, domestic-duty persons and pensioners are **outside the labour force**.
+SC: Helping in the family business counts as work; home chores do not (in PLFS).
+
+@topic Unemployment Types & Measures
+Q: Disguised unemployment is characterised by:
+A) more workers engaged in an activity than required, so that the marginal productivity of some workers is zero or near zero
+B) workers searching between jobs
+C) unemployment due to recession
+D) unemployment during the lean agricultural season only
+ANS: A
+D: Easy
+EXP: **Disguised unemployment** is typical of **family farms**: removing some workers does **not reduce output**. **Frictional** means between jobs; **cyclical** means recession; **seasonal** means lean seasons; **structural** means a skills or technology mismatch.
+SC: Disguised = extra hands adding nothing.
+
+Q: Among the NSS/PLFS approaches, the unemployment rate is generally:
+A) highest under Current Daily Status and lowest under Usual Status
+B) highest under Usual Status and lowest under Current Daily Status
+C) identical under all approaches
+D) highest under Current Weekly Status
+ANS: A
+D: Medium
+EXP: **CDS** counts **unemployed person-days**, capturing intermittent unemployment, so its rate is **highest**. **Usual status** (a year-long major-time criterion) captures only **chronic** unemployment and is **lowest**. The typical ranking is **UR(CDS) > UR(CWS) > UR(US)**.
+SC: The shorter the reference period, the more unemployment is captured: CDS > CWS > US.
+
+Q: Usual status unemployment is often described as a measure of:
+A) chronic (long-term) unemployment
+B) weekly unemployment
+C) daily underemployment
+D) seasonal employment only
+ANS: A
+D: Medium
+EXP: The **usual principal status** uses **365 days** and the **major time** criterion, so it shows **chronic open unemployment**. **CWS** gives a **weekly** picture and **CDS** gives **person-days**, which includes underemployment.
+SC: Usual status shows chronic unemployment; CDS shows daily-level unemployment.
+
+Q: Time-related underemployment refers to persons who:
+A) are employed but work fewer hours than a threshold and are willing and available to work more
+B) have no work at all
+C) are overqualified for their jobs
+D) are working more than 48 hours
+ANS: A
+D: Medium
+EXP: **Time-related (visible) underemployment**: insufficient hours, plus willingness and availability for more. **Skill mismatch** (overqualification) is sometimes called **invisible underemployment**.
+SC: Too few hours plus wanting more = underemployment.
+
+Q: Unemployment arising from a mismatch between the skills of workers and the requirements of available jobs, often due to technological change, is called:
+A) structural unemployment
+B) frictional unemployment
+C) cyclical unemployment
+D) voluntary unemployment
+ANS: A
+D: Easy
+EXP: **Structural** unemployment is a **skills or location mismatch** that lasts a long time. **Frictional** is short-term job search. **Cyclical** follows business cycles.
+SC: Mismatch is structural; search is frictional; recession is cyclical.
+
+@topic SDG 8 & Youth
+Q: The NEET rate (SDG indicator 8.6.1) measures the proportion of youth who are:
+A) not in employment, education or training
+B) not enrolled in elementary education
+C) employed in the informal sector
+D) not eligible for employment training
+ANS: A
+D: Easy
+EXP: **NEET = youth not in employment, education or training**, as a share of all youth. It captures youth **disengagement** better than the unemployment rate alone.
+SC: NEET = not earning or learning.
+
+Q: Which SDG indicator corresponds to the unemployment rate by sex, age and persons with disabilities?
+A) 8.5.2
+B) 8.3.1
+C) 8.6.1
+D) 1.1.1
+ANS: A
+D: Hard
+EXP: The SDG 8 indicators are **8.5.2: unemployment rate**; **8.3.1: proportion of informal employment**; **8.6.1: NEET rate**. **1.1.1** is **extreme poverty**.
+SC: 8.5.2 unemployment, 8.3.1 informality, 8.6.1 NEET.
+
+@topic Structure of Employment
+Q: As per recent PLFS annual reports, the largest category of workers by status in employment in India is:
+A) self-employed (about three-fifths of workers)
+B) regular wage/salaried employees
+C) casual labourers
+D) unpaid apprentices
+ANS: A
+D: Medium
+EXP: In recent PLFS rounds, about **58% of workers are self-employed**, about **22% regular wage/salaried** and about **20% casual labour**. Self-employment includes own-account workers, employers and **unpaid helpers**.
+SC: Roughly 58 : 22 : 20 for self-employed : regular : casual.
+
+Q: As per recent PLFS results, approximately what share of India's workers (usual status) is engaged in agriculture?
+A) about 46%
+B) about 25%
+C) about 65%
+D) about 10%
+ANS: A
+D: Medium
+EXP: About **46%** of workers are in **agriculture**, although agriculture's share of **GVA** is much smaller (under a fifth). This gap reflects **low agricultural labour productivity** and **disguised unemployment**.
+SC: About 46% of jobs but under a fifth of GVA are in agriculture.
+
+Q: Informal employment, as per the 17th ICLS, includes:
+A) all jobs lacking social protection or employment benefits, whether in informal sector enterprises, formal sector enterprises or households
+B) only jobs in informal sector enterprises
+C) only unpaid family work
+D) only jobs in the government sector
+ANS: A
+D: Medium
+EXP: **Informal employment** is a **job-based** concept (17th ICLS). It covers informal jobs **in the formal sector**, in **the informal sector** and in **households**. The **informal sector** (15th ICLS) is **enterprise-based**.
+SC: Informal employment is about jobs; the informal sector is about enterprises.
+
+Q: A regular salaried employee in a large company with no written contract, no paid leave and no social security benefits is classified as:
+A) informally employed in the formal sector
+B) formally employed in the informal sector
+C) not in the labour force
+D) self-employed
+ANS: A
+D: Medium
+EXP: The **enterprise is formal**, but the **job lacks protection**, so this is **informal employment in the formal sector**. PLFS tracks this through **contract, paid leave and social security** indicators.
+SC: A formal firm with an unprotected job means informal employment in the formal sector.
+
+Q: As per NITI Aayog's report on India's gig and platform economy (2022), the gig workforce is projected to reach about what size by 2029-30?
+A) 2.35 crore
+B) 77 lakh
+C) 10 crore
+D) 50 lakh
+ANS: A
+D: Hard
+EXP: NITI (2022) estimated **77 lakh gig workers in 2020-21**, projected to rise to about **2.35 crore by 2029-30**. The **Code on Social Security 2020** recognises **gig and platform workers**.
+SC: Gig workers: 77 lakh (2020-21) → about 2.35 crore (2029-30).
+
+@topic Labour Law & Data Systems
+Q: The e-Shram portal, launched in August 2021 by the Ministry of Labour & Employment, is:
+A) a national database of unorganised workers, seeded with Aadhaar
+B) a portal for EPF withdrawals
+C) a labour force survey
+D) a database of Government employees
+ANS: A
+D: Easy
+EXP: **e-Shram** registers **unorganised workers**, including construction, migrant, gig and agricultural workers, and issues a **UAN**. It supports the delivery of social security. It is an **administrative** database, not a survey.
+SC: e-Shram is a registry of unorganised workers.
+
+Q: The four Labour Codes (Wages; Industrial Relations; Social Security; Occupational Safety, Health and Working Conditions) consolidate approximately how many central labour laws?
+A) 29
+B) 44
+C) 12
+D) 100
+ANS: A
+D: Medium
+EXP: The **four codes** subsume **29 central labour laws**: the Code on **Wages 2019**, plus the **IR**, **SS** and **OSH** Codes of **2020**. The Code on Wages introduced a **national floor wage**.
+SC: Four codes replace 29 laws.
+
+Q: The Child Labour (Prohibition and Regulation) Amendment Act, 2016:
+A) prohibits employment of children below 14 in all occupations and processes (except helping family, after school hours), and of adolescents (14-18) in hazardous occupations
+B) permits child labour in all non-hazardous industries
+C) applies only to factories
+D) defines a child as a person below 18 for all purposes
+ANS: A
+D: Medium
+EXP: The **2016 amendment** bans all employment of **children under 14**, with exceptions for family enterprises and entertainment (outside school hours). It bans **adolescents (14-18)** from **hazardous** occupations.
+SC: Under 14: no work (with narrow exceptions); 14-18: no hazardous work.
+
+Q: As per Census 2011, the number of child workers (5-14 years) in India was about:
+A) 1.01 crore
+B) 3.5 crore
+C) 25 lakh
+D) 5 crore
+ANS: A
+D: Hard
+EXP: Census 2011 counted about **1.01 crore** working children aged 5-14 (main + marginal), down from about **1.26 crore in 2001**.
+SC: Child workers: about 1.26 crore (2001) → 1.01 crore (2011).
+
+@topic Numericals & Concepts
+Q: If employment grows by 1.5% when GDP grows by 6%, the employment elasticity of output is:
+A) 0.25
+B) 4.0
+C) 0.9
+D) 7.5
+ANS: A
+T: Numerical
+D: Easy
+EXP: **Employment elasticity = % change in employment ÷ % change in output = 1.5/6 = 0.25**. Low elasticity is associated with **"jobless growth"**.
+SC: Elasticity = job growth ÷ GDP growth.
+
+Q: In a population of working age 1,000, there are 520 employed, 30 unemployed and 450 outside the labour force. The LFPR, WPR and UR are respectively:
+A) 55%, 52% and about 5.5%
+B) 52%, 55% and 3%
+C) 55%, 52% and 3%
+D) 58%, 52% and 5.5%
+ANS: A
+T: Numerical
+D: Medium
+EXP: **LF = 550**. **LFPR = 55%**, **WPR = 52%**, **UR = 30/550 = 5.45% ≈ 5.5%**. The 3% option divides by the population, which is the common error.
+SC: UR divides by the labour force, not the population.
+
+Q: Assertion (A): A rise in the labour force participation rate can increase the unemployment rate even when employment is growing.
+Reason (R): The unemployment rate depends on both employment and the size of the labour force.
+A) Both A and R are true, and R is the correct explanation of A
+B) Both A and R are true, but R is not the correct explanation of A
+C) A is true, but R is false
+D) A is false, but R is true
+ANS: A
+T: Assertion-Reason
+D: Medium
+EXP: If **new entrants** outnumber the **jobs created**, the UR rises even as employment rises, because **UR = (LF − E)/LF**. R explains A.
+SC: More entrants than jobs pushes the UR up.
+
+Q: Which of the following persons would be counted as "discouraged workers"?
+A) Persons available for work but not seeking it because they believe no work is available
+B) Persons working part-time
+C) Persons seeking work but not currently available
+D) Retired persons
+ANS: A
+D: Medium
+EXP: **Discouraged workers** want work and are **available** but have **stopped searching**. Under the ILO framework they are part of the **potential labour force**. Note that **PLFS CWS** counts those available but not seeking (because they believe no work is available) as **unemployed**.
+SC: Discouraged = available but gave up searching.
+
+Q: The Labour Force Participation Rate for females is typically lower in urban than in rural India. The most common explanation offered is:
+A) fewer opportunities for suitable non-farm work near home combined with social norms, and income effects in urban households
+B) urban women are counted as students only
+C) urban surveys exclude women
+D) rural women are paid more
+ANS: A
+T: Conceptual
+D: Medium
+EXP: The low **urban female LFPR** reflects **limited suitable jobs, safety and mobility constraints, social norms**, and **income effects** (women withdraw as household income rises). Rural women often work on **family farms**, which counts as employment.
+SC: Rural women farm; urban women face fewer suitable jobs and stronger norms.
+
+Q: The main difference between the Quarterly Employment Survey (QES) and PLFS is that:
+A) QES is an establishment-based (demand-side) survey of selected sectors, while PLFS is a household-based (supply-side) survey of all workers
+B) both are household surveys
+C) QES covers agriculture while PLFS does not
+D) PLFS is conducted by the Labour Bureau
+ANS: A
+D: Easy
+EXP: **QES/AQEES** (Labour Bureau) survey **establishments** in 9 sectors. **PLFS** (NSO) surveys **households**, covering all activities, **including agriculture and the informal sector**.
+SC: QES counts jobs from employers; PLFS counts workers from households.
+
+Q: Which organisation compiles and publishes "Wage Rates in Rural India" for various agricultural and non-agricultural occupations?
+A) Labour Bureau
+B) DES, MoA&FW
+C) NSO
+D) RBI
+ANS: A
+D: Medium
+EXP: The **Labour Bureau** publishes **Wage Rates in Rural India** (monthly). The **DES** publishes **Agricultural Wages in India**. Both are used for rural wage trend analysis, for example in the RBI's Handbook.
+SC: Rural occupational wages come from the Labour Bureau; farm wages from DES.
+
+Q: The Employees' Provident Fund Organisation (EPFO) payroll data mainly capture:
+A) formal-sector workers in establishments covered under the EPF & MP Act (generally with 20 or more employees)
+B) all workers in the economy
+C) agricultural workers
+D) government employees only
+ANS: A
+D: Medium
+EXP: The **EPF & MP Act 1952** covers **establishments with 20+ employees** (in notified industries). EPFO data therefore reflect **formal** employment, **plus formalisation** of existing jobs.
+SC: EPFO covers formal establishments with 20+ employees.
+
+Q: Which of the following is a supply-side source of employment data?
+A) PLFS
+B) QES
+C) EPFO payroll data
+D) ASI employment data
+ANS: A
+D: Easy
+EXP: **PLFS** asks **households** about their work, so it measures **labour supply**. **QES, EPFO and ASI** come from **establishments or administrative records**, so they are **demand-side**.
+SC: Households are the supply side; establishments are the demand side.
+
+Q: In the Census, a "marginal worker" is one who worked for:
+A) less than six months (183 days) in the reference year
+B) less than 30 days in the reference year
+C) less than one hour in the reference week
+D) only in household industry
+ANS: A
+D: Easy
+EXP: A Census **main worker** worked **183+ days** and a **marginal worker** **fewer than 183 days** (split into 3-6 months and under 3 months). Census concepts differ from **PLFS** concepts.
+SC: Main 183+ days, marginal fewer.
+
+Q: The minimum wage fixation under the Minimum Wages Act, 1948 (now subsumed in the Code on Wages, 2019) is indexed to price changes using mainly:
+A) CPI-IW (and CPI-AL/RL for agricultural and rural employments) through variable dearness allowance
+B) WPI
+C) GDP deflator
+D) Sensex
+ANS: A
+D: Medium
+EXP: **Variable DA** adjusts minimum wages with **CPI-IW** for industrial employments and **CPI-AL/RL** for agricultural ones. The **Wage Rate Index** tracks actual wage rates.
+SC: Minimum wages are indexed by CPI-IW and CPI-AL/RL.
+
+@topic Unemployment Types & Measures
+Q: Unemployment that arises because agricultural work is available only in certain months of the year is called:
+A) seasonal unemployment
+B) structural unemployment
+C) frictional unemployment
+D) open unemployment in urban areas
+ANS: A
+D: Easy
+EXP: **Seasonal unemployment** follows the **crop calendar** (lean seasons). It is picked up better by **CWS/CDS** than by the **usual status**, which uses a 365-day major-time criterion.
+SC: Lean season, no work: seasonal unemployment.
+
+Q: Labour productivity at the aggregate level is commonly measured as:
+A) GVA (at constant prices) per worker or per hour worked
+B) wages per worker
+C) employment ÷ population
+D) output ÷ capital stock
+ANS: A
+D: Easy
+EXP: **Labour productivity = real GVA ÷ employment** (or ÷ hours worked). **Output ÷ capital** is **capital productivity**. Total factor productivity is the residual after all inputs.
+SC: Productivity = real value added per worker.
+
+Q: The "labour force" is also referred to in official statistics as:
+A) the economically active population
+B) the working-age population
+C) the dependent population
+D) the total population aged 15-64
+ANS: A
+D: Easy
+EXP: The **labour force** is the **economically active population**: the **employed plus the unemployed**. The **working-age population** (15+ or 15-64) also includes those **outside the labour force**.
+SC: Labour force = employed + unemployed = economically active.
+
+Q: ILOSTAT, the international database of labour statistics, is maintained by:
+A) International Labour Organization
+B) World Bank
+C) OECD
+D) UNSD
+ANS: A
+D: Easy
+EXP: **ILOSTAT** holds labour data and **modelled estimates** for all countries, and the ILO publishes the **World Employment and Social Outlook (WESO)**. India reports to it through PLFS and related data.
+SC: Labour data worldwide come from ILOSTAT.
+
+@topic Structure of Employment
+Q: Which employment status category in PLFS typically has the lowest average earnings?
+A) Casual labour
+B) Regular wage/salaried
+C) Self-employed employers
+D) Government employees
+ANS: A
+D: Medium
+EXP: **Casual labourers** earn **daily wages** with **no job security**. Their average earnings are lower than those of **regular salaried** workers and of most self-employed persons. PLFS reports earnings by status.
+SC: Casual labourers earn the least.
+
+Q: The share of workers in regular wage/salaried employment is an indicator often used as a proxy for:
+A) the quality and formality of employment
+B) the unemployment rate
+C) the dependency ratio
+D) the literacy rate
+ANS: A
+D: Medium
+EXP: A rising share of **regular salaried** work usually signals **better quality, more formal jobs**. It is examined with **social security coverage** and **written contracts** to assess formality.
+SC: More regular jobs usually means better, more formal jobs.
+
+@topic Labour Law & Data Systems
+Q: Under the Code on Social Security, 2020, which categories of workers were recognised for the first time under central labour law?
+A) Gig workers and platform workers
+B) Government employees
+C) Defence personnel
+D) Agricultural landowners
+ANS: A
+D: Medium
+EXP: The **Code on Social Security 2020** defines **gig workers** and **platform workers** and provides for social security schemes for them. Registration on **e-Shram** helps identify them.
+SC: The SS Code 2020 first recognised gig and platform workers.
+
+Q: Which data source would be most appropriate to estimate the number of workers in agriculture?
+A) PLFS (household survey)
+B) EPFO payroll data
+C) ASI
+D) QES
+ANS: A
+D: Easy
+EXP: Agriculture is largely **self-employed and informal**, outside **EPFO, ASI and QES** coverage. **PLFS** (and the Census) capture it through **households**.
+SC: Farm workers show up in household surveys, not payrolls.

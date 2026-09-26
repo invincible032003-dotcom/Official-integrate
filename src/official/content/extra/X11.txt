@@ -1,0 +1,423 @@
+@set X11
+@title UPSC+ · Agriculture, Livestock, MSME, Industry & Services Statistics (Beyond the Notes)
+@pages Syllabus: Sector-wise statistics – agriculture, industry, services
+@desc Agriculture Census results (holdings, size classes), land-holding classes, Livestock Census 20th round, fisheries and horticulture sources, agricultural prices and wages, MSME definitions and Udyam, industrial classifications in use, services statistics (ISP, SPPI, ASSSE), infrastructure and transport sources
+
+@topic Agriculture Census & Holdings
+Q: As per the Agriculture Census 2015-16, the number of operational holdings in India was about:
+A) 14.6 crore
+B) 13.8 crore
+C) 10.5 crore
+D) 18.2 crore
+ANS: A
+D: Medium
+EXP: The **10th Agriculture Census (2015-16)** counted about **14.65 crore (146.5 million)** operational holdings, up from **13.8 crore in 2010-11**. The **average size** fell to about **1.08 ha**, from 1.15 ha.
+SC: 2015-16: about 14.6 crore holdings, 1.08 ha average.
+
+Q: In the Agriculture Census size classification, a "marginal" holding is one of size:
+A) less than 1 hectare
+B) 1-2 hectares
+C) 2-4 hectares
+D) less than 0.5 hectare
+ANS: A
+D: Easy
+EXP: The size classes are **marginal < 1 ha**, **small 1-2 ha**, **semi-medium 2-4 ha**, **medium 4-10 ha** and **large ≥ 10 ha**. Marginal and small holdings together are about **86%** of all holdings.
+SC: <1 marginal, 1-2 small, 2-4 semi-medium, 4-10 medium, ≥10 large.
+
+Q: As per the Agriculture Census 2015-16, marginal and small holdings together accounted for about what share of all operational holdings?
+A) 86%
+B) 50%
+C) 67%
+D) 95%
+ANS: A
+D: Medium
+EXP: **Marginal (about 68.5%) + small (about 17.6%) ≈ 86%** of holdings, but only about **47%** of the operated area. Fragmentation keeps rising census after census.
+SC: About 86% of holdings are small or marginal, on under half the land.
+
+Q: The average size of an operational holding has, over successive Agriculture Censuses:
+A) declined steadily
+B) increased steadily
+C) remained constant
+D) first declined, then rose sharply after 2000
+ANS: A
+D: Easy
+EXP: The average size fell from **2.28 ha (1970-71)** to about **1.08 ha (2015-16)**, driven by **population pressure and inheritance-led fragmentation**. This is one reason the Agriculture Census is **quinquennial**.
+SC: Holdings keep shrinking: 2.28 → 1.08 ha.
+
+@topic Livestock, Fisheries & Horticulture
+Q: As per the 20th Livestock Census (2019), the total livestock population of India was about:
+A) 536 million
+B) 512 million
+C) 300 million
+D) 852 million
+ANS: A
+D: Hard
+EXP: The **20th Livestock Census (2019)** counted about **535.8 million** livestock, up about **4.6%** over 2012 (512 million). **Poultry** was about **852 million**, and **bovines** about **303 million**.
+SC: 20th census: livestock about 536 m, poultry about 852 m.
+
+Q: The 21st Livestock Census, being conducted after the 2019 round, is notable for:
+A) complete digital data collection through mobile applications
+B) being the first livestock census ever
+C) covering only poultry
+D) being a sample survey of 10% of villages
+ANS: A
+D: Medium
+EXP: The **20th (2019)** census already used **tablets**, and the **21st** (from late **2024**) continues with **fully digital** collection, including breed-wise data. It remains a **complete enumeration**, quinquennial, run by the **Department of Animal Husbandry & Dairying**.
+SC: The Livestock Census is digital, complete and quinquennial.
+
+Q: "Handbook on Fisheries Statistics" is published by:
+A) Department of Fisheries, Ministry of Fisheries, Animal Husbandry & Dairying
+B) ICAR-CMFRI only
+C) NSO
+D) MPEDA
+ANS: A
+D: Medium
+EXP: The **Department of Fisheries** publishes the **Handbook on Fisheries Statistics**. **CMFRI** conducts the **marine fisheries census** and **MPEDA** handles **seafood export promotion**.
+SC: The Department of Fisheries compiles fishery statistics; CMFRI counts marine fisheries.
+
+Q: Estimates of area and production of horticulture crops are compiled and released by:
+A) Ministry of Agriculture & Farmers Welfare (Horticulture Statistics Division)
+B) NSO
+C) National Horticulture Board alone as a private body
+D) FAO
+ANS: A
+D: Medium
+EXP: The **Ministry of Agriculture (Horticulture Statistics Division)**, with the **National Horticulture Board**, releases **advance and final estimates** of horticulture area and production, and publishes **Horticultural Statistics at a Glance**.
+SC: Horticulture estimates come from MoA&FW.
+
+Q: The CACP recommends MSPs for how many mandated crops (kharif, rabi and others)?
+A) 22 crops (with FRP for sugarcane)
+B) 7 crops
+C) 50 crops
+D) 14 crops
+ANS: A
+D: Hard
+EXP: MSPs cover **22 mandated crops** (14 kharif, 6 rabi and 2 commercial crops: jute and copra). **Sugarcane** gets a **Fair & Remunerative Price (FRP)**. MSP for **toria** and **de-husked coconut** is derived from rapeseed-mustard and copra.
+SC: 22 MSP crops plus FRP for sugarcane.
+
+Q: Farm harvest prices and agricultural wages in India are compiled and published by:
+A) Directorate of Economics and Statistics, MoA&FW
+B) RBI
+C) Labour Bureau only
+D) FCI
+ANS: A
+D: Hard
+EXP: The **DES** publishes **Farm Harvest Prices of Principal Crops** and **Agricultural Wages in India**. The **Labour Bureau** separately compiles **rural wage rates** for occupations (Wage Rates in Rural India).
+SC: Farm prices and agricultural wages come from DES; rural occupation wages from the Labour Bureau.
+
+@topic MSME & Industry
+Q: Under the MSME classification notified in 2020 (composite criteria of investment and turnover), a "micro" enterprise was one with investment in plant and machinery/equipment not exceeding:
+A) ₹1 crore and turnover not exceeding ₹5 crore
+B) ₹25 lakh and turnover not exceeding ₹1 crore
+C) ₹5 crore and turnover not exceeding ₹50 crore
+D) ₹10 crore and turnover not exceeding ₹50 crore
+ANS: A
+D: Medium
+EXP: The **2020 criteria** were **micro ≤ ₹1 cr / ₹5 cr**, **small ≤ ₹10 cr / ₹50 cr**, **medium ≤ ₹50 cr / ₹250 cr** (investment / turnover), the same for manufacturing and services. The **2025-26 Budget** raised the limits (investment by 2.5 times, turnover by 2 times).
+SC: 2020 MSME limits: 1/5, 10/50, 50/250 crore.
+TIP: Revised limits from 2025 are micro ₹2.5 cr / ₹10 cr, small ₹25 cr / ₹100 cr, medium ₹125 cr / ₹500 cr.
+
+Q: Udyam Registration, a paperless self-declaration based registration for MSMEs, was launched in:
+A) July 2020
+B) April 2015
+C) January 2018
+D) October 2006
+ANS: A
+D: Medium
+EXP: **Udyam Registration (1 July 2020)** replaced the **Udyog Aadhaar Memorandum (2015)**. It is linked to **PAN and GST** data. The **MSMED Act** dates from **2006**.
+SC: MSMED Act 2006 → Udyog Aadhaar 2015 → Udyam 2020.
+
+Q: Which of the following industrial classifications is used for coding the activity of establishments in the Economic Census, ASI and PLFS?
+A) NIC-2008
+B) NCO-2015
+C) NPCMS-2011
+D) ITC-HS
+ANS: A
+D: Easy
+EXP: **NIC** codes **industry (activity)**. **NCO** codes **occupation**, **NPCMS** codes **products** (ASI inputs and outputs) and **ITC-HS** codes **traded goods**.
+SC: NIC for industry, NCO for occupation, NPCMS for products, ITC-HS for trade.
+
+Q: The Index of Eight Core Industries includes which of the following?
+1. Cement
+2. Fertilizers
+3. Automobiles
+4. Natural gas
+Select the correct answer using the code given below:
+A) 1, 2 and 4 only
+B) 1 and 3 only
+C) 2, 3 and 4 only
+D) 1, 2, 3 and 4
+ANS: A
+T: Statement
+D: Easy
+EXP: The eight are **coal, crude oil, natural gas, refinery products, fertilizers, steel, cement and electricity**. **Automobiles** are not a core industry.
+SC: Remember the eight as C-C-N-R-F-S-C-E; no autos.
+
+Q: The ASI is the principal source of statistics on which segment of manufacturing?
+A) Registered (organised) manufacturing
+B) Household industry only
+C) Unregistered manufacturing
+D) Handicrafts only
+ANS: A
+D: Easy
+EXP: The **ASI** covers **registered factories** (Factories Act sections 2m(i)/(ii), bidi and cigar units, utilities not registered with the CEA). **ASUSE / FuS** cover **unregistered** units.
+SC: ASI is registered; ASUSE is unregistered.
+
+@topic Services & Infrastructure
+Q: A Services Producer Price Index (SPPI) measures:
+A) changes in prices received by producers of services
+B) consumer prices of services
+C) the volume of services output
+D) wages in the services sector
+ANS: A
+D: Medium
+EXP: The **SPPI** measures **producer (output) prices of services**, which are needed to **deflate services GVA** and to complement the goods-only **WPI**. The **OEA** has worked on SPPI for sectors such as banking, transport and telecom. The **Voorburg Group** guides SPPI methods.
+SC: SPPI covers service producer prices; the WPI covers goods only.
+
+Q: The Index of Services Production (ISP) is intended to measure:
+A) the volume of output of the services sector at short intervals
+B) prices of services
+C) employment in services
+D) exports of services
+ANS: A
+D: Medium
+EXP: The **ISP** is the services counterpart of the **IIP**, a **volume index** of services activity. It is listed with IIP among **monthly indicators** in the core statistics list.
+SC: ISP is to services what IIP is to industry.
+
+Q: Data on major ports' cargo traffic are published by:
+A) Ministry of Ports, Shipping and Waterways (Indian Ports Association)
+B) DGCI&S
+C) Ministry of Commerce
+D) NSO
+ANS: A
+D: Hard
+EXP: **Cargo traffic at major ports** is reported by the **Ministry of Ports, Shipping and Waterways** and the **Indian Ports Association**. **Railway freight** comes from the **Railway Board**, and **air traffic** from the **DGCA and AAI**.
+SC: Ports data come from the Shipping ministry; rail from the Railway Board; air from DGCA/AAI.
+
+Q: Telecom subscription and teledensity data in India are published monthly by:
+A) Telecom Regulatory Authority of India (TRAI)
+B) Department of Posts
+C) NSO
+D) MeitY
+ANS: A
+D: Easy
+EXP: **TRAI** publishes **subscriber data and teledensity** monthly and quarterly (the Performance Indicator Reports). The **Department of Telecommunications** is the policy arm.
+SC: Telecom numbers come from TRAI.
+
+Q: Civil aviation traffic statistics (domestic and international passengers) are compiled by:
+A) Directorate General of Civil Aviation (and Airports Authority of India)
+B) Ministry of Tourism
+C) Bureau of Immigration
+D) NSO
+ANS: A
+D: Easy
+EXP: The **DGCA** publishes airline traffic data and the **AAI** publishes airport traffic. The Bureau of Immigration records foreign arrivals, used for **tourism statistics**.
+SC: Air traffic data come from DGCA and AAI.
+
+@topic Concepts & Mixed
+Q: Operational holding, as used in the Agriculture Census, differs from ownership holding because an operational holding:
+A) is defined by who operates the land, including leased-in land, regardless of ownership
+B) includes only owned land
+C) excludes leased-in land
+D) is always larger than ownership holding
+ANS: A
+D: Medium
+EXP: Operational holding = land **operated as one technical unit**: owned + leased-in − leased-out, without regard to title. Farm decisions are made by the **operator**.
+SC: Operational = what you farm; ownership = what you own.
+
+Q: Assertion (A): The Agriculture Census in India is conducted every five years, although the FAO's World Census of Agriculture programme is decennial.
+Reason (R): The structure of holdings in India changes rapidly because of fragmentation and urbanisation.
+A) Both A and R are true, and R is the correct explanation of A
+B) Both A and R are true, but R is not the correct explanation of A
+C) A is true, but R is false
+D) A is false, but R is true
+ANS: A
+T: Assertion-Reason
+D: Easy
+EXP: India's census is **quinquennial** because of **rapid structural change** in holdings. It still fits within the **FAO WCA** decennial rounds. R explains A.
+SC: Fast fragmentation calls for a 5-yearly census.
+
+Q: Which organisation conducts the "Situation Assessment Survey of Agricultural Households"?
+A) NSO (as part of NSS rounds)
+B) DES, MoA&FW
+C) NABARD
+D) ICAR
+ANS: A
+D: Easy
+EXP: The **SAS** is part of NSS rounds: the **59th (2003)**, **70th (2013)** and **77th (2019)**. It covers income, indebtedness and farming practices of agricultural households. **NABARD** runs a separate **NAFIS** (financial inclusion) survey.
+SC: SAS is an NSS survey (59th, 70th, 77th rounds).
+
+Q: NABARD's All India Rural Financial Inclusion Survey (NAFIS) provides data mainly on:
+A) livelihoods, financial inclusion, indebtedness and savings of rural households
+B) crop yields
+C) industrial output
+D) rural wage rates by occupation
+ANS: A
+D: Medium
+EXP: **NAFIS** (rounds for **2016-17** and **2021-22**) covers the **financial behaviour** of rural (including agricultural) households. It complements the NSS **SAS** and **AIDIS**.
+SC: NAFIS is NABARD's rural finance survey.
+
+Q: Which of the following statements about the Economic Census is correct?
+A) It counts establishments engaged in all non-farm activities and also covers agricultural activities other than crop production and plantation
+B) It covers only registered factories
+C) It is conducted annually
+D) It is conducted by the ORGI
+ANS: A
+D: Hard
+EXP: The **EC** counts **all establishments** except those in **crop production and plantation**. It includes **livestock, fishing, forestry-related** and all **non-farm** activities, formal and informal. It is periodic (7 rounds), run by **MoSPI**.
+SC: The EC covers everything except crops and plantations.
+
+Q: The Annual Survey of Service Sector Enterprises (ASSSE) developed by NSO aims to cover:
+A) incorporated service sector enterprises (companies, LLPs) to fill data gaps on the organised services sector
+B) only government offices
+C) household services only
+D) agricultural enterprises
+ANS: A
+D: Hard
+EXP: The **ASSSE** complements the **ASI** (organised manufacturing) and **ASUSE** (unincorporated enterprises). It targets **incorporated service enterprises**, using an **MCA / GSTN-based frame**, to fill the gap on **organised services**.
+SC: ASI covers factories, ASUSE informal units, ASSSE incorporated services.
+
+Q: Which of the following is NOT a source of data on MSMEs?
+A) Annual Survey of Industries covering only defence establishments
+B) Udyam Registration portal
+C) NSS / ASUSE surveys of unincorporated enterprises
+D) Economic Census
+ANS: A
+T: Odd-one-out
+D: Medium
+EXP: MSME data come from **Udyam** (administrative), **ASUSE/NSS** (surveys), the **EC** (census) and the **ASI** (registered units). The ASI **excludes defence establishments**, so an ASI limited to defence units would not be a source.
+SC: Udyam, ASUSE, EC and ASI supply MSME data; defence units are out of the ASI.
+
+Q: The State with the largest livestock population as per the 20th Livestock Census was:
+A) Uttar Pradesh
+B) Rajasthan
+C) Madhya Pradesh
+D) West Bengal
+ANS: A
+D: Hard
+EXP: In the 20th Livestock Census, **Uttar Pradesh** had the largest livestock population, followed by **Rajasthan**.
+SC: UP leads in livestock; Rajasthan is second.
+
+Q: Crop area statistics are recorded in which village register maintained by the patwari?
+A) Khasra (field book / crop register)
+B) Jamabandi
+C) Girdawari certificate
+D) Khatauni only
+ANS: A
+D: Medium
+EXP: The **Khasra** is the **field-wise register** in which **girdawari** entries (crop inspection each season) are recorded. The **Jamabandi / Khatauni** are **records of rights** (ownership). The Agriculture Census retabulates the **Khasra**.
+SC: The Khasra records crops; the Jamabandi records rights.
+
+Q: Which of the following statistics is compiled from the "Timely Reporting Scheme" in land-record States?
+A) Advance estimates of area under principal crops
+B) Livestock population
+C) Agricultural wages
+D) Fertiliser prices
+ANS: A
+D: Easy
+EXP: **TRS** uses a **20% sample of villages** to give **area** under principal crops by a set date, feeding the **advance estimates**. It also provides the **frame for CCEs**.
+SC: TRS gives early crop area estimates.
+
+Q: The primary source of statistics on fertiliser production and consumption in India is:
+A) Department of Fertilizers and the Fertiliser Association of India
+B) NSO
+C) IBM
+D) CEA
+ANS: A
+D: Hard
+EXP: The **Department of Fertilizers** (Ministry of Chemicals & Fertilizers) and the **Fertiliser Association of India** compile production, import and consumption data. Fertilizers are one of the **eight core industries**.
+SC: Fertiliser data come from the Department of Fertilizers and FAI.
+
+Q: As per the Agriculture Census 2015-16, the share of operational holdings operated by women was about:
+A) 14%
+B) 40%
+C) 2%
+D) 30%
+ANS: A
+D: Hard
+EXP: Female operational holders were about **13.9% (2015-16)**, up from **12.8% (2010-11)**. The Agriculture Census records the **gender** of the operational holder in Phase I.
+SC: About 14% of holdings are operated by women.
+
+@topic Livestock, Fisheries & Horticulture
+Q: Estimates of major livestock products (milk, eggs, meat and wool) in India are generated through:
+A) the Integrated Sample Survey conducted by States under the Department of Animal Husbandry & Dairying
+B) the Livestock Census
+C) the NSS consumer expenditure survey
+D) the ASI
+ANS: A
+D: Medium
+EXP: The **Integrated Sample Survey (ISS)** estimates **production** of milk, eggs, meat and wool each year. The **Livestock Census** counts **animals** every 5 years. Results appear in **Basic Animal Husbandry Statistics**.
+SC: ISS gives livestock products; the Livestock Census gives animal numbers.
+
+Q: In world milk production, India ranks:
+A) first
+B) second
+C) third
+D) fifth
+ANS: A
+D: Easy
+EXP: India is the **largest milk producer** in the world (about a quarter of global output). This is reported in **Basic Animal Husbandry Statistics** (DAHD) and FAO data.
+SC: India is number one in milk.
+
+@topic Land Use & Water
+Q: India's net sown area is of the order of:
+A) 140 million hectares
+B) 60 million hectares
+C) 250 million hectares
+D) 328 million hectares
+ANS: A
+D: Medium
+EXP: The **net sown area** is about **140 million ha**, roughly **43%** of the reporting area. India's **geographical area** is about **328.7 million ha**, and the **gross cropped area** is about **200+ million ha** because of multiple cropping.
+SC: Net sown about 140 Mha; total area about 329 Mha.
+
+Q: Cropping intensity is computed as:
+A) gross cropped area ÷ net sown area × 100
+B) net sown area ÷ gross cropped area × 100
+C) irrigated area ÷ net sown area × 100
+D) net sown area ÷ reporting area × 100
+ANS: A
+D: Easy
+EXP: **Cropping intensity = GCA ÷ NSA × 100**. A value of **150** means half the net area is **cropped twice**.
+SC: Cropping intensity = GCA ÷ NSA.
+
+Q: The Minor Irrigation Census and the first Census of Water Bodies are conducted by:
+A) Ministry of Jal Shakti
+B) NSO
+C) Ministry of Agriculture
+D) Central Water Commission alone as an independent statutory body
+ANS: A
+D: Medium
+EXP: The **Ministry of Jal Shakti** (earlier the Ministry of Water Resources) conducts the **Minor Irrigation Census** (6th round, reference year **2017-18**) and the **first Census of Water Bodies** (2018-19).
+SC: Water censuses are run by Jal Shakti.
+
+@topic MSME & Industry
+Q: The MSMED Act, which first provided a legal framework for micro, small and medium enterprises, was enacted in:
+A) 2006
+B) 1991
+C) 2015
+D) 2020
+ANS: A
+D: Easy
+EXP: The **MSMED Act 2006** defined MSMEs, originally on **investment** only and separately for manufacturing and services. **2020** moved to **composite criteria** (investment + turnover), the same for both sectors.
+SC: MSMED 2006; composite criteria from 2020.
+
+Q: Which data source provides the most direct estimate of the number of unincorporated non-agricultural enterprises and their workers on an annual basis?
+A) ASUSE
+B) ASI
+C) Population Census
+D) PLFS
+ANS: A
+D: Easy
+EXP: **ASUSE** estimates **establishments, workers and GVA** of **unincorporated non-farm enterprises** each year. **PLFS** counts **workers from households**, not enterprises.
+SC: ASUSE counts informal enterprises; PLFS counts workers.
+
+@topic Services & Infrastructure
+Q: Railway freight and passenger statistics in India are published by:
+A) Railway Board (Indian Railways Year Book)
+B) NSO
+C) MoRTH
+D) DGCI&S
+ANS: A
+D: Easy
+EXP: The **Railway Board** publishes the **Indian Railways Year Book**, covering freight loading, passenger earnings and more. **Railway earnings** are among the **service indicators** used in GDP advance estimates.
+SC: Railway data come from the Railway Board and feed GDP indicators.

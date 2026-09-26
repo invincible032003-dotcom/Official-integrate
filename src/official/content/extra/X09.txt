@@ -424,5 +424,5 @@ C) SDG 2: Zero Hunger
 D) Connecting the world with data we can trust
 ANS: A
 D: Hard
-EXP: The **2024** theme was **"Use of data for decision-making"**. Earlier themes: 2022 **Data for Sustainable Development**; 2021 **SDG 2**; 2023 alignment of the **State Indicator Framework with the NIF**. Option D is the **World Statistics Day 2020** theme.
+EXP: The **2024** theme was **"Use of data for decision-making"**. Earlier themes: 2022 **Data for Sustainable Development**; 2021 **SDG 2**; 2023 alignment of the **State Indicator Framework with the NIF**. "Connecting the world with data we can trust" is the **World Statistics Day 2020** theme.
 SC: 2024 was about using data in decisions; 2022 about data for sustainable development.

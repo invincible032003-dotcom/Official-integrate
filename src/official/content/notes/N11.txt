@@ -1,0 +1,501 @@
+@set N11
+@title Topics 12 & 13 · SRS, Vital Rates, Census, CRS & RBD Act
+@pages Notes 12 (5 pp.) + Notes 13 (9 pp.)
+@desc SRS objectives, components, dual record, sample design & CI; demographic rate formulae (CBR, GFR, ASMFR, IMR, NMR, PNMR, PMR); MCCD cause groups; Population Census history & methods; ORGI functions; RBD Act 1969 & 2023 amendment; CRS vs SRS vs Census; Linguistic Survey
+
+@note 12
+@topic SRS: Objectives & Components
+Q: The main objective of the Sample Registration System (SRS) is to provide reliable estimates of birth rate, death rate and IMR at:
+A) the natural division level for major States and the State level for smaller States
+B) the district level for all States
+C) the village level
+D) the national level only
+ANS: A
+D: Medium
+P: 1
+EXP: The **SRS**, run annually by **ORGI** in all States and UTs, gives **BR, DR and IMR** at the **natural division level for major States** and the **State level for smaller States**. **District-level** vital rates can only come from the **CRS**.
+SC: SRS gives natural-division or State rates; districts need CRS.
+
+Q: In the SRS, continuous enumeration of births and deaths in the sample units is carried out by:
+A) resident part-time enumerators, generally anganwadi workers and teachers
+B) SRS supervisors every six months
+C) FOD staff of NSO
+D) ASHA workers under NHM only
+ANS: A
+D: Medium
+P: 1
+EXP: **Continuous (longitudinal) enumeration** is done by **resident part-time enumerators**, generally **anganwadi workers or teachers**. **SRS supervisors** conduct the independent **half-yearly retrospective survey**. The two records are **matched**.
+SC: Enumerators record continuously; supervisors survey every 6 months.
+
+Q: Arrange the following SRS components in the correct order:
+1. Matching of events from continuous enumeration and half-yearly survey
+2. Base-line survey of sample units
+3. Field verification of unmatched and partially matched events
+4. Filling of verbal autopsy forms for finalised deaths
+A) 2-1-3-4
+B) 1-2-3-4
+C) 2-3-1-4
+D) 2-1-4-3
+ANS: A
+T: Chronology
+D: Medium
+P: 1
+EXP: The sequence is **baseline survey → continuous enumeration → half-yearly survey → matching → field verification of unmatched events → verbal autopsy** for finalised deaths.
+SC: Base, count, survey, match, verify, autopsy.
+
+Q: In SRS, the 95% confidence interval for the Birth Rate is estimated as:
+A) BR ± 2 SE(BR)
+B) BR ± 1 SE(BR)
+C) BR ± 3 SE(BR)
+D) BR ± 1.645 SE(BR)
+ANS: A
+D: Easy
+P: 2
+EXP: SRS reports **95% CIs as estimate ± 2 SE** for BR, DR and IMR. Two SE approximates 1.96 SE.
+SC: A 95% CI is about ± 2 SE.
+
+Q: The sample design of SRS is:
+A) uni-stage stratified simple random sampling without replacement, except in stratum II (larger villages) of rural areas where two-stage stratification is applied
+B) two-stage PPS sampling in all areas
+C) systematic sampling of households
+D) cluster sampling with replacement
+ANS: A
+D: Hard
+P: 2
+EXP: SRS uses **uni-stage stratified SRSWOR**. The **exception** is **rural stratum II (large villages)**, where **two-stage stratification** is applied. The **urban sampling unit** is a **Census Enumeration Block**.
+SC: SRS is single-stage SRSWOR, except that large villages get two stages.
+
+Q: In the SRS urban sample design, towns/cities are divided into how many strata based on size classes?
+A) Four: towns below 1 lakh, 1-5 lakh, 5 lakh and above, and the four metro cities
+B) Six, as in the frame before 2001
+C) Three, by female literacy
+D) Two: million-plus and others
+ANS: A
+D: Hard
+P: 2
+EXP: The urban strata are **I: < 1 lakh**; **II: 1-5 lakh**; **III: ≥ 5 lakh**; **IV: the four metros** (Delhi, Mumbai, Chennai, Kolkata) as separate strata. There were **six strata before 2001**. Within each size stratum, CEBs are ordered by **female literacy (Census 2011)** into **3 equal sub-strata**.
+SC: 4 urban size strata, then 3 sub-strata by female literacy.
+
+Q: Within each urban size stratum in SRS, Census Enumeration Blocks were ordered by which variable to form three equal-size sub-strata?
+A) Female literacy rate (Census 2011)
+B) Sex ratio
+C) Population density
+D) Proportion of SC/ST population
+ANS: A
+D: Medium
+P: 2
+EXP: CEBs are **ordered by female literacy rate** and split into **3 equal sub-strata**. Blocks are then drawn by **SRSWOR with equal probability** in each sub-stratum.
+SC: The urban sub-strata use female literacy.
+
+Q: As per the SRS Bulletin (reference year 2019) in the notes, the State with the highest birth rate and the State/UT with the lowest birth rate were respectively:
+A) Bihar and Andaman & Nicobar Islands
+B) Uttar Pradesh and Kerala
+C) Madhya Pradesh and Goa
+D) Bihar and Kerala
+ANS: A
+D: Medium
+P: 3
+EXP: In SRS 2019 the **highest BR was Bihar (25.8)** and the **lowest A&N Islands (11.0)**. **DR** was highest in **Chhattisgarh (7.3)** and lowest in **Delhi (3.2)**. **IMR** was highest in **MP (46)** and lowest in **Mizoram/Nagaland (3)**.
+SC: SRS 2019: BR high Bihar, low A&N; IMR high MP.
+TIP: Newer SRS bulletins have been released since. Rank patterns (Bihar and MP high; Kerala, Delhi and the small NE States low) tend to persist, but check the latest year.
+
+@topic Demographic Rate Formulae
+Q: The General Fertility Rate (GFR) is defined as the number of live births in a year per 1000:
+A) mid-year female population in the age group 15-49 years
+B) mid-year total population
+C) mid-year married female population aged 15-49
+D) women who gave birth during the year
+ANS: A
+D: Easy
+P: 2
+EXP: **GFR = live births / mid-year females 15-49 × 1000**. **GMFR** uses **married** females 15-49. **CBR** uses the **total mid-year population**.
+SC: GFR uses all women 15-49; GMFR uses married women only.
+
+Q: The Age-Specific Marital Fertility Rate (ASMFR) uses as its denominator:
+A) the mid-year married female population of the same age group
+B) the mid-year female population of the same age group
+C) the total population of the same age group
+D) the number of live births in the age group
+ANS: A
+D: Medium
+P: 2
+EXP: **ASMFR = births to women of age group x / married women of age group x × 1000**. **ASFR** uses **all** women of that age group.
+SC: "Marital" in the name means married women in the denominator.
+
+Q: The Infant Mortality Rate (IMR) is defined as:
+A) infant deaths during the year per 1000 live births during the year
+B) infant deaths per 1000 mid-year population
+C) deaths under 5 years per 1000 live births
+D) infant deaths per 1000 women aged 15-49
+ANS: A
+D: Easy
+P: 3
+EXP: **IMR = deaths under 1 year / live births × 1000**. Its denominator is **live births**, not population. IMR = **NMR + PNMR**.
+SC: IMR = infant deaths per 1000 live births.
+
+Q: The neo-natal mortality rate relates to infant deaths of age:
+A) less than 29 days
+B) less than 7 days
+C) 7 days to less than 29 days
+D) 29 days to less than one year
+ANS: A
+D: Medium
+P: 3
+EXP: **NMR: < 29 days** = **Early NMR (< 7 days)** + **Late NMR (7 to < 29 days)**. **PNMR: 29 days to < 1 year**. All use **live births** as the denominator.
+SC: Early < 7 days, late 7-28 days, post-neonatal 29 days to 1 year.
+
+Q: Match List-I (Rate) with List-II (Age at death of infants in numerator):
+| List-I | List-II |
+|---|---|
+| A. Early neo-natal mortality rate | 1. 29 days to less than one year |
+| B. Late neo-natal mortality rate | 2. Less than 7 days |
+| C. Post neo-natal mortality rate | 3. 7 days to less than 29 days |
+A) A-1, B-3, C-2
+B) A-2, B-3, C-1
+C) A-2, B-1, C-3
+D) A-3, B-2, C-1
+ANS: B
+T: Match
+D: Medium
+P: 3
+EXP: **Early NN: < 7 days**; **Late NN: 7 to < 29 days**; **Post NN: 29 days to < 1 year**.
+SC: Under 7 days, then under 29 days, then under 1 year.
+
+Q: The Perinatal Mortality Rate (PMR) is defined as:
+A) (still births + infant deaths of less than 7 days) per 1000 (live births + still births)
+B) infant deaths of less than 29 days per 1000 live births
+C) still births per 1000 live births
+D) (still births + neo-natal deaths) per 1000 live births
+ANS: A
+D: Hard
+P: 4
+EXP: **PMR = (still births + deaths < 7 days) / (live births + still births) × 1000**. The **Still Birth Rate** = still births / (live births + still births) × 1000. Both include still births in the **denominator**.
+SC: PMR adds still births to both the numerator and the denominator.
+
+Q: In a year there were 9,800 live births, 200 still births and 150 infant deaths of age under 7 days. The Perinatal Mortality Rate is:
+A) 35 per 1000
+B) 15.3 per 1000
+C) 20 per 1000
+D) 35.7 per 1000
+ANS: A
+T: Numerical
+D: Hard
+P: 4
+EXP: **PMR = (200 + 150) / (9800 + 200) × 1000 = 350 / 10000 × 1000 = 35**. Dividing by live births only gives 35.7, which is the trap.
+SC: Still births also go in the denominator.
+
+Q: Crude Death Rate (CDR) is calculated as:
+A) number of deaths during the year per 1000 mid-year population
+B) number of deaths per 1000 live births
+C) number of deaths per 1000 population aged 15-49
+D) number of deaths per 1000 households
+ANS: A
+D: Easy
+P: 3
+EXP: **CDR = deaths / mid-year population × 1000**. **ASMR** uses deaths in an age group over the population of that age group.
+SC: Crude rates use the total mid-year population.
+
+@topic Causes of Death (MCCD)
+Q: As per the MCCD data in the notes, the leading cause-group of medically certified deaths is:
+A) Diseases of the circulatory system
+B) Certain infectious and parasitic diseases
+C) Neoplasms
+D) Diseases of the respiratory system
+ANS: A
+D: Easy
+P: 4
+EXP: The **circulatory system** leads with **32.7%**. It is followed by **symptoms and signs not elsewhere classified (13.3%)**, **infectious and parasitic (9.8%)** and **respiratory (9.7%)**. The eight leading groups make up about **87.2%**.
+SC: The heart and circulatory system lead at about a third.
+
+Q: The eight leading cause-groups of deaths under MCCD together constitute approximately what percentage of total medically certified deaths?
+A) 87.2%
+B) 65.0%
+C) 95.5%
+D) 50.3%
+ANS: A
+D: Medium
+P: 4
+EXP: As per the notes, the **8 leading cause-groups** make up **about 87.2%** of MCCD deaths. The **MCCD report** is published **annually** by ORGI.
+SC: The top 8 cause-groups account for about 87%.
+
+@note 13
+@topic Population Census
+Q: The 2011 Census of India was:
+A) the 15th Census since 1872 and the 7th after Independence
+B) the 14th Census since 1872 and the 6th after Independence
+C) the 15th Census since 1881 and the 7th after Independence
+D) the 16th Census since 1872 and the 8th after Independence
+ANS: A
+D: Easy
+P: 1
+EXP: The **first census was 1872** (non-synchronous, limited coverage), the first **synchronous** one **1881**, and the first after Independence **1951**. **2011 = 15th overall, 7th after Independence**, so the next is the **16th**.
+SC: 2011 was the 15th census and the 7th after Independence.
+TIP: The next Census, postponed from 2021, has been notified as Census 2027, with houselisting in 2026.
+
+Q: As per the notes, up to 1931 the Indian Census used the "de facto" canvasser method, and since 1941 it has used:
+A) the de jure canvasser method
+B) the householder method
+C) the de facto householder method
+D) the register-based method
+ANS: A
+D: Medium
+P: 1
+EXP: Per the notes: **de facto up to 1931, de jure since 1941**. **De facto** counts a person where found on the reference date; **de jure** counts at the place of **normal residence**. India uses the **canvasser method** (the enumerator fills the schedule) because **low literacy** limits the householder method.
+SC: De facto until 1931, de jure from 1941, always by canvasser.
+
+Q: In the "householder method" of census information gathering:
+A) the enumerator gives a schedule to every household and the household fills it in
+B) the enumerator records the answers himself
+C) data are drawn from administrative registers
+D) data are collected by telephone
+ANS: A
+T: Conceptual
+D: Easy
+P: 1
+EXP: **Householder method** = **self-enumeration** by the household. **Canvasser method** = the **enumerator records** the answers. India uses the canvasser method.
+SC: In the householder method the family writes; in the canvasser method the enumerator writes.
+
+Q: Census machinery in India was made permanent in 1949 with the establishment of:
+A) the Office of the Registrar General of India (ex-officio Census Commissioner) under MHA
+B) the Central Statistical Organisation
+C) the National Sample Survey
+D) the Indian Statistical Institute
+ANS: A
+D: Medium
+P: 1
+EXP: In **1949** a **permanent ORGI** (RGI = ex-officio **Census Commissioner**) was set up under the **MHA**. **R.A. Gopalaswami** was the first RGI of independent India and conducted the **1951 Census**.
+SC: The RGI has been permanent since 1949; Gopalaswami ran the 1951 census.
+
+Q: The first Registrar General of India after Independence, who conducted the 1951 Census, was:
+A) R.A. Gopalaswami
+B) C. Chandramouli
+C) Asok Mitra
+D) P.C. Mahalanobis
+ANS: A
+D: Medium
+P: 1
+EXP: **R.A. Gopalaswami** was RGI for the **1951 Census**. **C. Chandramouli** was RGI for **Census 2011**. **Asok Mitra** was Census Commissioner for **1961**.
+SC: Gopalaswami ran the 1951 census and Chandramouli the 2011 census.
+
+Q: Census operations in India are carried out in two phases. The Population Enumeration phase follows the Houselisting and Housing Census with a gap of about:
+A) six to eight months
+B) two years
+C) one month
+D) five years
+ANS: A
+D: Medium
+P: 2
+EXP: **Phase 1: Houselisting & Housing Census**, which lists buildings as the **frame** and gives **housing stock and amenities**. **Phase 2: Population Enumeration**, about **6-8 months later**, counts **every person** with their characteristics.
+SC: Houses first; people 6-8 months later.
+
+Q: Which of the following Acts/Rules support Census operations in India?
+1. The Census Act, 1948
+2. The Census Rules, 1990
+3. The Citizenship Act, 1955
+4. The Registration of Births and Deaths Act, 1969
+Select the correct answer using the code given below:
+A) 1 and 2 only
+B) 1, 2 and 3 only
+C) 2, 3 and 4 only
+D) 1, 2, 3 and 4
+ANS: D
+T: Statement
+D: Medium
+P: 2
+EXP: All four are listed: **Census Act 1948**, **Census Rules 1990**, **Citizenship Act 1955** (the basis for the NPR under the **Citizenship Rules 2003**), and the **RBD Act 1969**.
+SC: The census rests on the 1948 Act, the 1990 Rules, the Citizenship Act and the RBD Act.
+
+Q: The National Population Register (NPR) is prepared under provisions of:
+A) the Citizenship Rules, 2003 framed under the Citizenship Act, 1955
+B) the Census Act, 1948
+C) the RBD Act, 1969
+D) the Aadhaar Act, 2016
+ANS: A
+D: Medium
+P: 2
+EXP: The **NPR** is prepared under the **Citizenship Rules 2003 (Citizenship Act 1955)** and covers all **usual residents**. It was **first prepared in 2010** and **updated door-to-door in 2015**.
+SC: The NPR comes from the Citizenship Rules 2003; first prepared 2010, updated 2015.
+
+Q: Which of the following is NOT among the primary functions of the Office of the Registrar General & Census Commissioner, India?
+A) Conducting the Periodic Labour Force Survey
+B) Housing and Population Census
+C) Civil Registration System coordination
+D) Sample Registration System
+ANS: A
+T: Odd-one-out
+D: Easy
+P: 2
+EXP: ORGI's functions are **Census**, **CRS** (the RGI under the RBD Act), **SRS** (half-yearly surveys; BR, DR, IMR, MMR) and **NPR**. It also runs the **Linguistic Survey** and MCCD. **PLFS** is an **NSO** survey.
+SC: ORGI covers Census, CRS, SRS and NPR, but not PLFS.
+
+@topic Civil Registration & RBD Act
+Q: Under the RBD Act, 1969, births, still births and deaths are registered:
+A) at the place of occurrence of the event, with a normal reporting period of 21 days
+B) at the place of normal residence within 30 days
+C) at the district headquarters within 7 days
+D) online only, within one year
+ANS: A
+D: Medium
+P: 3
+EXP: Registration is **mandatory**, at the **place of occurrence**, within **21 days**. Later registration falls under **delayed registration (Section 13)**. The **Registrar** of the local area is appointed by the **State/UT**, and a **Chief Registrar** in each State is the executive authority.
+SC: Register where it happened, within 21 days; later under Section 13.
+
+Q: Delayed registration of births and deaths beyond the normal reporting period is provided for under which section of the RBD Act, 1969?
+A) Section 13
+B) Section 7
+C) Section 23
+D) Section 3
+ANS: A
+D: Hard
+P: 3
+EXP: **Section 13** of the RBD Act covers **delayed registration**. The normal reporting period is **21 days**.
+SC: Delayed registration is under Section 13.
+
+Q: The amendment to the RBD Act, 1969 (enacted as the RBD (Amendment) Act, 2023) provides that:
+A) the RGI shall maintain a national database of registered births and deaths, and birth certificates shall serve to prove date and place of birth for purposes like admissions, driving licence, voter list and government jobs
+B) registration of births will become voluntary
+C) States will no longer register births and deaths
+D) death registration is transferred to the Election Commission
+ANS: A
+D: Medium
+P: 4
+EXP: The amendment creates **national and State databases** (the RGI and the Chief Registrars). It makes the **birth certificate** the document proving **date and place of birth** for **admissions, DL, voter list, marriage registration, Government/PSU jobs and passports**. The database can update the **NPR, electoral rolls, Aadhaar, ration cards, passports and DL**, and hospitals must give **cause-of-death** certificates. It came into force on **1 October 2023**.
+SC: The 2023 amendment gives a national database, and the birth certificate becomes the single proof of birth.
+
+Q: The Civil Registration System (CRS) is defined as a unified process of recording vital events which is:
+A) continuous, permanent, compulsory and universal
+B) periodic, sample-based and voluntary
+C) decennial and complete
+D) half-yearly and retrospective
+ANS: A
+D: Easy
+P: 6
+EXP: **CRS = continuous, permanent, compulsory, universal** recording of vital events under the law. In India it covers **births and deaths**. It is **complete** only if it covers **100%** of events.
+SC: CRS is continuous, permanent, compulsory and universal.
+
+Q: Which source is the only one that can provide vital rates at the district level on an annual basis?
+A) Civil Registration System
+B) Sample Registration System
+C) Population Census
+D) NFHS
+ANS: A
+D: Medium
+P: 6
+EXP: The **Census** is decennial, so its rates centre on the **mid-decade**. The **SRS** gives **national and State** rates, but district samples would be **prohibitively large**. Only the **CRS** can give **district-level** (and all administrative level) rates when complete.
+SC: CRS for districts, SRS for States, Census once a decade.
+
+Q: Registration records under CRS are primarily useful as:
+A) legal documents, and secondarily as a source of vital statistics
+B) a source of vital statistics, and secondarily as legal documents
+C) sample survey data
+D) inputs to national accounts only
+ANS: A
+D: Medium
+P: 7
+EXP: CRS records are **primarily legal documents** and **secondarily vital statistics**. The statistics are a **by-product** of an administrative process, so they are **relatively inexpensive**, but they depend on **completeness and promptness** of registration.
+SC: Legal use first, statistics second, which keeps them cheap.
+
+Q: Which of the following is cited in the notes as a main reason for low registration levels of births and deaths?
+A) Lack of awareness among the public and lack of procedural knowledge among registration functionaries
+B) High registration fees
+C) Absence of any law on registration
+D) Registration permitted only in urban areas
+ANS: A
+D: Easy
+P: 7
+EXP: The main reasons are **public unawareness** of the value of certificates and **functionaries' lack of procedural knowledge**. States have responded with **publicity** such as posters, pamphlets, radio talks and newspaper advertisements.
+SC: Low registration comes from low awareness and weak procedures.
+
+Q: The publications of the Office of the Registrar General of India include:
+A) Vital Statistics based on CRS (annual), SRS Bulletin, and Report on Medical Certification of Cause of Death (annual)
+B) the Economic Survey
+C) the Annual Survey of Industries report
+D) the PLFS Annual Report
+ANS: A
+D: Easy
+P: 2
+EXP: ORGI publishes **Vital Statistics of India based on CRS (annual)**, the **SRS Bulletin** and the **MCCD Report (annual)**, along with census publications.
+SC: ORGI publishes CRS, SRS and MCCD reports.
+
+@topic Linguistic Survey & Misc
+Q: The Linguistic Survey of India is conducted by:
+A) Language Division, Office of the Registrar General of India (MHA)
+B) Ministry of Education
+C) Central Institute of Indian Languages only
+D) Sahitya Akademi
+ANS: A
+D: Easy
+P: 8
+EXP: The **Language Division of ORGI (MHA)** conducts the **Linguistic Survey of India**. It presents an **updated linguistic scenario** and gives inputs to social and educational planners. The **Census** has been the richest source of language data for over a century.
+SC: The Linguistic Survey is done by ORGI's Language Division.
+
+Q: As per the Census definition, "mother tongue" is:
+A) the language spoken in childhood by the person's mother to the person; if the mother died in infancy, the language mainly spoken at home in childhood
+B) the language the person speaks most fluently now
+C) the official language of the person's State
+D) the language of the person's schooling
+ANS: A
+D: Medium
+P: 8
+EXP: **Mother tongue** is the language **spoken to the person by the mother in childhood**. If the mother died in infancy, it is the **language mainly spoken at home** in childhood.
+SC: Mother tongue is the mother's language; if she died, the home language.
+
+Q: Why does the Population Census not provide the measure of year-to-year changes in fertility and mortality?
+A) Being decennial, its fertility and mortality measures centre on the midpoint of the decade
+B) It does not collect data on births
+C) It covers only urban areas
+D) It is a sample survey
+ANS: A
+T: Conceptual
+D: Medium
+P: 6
+EXP: The **Census** is **decennial**, so its derived fertility and mortality measures are **centred on mid-decade**. **SRS** (annual, State level) and **CRS** (continuous, all levels) fill the yearly gap.
+SC: A census every 10 years cannot give annual vital rates.
+
+Q: The Maternal Mortality Ratio (MMR) at State level in India is estimated through:
+A) the Sample Registration System
+B) the Population Census
+C) the Annual Survey of Industries
+D) the Economic Census
+ANS: A
+D: Easy
+P: 2
+EXP: The **SRS** provides the **BR, DR, IMR and MMR** at State level, with MMR given in special bulletins. MMR = **maternal deaths per 1,00,000 live births**.
+SC: The SRS supplies the MMR.
+
+@note 12
+@topic SRS: Objectives & Components
+Q: The Sample Registration System was initiated on a pilot basis and made full-scale respectively in:
+A) 1964-65 and 1969-70
+B) 1951 and 1961
+C) 1969-70 and 1975
+D) 1981 and 1991
+ANS: A
+D: Medium
+P: 1
+EXP: SRS began as a **pilot in 1964-65** (selected States) and went **full scale in 1969-70**. It is a **dual record system**: continuous enumeration plus an independent half-yearly survey.
+SC: SRS started as a pilot in 1964-65 and went full scale in 1969-70.
+
+Q: In the SRS, updating of the houselist, household schedule and the list of women in the reproductive age group with their pregnancy status is done by:
+A) the Supervisor, during the independent retrospective half-yearly survey
+B) the part-time enumerator, during continuous enumeration
+C) the ANM during immunisation visits
+D) the Registrar under the RBD Act
+ANS: A
+D: Hard
+P: 1
+EXP: The **Supervisor's half-yearly survey** records births and deaths of the half-year. It also **updates the houselist, household schedule and the list of women in reproductive ages** with their pregnancy status.
+SC: The supervisor updates the lists every six months.
+
+@note 13
+@topic Population Census
+Q: Census enumerators and supervisors in India are mainly drawn from:
+A) local school teachers, Central and State Government officials and officials of local bodies
+B) private survey agencies
+C) NSS field staff only
+D) volunteers from NGOs
+ANS: A
+D: Easy
+P: 2
+EXP: Enumerators are mostly **school teachers** and **Government and local-body officials**, who visit every household to canvass the schedule. Common problems include **untrained staff, poor response, illiteracy, scattered population and limited finances**.
+SC: Teachers and officials enumerate the census.

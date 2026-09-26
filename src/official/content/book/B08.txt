@@ -1,0 +1,495 @@
+@set B08
+@title PLFS Concepts (II): CWS/CDS, Hours, Earnings, Enterprises & ICLS Informality
+@pages 81-104
+@desc Current weekly and daily status, NIC/NCO coding, hours actually worked, earnings, enterprise types, job contract/social security, 15th and 17th ICLS informal sector and informal employment, LFPR/WPR/PU/UR, NIC-2008 and NCO-2004 structure
+
+@topic Current Weekly & Current Daily Status
+Q: Under Current Weekly Status (CWS), a person is considered working if he/she:
+A) worked for at least one hour on at least one day during the 7 days preceding the survey
+B) worked for at least 4 hours on each day of the week
+C) worked for at least 30 days in the last year
+D) worked for the major part of the week
+ANS: A
+D: Easy
+P: 81
+EXP: CWS uses the **priority criterion**. Working for **at least 1 hour on at least 1 day** of the reference week (or having work but not doing it) makes a person **employed**, even if they were unemployed or outside the labour force the rest of the week.
+SC: One hour on one day is enough for CWS. Work takes priority.
+
+Q: The priority order in the priority criterion used for current status is:
+A) working > seeking/available for work > neither working nor available
+B) seeking work > working > not in labour force
+C) not in labour force > working > seeking work
+D) working > not in labour force > seeking work
+ANS: A
+D: Easy
+P: 81
+EXP: **Working** has the highest priority, then **seeking or available for work**, then **neither** (not in the labour force). Within the chosen broad status, the detailed status is fixed by **major time**.
+SC: Employed > Unemployed > Out of labour force, in that order.
+
+Q: In Current Daily Status (CDS), at most how many economic activities are recorded for a person on a single day?
+A) Two
+B) One
+C) Three
+D) Unlimited
+ANS: A
+D: Medium
+P: 81
+EXP: CDS records **at most two work activities per day**, distinguished by **status × 2-digit NIC-2008**. A day's work is split into half-day units, which is why CDS measures person-days.
+SC: At most two activities a day, i.e. two half-days.
+
+Q: For current daily status, economic activities on a day are differentiated at the level of:
+A) status × 2-digit NIC-2008
+B) status × 5-digit NIC-2008
+C) 3-digit NCO-2004 only
+D) sector only
+ANS: A
+D: Hard
+P: 81
+EXP: The report states that economic activities are distinguished at **status × 2-digit NIC-2008**. Industry of the main work is coded at **5-digit NIC** and occupation at **3-digit NCO-2004**.
+SC: CDS separates activities at 2-digit NIC. Coding of industry is at 5-digit.
+
+Q: In PLFS, the industry of work and occupation are recorded respectively using:
+A) 5-digit NIC-2008 and 3-digit NCO-2004
+B) 2-digit NIC-2008 and 4-digit NCO-2015
+C) 4-digit NIC-2004 and 2-digit NCO-1968
+D) 3-digit NIC-2008 and 1-digit NCO-2004
+ANS: A
+D: Medium
+P: 82
+EXP: The PLFS 2019-20 report used **NIC-2008 at 5 digits** for industry and **NCO-2004 at 3 digits** for occupation.
+SC: NIC 5-digit and NCO 3-digit.
+
+Q: Under NIC-2008 Division 97 (households as employers of domestic personnel), PLFS used additional codes. Code 97006 denotes:
+A) Tutor
+B) Driver
+C) Cook
+D) Gardener
+ANS: A
+D: Hard
+P: 82
+EXP: The codes are 97001 housemaid/servant, 97002 cook, 97003 gardener, 97004 gatekeeper/watchman, 97005 governess/baby-sitter, **97006 tutor**, 97007 driver, 97009 others.
+SC: The order runs house → kitchen → garden → gate → child → tutor → driver (1 to 7).
+
+@topic Hours Actually Worked
+Q: The concept of "hours actually worked" in PLFS follows the definition given by:
+A) the 18th ICLS
+B) the 13th ICLS
+C) the 15th ICLS
+D) the 19th ICLS
+ANS: A
+D: Medium
+P: 82
+EXP: Hours actually worked follows the **18th ICLS** (2008) definition, within the NSSO production boundary. The 13th ICLS covers the economically active population, the 15th the informal sector, and the 19th work statistics.
+SC: 18th ICLS = working time, 15th = informal sector, 17th = informal employment.
+
+Q: Which of the following is INCLUDED in hours actually worked as per PLFS?
+A) Time spent waiting for customers or business at the place of work
+B) Time spent on travel from home to work
+C) Paid meal breaks without productive activity
+D) Paid annual leave
+ANS: A
+D: Medium
+P: 82
+EXP: **Waiting for customers or patients and on-call duty** counts as time related to production, and is included. Commuting, longer meal breaks (even if paid) and any leave or holidays are **excluded**.
+SC: Waiting at work counts. Commuting and meal breaks do not.
+
+Q: Consider the following time components:
+1. Short tea/coffee breaks at the workplace
+2. "In-between time" due to machinery breakdown while remaining available for work
+3. Time spent in training to upgrade skills for the job
+4. Time spent in educational activity not intended for the economic unit, though paid by the employer
+Which of the above are included in hours actually worked?
+A) 1, 2 and 3 only
+B) 1 and 2 only
+C) 2, 3 and 4 only
+D) 1, 2, 3 and 4
+ANS: A
+T: Statement
+D: Hard
+P: 83
+EXP: Short rest breaks, **unavoidable in-between time** and **job-related training** are included. **Education not intended for the economic unit** is excluded even if the employer pays for it.
+SC: If it serves the job it is included. Personal education is excluded even when paid.
+
+Q: For self-employed persons with atypical work (farmers, shop owners), the basic criterion to determine hours actually worked is whether they were:
+A) available to perform the work (ready to receive orders or attend clients)
+B) physically producing output every hour
+C) registered with a labour office
+D) paid for each hour
+ANS: A
+D: Medium
+P: 83
+EXP: For such self-employed persons, the **availability criterion** is used: whether they were **ready to receive orders, attend to clients or perform** the activity. Periods of **absence** (illness, leave, strikes, bad weather) are excluded.
+SC: For the self-employed, being available (for example the shop being open) counts as working.
+
+@topic Earnings Concepts
+Q: Earnings of regular salaried/wage employees in PLFS refer to:
+A) gross remuneration before deductions for taxes and employees' social security contributions
+B) take-home pay after all deductions
+C) earnings including employers' contribution to provident fund
+D) earnings including severance pay
+ANS: A
+D: Medium
+P: 84
+EXP: Earnings are **gross**, i.e. before deductions for tax, the employee's PF, insurance and so on. They **exclude employer contributions** to social security and pension schemes and **severance or termination pay**. Wages in kind are valued at **current retail price**, and **bonus** is apportioned to the reference period.
+SC: Gross of the employee's deductions, net of the employer's contributions, and no severance pay.
+
+Q: Gross earnings of self-employed persons in PLFS are obtained as:
+A) Gross output − total expenses, with output valued at basic prices
+B) Sales revenue only
+C) Gross output at market prices including product taxes
+D) Net profit after income tax
+ANS: A
+D: Medium
+P: 85
+EXP: **Gross earnings = gross output (at basic price, including own consumption) − total expenses** (current inputs, hired labour, rent and interest, production taxes net of production subsidies).
+SC: Self-employed income = output − costs, with output valued at basic price.
+
+Q: In PLFS, the gross earnings of a helper in a household enterprise are taken as:
+A) Zero
+B) Equal share of enterprise profit
+C) Minimum wage
+D) Half of the owner's earning
+ANS: A
+D: Easy
+P: 85
+EXP: **Helpers (code 21)** are unpaid, so their **earnings are taken as zero**. When owners come from the same household, earnings are split **equally** among them. For partnerships across households, earnings follow the partnership agreement.
+SC: Helpers are unpaid, so their earning is zero.
+
+Q: The "basic price" used for valuing the output of self-employed enterprises in PLFS is:
+A) amount receivable from purchaser minus product taxes plus product subsidies
+B) purchaser's price including transport margins
+C) factor cost minus production taxes
+D) market price plus product taxes
+ANS: A
+D: Medium
+P: 84
+EXP: **Basic price = amount receivable per unit − taxes on products + subsidies on products**. This matches the national accounts concept behind GVA at basic prices.
+SC: Basic price = producer's price net of product taxes plus product subsidies.
+
+@topic Enterprise Types & Conditions of Employment
+Q: In PLFS, household enterprises comprise:
+A) all proprietary and partnership enterprises
+B) only proprietary enterprises
+C) proprietary, partnership and private limited companies
+D) cooperatives and trusts
+ANS: A
+D: Easy
+P: 85
+EXP: A household enterprise is run by one or more household members, or jointly by households as partners. **All proprietary and partnership enterprises are household enterprises**, wherever they are located. In PLFS, these make up the **informal sector**.
+SC: Proprietary + partnership = household enterprise = informal sector in PLFS.
+
+Q: As per the definitions in PLFS, the minimum number of members required to form a public limited company is:
+A) Seven
+B) Two
+C) Fifty
+D) Two hundred
+ANS: A
+D: Easy
+P: 86
+EXP: A **public limited company** needs at least **seven** members and can invite the public to subscribe. A **private limited company** is **limited to 200 members**, restricts share transfer and cannot invite the public.
+SC: Public needs at least 7. Private allows at most 200.
+
+Q: If a government agency is a member or shareholder of a registered co-operative society, PLFS treats the society as:
+A) still a co-operative society, not a public sector enterprise
+B) a public sector enterprise
+C) a government department
+D) an autonomous body
+ANS: A
+D: Medium
+P: 86
+EXP: The report says government membership in a co-operative **does not turn it into a public sector enterprise** for the survey.
+SC: A co-operative stays a co-operative even with government as a member.
+
+Q: Which of the following is given as an example of an Autonomous Body in PLFS definitions?
+A) Indian Statistical Institute
+B) Food Corporation of India
+C) Indian Railways
+D) Life Insurance Corporation
+ANS: A
+D: Medium
+P: 86
+EXP: **Autonomous bodies** (AIIMS, IITs, **ISI**, housing boards, pollution control boards) are set up by Act or registered as societies, receive grants and do **non-market production**. The FCI and LIC are **PSEs**. **Railways** is a **departmental enterprise** under Government.
+SC: Institutes and boards are autonomous bodies. Corporations are PSEs. Railways and Posts are Government departments.
+
+Q: Indian Railways and the Department of Posts are classified in PLFS enterprise types as:
+A) Government/local body (departmental enterprises)
+B) Public sector enterprises
+C) Autonomous bodies
+D) Public limited companies
+ANS: A
+D: Medium
+P: 85
+EXP: The **Government/local body** category includes Central and State departments, local bodies and **departmental enterprises such as Indian Railways and the Department of Posts**.
+SC: Departmental enterprises count as Government, not PSEs.
+
+Q: For job contract duration in PLFS, a written contract that can be terminated only for administrative reasons (misconduct, incompetence) with no fixed end date is treated as having a duration of:
+A) more than 3 years
+B) 1 year or less
+C) more than 1 year to 3 years
+D) no written contract
+ANS: A
+D: Hard
+P: 87
+EXP: A contract ending more than 3 years away, or with **no fixed end** that can be terminated **only for administrative or economic reasons**, is treated as **more than 3 years**. If there is no written contract, it is recorded as "no written job contract" regardless of how long the job has lasted.
+SC: A permanent-type contract falls in the ">3 years" category.
+
+Q: In PLFS, an employee operating a PPF account in individual capacity with no employer contribution is considered to be:
+A) not availing social security benefit through the employer
+B) covered under PF/pension social security
+C) covered under gratuity
+D) eligible for paid leave
+ANS: A
+D: Medium
+P: 88
+EXP: A social security benefit counts only if the **employer contributes, arranges or pays**. An individually run PPF **without employer contribution does not count**. Schemes with contributions from **both** employer and employee do count.
+SC: The benefit must come through the employer to count.
+
+Q: The social security benefits considered in PLFS are combinations of which three components?
+A) PF/pension, gratuity, and health care & maternity benefits
+B) PF, unemployment insurance and housing allowance
+C) Pension, bonus and paid leave
+D) ESI, EPF and LIC
+ANS: A
+D: Medium
+P: 88
+EXP: The three components are **PF/pension, gratuity, and health care & maternity benefits**, giving 7 combinations. An employee with none is recorded as not eligible for any social security.
+SC: P-G-H: PF/Pension, Gratuity, Health/maternity. 2³ − 1 = 7 combinations.
+
+@topic ICLS: Informal Sector & Informal Employment
+Q: The international definition of the informal sector (enterprise-based) was adopted by the:
+A) 15th ICLS, January 1993
+B) 17th ICLS, 2003
+C) 13th ICLS, 1982
+D) 19th ICLS, 2013
+ANS: A
+D: Medium
+P: 97
+EXP: The **15th ICLS (January 1993)** adopted the resolution on **employment in the informal sector** (production units). The **17th ICLS (2003)** added guidelines on **informal employment** (jobs).
+SC: 15th = sector (units), 17th = employment (jobs).
+
+Q: The concept of informal sector refers to ___ as observation units, while informal employment refers to ___ as observation units.
+A) production units; jobs
+B) jobs; production units
+C) households; persons
+D) persons; establishments
+ANS: A
+D: Medium
+P: 102
+EXP: The 17th ICLS guidelines say the **informal sector** is **enterprise-based** (production units) while **informal employment** is **job-based**. A formal enterprise can have informal jobs.
+SC: Sector = units, employment = jobs.
+
+Q: Which Expert Group recommended that the measurement of employment in the informal sector be complemented with a definition and measurement of informal employment?
+A) Delhi Group
+B) Voorburg Group
+C) Ottawa Group
+D) Siena Group
+ANS: A
+D: Medium
+P: 101
+EXP: The **Delhi Group** (Expert Group on Informal Sector Statistics, chaired by India) made the recommendation at its **fifth meeting**. Voorburg covers service statistics, Ottawa price indices, and Siena social statistics.
+SC: Delhi Group = informal sector. Remember the city groups by subject.
+
+Q: As per the 15th ICLS, informal sector units are characterised by:
+1. production primarily to generate employment and incomes for the persons concerned
+2. little or no division between labour and capital
+3. being separate legal entities with complete sets of accounts
+Which of the above is/are correct?
+A) 1 and 2 only
+B) 2 and 3 only
+C) 1 only
+D) 1, 2 and 3
+ANS: A
+T: Statement
+D: Medium
+P: 97
+EXP: Statements 1 and 2 describe informal units. Statement 3 is the opposite: informal units are household enterprises that are **not separate legal entities** and have **no complete accounts**. The owners carry unlimited personal liability.
+SC: Informal means no separate legal identity, no full accounts and unlimited liability.
+
+Q: As per the 15th ICLS, the informal sector comprises which two components within the household sector?
+A) Informal own-account enterprises and enterprises of informal employers
+B) Formal enterprises and quasi-corporations
+C) Public sector units and cooperatives
+D) Non-profit institutions and trusts
+ANS: A
+D: Medium
+P: 97
+EXP: Within the household sector, the informal sector = (i) **informal own-account enterprises** (no continuous employees) + (ii) **enterprises of informal employers** (with continuous employees, below a size limit or unregistered).
+SC: Own-account + informal employers.
+
+Q: Under the 15th ICLS, household enterprises engaged exclusively in non-market production (goods for own final consumption) are:
+A) excluded from the informal sector for employment statistics
+B) always included in the informal sector
+C) treated as formal enterprises
+D) classified as quasi-corporations
+ANS: A
+D: Hard
+P: 99
+EXP: Paragraph 14 says household units producing **only for own final use** are **excluded from the informal sector**. Paid domestic workers are handled separately.
+SC: The informal sector must have some market production.
+
+Q: Under the 15th ICLS, self-employed professionals such as doctors, lawyers and accountants should be:
+A) included in the informal sector if they meet its criteria
+B) always excluded from the informal sector
+C) always included in the formal sector
+D) treated as domestic workers
+ANS: A
+D: Medium
+P: 100
+EXP: Paragraph 17 says professional or technical units run by the self-employed are **included in the informal sector if they fulfil paragraphs 8 or 9**. Being a professional alone does not make the unit formal.
+SC: The unit's characteristics decide, not the occupation.
+
+Q: As per the 17th ICLS guidelines, contributing family workers are counted in informal employment:
+A) irrespective of whether they work in formal or informal sector enterprises
+B) only if they work in informal sector enterprises
+C) only if they work in agriculture
+D) never
+ANS: A
+D: Medium
+P: 102
+EXP: **Contributing family workers** have **informal jobs by definition**, whether in formal enterprises (cell 1) or informal ones (cell 5).
+SC: Family helpers are always informal.
+
+Q: As per the 17th ICLS conceptual matrix, employees holding formal jobs in informal sector enterprises (cell 7) are:
+A) excluded from informal employment
+B) included in informal employment
+C) counted as informal employment outside the informal sector
+D) counted as contributing family workers
+ANS: A
+D: Hard
+P: 103
+EXP: **Cell 7** (formal jobs in informal-sector enterprises) is **excluded** from informal employment, although it is still **employment in the informal sector**. Informal employment = cells **1–6 and 8–10**. Employment in the informal sector = cells **3–8**.
+SC: Cell 7 is in the informal sector but not informal employment.
+
+Q: As per the 17th ICLS matrix, "informal employment outside the informal sector" comprises cells:
+A) 1, 2, 9 and 10
+B) 3 to 8
+C) 1 to 6 and 8 to 10
+D) 7 only
+ANS: A
+D: Hard
+P: 104
+EXP: Informal employment outside the informal sector = **cells 1, 2, 9, 10**. These are family workers in formal enterprises, informal employees of formal enterprises, own-use producers, and paid domestic workers.
+SC: Informal employment (1-6, 8-10) minus informal-sector cells (3-6, 8) leaves 1, 2, 9 and 10.
+
+Q: Employees are considered to hold informal jobs (17th ICLS) if their employment relationship is, in law or practice, NOT subject to:
+A) national labour legislation, income taxation, social protection or employment benefits
+B) the Companies Act only
+C) the Right to Information Act
+D) the Collection of Statistics Act
+ANS: A
+D: Medium
+P: 103
+EXP: Informal employee jobs lack coverage by **labour law, income tax, social protection or benefits** such as notice, severance pay and paid leave. PLFS measures this through **no written contract, no paid leave and no social security**.
+SC: No protection means an informal job, which PLFS shows through its conditions-of-employment indicators.
+
+Q: In PLFS, information on informal sector enterprises and conditions of employment was collected for industry groups/divisions:
+A) 014, 016, 017, 02–99 of NIC-2008 (AGEGC and non-agriculture)
+B) 011 to 015 only
+C) All divisions 01–99 including crop growing
+D) Divisions 10–33 (manufacturing) only
+ANS: A
+D: Hard
+P: 90
+EXP: Coverage was **AGEGC** (Agricultural sector Excluding Growing of Crops: groups 014 animal production, 016 support activities, 017 hunting, and divisions 02 forestry and 03 fishing) plus **non-agriculture (05–99)**. Groups 011, 012, 013 and 015 were **excluded**.
+SC: AGEGC = Agriculture Excluding Growing of Crops, i.e. 014, 016, 017, 02, 03.
+
+@topic Social/Religious Groups, Indicators & Classifications
+Q: In PLFS, the social group recorded for all members of a household is:
+A) that of the head of the household, as reported by the informant
+B) each member's own social group
+C) as per the State list of castes
+D) as per the father's caste certificate
+ANS: A
+D: Easy
+P: 90
+EXP: The **head's social group** applies to **all members**. It is based **entirely on the informant's response**, not on any official list. Four groups are used: ST, SC, OBC and others. Religion is recorded the same way (7 major religions).
+SC: The head's group applies to everyone, as self-reported.
+
+Q: "Proportion Unemployed (PU)" in PLFS is defined as:
+A) unemployed persons as a percentage of the total population
+B) unemployed persons as a percentage of the labour force
+C) employed persons as a percentage of the population
+D) labour force as a percentage of the population
+ANS: A
+D: Medium
+P: 91
+EXP: **PU = unemployed ÷ total population × 100**. **UR = unemployed ÷ labour force × 100**. So LFPR = WPR + PU.
+SC: PU is over the population, UR is over the labour force. LFPR = WPR + PU.
+
+Q: If in a region WPR = 45% and PU = 3%, the unemployment rate is:
+A) 6.25%
+B) 3.0%
+C) 6.67%
+D) 48.0%
+ANS: A
+T: Numerical
+D: Medium
+P: 91
+EXP: LFPR = WPR + PU = 48%. **UR = PU ÷ LFPR × 100 = 3 ÷ 48 × 100 = 6.25%**. 6.67% comes from dividing by the WPR, which is wrong.
+SC: UR = PU ÷ (WPR + PU).
+
+Q: Why cannot the household usual monthly consumer expenditure collected in PLFS be used to estimate household consumption?
+A) It is collected through a single-shot question, only for forming UMPCE decile classes
+B) It is collected only for urban areas
+C) It excludes food items
+D) It refers to a 7-day recall period
+ANS: A
+D: Medium
+P: 91
+EXP: PLFS collects UMCE through a **single-shot question**, only to make **UMPCE decile classes**. Consumption is estimated through the detailed **HCES (Schedule 1.0)**.
+SC: A single question is enough for ranking but not for measuring consumption.
+
+Q: Under NIC-2008, "Construction" is Section:
+A) F
+B) C
+C) G
+D) H
+ANS: A
+D: Medium
+P: 93
+EXP: A Agriculture; B Mining; C Manufacturing; D Electricity, gas; E Water supply and waste; **F Construction** (divisions 41–43); G Trade; H Transport and storage; I Accommodation and food.
+SC: The order runs A-Agri, B-Mining, C-Manufacturing, D-Electricity, E-Water, F-Construction.
+
+Q: Under NIC-2008, Division 84 "Public administration and defence; compulsory social security" falls under Section:
+A) O
+B) P
+C) N
+D) Q
+ANS: A
+D: Medium
+P: 94
+EXP: **Section O = Public administration and defence** (division 84). P = Education (85). Q = Health and social work (86–88). N = Administrative and support services (77–82).
+SC: O-P-Q = Official administration, Pedagogy (education), Quality of health.
+
+Q: NIC-2008 Section T covers:
+A) activities of households as employers and undifferentiated production for own use
+B) extraterritorial organisations
+C) tourism and travel
+D) telecommunications
+ANS: A
+D: Medium
+P: 95
+EXP: **Section T** = activities of **households as employers of domestic personnel (97)** and undifferentiated goods and services production for own use (98). **Section U** = extraterritorial organisations (99). Telecom is in J (61).
+SC: The last two sections are T (households, 97-98) and U (extraterritorial bodies, 99).
+
+Q: In NCO-2004, Division 6 refers to:
+A) Skilled Agricultural and Fishery Workers
+B) Craft and Related Trades Workers
+C) Elementary Occupations
+D) Clerks
+ANS: A
+D: Medium
+P: 96
+EXP: NCO-2004 divisions: 1 Legislators/Senior Officials/Managers, 2 Professionals, 3 Technicians and Associate Professionals, 4 Clerks, 5 Service and Sales, **6 Skilled Agricultural and Fishery**, 7 Craft, 8 Plant and Machine Operators, 9 Elementary, X not classified.
+SC: The divisions fall in skill order from 1 down to 9. Farming is 6, just before craft (7).
+
+Q: In NCO-2004, sub-division "X0" relates to:
+A) new workers seeking employment
+B) armed forces
+C) workers reporting unidentifiable occupations
+D) workers not reporting any occupation
+ANS: A
+D: Hard
+P: 96
+EXP: **X0 = new workers seeking employment**, X1 = occupations unidentifiable or inadequately described, X9 = no occupation reported.
+SC: X0 means zero experience, i.e. new job-seekers.

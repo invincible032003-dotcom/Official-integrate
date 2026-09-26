@@ -1,0 +1,515 @@
+@set B07
+@title PLFS: Objectives, Sample Design & Core Concepts (I)
+@pages 61-80
+@desc PLFS launch and objectives, COVID fieldwork, rotational panel design, stratification, allocation, household concepts, education/training concepts, economic activity, activity status codes
+
+@topic PLFS: Objectives & Reports
+Q: The National Statistical Office launched the Periodic Labour Force Survey (PLFS) in:
+A) April 2017
+B) July 2017
+C) January 2018
+D) April 2019
+ANS: A
+D: Easy
+P: 64
+EXP: The PLFS was **launched in April 2017** so that labour force data would be available at shorter intervals. The first annual report covered **July 2017–June 2018**.
+SC: Launched April 2017. The first annual cycle started July 2017.
+
+Q: Which of the following is/are primary objective(s) of PLFS?
+1. To estimate key employment indicators quarterly for urban areas in Current Weekly Status
+2. To estimate employment indicators annually in both usual status (ps+ss) and CWS for rural and urban areas
+3. To estimate quarterly indicators for rural areas in usual status
+Select the correct answer using the code given below:
+A) 1 only
+B) 1 and 2 only
+C) 2 and 3 only
+D) 1, 2 and 3
+ANS: B
+T: Statement
+D: Medium
+P: 64
+EXP: The two objectives are (1) **quarterly CWS estimates for urban areas only** and (2) **annual estimates in usual status and CWS for rural and urban areas**. Statement 3 is wrong because there were no quarterly rural or usual-status estimates.
+SC: Quarterly means urban and CWS. Annual means everything.
+
+Q: The first Annual Report of PLFS (July 2017–June 2018) was released in:
+A) May 2019
+B) June 2020
+C) January 2019
+D) July 2018
+ANS: A
+D: Medium
+P: 64
+EXP: The first Annual Report was released in **May 2019**, the second (2018-19) in **June 2020**, and the third (2019-20) later.
+SC: Report 1 in May 2019, report 2 in June 2020, roughly a year apart.
+
+Q: During the COVID-19 pandemic, PLFS fieldwork was suspended from:
+A) 18 March 2020, and resumed on 1 June 2020
+B) 25 March 2020, and resumed on 1 July 2020
+C) 1 April 2020, and resumed on 15 June 2020
+D) 18 March 2020, and resumed on 1 August 2020
+ANS: A
+D: Medium
+P: 64
+EXP: Fieldwork was **suspended on 18.03.2020** and **resumed on 1 June 2020**. Information was still collected for the **original reference periods**, so there was no break in the quarterly flow. Revisit schedules were done **by telephone**.
+SC: Suspended 18 March, resumed 1 June. Revisits were done by phone.
+
+Q: After fieldwork resumed in June 2020, the revisit schedules in PLFS were canvassed:
+A) telephonically, for the actual reference periods of samples
+B) through online self-enumeration
+C) by postal questionnaires
+D) through village panchayats
+ANS: A
+D: Medium
+P: 64
+EXP: To reduce physical contact, **revisit schedules were canvassed by telephone** using the **actual reference periods** in the original paper revisit schedules.
+SC: Revisits were done by phone, still for the original reference periods.
+
+@topic PLFS: Sample Design
+Q: In urban areas, PLFS uses a rotational panel design in which each selected household is visited:
+A) four times: one first visit and three revisits
+B) twice: one first visit and one revisit
+C) once only
+D) twelve times: every month
+ANS: A
+D: Easy
+P: 65
+EXP: In the urban **rotational panel**, each household gets a **first visit** and then **three quarterly revisits**, four visits in all. This supports quarterly CWS estimates. **Rural** households have **no revisit**.
+SC: Urban: 1 + 3 = 4 visits. Rural: 1 visit.
+
+Q: In rural areas, what share of the annual FSU allocation was covered in each quarter of PLFS?
+A) 25%
+B) 50%
+C) 33%
+D) 100%
+ANS: A
+D: Easy
+P: 65
+EXP: Rural samples were spread **equally across four quarters**, so **25% of FSUs** were covered each quarter.
+SC: Four quarters means a quarter of the sample each time.
+
+Q: The First Stage Units (FSUs) of PLFS in rural and urban areas respectively are:
+A) Census 2011 villages (Panchayat wards for Kerala) and UFS blocks
+B) UFS blocks and Census 2011 villages
+C) Households and villages
+D) Districts and towns
+ANS: A
+D: Easy
+P: 65
+EXP: **Rural FSU = 2011 Census village** (a **Panchayat ward in Kerala**). **Urban FSU = UFS block**. The ultimate stage units are **households**. Large FSUs have an intermediate stage (hamlet group or sub-block).
+SC: Villages come from the Census frame and urban blocks come from the UFS frame.
+
+Q: In PLFS, the special stratum formed in the rural sector of which State consisted of all villages that were difficult to access?
+A) Nagaland
+B) Arunachal Pradesh
+C) Mizoram
+D) Jammu & Kashmir
+ANS: A
+D: Hard
+P: 65
+EXP: In the **rural sector of Nagaland**, a **special stratum** was made of all difficult-to-access villages. This is standard NSS practice.
+SC: Nagaland is the State with the special "difficult villages" stratum.
+
+Q: In urban areas of PLFS, strata within each NSS region were formed on the basis of:
+A) size class of towns as per Census 2011
+B) number of households in each ward
+C) literacy rate of towns
+D) district boundaries
+ANS: A
+D: Medium
+P: 65
+EXP: **Urban strata** were formed by the **size class of towns** (Census 2011) within each NSS region, with no sub-stratification. In **rural areas**, each NSS region was one stratum, split into **r/8 sub-strata** of roughly equal population.
+SC: Urban strata use town size. Rural sub-strata use equal-population groups (r/8).
+
+Q: At the all-India level, how many FSUs were allotted annually for PLFS 2019-20?
+A) 12,800 (7,024 villages and 5,776 UFS blocks)
+B) 12,569 (6,913 villages and 5,656 blocks)
+C) 10,000 (5,000 each)
+D) 14,000 (8,000 villages and 6,000 blocks)
+ANS: A
+D: Medium
+P: 65
+EXP: **12,800 FSUs were allotted** (7,024 villages and 5,776 UFS blocks). **12,569 were actually surveyed** (6,913 villages and 5,656 blocks).
+SC: Allotted 12,800, surveyed 12,569. Don't mix up allotted and surveyed.
+
+Q: In PLFS, the State-level sample was allocated between rural and urban sectors in proportion to population with:
+A) double weightage to the urban sector
+B) double weightage to the rural sector
+C) equal allocation irrespective of population
+D) triple weightage to metro cities
+ANS: A
+D: Medium
+P: 65
+EXP: Allocation was **proportional to Census 2011 population**, but the **urban sector got double weight**. Urban needs quarterly estimates and has more varied labour markets.
+SC: Urban gets double weight because of its quarterly panel.
+
+Q: The sample allocation at the stratum level in PLFS was adjusted to multiples of:
+A) 8, with a minimum of 8
+B) 4, with a minimum of 4
+C) 2, with a minimum of 2
+D) 10, with a minimum of 10
+ANS: A
+D: Medium
+P: 65
+EXP: Allocations were in **multiples of 8 with a minimum of 8**. In urban areas this gives 4 panels × 2 sub-samples. In rural areas it gives 4 quarters × 2 sub-samples.
+SC: 8 = 4 (panels or quarters) × 2 (sub-samples).
+
+Q: Urban FSUs in PLFS were selected by:
+A) PPSWR, size being the number of households in the UFS block
+B) SRSWOR
+C) PPSWR, size being the area of the block
+D) systematic sampling with equal probability
+ANS: A
+D: Medium
+P: 65
+EXP: **Urban**: PPSWR with **size = number of households** in the UFS block. **Rural**: PPSWR with **size = village population**. Both used two independent sub-samples.
+SC: Urban size = households. Rural size = population.
+
+Q: How many households were selected from each sample FSU for the detailed PLFS schedule, and by what method within second-stage strata?
+A) 8 households, by SRSWOR
+B) 16 households, by PPSWR
+C) 10 households, by systematic sampling
+D) 12 households, by SRSWR
+ANS: A
+D: Medium
+P: 66
+EXP: **8 households per FSU** were selected by **SRSWOR** from the second-stage strata: **3 SSS in rural** and **4 SSS in urban** areas.
+SC: 8 households, chosen without replacement (SRSWOR).
+
+Q: In PLFS, the number of second-stage strata (SSS) formed in rural and urban FSUs respectively was:
+A) 3 and 4
+B) 4 and 3
+C) 2 and 2
+D) 3 and 3
+ANS: A
+D: Hard
+P: 66
+EXP: Listed households were stratified into **3 SSS in villages** and **4 SSS in UFS blocks**. The SSS are formed on the basis of the educational attainment of household members, which improves precision for labour indicators.
+SC: Rural 3, urban 4. Urban has one more.
+
+Q: The PLFS schedule canvassed for the first visit and revisit is numbered:
+A) Schedule 10.4
+B) Schedule 10.0
+C) Schedule 1.0
+D) Schedule 25.0
+ANS: A
+D: Hard
+P: 67
+EXP: PLFS used **Schedule 10.4** for both the first visit and revisits. Schedule 10 is traditionally the NSS employment-unemployment schedule. Schedule 1.0 is consumer expenditure.
+SC: NSS schedule 10.x is employment, and PLFS uses 10.4.
+
+Q: In PLFS reports, the reference period of the estimates for a particular survey period is taken as:
+A) the mid-point of the corresponding survey period
+B) the first day of the survey period
+C) the last day of the survey period
+D) the date of release of the report
+ANS: A
+D: Medium
+P: 67
+EXP: The **reference point of an estimate is the mid-point** of the survey period, whether a quarter or the full year.
+SC: A time-averaged estimate refers to the middle of the period.
+
+Q: In PLFS estimates, the transgender category was:
+A) included in males
+B) included in females
+C) shown separately
+D) excluded
+ANS: A
+D: Medium
+P: 67
+EXP: The report states that, in presenting estimates, **transgender persons were included in males**. The sample was too small for separate estimates.
+SC: This is a reporting convention to remember: transgender persons were counted with males.
+
+@topic PLFS: Household Concepts
+Q: For defining a household in PLFS, a temporary visitor is excluded if the total period of stay in the household is expected to be less than:
+A) 6 months
+B) 3 months
+C) 1 year
+D) 1 month
+ANS: A
+D: Easy
+P: 70
+EXP: "Normally lived together" excludes **visitors and guests staying less than 6 months** and includes **temporary stay-aways absent for less than 6 months**.
+SC: The 6-month rule applies both ways: short visitors are out and short absentees are in.
+
+Q: Consider the following cases in PLFS household definition:
+1. A child residing in a hostel for studies is excluded from the parents' household.
+2. A resident domestic servant is included in the employer's household.
+3. A tenant is treated as part of the landlord's household.
+Which of the statements given above is/are correct?
+A) 1 and 2 only
+B) 2 and 3 only
+C) 1 and 3 only
+D) 1, 2 and 3
+ANS: A
+T: Statement
+D: Medium
+P: 70
+EXP: Statements 1 and 2 are correct. A **hostel child** is excluded from the parents' household. A **resident domestic servant or paying guest** is included in the host's household. A **tenant is not** included.
+SC: A paying guest is included but a tenant is not. This is a classic NSS distinction.
+
+Q: When the criteria of "living together" and "sharing food from a common kitchen" conflict, PLFS gives more importance to:
+A) living together
+B) common kitchen
+C) blood relationship
+D) pooling of income
+ANS: A
+D: Medium
+P: 70
+EXP: **"Living together" takes priority** over the common kitchen. The exception is a person who eats with the family but sleeps elsewhere for lack of space, who is still counted in the family's household.
+SC: Living together beats the common kitchen.
+
+Q: In PLFS, each inmate of a hotel, mess or hostel is treated as a single-member household unless:
+A) a group of them pool their income for spending
+B) they are from the same State
+C) they stay longer than 6 months
+D) they are students
+ANS: A
+D: Hard
+P: 70
+EXP: Hostel or hotel inmates are **single-member households**. If a group **pools income for spending**, they form **one household**. A family living in a hotel is one household.
+SC: Pooled income makes them one household.
+
+Q: In rural areas, PLFS classifies households into how many household types based on the major source of income?
+A) Six
+B) Four
+C) Five
+D) Three
+ANS: A
+D: Medium
+P: 70
+EXP: **Rural: 6 types**: self-employed in agriculture, self-employed in non-agriculture, regular wage/salary, casual labour in agriculture, casual labour in non-agriculture, and others. **Urban: 4 types**: self-employed, regular wage/salary, casual labour, and others.
+SC: Rural splits agriculture and non-agriculture, giving 6. Urban does not, giving 4.
+
+Q: For determining household type in PLFS, the household's income from economic activities is considered for the reference period of:
+A) 365 days preceding the survey
+B) 30 days preceding the survey
+C) 7 days preceding the survey
+D) the last agricultural season
+ANS: A
+D: Medium
+P: 70
+EXP: Household type is based on the household's **net** income from economic activities over the **365 days** before the survey. Income of servants and paying guests is excluded.
+SC: Household type uses a 365-day window and net income.
+
+Q: In PLFS, the household's usual monthly consumer expenditure is computed as A + B + C, where B is:
+A) purchase value of household durables bought during the last one year, divided by 12
+B) value of home-grown consumption
+C) value of wages in kind
+D) expenditure on education and health only
+ANS: A
+D: Medium
+P: 71
+EXP: **A** = usual monthly household expenditure. **B** = durables bought in the last year ÷ 12. **C** = imputed monthly value of consumption from wages in kind, home-grown stock and free collection. **UMCE = A + B + C**.
+SC: B stands for big-ticket durables, spread over 12 months.
+
+@topic PLFS: Education & Training Concepts
+Q: For PLFS, a person is considered literate if he/she:
+A) can both read and write a simple message with understanding in at least one language
+B) has completed primary school
+C) can sign his/her name
+D) has attended any school for at least one year
+ANS: A
+D: Easy
+P: 71
+EXP: Literacy means the ability to **read and write a simple message with understanding** in **any one language**. Signing one's name or schooling alone is not enough.
+SC: Read + write + understanding. All three are needed.
+
+Q: While counting "number of years in formal education" in PLFS, which of the following is correct?
+A) Repetition years are also counted
+B) Pre-primary (kindergarten) years are counted
+C) Time spent between discontinuation and restart is counted
+D) In-service job trainings are counted
+ANS: A
+D: Medium
+P: 72
+EXP: **Repetition years count**. Pre-primary years are **excluded** (counting starts at class I). Gaps are **not** counted. In-service or job-specific trainings are **excluded** unless they are part of formal programmes.
+SC: Count from class I, include repeats, exclude gaps and job trainings.
+
+Q: For a course like Chartered Accountancy, where the duration is not predetermined, PLFS counts the number of years in education for the completed course as:
+A) 2 years
+B) 3 years
+C) 5 years
+D) 0 years
+ANS: A
+D: Hard
+P: 72
+EXP: For completed courses of **unknown duration** (CA, CS, doctorate), PLFS **adds 2 years** to the years already counted. A CA after graduation = years to graduation + 2.
+SC: Unknown duration counts as 2 years.
+
+Q: PLFS records the highest level of technical education successfully completed in how many categories?
+A) 16
+B) 12
+C) 10
+D) 8
+ANS: A
+D: Hard
+P: 73
+EXP: **16 categories**: no technical education, plus 5 subjects (agriculture, engineering/technology, medicine, crafts, other) × 3 levels (degree; diploma below graduate; diploma graduate and above) = 1 + 15.
+SC: 1 + (5 subjects × 3 levels) = 16.
+
+Q: Training that is structured but more flexible than formal learning, provided in community settings or workplaces without the accreditation of formal learning, is termed:
+A) non-formal training
+B) formal training
+C) informal training
+D) hereditary training
+ANS: A
+D: Easy
+P: 73
+EXP: **Formal**: institutional and certified. **Non-formal**: structured but flexible, with no accreditation. **Informal**: unstructured, happens in daily life, and does not lead to certification.
+SC: Formal is certified, non-formal is structured, informal is unstructured.
+
+Q: A person who learnt photography entirely through his own effort, without training under any person or organisation, is considered in PLFS to have acquired training through:
+A) self-learning
+B) learning on the job
+C) hereditary source
+D) formal training
+ANS: A
+D: Easy
+P: 74
+EXP: The report uses this exact example: learning photography through one's own effort is **self-learning**, a non-formal source.
+SC: Own effort with no teacher is self-learning.
+
+Q: A person who learns tailoring from a master tailor (not an ancestral trade) is classified as having received vocational training from:
+A) other sources
+B) hereditary sources
+C) formal training
+D) self-learning
+ANS: A
+D: Medium
+P: 74
+EXP: Skills learnt from another person, or from household members in a trade **different from the ancestral one**, fall under "**other**" sources. Hereditary means the ancestors' own trade.
+SC: Hereditary requires the ancestral trade. A new trade learnt from someone else is "other".
+
+Q: If an employer provides formal training in a trade to a person while in employment, PLFS treats it as:
+A) formal vocational/technical training
+B) learning on the job
+C) informal training
+D) self-learning
+ANS: A
+D: Medium
+P: 74
+EXP: **Learning on the job** covers informal exposure at work. If the employer gives **formal** training, it counts as **formal** vocational training.
+SC: The type of training decides the category, not who gives it.
+
+@topic PLFS: Economic Activity & Activity Status
+Q: Which of the following activities was NOT considered an economic activity for PLFS, although the UN SNA treats it as production?
+A) Processing of primary products for own consumption
+B) Production of primary goods for own consumption
+C) Own-account construction of a house
+D) Free collection of firewood
+ANS: A
+D: Hard
+P: 74
+EXP: PLFS counts market activities, **primary goods production for own consumption** (NIC divisions 01–09, including free collection) and **own-account production of fixed assets**. It does **not** count **processing of primary products for own consumption**, even though SNA does.
+SC: Primary production for own use counts. Processing it at home does not.
+
+Q: Which of the following, though they may result in earnings, were NOT treated as economic activities in PLFS?
+A) Prostitution and begging
+B) Street vending
+C) Paid domestic work
+D) Tutoring for fees
+ANS: A
+D: Easy
+P: 75
+EXP: The report says **prostitution and begging** are **not economic activities** for the survey. Such persons get code **97** (others) and are not in the labour force.
+SC: Begging and prostitution get code 97, not in labour force.
+
+Q: For assigning a unique activity status, the major time criterion is used for ___ and the priority criterion for ___.
+A) usual status; current weekly and daily status
+B) current weekly status; usual status
+C) current daily status; usual status
+D) usual status; subsidiary status only
+ANS: A
+T: Conceptual
+D: Medium
+P: 75
+EXP: **Usual status** (365 days) uses the **major time criterion**. **CWS and CDS** use the **priority criterion**: working takes priority over seeking work, which takes priority over being outside the labour force.
+SC: Long period means major time. Short period means priority (work first).
+
+Q: In PLFS activity codes, code 21 denotes:
+A) helper in household enterprise
+B) own-account worker
+C) employer
+D) regular wage/salaried employee
+ANS: A
+D: Easy
+P: 76
+EXP: **11** = own-account worker, **12** = employer, **21** = unpaid helper in a household enterprise, **31** = regular wage/salaried, **41/42/51** = casual labour.
+SC: The first digit gives the class: 1x and 2x self-employed, 3x regular, 4x-5x casual.
+
+Q: Which of the following activity status codes is applicable ONLY under the current status approach and not under usual status?
+A) 42 – casual labour in MGNREG public works
+B) 31 – regular wage/salaried
+C) 81 – sought/available for work
+D) 91 – attended educational institution
+ANS: A
+D: Medium
+P: 77
+EXP: Codes **42, 61, 62, 71, 72, 82 and 98** apply **only to current status**. In usual status, code **41** covers casual labour in **all** public works.
+SC: The current-only codes are 42, 61, 62, 71, 72, 82 and 98, i.e. temporary absences and MGNREGA.
+
+Q: Persons with activity status codes 11 to 82 constitute:
+A) the labour force
+B) the workforce
+C) persons not in the labour force
+D) the unemployed
+ANS: A
+D: Easy
+P: 77
+EXP: **Workers** have codes **11–72**, the **unemployed** 81–82, and so the **labour force** is **11–82**. Codes 91–99 mean not in the labour force.
+SC: Workforce 11-72, add 81-82 for the labour force, 9x means outside.
+
+Q: In PLFS, activity status code 93 refers to persons who:
+A) attended to domestic duties and were also engaged in free collection of goods, sewing, tailoring, etc. for household use
+B) attended to domestic duties only
+C) were rentiers or pensioners
+D) were children aged 0–4 years
+ANS: A
+D: Medium
+P: 76
+EXP: **92** = domestic duties only. **93** = domestic duties **plus** free collection (vegetables, firewood, cattle feed) or sewing and weaving for household use. **94** = rentiers and pensioners. **99** = children aged 0–4.
+SC: 92 is domestic only. 93 adds collection and home production.
+
+Q: Which of the following is NOT treated as "public works" for classifying casual labour in PLFS?
+A) Employment under Prime Minister's Rozgar Yojana (PMRY)
+B) Works under MGNREGA
+C) Works under Sampoorna Grameen Rozgar Yojana
+D) Works under National Food for Work Programme
+ANS: A
+D: Medium
+P: 79
+EXP: **Public works** are government-sponsored **wage-employment and relief** schemes such as **MGNREG, SGRY and NFFWP**. **Self-employment** schemes such as **SGSY, REGP, PMRY and VAMBAY** are **not** public works.
+SC: Wage-employment schemes are public works. Self-employment schemes are not.
+
+Q: Under MGNREGA, 2005, the guaranteed wage employment per household per financial year is at least:
+A) 100 days
+B) 150 days
+C) 50 days
+D) 365 days
+ANS: A
+D: Easy
+P: 79
+EXP: MGNREGA guarantees **at least 100 days** of wage employment per **household** each **financial year** to adult members (18+) who volunteer for unskilled manual work.
+SC: 100 days per household, not per person.
+
+Q: In PLFS, a person's subsidiary economic activity status is recorded if he/she pursued some economic activity for:
+A) 30 days or more during the 365 days preceding the survey
+B) 15 days or more
+C) 60 days or more
+D) at least one hour on any day
+ANS: A
+D: Medium
+P: 80
+EXP: Apart from the **usual principal status** (by major time), a person with economic activity for **30 days or more** in the reference year has a **subsidiary status (ss)**. The ps+ss measure combines both.
+SC: Subsidiary means 30+ days within the 365.
+
+Q: The remuneration of self-employed persons, as described in PLFS concepts, consists of:
+A) a non-separable combination of reward for labour and profit of the enterprise
+B) only wages
+C) only profits
+D) fixed salary plus bonus
+ANS: A
+D: Medium
+P: 78
+EXP: For the self-employed, **labour reward and enterprise profit cannot be separated**. They also have **autonomy** and **economic independence** in running their operation.
+SC: Self-employed income = labour return + profit, and the two cannot be separated.

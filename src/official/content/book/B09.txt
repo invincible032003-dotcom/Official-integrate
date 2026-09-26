@@ -1,0 +1,519 @@
+@set B09
+@title NSO Five-Year Vision 2019-2024: Themes, Strategies & Timelines
+@pages 105-147
+@desc Vision 2024 statement, UN FPOS adoption, NQAF, HLG-MOS models (GSBPM/GSIM/CSPA/GAMSO), themes and strategies, NIIP, registries, NSBR, CAPI/GSS, human capital, strategic activity timelines
+
+@topic Vision 2024: Backdrop
+Q: The Vision 2024 of MoSPI is:
+A) "Strengthen India's national statistical system to provide real-time inputs for policy and stronger dissemination practices for public"
+B) "Data for Development: One Nation One Survey"
+C) "To make India a 5 trillion dollar data economy"
+D) "Statistics for all, by all"
+ANS: A
+D: Medium
+P: 109
+EXP: MoSPI's **Vision 2024** statement is "**Strengthen India's national statistical system to provide real-time inputs for policy and stronger dissemination practices for public**". The document's tagline is "Data for Development".
+SC: Vision 2024 = real-time inputs for policy + stronger dissemination for the public.
+
+Q: As per the Vision document, the Indian official statistics system is:
+A) laterally decentralised among Ministries and vertically decentralised between Centre and States
+B) fully centralised in MoSPI
+C) laterally centralised and vertically decentralised
+D) decentralised only among States
+ANS: A
+D: Easy
+P: 110
+EXP: The system is **laterally decentralised** across central Ministries and **vertically decentralised** between the Centre and the States. The NSO is the nodal agency for integrated development.
+SC: Lateral = across ministries, vertical = Centre to State.
+
+Q: India adopted the UN Fundamental Principles of Official Statistics through a Cabinet Resolution in:
+A) May 2016
+B) January 2014
+C) June 2005
+D) April 2018
+ANS: A
+D: Medium
+P: 110
+EXP: The UN GA adopted the FPOS in **January 2014**. **India adopted them through a Cabinet Resolution in May 2016**. The NQAF followed in April 2018.
+SC: UN 2014 → India 2016 → NQAF 2018, one step every two years.
+
+Q: Which divisions of NSO were stated to be ISO:9000 certified in the Vision document?
+A) National Accounts Division, Price Statistics Division and Survey Design & Research Division
+B) Field Operations Division, Data Processing Division and CPD
+C) Social Statistics Division and Training Division
+D) Economic Statistics Division and IS Wing
+ANS: A
+D: Hard
+P: 112
+EXP: The Vision document says **NAD, PSD and SDRD** were **ISO:9000 certified**, as part of MoSPI's quality work alongside the NQAF.
+SC: The three "methodology heavy" divisions (accounts, prices, survey design) were certified.
+
+Q: MoSPI notified the National Quality Assurance Framework (NQAF) in April 2018. It is:
+A) voluntarily administered by statistical offices for self-assessment, based on the UN Quality Assurance Framework
+B) a mandatory legal framework under the CoS Act with penalties
+C) an ISO standard for data centres
+D) the IMF's data quality framework
+ANS: A
+D: Medium
+P: 112
+EXP: The **NQAF (April 2018)** is administered **voluntarily** by statistical offices to get a **self-assessment score** on their quality processes. It is based on the **UN National Quality Assurance Framework**.
+SC: NQAF is voluntary self-assessment on the UN template.
+
+Q: The "Guidelines on Integrated Economic Statistics" referred to in the Vision document were brought out by:
+A) the United Nations
+B) the IMF
+C) the World Bank
+D) the OECD
+ANS: A
+D: Medium
+P: 112
+EXP: The **UN Guidelines on Integrated Economic Statistics** guide countries in building a **consistent set of economic statistics** using common concepts, definitions, methods and sources, which is important for SDG monitoring.
+SC: Integration of concepts across economic statistics comes from UN guidance.
+
+@topic HLG-MOS Models
+Q: MoSPI's transformation approach follows the recommendations of which body?
+A) UNECE High-level Group for the Modernisation of Official Statistics (HLG-MOS)
+B) IMF Statistics Department
+C) OECD Statistics Directorate
+D) ILO Department of Statistics
+ANS: A
+D: Medium
+P: 113
+EXP: The approach follows the **UNECE High-level Group for the Modernisation of Official Statistics (HLG-MOS)**, adapted to India. Its models are **GSBPM, GSIM, CSPA and GAMSO**.
+SC: The four "generic" models come from UNECE's modernisation group.
+
+Q: Match List-I (Model) with List-II (Description):
+| List-I | List-II |
+|---|---|
+| A. GSBPM | 1. Information objects flowing in and out of statistical processes |
+| B. GSIM | 2. Core business processes to produce statistical outputs |
+| C. CSPA | 3. Activities of a statistical organisation, including overarching support processes |
+| D. GAMSO | 4. Framework to share and reuse methods and services |
+A) A-2, B-1, C-4, D-3
+B) A-1, B-2, C-4, D-3
+C) A-2, B-1, C-3, D-4
+D) A-2, B-4, C-1, D-3
+ANS: A
+T: Match
+D: Medium
+P: 113
+EXP: **GSBPM** = business **process** model. **GSIM** = **information** model. **CSPA** = **production architecture** for sharing and reuse. **GAMSO** = **activity** model that extends GSBPM with overarching support processes.
+SC: The second-last letter tells you the model: P(rocess), I(nformation), A(rchitecture), A(ctivity).
+
+Q: How many phases does the Generic Statistical Business Process Model (GSBPM) have?
+A) 8
+B) 6
+C) 10
+D) 4
+ANS: A
+D: Medium
+P: 118
+EXP: GSBPM has **8 phases**: **Specify needs → Design → Build → Collect → Process → Analyse → Disseminate → Evaluate**. Overarching processes such as quality and metadata management run across all of them.
+SC: Specify, Design, Build, Collect, Process, Analyse, Disseminate, Evaluate: eight verbs.
+
+Q: In GSBPM, which phase comes immediately after "Collect"?
+A) Process
+B) Analyse
+C) Build
+D) Disseminate
+ANS: A
+D: Easy
+P: 118
+EXP: The order is Specify needs → Design → Build → **Collect → Process** → Analyse → Disseminate → Evaluate. Sub-processes such as classify & code, validate, edit & impute and calculate weights are part of **Process**.
+SC: You must process data before you can analyse it.
+
+Q: According to the Vision document, how should the GSBPM be treated while adapting it?
+A) As a process matrix with alternative paths and iterative loops, not a strictly linear model
+B) As a strictly sequential linear model
+C) As a legal mandate for all ministries
+D) As a model applicable only to censuses
+ANS: A
+D: Medium
+P: 122
+EXP: MoSPI recognises that the **GSBPM is not linear**. Sub-processes need not follow a strict order, and it is treated as a **process matrix** with alternative paths and **iterative loops**. More than **50 countries** use it.
+SC: GSBPM is a matrix, not a line.
+
+Q: The Vision document states that data exchange protocols across data systems will use:
+A) SDMX and DDI
+B) XBRL and JSON only
+C) HL7 and FHIR
+D) EDIFACT
+ANS: A
+D: Medium
+P: 123
+EXP: Data and metadata exchange will use **SDMX** (Statistical Data and Metadata eXchange, for aggregate data) and **DDI** (Data Documentation Initiative, for microdata and survey metadata).
+SC: SDMX is for aggregates and DDI is for surveys and microdata.
+
+@topic Transformational Themes & Strategies
+Q: Which of the following is NOT one of the three transformational themes of the Vision 2024 document?
+A) Strengthening statistical infrastructure for real-time monitoring of the economy
+B) Integrating data and registries existing in silos through an Integrated Information Portal
+C) Strengthening the monitoring of large infrastructure projects
+D) Privatising the National Sample Survey
+ANS: D
+T: Odd-one-out
+D: Easy
+P: 116
+EXP: The three themes are **(I) real-time monitoring infrastructure**, **(II) integrating data and registries via an Integrated Information Portal**, and **(III) monitoring of large infrastructure projects**. Privatisation is not among them.
+SC: Real-time, integration, infrastructure projects. Nothing about privatisation.
+
+Q: The three strategies identified under Vision 2024 are:
+A) Strengthening Institutional Framework; Strengthening Technological and Physical Infrastructure; Effective Human Capital Management
+B) Survey expansion; Census digitisation; Price reform
+C) Legal reform; Budget increase; Outsourcing
+D) Decentralisation; Privatisation; Globalisation
+ANS: A
+D: Easy
+P: 117
+EXP: **Strategy I**: Institutional framework (NPOS, NSC reinforcement, global best practices). **Strategy II**: Technological and physical infrastructure (NIIP, survey technology, registries, building). **Strategy III**: Human capital management.
+SC: Institutions, Infrastructure, People.
+
+Q: The Vision document links the reform of the National Statistical System to measuring progress towards which Government goal?
+A) USD 5 trillion economy by 2024 with enhanced ease of living
+B) Doubling farmers' income by 2030
+C) Net-zero emissions by 2070
+D) 100% literacy by 2025
+ANS: A
+D: Easy
+P: 117
+EXP: Strategies were set to measure progress towards the **USD 5 trillion economy by 2024** and **enhanced ease of living**, which require real-time monitoring of many economic parameters.
+SC: Vision 2024 goes with the USD 5 trillion target for 2024.
+
+Q: Which of the following is a major step under Strategy I (Strengthening Institutional Framework)?
+A) Drafting a National Policy on Official Statistics
+B) Procurement of an integrated building complex
+C) Developing a Generalised Survey Solution
+D) Empanelment of manpower agencies
+ANS: A
+D: Medium
+P: 122
+EXP: Strategy I covers the **NPOS**, **strengthening the NSC**, operationalising **GSBPM**, an agile institutional framework and strategic partnerships. The building and GSS belong to Strategy II. Manpower empanelment belongs to Strategy III.
+SC: Policy and law are institutional (I). Buildings and IT are infrastructure (II). People are Strategy III.
+
+Q: The National Policy on Official Statistics (NPOS) being formulated by MoSPI is intended primarily to:
+A) further the UN Fundamental Principles and bring synergy between Central and State Governments in statistical matters
+B) replace the Collection of Statistics Act, 2008
+C) privatise data collection
+D) regulate social media data
+ANS: A
+D: Medium
+P: 121
+EXP: The **NPOS** is meant to put the **UN FPOS** into practice as a guiding policy. It aims to improve the statistical system with **Centre–State synergy** and timely, credible data for decisions and research.
+SC: NPOS turns the FPOS into Indian policy.
+
+Q: According to the Vision document, what was the concern regarding the National Statistical Commission's effectiveness?
+A) Major structural changes recommended remained mostly unexamined, and the NSC needed reinforcement with professional autonomy
+B) The NSC had too much statutory power
+C) The NSC conducted too many surveys
+D) The NSC had no members
+ANS: A
+D: Medium
+P: 121
+EXP: The NSC had made many recommendations through its Annual Reports, but **major structural changes remained mostly unexamined**. It needed **reinforcement with appropriate professional autonomy**, and an **NSC Bill** was planned to give it statutory, autonomous status.
+SC: The NSC needed teeth: a statute and autonomy.
+
+@topic Technology, Registries & NIIP
+Q: The National Integrated Information Portal (NIIP) proposed by MoSPI is intended to be:
+A) a state-of-the-art digital repository of all official statistics with homogenised metadata and a dashboard for real-time monitoring
+B) a payment gateway for survey enumerators
+C) a portal only for RTI applications
+D) a replacement for the Census website
+ANS: A
+D: Easy
+P: 123
+EXP: The **NIIP** was planned as a **single repository** of official statistics with **homogenised metadata**, analytics, and a **dashboard** for real-time monitoring and **now-casting** of macro indicators.
+SC: NIIP = one portal, one metadata standard, real-time dashboard.
+
+Q: In the phased development of NIIP, which statistical activities are integrated in the first phase?
+A) All statistical activities of MoSPI
+B) Data of State Government agencies
+C) Key data sets of Central Ministries
+D) Private sector data
+ANS: A
+T: Factual
+D: Medium
+P: 123
+EXP: Phase 1: **MoSPI's own activities**. Phase 2: **Central Ministries' key data sets**. Phase 3: **State Government agencies**. Final phase: fully operational real-time monitoring.
+SC: Integrate from the inside out: MoSPI, then the Centre, then the States.
+
+Q: Because retro-fitting metadata standards onto running systems is not feasible, the Vision document proposes:
+A) soft mapping of metadata and a Data-Lake architecture
+B) shutting down all legacy systems
+C) manual re-entry of all data
+D) outsourcing all databases abroad
+ANS: A
+D: Medium
+P: 116
+EXP: The approach is **soft mapping of metadata** with a **Data-Lake architecture**. Existing systems keep running while being integrated for analytics.
+SC: Soft integration means mapping metadata into a data lake, not rebuilding systems.
+
+Q: The Metadata and Data Standards (MDDS) followed by some e-governance projects are coordinated by:
+A) Ministry of Electronics and Information Technology (MeitY)
+B) MoSPI
+C) NITI Aayog
+D) Bureau of Indian Standards
+ANS: A
+D: Hard
+P: 115
+EXP: The Vision document notes that some e-governance projects follow **MDDS coordinated by MeitY**, but most agencies keep their own metadata standards, which creates silos.
+SC: E-governance standards come from MeitY.
+
+Q: In MoSPI's CAPI initiative, the Ministry first introduced the Computer Aided Personal Interview module for:
+A) Periodic Labour Force Survey
+B) Economic Census
+C) Annual Survey of Industries
+D) Population Census
+ANS: A
+D: Medium
+P: 124
+EXP: The **CAPI module was first introduced for the ongoing PLFS**, replacing **PAPI** (Paper Aided Personal Interview). MoSPI planned an in-house CAPI for all surveys, with **para-data** used to monitor field operations.
+SC: CAPI started in PLFS.
+
+Q: In the conceptual model of coordinated information flow across registries, "BIN" refers to Business ID linked to sources such as:
+A) MCA, GSTN and EPFO
+B) PAN and Aadhaar
+C) Land and property records
+D) Voter ID
+ANS: A
+D: Medium
+P: 125
+EXP: **PIN** (personal ID: PAN, UID/Aadhaar), **BIN** (business ID: MCA, GSTN, EPFO) and **LIN** (location ID: land and property) registers feed a **master frame**. This gives coordinated integration and better coverage.
+SC: P for Person, B for Business, L for Location.
+
+Q: The National Statistical Business Register (NSBR) envisaged in the Vision document was to be built on the frame of:
+A) the 7th Economic Census, updated with MCA, GSTN, ESIC and EPFO data
+B) the Population Census 2011
+C) the ASI 2017-18
+D) the NSS 73rd round
+ANS: A
+D: Medium
+P: 125
+EXP: The **7th Economic Census** lists all establishments. It would give the frame for a **dynamic NSBR**, updated from **MCA, GSTN, ESIC and EPFO** data. **Rajasthan's Business Registration Number (BRN)** is cited as a model.
+SC: EC + administrative registries = business register.
+
+Q: Which State is cited in the Vision document as having successfully developed a business register with a unique Business Registration Number (BRN)?
+A) Rajasthan
+B) Gujarat
+C) Kerala
+D) Tamil Nadu
+ANS: A
+D: Medium
+P: 126
+EXP: **Rajasthan** built a business register with a unique **BRN** covering establishments in the State. The Vision document suggests scaling it up nationally.
+SC: The BRN use case comes from Rajasthan.
+
+Q: As per the Vision document, approximately how many central sector infrastructure projects (₹150 crore and above) were being monitored monthly?
+A) Over 1,600
+B) About 500
+C) About 16,000
+D) About 150
+ANS: A
+D: Medium
+P: 126
+EXP: More than **1,600 projects** costing **₹150 crore or more** were being monitored monthly for time and cost overruns.
+SC: Threshold ₹150 crore, count about 1,600.
+
+Q: The Vision document noted that MoSPI was then functioning from how many different locations in Delhi?
+A) Six
+B) Two
+C) Ten
+D) Three
+ANS: A
+D: Hard
+P: 126
+EXP: MoSPI worked from **six locations** across Delhi, which hurt coordination on GDP, IIP and CPI. An **integrated building** through **NBCC** was proposed.
+SC: Six scattered offices led to the plan for one integrated building.
+
+Q: The "Generalised Survey Solution (GSS)" planned under Strategy II is:
+A) an IT-based solution for all socio-economic household and establishment surveys
+B) a legal framework for surveys
+C) a sampling design for census
+D) a manual of instructions
+ANS: A
+D: Medium
+P: 132
+EXP: **GSS** is an **IT-based generalised survey platform** for all MoSPI surveys. It was to be extended to line Ministries and to State samples of NSS surveys in phases.
+SC: GSS is a single IT platform for every survey.
+
+@topic Human Capital Management
+Q: As per the Vision document, the National Sample Survey is now required to undertake how many new surveys each year compared with conventionally one?
+A) 4–5
+B) 2
+C) 10
+D) 20
+ANS: A
+D: Medium
+P: 127
+EXP: The NSS was now expected to run **4–5 new surveys each year**, compared with **one** earlier. Field work was therefore **outsourced** through manpower agencies whose enumerators were trained in-house and supervised by regular staff.
+SC: Workload went from 1 survey to 4-5, hence outsourcing.
+
+Q: For the 7th Economic Census (2019), MoSPI collaborated with which agency for field work?
+A) Common Service Centres of MeitY
+B) Anganwadi workers of MWCD
+C) Postal staff of the Department of Posts
+D) Census staff of RGI
+ANS: A
+D: Easy
+P: 128
+EXP: The **7th EC** used **Common Service Centres (CSC e-Governance, MeitY)** for field work. This worked because the information sought was **limited**. Detailed surveys need more trained staff, hence a hybrid approach.
+SC: 7th EC was carried out through CSCs of MeitY.
+
+Q: The Vision document envisages which institution as the focal point for Human Capital Management and a Centre of Excellence in official statistics?
+A) National Statistical Systems Training Academy (NSSTA), Greater Noida
+B) Indian Statistical Institute, Kolkata
+C) IIPS, Mumbai
+D) IASRI, New Delhi
+ANS: A
+D: Easy
+P: 128
+EXP: **NSSTA, Greater Noida** is to be the **focal point** and a **Centre of Excellence**. It would expand regionally, collaborate internationally, and train in Big Data, AI and ML.
+SC: MoSPI's own academy is NSSTA.
+
+Q: To develop course content for survey enumerators and supervisors, MoSPI was interacting with:
+A) Ministry of Skill Development and Entrepreneurship, using the Sector Skill Council framework under NSDC
+B) UGC
+C) AICTE
+D) NCERT
+ANS: A
+D: Medium
+P: 128
+EXP: MoSPI worked with **MSDE** so that courses, assessment and **certification** for enumerators use the **Sector Skill Council** framework of the **NSDC**, creating a market of certified enumerators.
+SC: Skilling enumerators goes through MSDE, NSDC and a Sector Skill Council.
+
+Q: Which of the following is listed as an expected quality outcome of the revamped statistical system?
+1. Relevant and accurate
+2. Timely/punctual and accessible
+3. Comparable spatially, temporally and internationally
+Select the correct answer using the code given below:
+A) 1 only
+B) 1 and 2 only
+C) 2 and 3 only
+D) 1, 2 and 3
+ANS: D
+T: Statement
+D: Easy
+P: 129
+EXP: The outcomes list statistics that are **relevant, accurate, reliable, timely/punctual, accessible, coherent and comparable**. These are the usual quality dimensions of a QAF.
+SC: All the standard quality dimensions appear, so all three are correct.
+
+@topic Strategic Activities & Timelines
+Q: Under the goal of establishing an effective legal and policy framework, which activity was planned regarding the NSC?
+A) A Bill on strengthening the NSC to be introduced in Parliament to make it a professionally autonomous entity
+B) Abolishing the NSC
+C) Merging the NSC with NITI Aayog
+D) Making the NSC a division of NSO
+ANS: A
+D: Easy
+P: 131
+EXP: Activity 1.1.2: an **NSC Bill** would be **introduced in Parliament** to establish the NSC as a **professionally autonomous entity** giving strategic direction and **quality assurance**.
+SC: NSC reinforcement means an NSC Act.
+
+Q: Under the Quality Assurance Framework activity in the Vision timelines, which division was to be established in Year 1?
+A) Data Quality Assurance Division (DQAD)
+B) Data Informatics and Innovation Division
+C) Survey Coordination Division
+D) Economic Statistics Division
+ANS: A
+D: Medium
+P: 134
+EXP: Year 1 (up to 31.3.2020) for activity 1.1.3 included **establishing the DQAD**, followed by a Task Force report on a QAF for India, implementation, and third-party evaluation.
+SC: The QAF work is anchored in the DQAD.
+
+Q: For progressively enhancing the use of administrative statistics, the Vision planned a high-level Inter-Ministerial Committee (IMC) meeting at least:
+A) quarterly
+B) annually
+C) monthly
+D) once in five years
+ANS: A
+D: Hard
+P: 135
+EXP: Activity 1.1.4 set up a **high-level IMC** with regular meetings **at least quarterly**, sharing decisions among Ministries. The IMC also approves **data-sharing protocols through NIIP**.
+SC: The IMC meets quarterly.
+
+Q: The planned "Fact Sheet of Indian Economy" under the Vision was to progressively cover how many key socio-economic indicators monthly by Year 5?
+A) 100+
+B) 25
+C) 50
+D) 75
+ANS: A
+D: Hard
+P: 139
+EXP: The Fact Sheet was to grow from **25 → 50 → 75 → 100+** key socio-economic indicators on a **monthly** basis over Years 2 to 5.
+SC: Add 25 indicators each year, reaching 100+ by Year 5.
+
+Q: Under SDG monitoring, which frameworks were to be developed by States for monitoring State-level SDGs?
+A) State Indicator Frameworks (SIF)
+B) District Development Frameworks
+C) State Budget Frameworks
+D) Local Area Plans
+ANS: A
+D: Medium
+P: 136
+EXP: The plan included **State Indicator Frameworks (SIF)** alongside the national **NIF**, high-level committees in States, and regular national and State SDG progress reports.
+SC: NIF at the national level, SIF at the State level.
+
+Q: Which of the following was planned to strengthen data dissemination and user engagement?
+A) Advance Release Calendar for all statistical products, sector-specific data user conferences, and a media plan
+B) Restricting data to government users only
+C) Discontinuing press releases
+D) Charging fees for all unit-level data
+ANS: A
+D: Easy
+P: 137
+EXP: Activity 1.1.8 included **advance release calendars** for all statistical products, **data user conferences**, a **media plan**, a public awareness campaign, **online feedback**, a **quarterly newsletter** and a **Stats India programme** in universities.
+SC: Dissemination means calendars, conferences, communication and feedback.
+
+Q: Which body was planned to be set up to cater to demand for professional statistical services and promote R&D and innovation in official statistics?
+A) Statistical Consultancy cum Innovation Cell
+B) National Data Protection Authority
+C) Statistical Appellate Tribunal
+D) Data Monetisation Board
+ANS: A
+D: Medium
+P: 132
+EXP: Activity 3.1.2 was to establish a **Statistical Consultancy cum Innovation Cell** that works with industry, academia and civil society on live projects in data quality and administrative statistics.
+SC: For consultancy and R&D, pick the Consultancy cum Innovation Cell.
+
+Q: To build capacities at the pan-India level, the Vision planned zonal/regional training centres by upgrading the facilities of:
+A) the zones/regions of the Field Operations Division
+B) State universities
+C) ISI centres
+D) District collectorates
+ANS: A
+D: Hard
+P: 145
+EXP: Activity 3.2.2: **upgrade zonal and regional FOD offices** into **zonal/regional training centres** in official statistics, expanding NSSTA's reach.
+SC: FOD already has a pan-India network, so it can host the training centres.
+
+Q: Under the NSBR activity timeline, which Economic Census was planned for Year 5 (2023-24)?
+A) 8th Economic Census
+B) 7th Economic Census
+C) 6th Economic Census
+D) 9th Economic Census
+ANS: A
+D: Medium
+P: 139
+EXP: The timeline was: Year 1 **7th EC** → results, DPR and pilots in States → a dynamic business register → **8th EC in Year 5**.
+SC: Vision starts with the 7th EC and plans the 8th at its end.
+
+Q: The "National Statistical Clearing House" proposed in the Vision timeline was meant for:
+A) collection of statistical data for governmental purposes, avoiding duplication
+B) clearing cheques of statistical offices
+C) resolving disputes between surveys
+D) certifying statisticians
+ANS: A
+D: Hard
+P: 139
+EXP: Under activity 1.2.3 (data and metadata exchange), MoSPI planned to formulate a **National Statistical Clearing House** for **collecting statistical data for governmental purposes**, along with SDMX training and MoUs.
+SC: A clearing house coordinates data requests so the same data are not collected twice.
+
+Q: Which of the following were considered the "critical pillars" of the statistical transformation in the Vision document?
+A) Technological interventions and management of human capital
+B) Privatisation and deregulation
+C) Tax reform and subsidies
+D) Census and elections
+ANS: A
+D: Easy
+P: 113
+EXP: The document says the critical pillars are **technological interventions** and **human capital management**, together with crowd-sourced innovation involving research institutions.
+SC: Technology plus people make up the pillars.

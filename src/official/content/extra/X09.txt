@@ -107,16 +107,16 @@ EXP: The **first TUS** ran **January-December 2019**, and the **second** ran **J
 SC: TUS 2019, then TUS 2024.
 
 @topic Base Revision Programme
-Q: Under MoSPI's recent base-revision programme, the proposed new base years are:
+Q: Under MoSPI's base-revision programme (2025-26), the new base years are:
 A) GDP 2022-23, CPI 2024, and IIP/WPI 2022-23
 B) GDP 2017-18, CPI 2020, IIP 2017-18
 C) GDP 2020-21, CPI 2021, IIP 2020-21
 D) GDP 2011-12, CPI 2012 (no change)
 ANS: A
 D: Hard
-EXP: The programme targets **GDP base 2022-23**, **CPI base 2024** (weights from **HCES 2023-24**) and **IIP/WPI 2022-23**. Earlier plans for a **2017-18** base were dropped, partly because the 2017-18 CES was withheld.
+EXP: The new bases are **GDP 2022-23**, **CPI 2024 = 100** (weights from **HCES 2023-24**) and **IIP/WPI 2022-23**. Earlier plans for a **2017-18** base were dropped, partly because the 2017-18 CES was withheld. UPSC 2026 tested this: **CPI 2024 = 100** is correct, and a national accounts base of **2023-24** is **wrong**.
 SC: New bases: GDP 2022-23, CPI 2024, IIP/WPI 2022-23.
-TIP: Check the latest release status of each new series, and know both the old and new bases for the exam.
+TIP: Old bases (GDP 2011-12, CPI 2012, WPI/IIP 2011-12) still appear in older books and PYQs. Know both sets.
 
 Q: Why was 2020-21 not considered suitable as a base year for national accounts?
 A) It was an abnormal year due to the COVID-19 pandemic

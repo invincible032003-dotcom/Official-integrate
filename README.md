@@ -12,9 +12,9 @@ Open `index.html` in any browser (Android Chrome recommended). No server, no net
 |---|---|---|---|
 | Book 1-329 | Every page of the book, from UN FPOS, the Indian statistical system and MoSPI, through the NSC (Rangarajan) report, education indicators, PLFS, NSO Vision 2024 and the ASI manual (concepts, blocks, fieldwork, estimation, ready reference), to environmental-economic accounts | B01-B17 | 754 |
 | Notes 1-19 | All 19 topic notes: MoSPI, NSO, NSC, FOD, NSS rounds, ICT, agriculture, CPI & WPI, industry, labour, national accounts, SRS, vital statistics & Census, NFHS, trade, PLFS, SDGs & FPOS, CoS Act, misc | N01-N14 | 587 |
-| UPSC+ Syllabus | The rest of the ISS syllabus that the book and notes do not cover (see below) | X01-X12 | 496 |
+| UPSC+ Syllabus | The rest of the ISS syllabus that the book and notes do not cover, plus a PYQ-trend set (see below) | X01-X13 | 539 |
 | Full Forms | The 100-row abbreviation list plus 133 supplementary acronyms; list, flashcards and quiz modes | FF1-FF5 | 233 |
-| Exam Pointers | Bullet revision notes per topic; high-yield lines are highlighted | 32 blocks | 420 bullets |
+| Exam Pointers | Bullet revision notes per topic, plus a PYQ-trend analysis of 165 Official Statistics PYQs; high-yield lines are highlighted | 33 blocks | 433 bullets |
 
 Each set has 40-50 questions. Every question has an **explanation** and an **exam shortcut**, and many carry
 a **tip** that flags recent changes. The question types mirror UPSC: factual, statement ("1 and 2 only"),
@@ -34,6 +34,7 @@ match-the-list, chronology, assertion-reason, odd-one-out, conceptual and numeri
 - **X10** Fundamentals: quality, errors, methods, dissemination
 - **X11** Agriculture, livestock, MSME, industry and services
 - **X12** Labour and employment concepts
+- **X13** PYQ-trend set: new angles UPSC tested in 2024-2026 (NSS 80th round, new bases, Census Act, SECC, Swachh Survekshan, NAS sectors and more)
 
 ## Mobile / Android architecture
 

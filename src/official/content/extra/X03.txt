@@ -20,11 +20,11 @@ Q: Which of the following thematic publications are brought out by MoSPI?
 3. Children in India
 4. Crime in India
 Select the correct answer using the code given below:
-A) 1, 2 and 3 only
+A) 1, 2, 3 and 4
 B) 1 and 3 only
 C) 2, 3 and 4 only
-D) 1, 2, 3 and 4
-ANS: A
+D) 1, 2 and 3 only
+ANS: D
 T: Statement
 D: Easy
 EXP: **Elderly, Youth and Children in India** are MoSPI (SSD) compendiums. **Crime in India** is published by the **NCRB (MHA)**.

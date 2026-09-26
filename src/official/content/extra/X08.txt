@@ -419,11 +419,11 @@ Q: Which of the following are components of narrow money (M1)?
 3. Other deposits with the RBI
 4. Time deposits with banks
 Select the correct answer using the code given below:
-A) 1, 2 and 3 only
-B) 1 and 2 only
+A) 1 and 2 only
+B) 1, 2 and 3 only
 C) 1, 2 and 4 only
 D) 1, 2, 3 and 4
-ANS: A
+ANS: B
 T: Statement
 D: Medium
 EXP: **M1 = currency with public + demand deposits + other deposits with the RBI**. **Time deposits** enter **M3**.

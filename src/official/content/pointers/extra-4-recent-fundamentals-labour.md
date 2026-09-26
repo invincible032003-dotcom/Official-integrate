@@ -3,7 +3,9 @@
 @group extra
 ## Recent results (2023-26)
 ! PLFS (15+, usual status): **UR 6.1% (2017-18) → 3.2% (2023-24)**; **LFPR ~60%**, **WPR ~58%** in 2023-24; female LFPR **~23% → ~42%**, led by rural self-employment. The **2025 revamp** added **monthly (CWS)** and **rural + urban quarterly** estimates.
-- New bases: **GDP 2022-23**, **CPI 2024** (HCES 2023-24 weights), **IIP/WPI 2022-23**. The **2025 SNA** and **BPM7** were adopted in 2025. TUS rounds: 2019 and **2024**. **NFHS-6** fieldwork: 2023-24.
+! New bases: **GDP 2022-23** (not 2023-24), **CPI 2024 = 100** (HCES 2023-24 weights), **IIP/WPI 2022-23**. The **2025 SNA** and **BPM7** were adopted in 2025. TUS rounds: 2019 and **2024**. **NFHS-6** fieldwork: 2023-24.
+! **NSS 80th round** began **1 January 2025**: **Household Social Consumption: Health** + **CMS: Telecom**. **India** is on the **UN Statistical Commission** for a four-year term from **January 2024**.
+- **Census Act 1948** (amended **1994**): a census may be taken **whenever necessary**, in all or **part** of India, covering housing + population. **Census House** = a unit with a **separate main entrance**. **SECC 2011** is used to identify welfare **beneficiaries**. **Swachh Survekshan** is **MoHUA's annual** cleanliness survey. The **6th EC** was the first to cover handloom and handicraft. There is **no Labour Census**.
 - Platforms: **eSankhyiki** (MoSPI, 29 June 2024), **NDAP** (NITI), **data.gov.in** (NIC, **NDSAP 2012**). **DGQI** comes from **DMEO**. Aspirational Districts: **112** (Health 30, Education 30, Agriculture 20, Finance/Skills 10, Infrastructure 10); Aspirational Blocks: **~500**.
 - Statistics Day themes: 2022 Data for Sustainable Development; 2024 **use of data for decision-making**. WSD themes: 2015 "Better data, better lives"; 2020 "Connecting the world with data we can trust".
 ## Fundamentals

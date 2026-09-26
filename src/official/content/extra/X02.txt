@@ -396,11 +396,11 @@ Q: Consider the following statements about international statistical coordinatio
 2. Eurostat is the statistical office of the European Union, located in Luxembourg.
 3. The OECD is headquartered in Geneva.
 Which of the statements given above is/are correct?
-A) 1 and 2 only
-B) 2 and 3 only
+A) 2 and 3 only
+B) 1 and 2 only
 C) 1 only
 D) 1, 2 and 3
-ANS: A
+ANS: B
 T: Statement
 D: Medium
 EXP: **UNSD (New York)** is the secretariat of the UNSC. **Eurostat** is in **Luxembourg**. The **OECD** is headquartered in **Paris**, not Geneva, which is home to the ILO and WHO.

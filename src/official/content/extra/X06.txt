@@ -121,11 +121,11 @@ Q: A "Census Town" in the 2011 Census must satisfy which criteria?
 3. A density of at least 400 persons per sq km
 4. A municipality or cantonment board
 Select the correct answer using the code given below:
-A) 1, 2 and 3 only
+A) 2, 3 and 4 only
 B) 1 and 4 only
-C) 2, 3 and 4 only
+C) 1, 2 and 3 only
 D) 1, 2, 3 and 4
-ANS: A
+ANS: C
 T: Statement
 D: Medium
 EXP: A **Census Town** needs all three criteria: **5,000+ population**, **75%+ male main workers in non-agriculture** and **400+ per sq km**. Places with a **municipality, corporation, cantonment board or notified town area** are **statutory towns**, whatever their size.

@@ -487,7 +487,7 @@ ANS: B
 D: Easy
 P: 19
 EXP: CPD brings out the **Monthly Abstract of Statistics** (monthly), **Statistical Abstract India** (annual), the **Statistical Pocket Book** (annual), **India in Figures** (annual), the Statistical Year Book and others.
-SC: The word "Monthly" rules out the first option. The others belong to SSD and NAD.
+SC: "Monthly Abstract" is monthly, Children in India is SSD's and the Back Series is NAD's, which leaves Statistical Abstract India.
 
 Q: The Coordination & Publication Division disseminates data to which of the following international agencies?
 A) UNSD, ESCAP, SAARC, ADB and ILO

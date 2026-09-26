@@ -1,0 +1,589 @@
+@set N05
+@title Topic 5 · NSS Rounds: 1st to 79th, Design, Reference Periods & Uses
+@pages Notes 5, pp. 1-11
+@desc History of NSS; rounds 74-79 (CAMS, AYUSH, DTE, MIS, LHS/SAS, AIDIS, TUS, DWSH, PwD, education, health); sampling design, stratification, sub-rounds; URP/MRP/MMRP; uses of NSS data
+
+@note 5
+@topic NSS: History & Sampling Design
+Q: The first round of the National Sample Survey was conducted during:
+A) October 1950 to March 1951
+B) April 1950 to March 1951
+C) July 1951 to June 1952
+D) January 1950 to December 1950
+ANS: A
+D: Easy
+P: 1
+EXP: The **1st NSS round (Oct 1950 – Mar 1951)** collected data on **land utilisation, prices of selected items, wage rates and consumer expenditure**. NSS rounds have run since 1950 using scientific sampling methods.
+SC: The 1st round began in Oct 1950 and was a 6-month round.
+
+Q: Which of the following subjects were covered in the first round of NSS?
+1. Land utilisation
+2. Wage rates
+3. Consumer expenditure
+4. Time use
+Select the correct answer using the code given below:
+A) 1 and 4 only
+B) 1, 2 and 3 only
+C) 2, 3 and 4 only
+D) 1, 2, 3 and 4
+ANS: B
+T: Statement
+D: Medium
+P: 1
+EXP: The 1st round covered **land utilisation, prices of selected items, wage rates and consumer expenditure**, and the round table also lists **small-scale household manufacture and handicrafts**. The **Time Use Survey** was first conducted only in **2019**.
+SC: TUS dates from 2019, so it cannot be a 1950 subject.
+
+Q: The duration of a typical NSS round is:
+A) one year, July to June, synchronising with the agricultural year
+B) one year, April to March, synchronising with the financial year
+C) one year, January to December
+D) six months, October to March
+ANS: A
+D: Easy
+P: 7
+EXP: NSS rounds are normally **one year (July-June)** to match the **agricultural year**. Some rounds lasted **six months** (e.g. the 76th, July-Dec 2018).
+SC: An NSS year runs July to June, like the agricultural year.
+
+Q: Each NSS round is divided into sub-rounds. How many, and of what duration?
+A) 4 sub-rounds of 3 months each
+B) 2 sub-rounds of 6 months each
+C) 12 sub-rounds of 1 month each
+D) 3 sub-rounds of 4 months each
+ANS: A
+D: Easy
+P: 7
+EXP: A round has **4 sub-rounds of 3 months** each. This allows **progressive estimates** of aggregates and captures **seasonality** in the characteristics studied.
+SC: 4 × 3 months: sub-rounds handle seasonality.
+
+Q: The standard sampling design used at present in NSS surveys is:
+A) two- or three-stage stratified random sampling with circular systematic PPS selection
+B) single-stage simple random sampling without replacement
+C) cluster sampling with equal probability selection
+D) quota sampling with purposive selection of villages
+ANS: A
+D: Medium
+P: 1
+EXP: NSS uses a **stratified multi-stage (two- or three-stage)** design. Units are selected by the **circular systematic method with probability proportional to size (PPS)**.
+SC: NSS = stratified multi-stage, circular systematic PPS.
+
+Q: In NSS surveys, the First Stage Units (FSUs) and the Ultimate Stage Units (USUs) are respectively:
+A) villages/UFS blocks/sub-units, and households/enterprises
+B) districts, and villages
+C) households, and persons
+D) States, and districts
+ANS: A
+D: Medium
+P: 7
+EXP: **FSUs = villages (rural), UFS blocks (urban) or sub-units**. **USUs = households or enterprises** in both sectors.
+SC: First stage is the village or block; the last stage is the household or enterprise.
+
+Q: Regarding the stratification in NSS surveys, consider the following statements:
+1. Within each district, a rural stratum and an urban stratum are formed as basic strata.
+2. Each town with a population of one million or more forms a separate basic stratum.
+3. A special stratum comprising all uninhabited villages is formed at the all-India level in urban areas.
+Which of the statements given above is/are correct?
+A) 1 only
+B) 2 and 3 only
+C) 1 and 2 only
+D) 1, 2 and 3
+ANS: C
+T: Statement
+D: Hard
+P: 7
+EXP: The district is split into **rural and urban basic strata**, and each **million-plus town** is its own stratum. The **special stratum of uninhabited villages** is formed in **rural areas only** at the all-India level, before the district strata are formed. So statement 3 is wrong.
+SC: Uninhabited villages are rural, so the special stratum is rural.
+
+Q: Which of the following is NOT among the broad subjects covered by NSS rounds as listed in the notes?
+A) Crop-cutting experiments for yield estimation
+B) Household consumption expenditure
+C) Land and livestock holdings
+D) Household wealth and finance
+ANS: A
+T: Odd-one-out
+D: Medium
+P: 1
+EXP: The **broad NSS subjects** are consumption expenditure, employment-unemployment and migration, wealth and finance, health and hygiene, education, literacy, non-agricultural enterprises, land and livestock holdings, and others as needed. **Crop-cutting experiments** belong to the **ICS/GCES** yield estimation system, not to NSS rounds.
+SC: CCEs are agricultural-statistics work, not an NSS round subject.
+
+Q: The NSS is best described as:
+A) a multi-purpose socio-economic inquiry of all-India coverage carried out in successive rounds
+B) a complete enumeration of households every five years
+C) a single-subject survey on employment
+D) an administrative data compilation by States
+ANS: A
+D: Easy
+P: 1
+EXP: The **NSS is a multi-purpose socio-economic inquiry** covering all of India, conducted in **successive rounds** that each typically last a year (July-June).
+SC: NSS = multi-purpose, sample-based, in rounds.
+
+@topic Recent Rounds: 74th to 79th
+Q: Match List-I (NSS Round) with List-II (Subject):
+| List-I | List-II |
+|---|---|
+| A. 74th Round | 1. Drinking Water, Sanitation, Hygiene & Housing Condition |
+| B. 75th Round | 2. Survey on Service Sector Enterprises |
+| C. 76th Round | 3. Domestic Tourism Expenditure |
+| D. 78th Round | 4. Household Social Consumption: Education and Health |
+A) A-2, B-1, C-4, D-3
+B) A-4, B-2, C-1, D-3
+C) A-2, B-4, C-3, D-1
+D) A-2, B-4, C-1, D-3
+ANS: D
+T: Match
+D: Medium
+P: 1
+EXP: **74th (2016-17): Service Sector Enterprises**. **75th (2017-18): Social Consumption (Education, Health) + CES**. **76th (Jul-Dec 2018): DWSH & Housing + Persons with Disabilities**. **78th (2020, extended to 15 Aug 2021): Domestic Tourism Expenditure + Multiple Indicator Survey**.
+SC: 74 is services, 75 education and health, 76 water and housing, 78 tourism.
+
+Q: The Comprehensive Annual Modular Survey (CAMS) was part of which NSS round?
+A) 79th Round (July 2022 – June 2023)
+B) 78th Round (2020)
+C) 77th Round (2019)
+D) 75th Round (2017-18)
+ANS: A
+D: Easy
+P: 1
+EXP: The **79th round (July 2022 – June 2023)** carried **CAMS**, which covers the indicator needs of various ministries and globally comparable indices, together with the **Survey on AYUSH**.
+SC: 79 is CAMS plus AYUSH.
+
+Q: The Survey on AYUSH conducted in the 79th round of NSS:
+A) was the first survey of its kind, on awareness and penetration of AYUSH systems of medicine
+B) was a repeat of the 75th round health survey
+C) collected data only from AYUSH hospitals
+D) was conducted jointly with the WHO as part of NFHS
+ANS: A
+D: Medium
+P: 2
+EXP: The 79th-round **AYUSH survey was the first survey of its kind**. It aimed to gauge the **awareness and penetration of AYUSH** systems among the Indian population. An earlier attempt was made in the **68th round (2011-12) CES** to estimate AYUSH awareness and use.
+SC: AYUSH: first dedicated survey in round 79, first attempted in round 68.
+
+Q: The NSS 78th round, originally scheduled for January-December 2020, was extended till:
+A) 15 August 2021
+B) 31 March 2021
+C) 30 June 2021
+D) 31 December 2021
+ANS: A
+D: Medium
+P: 1
+EXP: The **78th round (Jan-Dec 2020)** was **extended to 15 August 2021** due to COVID-19. It covered **Domestic Tourism Expenditure** and the **Multiple Indicator Survey (MIS)**.
+SC: Round 78 ran to Independence Day 2021.
+
+Q: The Multiple Indicator Survey (MIS) was conducted in which NSS round?
+A) 78th
+B) 76th
+C) 77th
+D) 79th
+ANS: A
+D: Easy
+P: 1
+EXP: The **78th round** covered **MIS** (SDG indicators and others) and **Domestic Tourism Expenditure**. CAMS in the 79th round later built on the MIS approach.
+SC: MIS and tourism belong to round 78.
+
+Q: Which of the following surveys were conducted in the NSS 77th round (January-December 2019)?
+1. Land and Livestock Holdings of Households and Situation Assessment of Agricultural Households
+2. All India Debt and Investment Survey
+3. Domestic Tourism Expenditure
+Select the correct answer using the code given below:
+A) 1 and 2 only
+B) 2 and 3 only
+C) 1 and 3 only
+D) 1, 2 and 3
+ANS: A
+T: Statement
+D: Medium
+P: 1
+EXP: The **77th round** covered **LHS + SAS of Agricultural Households** and **AIDIS**, and the notes also list the **Time Use Survey** (first time). **Domestic Tourism Expenditure** was in the **78th** round.
+SC: Round 77 = land, debt, time. Round 78 = tourism.
+
+Q: The reference period for the Situation Assessment Survey in the NSS 77th round was:
+A) the agricultural year July 2018 – June 2019
+B) the calendar year 2019
+C) the financial year 2018-19
+D) January – June 2019
+ANS: A
+D: Medium
+P: 1
+EXP: Survey period: **Jan-Dec 2019**; reference period: **agricultural year July 2018 – June 2019**. Data came from **two visits** covering the two halves of that agricultural year.
+SC: Fieldwork ran in 2019 while the reference was agricultural year 2018-19.
+
+Q: In the NSS 77th round, information from sample rural households was collected in two visits. The visits were made during:
+A) January-August 2019 and September-December 2019
+B) July-December 2018 and January-June 2019
+C) January-June 2019 and July-December 2019
+D) April-September 2019 and October 2019-March 2020
+ANS: A
+D: Hard
+P: 3
+EXP: **Visit 1: January-August 2019; Visit 2: September-December 2019**. The **same households** were revisited, so data refer separately to the **two halves** of agricultural year 2018-19. AIDIS followed the same two-visit schedule.
+SC: Visit 1 ran Jan-Aug and Visit 2 Sep-Dec.
+
+Q: For the NSS 77th round, an "agricultural household" was defined as one receiving value of produce from agricultural activities of more than:
+A) ₹4,000, with at least one member self-employed in agriculture in principal or subsidiary status during the last 365 days
+B) ₹3,000, with at least one member self-employed in agriculture in principal status only
+C) ₹5,000, with no condition on employment
+D) ₹10,000, with land ownership compulsory
+ANS: A
+D: Hard
+P: 3
+EXP: **Agricultural household (77th round)**: value of agricultural produce **> ₹4,000** AND **at least one member self-employed in agriculture** (principal or subsidiary status, last **365 days**). The **70th round (2013)** threshold was **₹3,000**. Agricultural activities include animal husbandry, poultry, fishery, bee-keeping and sericulture.
+SC: The 77th round threshold was ₹4,000 plus one self-employed member.
+
+Q: Which of the following activities count as "agricultural activities" for defining an agricultural household in the NSS 77th round?
+1. Bee-keeping
+2. Sericulture
+3. Vermiculture
+4. Agricultural labour on others' farms for wages
+Select the correct answer using the code given below:
+A) 1 and 2 only
+B) 1, 2 and 3 only
+C) 2, 3 and 4 only
+D) 1, 2, 3 and 4
+ANS: B
+T: Statement
+D: Hard
+P: 3
+EXP: The list covers cultivation (field, horticultural, fodder and plantation crops), **animal husbandry, poultry, fishery, piggery, bee-keeping, vermiculture and sericulture**. The household must have a member **self-employed** in agriculture, so income from **wage labour** does not qualify.
+SC: The definition is about self-employed farming, not wage labour.
+
+Q: As per the NSS 77th round, land held in owner-like possession under a long-term lease or assignment was treated as:
+A) land owned
+B) land leased-in
+C) land otherwise possessed but not owned
+D) excluded from the holding
+ANS: A
+D: Medium
+P: 3
+EXP: **Owned land** means **permanent heritable possession**, with or without the right to transfer title. **Owner-like possession under a long-term lease or assignment** (e.g. traditional tribal land) was also treated as **owned**.
+SC: Owner-like possession counts as owned.
+
+Q: Which of the following would NOT be treated as a household operational holding in the NSS 77th round?
+A) Land operated as a cooperative farm
+B) A household growing vegetables in a kitchen garden
+C) A household raising only livestock and poultry
+D) A household carrying out only pisciculture
+ANS: A
+T: Odd-one-out
+D: Medium
+P: 3
+EXP: **Cooperative farms were excluded** from household operational holdings. A household with a **kitchen garden, livestock/poultry or pisciculture** was considered to operate a holding, even with no crop production.
+SC: Cooperative farms are excluded; even a kitchen garden counts.
+
+Q: "Operational holding" differs from "area operated" in that:
+A) operational holding includes all land possessed where some agricultural activity occurred on any part, while area operated includes only the land actually used for agriculture
+B) operational holding includes only owned land
+C) area operated includes land leased out
+D) there is no difference
+ANS: A
+T: Conceptual
+D: Hard
+P: 4
+EXP: The **area of operational holding** = all land (owned, leased-in or otherwise possessed) provided **some** agricultural activity occurred on **any part** of it. The **area operated** = **only the part actually used** for agricultural activities in the reference period.
+SC: The holding is the whole plot; the area operated is only the part farmed.
+
+Q: The NSS 77th round All India Debt and Investment Survey collected assets and liabilities of households as on:
+A) 30.06.2018
+B) 31.03.2019
+C) 30.06.2019
+D) 01.07.2018
+ANS: A
+D: Medium
+P: 4
+EXP: **AIDIS (77th round)**: assets and liabilities **as on 30.06.2018**. **Capital expenditure** was recorded for the **agricultural year 2018-19 (01.07.2018 – 30.06.2019)**.
+SC: The stock date was 30 June 2018; the flow period was July 2018 to June 2019.
+
+Q: In the AIDIS, the "Incidence of Indebtedness (IOI)" is defined as:
+A) the percentage of households indebted as on the reference date
+B) the average amount of debt per household
+C) the ratio of debt to assets
+D) the percentage of loans taken from institutional sources
+ANS: A
+D: Medium
+P: 4
+EXP: **IOI = % of indebted households** (as on 30.06.2018). **AOD = average cash dues per household**. **AVA = average value of physical + financial assets per household**. The survey also measured **average fixed capital expenditure**.
+SC: IOI is a percentage of households; AOD is an amount in rupees.
+
+Q: Match the AIDIS indicators (List-I) with their definitions (List-II):
+| List-I | List-II |
+|---|---|
+| A. AVA | 1. Percentage of indebted households |
+| B. IOI | 2. Average cash dues per household |
+| C. AOD | 3. Average value of physical and financial assets owned per household |
+A) A-3, B-1, C-2
+B) A-1, B-3, C-2
+C) A-2, B-1, C-3
+D) A-3, B-2, C-1
+ANS: A
+T: Match
+D: Easy
+P: 4
+EXP: **AVA → assets**, **IOI → incidence (%)**, **AOD → amount of debt**.
+SC: V is for value, I for incidence, D for debt.
+
+Q: Data from NSS Debt and Investment surveys primarily meet the information needs of which institution for formulating banking policies?
+A) Reserve Bank of India
+B) NABARD
+C) SEBI
+D) Ministry of Rural Development
+ANS: A
+D: Easy
+P: 10
+EXP: Through its **debt and investment surveys**, NSO meets the **RBI's** information needs on household debt and investment. The estimates of **debt, borrowing and capital formation** feed into **banking policy**.
+SC: Debt surveys serve the RBI's banking policy.
+
+@topic Time Use Survey
+Q: In the Time Use Survey (2019), information on time use was collected for a 24-hour period starting from:
+A) 4 AM on the day before the date of interview to 4 AM on the day of interview
+B) midnight to midnight of the previous day
+C) 6 AM to 6 AM on the day of interview
+D) sunrise to sunset of the previous day
+ANS: A
+D: Medium
+P: 5
+EXP: **TUS**: a **24-hour recall** from **4 AM on the previous day to 4 AM on the interview day**, collected by **personal interview**. Results are presented for persons aged **6 years and above**.
+SC: TUS recall runs 4 AM to 4 AM.
+
+Q: Results of the Time Use Survey 2019 are presented for persons of age:
+A) 6 years and above
+B) 15 years and above
+C) 5 years and above
+D) 10 years and above
+ANS: A
+D: Medium
+P: 5
+EXP: TUS results cover persons aged **6 years and above**. Compare **PLFS**, whose LFPR is often quoted for **15+**, and the **75th round education survey**, which covered ages **3-35**.
+SC: TUS covers ages 6 and above.
+
+Q: In the Time Use Survey, "average time spent in a day per person" for an activity is calculated by:
+A) considering all persons irrespective of whether they participated in the activity
+B) considering only the persons who participated in the activity
+C) dividing participants by total population
+D) considering only the working-age population
+ANS: A
+T: Conceptual
+D: Medium
+P: 5
+EXP: **Per person** uses **all persons** as the denominator, so the full **1,440 minutes** are distributed across activities. **Per participant** uses **only the participants**. The **participation rate** is the **% of persons** doing the activity in the day.
+SC: Per person counts everyone; per participant counts only the doers.
+
+Q: The distribution of total time of 1440 minutes of a day across activities in the TUS is obtained from:
+A) average time spent in a day per person
+B) average time spent in a day per participant
+C) participation rate
+D) principal status activity
+ANS: A
+D: Medium
+P: 5
+EXP: Averaging over **all persons** makes the activity times add up to **1440 minutes**, a full day. The **per-participant** averages do not add up to 1440.
+SC: Only the per-person averages sum to 1440 minutes.
+
+Q: A distinguishing feature of the Time Use Survey compared with other household surveys is that it:
+A) captures time disposition on paid, unpaid and other activities in a detail not possible in other surveys
+B) uses administrative records instead of interviews
+C) covers only persons in the labour force
+D) measures only market (SNA) activities
+ANS: A
+T: Conceptual
+D: Medium
+P: 5
+EXP: TUS gives a **framework for measuring time disposition** across **all human activities**: paid, **unpaid** (caregiving, volunteering, domestic services) and others such as learning, leisure and self-care. It was collected by **personal interview**.
+SC: TUS measures all activities, including unpaid ones.
+
+@topic 76th & 75th Rounds
+Q: The NSS 76th round survey on drinking water, sanitation, hygiene and housing condition collected which of the following information?
+1. Structure of the dwelling unit (pucca, semi-pucca, katcha)
+2. Micro-environment such as the drainage system and problems of flies and mosquitoes
+3. Tenurial status of the dwelling unit
+Select the correct answer using the code given below:
+A) 1 and 2 only
+B) 2 and 3 only
+C) 1 and 3 only
+D) 1, 2 and 3
+ANS: D
+T: Statement
+D: Medium
+P: 6
+EXP: The 76th round collected: **type** of dwelling (independent house, flat), **tenurial status** (owned, hired, no dwelling), **structure** (pucca, semi-pucca, katcha), **condition**, floor area, age of house, drinking water, bathroom, latrine and **micro-environment** (drainage, waste water, garbage disposal, flies and mosquitoes).
+SC: The 76th round covered the house and everything around it.
+
+Q: The survey of Persons with Disabilities was conducted along with which NSS round?
+A) 76th Round (July-December 2018)
+B) 75th Round
+C) 77th Round
+D) 79th Round
+ANS: A
+D: Easy
+P: 6
+EXP: The **76th round** covered **DWSH & housing** plus **Persons with Disabilities**. Indicators included the **incidence and prevalence** of disability, its cause, age at onset, access difficulties, caregivers and out-of-pocket expenses.
+SC: 76 = housing + disability.
+
+Q: The NSS 76th round's disability survey data are used by which ministry for formulating policies?
+A) Ministry of Social Justice and Empowerment
+B) Ministry of Health and Family Welfare
+C) Ministry of Women and Child Development
+D) Ministry of Labour and Employment
+ANS: A
+D: Easy
+P: 9
+EXP: The notes state that the **Ministry of Social Justice & Empowerment** uses NSO data on **disabled persons** for policies and programmes.
+SC: Disability data go to Social Justice.
+
+Q: The NSS 75th round education survey built indicators on participation in the education system of persons of age:
+A) 3 to 35 years
+B) 6 to 14 years
+C) 5 to 29 years
+D) 15 years and above
+ANS: A
+D: Medium
+P: 6
+EXP: **75th round, Education**: participation of persons aged **3-35** in education, expenditure on education and reasons for not attending. For persons aged **5+**, it also recorded the ability to operate a **computer**, to use the **internet**, and internet use in the last 30 days.
+SC: Education ages 3-35; digital skills age 5+.
+
+Q: Under the NSS 75th round, information on the ability to operate a computer and use the internet was collected for persons of age:
+A) 5 years and above
+B) 3 years and above
+C) 15 years and above
+D) 10 years and above
+ANS: A
+D: Hard
+P: 6
+EXP: Digital-literacy questions (computer operation, internet use, internet use in the last 30 days) were asked of persons aged **5 years and above**. The education participation module covered ages **3-35**.
+SC: Digital skills were asked from age 5.
+
+Q: The NSS survey on "Morbidity and Health Care" is conducted on what basis, as per the notes?
+A) Decennial
+B) Annual
+C) Quinquennial
+D) Quarterly
+ANS: A
+D: Medium
+P: 10
+EXP: The **Morbidity and Health Care** survey is **decennial**. It covers morbidity, problems of the aged, use of **public vs private** health services and medical expenditure. The **75th round (2017-18)** was the latest health round in the notes.
+SC: The health survey comes every 10 years.
+
+@topic Reference Periods & CES
+Q: In NSO inquiries, a moving reference period of 365 days is used for which of the following?
+1. Usual status of persons in labour force surveys
+2. Consumption expenditure on durable items, clothing and footwear
+3. Inputs and outputs in enterprise surveys
+4. Current weekly status of persons
+Select the correct answer using the code given below:
+A) 1 and 4 only
+B) 2 and 3 only
+C) 1, 2 and 3 only
+D) 1, 2, 3 and 4
+ANS: C
+T: Statement
+D: Medium
+P: 8
+EXP: **365 days** applies to **income, usual status, durables/clothing/footwear in CES, and enterprise inputs/outputs**. **Current weekly status** uses **7 days**, and routine consumer expenditure uses **30 days**.
+SC: Items marked usual or durable use 365 days; weekly status uses 7.
+
+Q: A moving reference period, as adopted by NSO, has the advantage that it:
+A) ensures coverage of the entire period and eliminates the seasonality effect when aggregated
+B) removes all recall bias
+C) eliminates the need for sub-rounds
+D) makes the data comparable with the Census
+ANS: A
+T: Conceptual
+D: Medium
+P: 8
+EXP: A **moving reference period**, spread over the whole survey year, **covers the entire period** and **eliminates seasonality** once aggregated. If the period is too long it causes **recall lapse**; if too short it misses items.
+SC: A moving window averages out the seasons.
+
+Q: Under the Uniform Reference Period (URP), consumer expenditure data are collected for each item for the last:
+A) 30 days
+B) 365 days
+C) 7 days
+D) 90 days
+ANS: A
+D: Easy
+P: 8
+EXP: **URP** uses **30 days for all items**. **MRP** uses **365 days** for clothing, bedding, footwear, institutional medical, education and durables, and **30 days** for the rest.
+SC: Uniform means 30 days for everything.
+
+Q: Under the Modified Mixed Reference Period (MMRP), which of the following items have a 7-day reference period?
+A) Edible oil, egg, fish and meat, vegetables, fruits, spices, beverages, processed foods, pan, tobacco and intoxicants
+B) Clothing, bedding and footwear
+C) Cereals, pulses and fuel and light
+D) Education and institutional medical expenses
+ANS: A
+D: Hard
+P: 9
+EXP: **MMRP: 7 days** for high-frequency foods (edible oil, egg/fish/meat, vegetables, fruits, spices, beverages, processed food, pan/tobacco). **365 days** for clothing, bedding, footwear, education, institutional medical and durables. **30 days** for all other food, fuel and light, misc goods and services, non-institutional medical, and rents and taxes.
+SC: MMRP: perishables 7 days, durables 365, everything else 30.
+
+Q: Under the MMRP, cereals, pulses, and fuel and light fall under which reference period?
+A) 30 days
+B) 7 days
+C) 365 days
+D) 1 day
+ANS: A
+D: Hard
+P: 9
+EXP: Under MMRP only the listed high-frequency foods take **7 days**. **All other food** (cereals, pulses, milk, sugar), **fuel and light**, misc goods and services, non-institutional medical, and rents and taxes take **30 days**.
+SC: Anything not on the 7-day or 365-day lists defaults to 30 days.
+
+Q: Estimates based on MMRP are considered more robust and are internationally used to compile CPI weights because:
+A) short reference periods for high-frequency food items reduce memory lapse, and longer periods suit infrequent purchases
+B) MMRP uses the same 30-day period for all items
+C) MMRP excludes durable goods
+D) MMRP is based on administrative data
+ANS: A
+T: Conceptual
+D: Medium
+P: 9
+EXP: **MMRP** uses **short recall (7 days)** for **frequent purchases**, reducing **memory lapse**, and **long recall (365 days)** for **infrequent** ones. This makes it the most robust of the three, and it is **internationally practised** for compiling **CPI weights**.
+SC: MMRP matches the recall length to how often an item is bought, which is why CPI weights use it.
+
+Q: Assertion (A): In NSS inquiries, the reference period should not be too long.
+Reason (R): A long reference period lowers data quality because of recall lapse on the part of the informant.
+A) Both A and R are true, and R is the correct explanation of A
+B) Both A and R are true, but R is not the correct explanation of A
+C) A is true, but R is false
+D) A is false, but R is true
+ANS: A
+T: Assertion-Reason
+D: Medium
+P: 8
+EXP: A **long** reference period brings in **recall lapse**. A **too short** one may **miss relevant items**. So its length depends on the item, e.g. **7 days** for CWS, **30 days** for most consumption and **365 days** for durables and usual status. R explains A.
+SC: Too long causes recall error; too short misses items; the length fits the item.
+
+@topic Uses of NSS Data
+Q: Which of the following are uses of NSS socio-economic data mentioned in the notes?
+1. Setting the poverty line and estimating the number of poor
+2. Labour force projections and manpower planning
+3. Official estimates of literacy rates during the inter-census period
+4. Estimation of national income by the CSO
+Select the correct answer using the code given below:
+A) 1 and 2 only
+B) 1, 3 and 4 only
+C) 2, 3 and 4 only
+D) 1, 2, 3 and 4
+ANS: D
+T: Statement
+D: Medium
+P: 9
+EXP: Consumer expenditure data drive **poverty estimates**. Employment data feed **labour force projections**. NSO literacy rates are the **official inter-census estimates**. NSS data are also used widely in **national income estimation** and for **private expenditure on education**.
+SC: All four are uses of NSS data.
+
+Q: The main source of data on the level of living of the Indian population is the:
+A) NSS consumer expenditure inquiry
+B) Population Census
+C) Annual Survey of Industries
+D) Sample Registration System
+ANS: A
+D: Easy
+P: 9
+EXP: The notes call **NSS consumer expenditure** surveys the **main source on level of living**. They are the basis for **poverty lines and headcounts** by State and UT.
+SC: Level of living is measured by CES.
+
+Q: The survey on Land and Livestock Holdings provides information on:
+A) the agrarian structure in terms of ownership and operation of land holdings, and livestock holdings by size-class of operational land holdings
+B) only the ownership of tractors
+C) crop yields by district
+D) livestock prices
+ANS: A
+D: Medium
+P: 10
+EXP: The **LHS** gives the **agrarian structure** through **ownership** and **operational** holdings. It also gives **livestock holdings by size-class of operational land holding**.
+SC: LHS covers land structure and livestock by holding size.

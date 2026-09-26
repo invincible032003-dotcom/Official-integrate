@@ -1,0 +1,533 @@
+@set N06
+@title Topics 6 & 9 · Use of ICT in NSO & Industrial Statistics (ASI, EC, IIP, ICI)
+@pages Notes 6 (3 pp.) + Notes 9 (7 pp.)
+@desc DIID & DI-Lab, e-SIGMA (CAPI/CATI/CAWI), UFS on NRSC platform, PLFS CAPI, AS 1.0/2.0, PIMD, OCMS; ASI scope, frame, schedule, sampling; Economic Census & FuS; IIP weights & classification; Eight Core; ASI vs IIP growth
+
+@note 6
+@topic ICT Initiatives in NSO
+Q: Which division of MoSPI has been mandated to bring new IT solutions to data acquisition, processing and dissemination, and under which a Data Innovation Lab is proposed?
+A) Data Informatics and Innovation Division (DIID)
+B) Data Quality Assurance Division (DQAD)
+C) Survey Design and Research Division (SDRD)
+D) Coordination and Publication Division (CPD)
+ANS: A
+D: Easy
+P: 1
+EXP: The **DIID** handles **IT solutions** for data acquisition, processing and dissemination. The proposed **Data Innovation Lab (DI-Lab)** will create an ecosystem for **experimentation and proof-of-concepts** with start-ups, entrepreneurs and academia.
+SC: Innovation is DIID's job, and DI-Lab sits under it.
+
+Q: e-SIGMA, the Generalised Survey Solution being developed for NSO surveys, stands for:
+A) e-Survey Instrument and Generalised Multimodal Application
+B) Electronic Statistical Information and Geo-Mapping Application
+C) e-Sample Integrated Generalised Management Architecture
+D) Electronic Survey Integration for Granular Monitoring and Analysis
+ANS: A
+D: Medium
+P: 1
+EXP: **e-SIGMA = e-Survey Instrument and Generalised Multimodal Application**, being developed by **DQAD**. It aims to move data collection from **paper schedules to CAPI**, with built-in, real-time **data validation**.
+SC: SIGMA = Survey Instrument, Generalised, Multimodal, Application.
+
+Q: e-SIGMA is being developed by which division of NSO?
+A) DQAD
+B) DIID
+C) FOD
+D) ESD
+ANS: A
+D: Medium
+P: 1
+EXP: **DQAD** is developing e-SIGMA. It will integrate the functions of **four NSO divisions: SDRD, DQAD, FOD and SCD** in one synchronised setup.
+SC: DQAD builds it; SDRD, DQAD, FOD and SCD use it.
+
+Q: e-SIGMA is called "multimodal" because it can incorporate which survey modes?
+1. Computer Assisted Personal Interview (CAPI)
+2. Computer Assisted Telephone Interview (CATI)
+3. Computer Assisted Web Interview (CAWI)
+Select the correct answer using the code given below:
+A) 1 only
+B) 1 and 2 only
+C) 2 and 3 only
+D) 1, 2 and 3
+ANS: D
+T: Statement
+D: Medium
+P: 1
+EXP: Multimodal means **CAPI (face to face), CATI (telephone) and CAWI (web self-response)** in one application.
+SC: Multimodal covers personal, phone and web.
+
+Q: The technology for conducting the Urban Frame Survey (UFS) 2017-22 phase on a digital platform was developed by:
+A) National Remote Sensing Centre (NRSC), Hyderabad
+B) National Informatics Centre (NIC), New Delhi
+C) Survey of India, Dehradun
+D) ISRO Satellite Centre, Bengaluru
+ANS: A
+D: Medium
+P: 2
+EXP: **UFS 2017-22** used **mobile and web-portal** applications developed by **NRSC, Hyderabad**. Final **boundary polygons drawn on QGIS** are uploaded through the web application.
+SC: UFS maps came from NRSC Hyderabad, drawn in QGIS.
+
+Q: The CAPI solution used by FOD for PLFS data collection was developed by NSO with technical assistance from:
+A) World Bank
+B) UNSD
+C) ILO
+D) IMF
+ANS: A
+D: Medium
+P: 2
+EXP: **PLFS CAPI** was developed by **NSO with World Bank technical assistance**. It lets field staff use **hand-held IT devices** instead of paper schedules.
+SC: PLFS tablets came with World Bank help.
+
+Q: With respect to the ICS scheme digitisation by FOD, consider the following statements:
+1. Schedule AS 2.0 relates to sample checks on crop-cutting experiments, for which in-house data entry software was made available during 2018-19.
+2. Schedule AS 1.0 relates to sample checks on area enumeration, for which an Android application on the GSS platform is being developed.
+Which of the statements given above is/are correct?
+A) 1 only
+B) 2 only
+C) Both 1 and 2
+D) Neither 1 nor 2
+ANS: C
+T: Statement
+D: Hard
+P: 2
+EXP: **AS 2.0 = CCE sample checks**, moved to an **e-schedule** with in-house software in **2018-19**. **AS 1.0 = area enumeration checks**, with an **Android app on the GSS (Generalised Survey Solutions)** platform planned for pilots at select ROs.
+SC: AS 1.0 is area and AS 2.0 is yield (CCE).
+
+Q: The Policy Implementation and Monitoring Division (PIMD) was created in the NSO with effect from:
+A) 18 January 2021
+B) 23 May 2019
+C) 1 June 1999
+D) 5 June 2020
+ANS: A
+D: Hard
+P: 3
+EXP: **PIMD was created on 18 January 2021**. It devises strategies to **improve data governance** and steers action plans for full use of **Industry 4.0 technologies**.
+SC: PIMD was set up on 18 January 2021 for data governance and Industry 4.0.
+
+Q: Central Sector Projects costing more than ₹150 crore are monitored by IPMD through:
+A) Online Computerized Monitoring System (OCMS)
+B) PRAGATI portal
+C) e-SIGMA
+D) Public Financial Management System (PFMS)
+ANS: A
+D: Medium
+P: 2
+EXP: The **IPMD** (Infrastructure and Project Monitoring Division, PI Wing) monitors **Central Sector Projects above ₹150 crore** through the **OCMS**.
+SC: Projects above ₹150 crore are tracked on OCMS by IPMD.
+
+Q: The CPI Archival Web Portal software application, for easy retrieval of CPI data, was developed by:
+A) DIID
+B) PSD
+C) FOD
+D) Labour Bureau
+ANS: A
+D: Medium
+P: 3
+EXP: The **CPI Archival Web Portal** was developed by **DIID**. PSD compiles the CPI, and FOD collects urban prices.
+SC: The CPI archive is DIID's IT product.
+
+Q: The 7th Economic Census (2019-20) used ICT tools for which of the following?
+A) Geo-coordinate embedded data collection through mobile devices with real-time validation and MIS dashboards
+B) Satellite-based enumeration only, without field visits
+C) Self-enumeration by establishments through GSTN only
+D) Paper schedules with later OCR scanning
+ANS: A
+D: Easy
+P: 2
+EXP: The **7th EC** used mobile devices with **geo-tagging**, **real-time validation and scrutiny**, **interactive MIS dashboards** and faster dissemination. Field work was done through **CSC e-Governance Services**.
+SC: The 7th EC was the first fully digital, geo-tagged EC.
+
+@note 9
+@topic Annual Survey of Industries
+Q: The overall responsibility for planning, designing, processing and publishing ASI data rests with:
+A) Industrial Statistics (IS) Wing of DQAD, Kolkata
+B) Economic Statistics Division, Delhi
+C) FOD headquarters, Faridabad
+D) Labour Bureau, Shimla
+ANS: A
+D: Easy
+P: 1
+EXP: The **IS Wing, DQAD (Kolkata)** plans, designs, processes and publishes the **ASI**. **FOD** does central-sample field work, and the **Labour Bureau** processes **Part-II**.
+SC: ASI is run from Kolkata by the IS Wing.
+
+Q: The ASI covers which of the following?
+1. Factories registered under Sections 2m(i) and 2m(ii) of the Factories Act, 1948
+2. Bidi and cigar manufacturing establishments
+3. Unregistered household manufacturing units without any hired worker
+4. Cold storage
+Select the correct answer using the code given below:
+A) 1 and 2 only
+B) 1, 2 and 4 only
+C) 2, 3 and 4 only
+D) 1, 2, 3 and 4
+ANS: B
+T: Statement
+D: Medium
+P: 1
+EXP: ASI covers **factories under 2m(i) and 2m(ii)** and **bidi and cigar** establishments. It also covers activities of **manufacturing, repair services, electricity generation, transmission and distribution, gas, water supply and cold storage**. **Unregistered** (informal) units belong to the **FuS/ASUSE**, not the ASI.
+SC: ASI is organised only; informal units are in ASUSE.
+
+Q: ASI is conducted under:
+A) the Collection of Statistics Act, 2008 (as amended in 2017) and the Rules of 2011
+B) the Factories Act, 1948 alone
+C) the Industries (Development and Regulation) Act, 1951
+D) the Registration of Births and Deaths Act, 1969
+ANS: A
+D: Easy
+P: 1
+EXP: ASI is a **statutory** survey under the **CoS Act, 2008 (amended 2017)** and the **CoS Rules, 2011**. Units must submit returns with the balance sheet, or face **penalty** proceedings.
+SC: ASI is statutory: CoS Act 2008 and Rules 2011.
+
+Q: The sampling frame for the Annual Survey of Industries is based on:
+A) lists of factories maintained by the Chief Inspectors of Factories
+B) the Economic Census list of establishments
+C) the GST registration database only
+D) the MCA-21 database of companies
+ANS: A
+D: Medium
+P: 1
+EXP: The **ASI frame = lists of registered factories maintained by the Chief Inspectors of Factories** in the States, updated periodically. The **Follow-up Enterprise Surveys** use the **Economic Census** village and block lists instead.
+SC: The ASI frame comes from the CIF's factory list.
+
+Q: Part-I and Part-II of the ASI schedule are processed respectively by:
+A) IS Wing of DQAD, Kolkata and Labour Bureau
+B) Labour Bureau and IS Wing
+C) FOD and ESD
+D) ESD and DQAD
+ANS: A
+D: Medium
+P: 1
+EXP: **Part-I** (assets, liabilities, employment, labour cost, receipts, expenses, inputs and outputs) is processed at the **IS Wing, DQAD, Kolkata**. **Part-II** (labour statistics: working days, man-days, absenteeism, labour turnover, man-hours) is processed by the **Labour Bureau**.
+SC: Part I is economics (Kolkata); Part II is labour (Labour Bureau).
+
+Q: Which of the following data items are collected in Part-II of the ASI schedule?
+A) Absenteeism, labour turnover and man-hours worked
+B) Assets and liabilities
+C) Products and by-products manufactured
+D) Imported input items
+ANS: A
+D: Medium
+P: 1
+EXP: **Part-II** gathers **labour statistics**: working days, man-days worked, **absenteeism, labour turnover, man-hours**. The other options belong to **Part-I**.
+SC: Absenteeism and turnover are Part II items.
+
+Q: The reference period and survey period of ASI are respectively:
+A) financial year (April-March); November to July of the following year
+B) calendar year; April to September of the following year
+C) agricultural year (July-June); January to December
+D) financial year; April to March of the same year
+ANS: A
+D: Medium
+P: 2
+EXP: **Reference period = financial year** for both Parts; for ASI 2019-20 that is 1 April 2019 – 31 March 2020. **Survey period = November to July** of the year after the reference year.
+SC: ASI refers to the financial year; fieldwork runs November to July.
+
+Q: For data collection in ASI, the approach followed is:
+A) establishment approach
+B) enterprise approach
+C) household approach
+D) industry approach
+ANS: A
+D: Medium
+P: 2
+EXP: ASI follows the **establishment approach**. An **establishment** is an enterprise, or part of one, at a **single location** with a **single (or principal) productive activity**. An **enterprise** can cover several activities and locations.
+SC: ASI counts establishments, which have one location and one main activity.
+
+Q: Match the industry type (List-I) with the primary unit of enumeration in ASI (List-II):
+| List-I | List-II |
+|---|---|
+| A. Manufacturing industries | 1. Establishment |
+| B. Repair services | 2. Factory |
+| C. Electricity, gas and water supply | 3. Workshop |
+| D. Bidi and cigar industries | 4. Undertaking or licensee |
+A) A-2, B-3, C-1, D-4
+B) A-3, B-2, C-4, D-1
+C) A-2, B-3, C-4, D-1
+D) A-2, B-4, C-3, D-1
+ANS: C
+T: Match
+D: Medium
+P: 2
+EXP: The unit is a **factory** in manufacturing, a **workshop** in repair, an **undertaking or licensee** in utilities, and an **establishment** in bidi/cigar.
+SC: Factory, workshop, undertaking, establishment.
+
+Q: Under the ASI sample scheme, each stratum is formed on the basis of:
+A) State × District × Sector × 3-digit NIC-2008
+B) State × 4-digit NIC-2008
+C) District × employment size class
+D) State × Sector × 2-digit NIC
+ANS: A
+D: Hard
+P: 2
+EXP: **Sample-scheme strata = State × District × Sector × 3-digit NIC-2008**. Units are arranged in **descending order of employees** and drawn by **circular systematic sampling**, with an **even number (minimum 4)** per stratum split into **4 sub-samples**.
+SC: Strata are State-District-Sector-NIC3, with at least 4 units in 4 sub-samples.
+
+Q: In the ASI sampling design, which sub-samples are given to NSO (FOD) and which to the State/UT for data collection?
+A) Sub-samples 1 and 3 to NSO (FOD); 2 and 4 to State/UT
+B) Sub-samples 1 and 2 to NSO (FOD); 3 and 4 to State/UT
+C) Sub-samples 2 and 4 to NSO (FOD); 1 and 3 to State/UT
+D) All four to NSO (FOD)
+ANS: A
+D: Hard
+P: 2
+EXP: **Sub-samples 1 and 3 go to FOD** and **2 and 4 to the State/UT**. The **Central Sample** = census units + sub-samples 1 and 3. The **State Sample** = census units + sub-samples 2 and 4. **Pooled estimates** use census units + all 4 sub-samples.
+SC: Odd sub-samples go to the Centre, even ones to the State.
+
+Q: Under the ASI design, the State Sample consists of:
+A) all census units plus the units in the two sub-samples given to the State/UT
+B) only the two sub-samples given to the State/UT
+C) all census units only
+D) all four sub-samples, excluding census units
+ANS: A
+D: Medium
+P: 3
+EXP: **State Sample = census units (collected by FOD, processed by the IS Wing) + State sub-samples (2 and 4)**. This lets States derive **State-level estimates**. **Pooling** both samples increases the sample size.
+SC: Every sample includes the census units; only the sub-samples differ.
+
+Q: ASI data are used for which of the following?
+1. GDP calculations in the National Accounts Statistics
+2. Estimating State Domestic Product
+3. Monitoring growth of the organised manufacturing sector
+Select the correct answer using the code given below:
+A) 1 and 2 only
+B) 2 and 3 only
+C) 1 and 3 only
+D) 1, 2 and 3
+ANS: D
+T: Statement
+D: Easy
+P: 1
+EXP: ASI feeds the **NAS (GDP)** and is a **key input for SDP**. It also **monitors the organised manufacturing sector**.
+SC: ASI serves GDP, SDP and manufacturing growth.
+
+@topic Economic Census & Follow-up Surveys
+Q: Which of the following is the correct sequence of Economic Census years?
+A) 1977, 1980, 1990, 1998, 2005, 2013, 2019-20
+B) 1976, 1980, 1991, 1998, 2005, 2012, 2019-20
+C) 1977, 1981, 1990, 1998, 2004, 2013, 2019-20
+D) 1977, 1980, 1990, 1997, 2005, 2013, 2020-21
+ANS: A
+T: Chronology
+D: Medium
+P: 3
+EXP: **ECs: 1st 1977, 2nd 1980, 3rd 1990, 4th 1998, 5th 2005, 6th 2013, 7th 2019-20**. The **scheme of EC and follow-up surveys** was launched by the **CSO in 1976**.
+SC: 77-80-90-98-05-13-19: seven Economic Censuses.
+
+Q: The scheme of Economic Census and Follow-up Enterprise Surveys was launched by the CSO in:
+A) 1976
+B) 1977
+C) 1950
+D) 1980
+ANS: A
+D: Medium
+P: 4
+EXP: The scheme was **launched in 1976**; the **first EC** followed in **1977**. Its objectives were to provide a **frame** for sample surveys and to give **basic information** on the location, activity and employment of enterprises at **village and block level**.
+SC: The scheme started in 1976 and the first census came in 1977.
+
+Q: Which of the following are the main purposes of the Economic Census?
+1. Generating an updated frame of establishments for follow-up surveys
+2. Ascertaining the structure, activity and performance of different sectors of the economy
+3. Preparing a frame for developing the National Business Register
+Select the correct answer using the code given below:
+A) 1 only
+B) 1 and 2 only
+C) 2 and 3 only
+D) 1, 2 and 3
+ANS: D
+T: Statement
+D: Easy
+P: 3
+EXP: The EC gives an **updated establishment frame** and **sectoral structure**, and supplies the frame for the **National Business Register**.
+SC: The EC provides the frame, the structure and the NBR.
+
+Q: The Economic Census covers:
+A) all non-farm establishments, irrespective of employment size, in both formal and informal sectors
+B) only establishments with 10 or more workers
+C) only registered factories
+D) farm and non-farm household enterprises alike
+ANS: A
+D: Medium
+P: 4
+EXP: The EC is a **complete count of all non-farm establishments**, **irrespective of size**, covering **all active units** in the **formal and informal** sectors. Crop production and plantation are outside its scope.
+SC: The EC covers every non-farm establishment, of any size.
+
+Q: In comparing ASI and the Follow-up Enterprise Surveys (FuS) of the Economic Census, which statement is correct?
+A) ASI data collection is record-based, while FuS data are generally collected by interviewing respondents
+B) Both ASI and FuS use the Chief Inspector of Factories' list as the frame
+C) FuS covers registered manufacturing units only
+D) ASI uses villages and urban blocks as first-stage units
+ANS: A
+T: Conceptual
+D: Medium
+P: 4
+EXP: **ASI**: registered units, CIF frame, **record-based**. **FuS**: **unregistered** manufacturing and repair units, a **stratified 2-3 stage design** with villages and urban blocks as FSUs from the **EC frame**, and **interview-based** because most units keep **no books of accounts**.
+SC: ASI reads books; FuS interviews owners who keep none.
+
+Q: Data on unregistered manufacturing and repairing units are collected through:
+A) Follow-up Enterprise Surveys of the Economic Census
+B) Annual Survey of Industries
+C) Index of Industrial Production
+D) Population Census
+ANS: A
+D: Easy
+P: 4
+EXP: **Registered** units are covered by the **ASI**. **Unregistered** units are covered by the **Follow-up Enterprise Surveys** (now the **ASUSE**).
+SC: Registered units go to ASI; unregistered ones to FuS/ASUSE.
+
+@topic IIP & Eight Core Industries
+Q: The formula used for compiling the Index of Industrial Production (IIP) is:
+A) Laspeyres' formula
+B) Paasche's formula
+C) Fisher's ideal formula
+D) Marshall-Edgeworth formula
+ANS: A
+D: Easy
+P: 5
+EXP: **IIP = Laspeyres' (base-weighted) quantity index**, with **base 2011-12**, released by **ESD, NSO**. For the all-India IIP, **value figures** of output are **deflated by the WPI**.
+SC: IIP is a Laspeyres index of volume.
+
+Q: The IIP is meant to measure changes over time in:
+A) the volume of output of the industrial sector, without reflecting price changes
+B) the value of industrial output at current prices
+C) the prices of industrial goods
+D) the employment in industry
+ANS: A
+T: Conceptual
+D: Easy
+P: 5
+EXP: IIP measures **volume**, not value. **Price changes are removed**, and where only values are available they are **deflated by the WPI**.
+SC: IIP measures volume, so prices are removed.
+
+Q: As per the notes, the quick estimates of IIP are released on the 12th of every month with a lag of:
+A) six weeks
+B) two weeks
+C) four months
+D) one quarter
+ANS: A
+D: Medium
+P: 5
+EXP: As per the notes, the IIP **quick estimates** come out on the **12th** (the previous working day if the 12th is a holiday) with a **6-week lag**. IIP draws on data from **14 source agencies**.
+SC: Per the notes: the 12th of the month, a 6-week lag, 14 sources.
+TIP: Always check the latest MoSPI release calendar. Release dates and lags for IIP have been revised in recent years.
+
+Q: The IIP is compiled from secondary data supplied to ESD, NSO by how many source agencies?
+A) 14
+B) 8
+C) 22
+D) 5
+ANS: A
+D: Medium
+P: 5
+EXP: **14 source agencies** in various ministries and departments supply IIP data. The largest is **DPIIT** for manufacturing; mining data come from the **IBM** and electricity data from the **CEA**.
+SC: IIP has 14 sources, led by DPIIT.
+
+Q: Match the IIP sector (List-I) with its weight in IIP (base 2011-12) (List-II):
+| List-I | List-II |
+|---|---|
+| A. Manufacturing | 1. 7.994% |
+| B. Mining | 2. 77.633% |
+| C. Electricity | 3. 14.373% |
+A) A-3, B-2, C-1
+B) A-2, B-3, C-1
+C) A-2, B-1, C-3
+D) A-1, B-3, C-2
+ANS: B
+T: Match
+D: Medium
+P: 5
+EXP: IIP sector weights are **Manufacturing 77.633%** (DPIIT, about 405 items), **Mining 14.373%** (**Indian Bureau of Mines, Nagpur**) and **Electricity 7.994%** (**Central Electricity Authority**).
+SC: Manufacturing about 78, mining about 14, electricity about 8.
+
+Q: The source agency for data on the mining sector in IIP is:
+A) Indian Bureau of Mines, Nagpur
+B) Geological Survey of India, Kolkata
+C) Ministry of Coal
+D) Central Electricity Authority
+ANS: A
+D: Easy
+P: 5
+EXP: **Mining → Indian Bureau of Mines (IBM), Nagpur**. **Electricity → CEA**. **Manufacturing → mostly DPIIT**.
+SC: Mines data come from IBM Nagpur.
+
+Q: In the use-based classification of IIP (2011-12), which category has the highest weight?
+A) Primary goods
+B) Intermediate goods
+C) Consumer non-durables
+D) Capital goods
+ANS: A
+D: Medium
+P: 5
+EXP: Use-based weights: **Primary about 34%**, Intermediate about 17%, Consumer non-durables about 15%, Consumer durables about 13%, Infrastructure/Construction about 12% and **Capital goods about 8% (lowest)**.
+SC: Primary has the highest weight and capital goods the lowest.
+
+Q: The eight core industries together constitute what share of the weight in the overall IIP?
+A) 40.27%
+B) 37.90%
+C) 77.63%
+D) 50.00%
+ANS: A
+D: Easy
+P: 6
+EXP: The **eight core industries (Coal, Crude Oil, Natural Gas, Refinery Products, Fertilizers, Steel, Cement, Electricity)** carry **40.27%** of the IIP weight. The **Index of Eight Core Industries** is released by the **Office of the Economic Adviser (DPIIT)**.
+SC: The eight core industries make up about 40% of IIP.
+
+Q: The Index of Eight Core Industries is released by:
+A) Office of the Economic Adviser, DPIIT
+B) ESD, NSO
+C) RBI
+D) Labour Bureau
+ANS: A
+D: Easy
+P: 6
+EXP: The **ICI** is released monthly by the **OEA, DPIIT**. **IIP** is released by **ESD, NSO**. The ICI measures changes in the **volume** of the eight core sectors.
+SC: ICI comes from OEA and IIP from NSO.
+
+Q: Among the eight core industries, which has the highest weight in the Index of Eight Core Industries?
+A) Petroleum Refinery Products
+B) Electricity
+C) Steel
+D) Coal
+ANS: A
+D: Easy
+P: 6
+EXP: ICI weights are **Refinery Products 28.04%**, **Electricity 19.85%**, **Steel 17.92%**, **Coal 10.33%**, then crude oil, natural gas, cement and **Fertilizers 2.63% (lowest)**.
+SC: Refinery leads, then Electricity, Steel, Coal; Fertilizers are last.
+
+Q: Arrange the following core industries in descending order of their weight in the Index of Eight Core Industries:
+1. Steel
+2. Electricity
+3. Coal
+4. Refinery Products
+A) 4-2-1-3
+B) 2-4-1-3
+C) 4-1-2-3
+D) 4-2-3-1
+ANS: A
+T: Chronology
+D: Medium
+P: 6
+EXP: **Refinery (28.04) > Electricity (19.85) > Steel (17.92) > Coal (10.33)**.
+SC: Refinery, Electricity, Steel, Coal.
+
+Q: Which of the following is NOT a reason for the divergence between growth rates of manufacturing based on IIP and ASI?
+A) IIP covers unregistered units while ASI covers only registered units
+B) IIP is based on a fixed set of items and factories from the base period, whereas the ASI frame changes
+C) IIP growth is based on volume of production while ASI growth is based on value added
+D) IIP establishments are generally larger in size, whereas ASI covers both large and small units
+ANS: A
+T: Odd-one-out
+D: Hard
+P: 6
+EXP: The notes' reasons are: (i) **IIP has a fixed item and factory basket** while ASI captures **new items and factories**; (ii) IIP uses a **smaller sample**; (iii) **IIP measures volume** while **ASI measures value added**; (iv) **IIP units are larger**, and smaller units grow faster from a low base, so IIP growth is lower. IIP does **not** cover unregistered units.
+SC: Fixed basket, smaller sample, volume vs value, bigger units.
+
+Q: Assertion (A): Growth rates of manufacturing based on IIP are generally lower than those based on ASI.
+Reason (R): Establishments in the IIP are generally larger, whereas smaller units, with a small base, tend to record higher growth.
+A) Both A and R are true, and R is the correct explanation of A
+B) Both A and R are true, but R is not the correct explanation of A
+C) A is true, but R is false
+D) A is false, but R is true
+ANS: A
+T: Assertion-Reason
+D: Hard
+P: 6
+EXP: The notes state explicitly that **IIP growth rates are comparatively lower** because **IIP units are larger** while **smaller units grow faster** from a low base. R explains A.
+SC: Big units grow slowly, so IIP growth is lower.

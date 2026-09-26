@@ -412,6 +412,8 @@ def build_pointers():
         if block["group"] not in ("book", "notes", "fullforms", "strategy"):
             err("%s @group must be book/notes/fullforms/strategy" % rel)
         out.append(block)
+    order = {"strategy": 0, "notes": 1, "book": 2, "fullforms": 3}
+    out.sort(key=lambda blk: (order.get(blk["group"], 9), blk["id"]))
     return out
 
 

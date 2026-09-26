@@ -148,7 +148,7 @@ D) 600 villages by the Department of Posts only
 ANS: A
 D: Hard
 P: 3
-EXP: CPI prices are collected from **1114 urban markets and 1181 villages** in all States and UTs. **FOD** field staff collect them by personal visits on a **weekly roster**. Rural collection was later done with help from the **Department of Posts**.
+EXP: CPI prices are collected from **1114 urban markets and 1181 villages** in all States and UTs. **FOD** field staff collect them by personal visits on a **weekly roster**. Rural prices were collected by the **Department of Posts** until **September 2018**, when **FOD** took over.
 SC: 1114 urban markets, 1181 villages; urban has fewer.
 
 Q: All-India inflation based on CPI is calculated on a point-to-point basis, which means:

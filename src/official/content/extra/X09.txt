@@ -1,0 +1,428 @@
+@set X09
+@title UPSC+ · Recent Results & Developments (2023-2026) and Data Platforms
+@pages Syllabus: Important surveys, indicators, recent developments
+@desc PLFS annual results and the 2025 revamp; SRS and MMR trends; HCES highlights; Time Use Survey 2024; base-year revision programme; data platforms (eSankhyiki, NDAP, data.gov.in); data governance (NDSAP, DGQI); Aspirational Districts/Blocks; 2025 SNA; recent international statistical milestones
+
+@topic PLFS: Recent Results & Revamp
+Q: As per the PLFS annual report for July 2023 – June 2024, the unemployment rate (usual status, ps+ss, age 15+) in India was about:
+A) 3.2%
+B) 6.1%
+C) 4.8%
+D) 7.8%
+ANS: A
+D: Medium
+EXP: The **PLFS UR (15+, usual status)** fell from **6.1% (2017-18)** to **3.2% (2022-23 and 2023-24)**. Over the same period **LFPR rose to about 60%** and **WPR to about 58%** in 2023-24.
+SC: PLFS UR: 6.1% (2017-18) → 3.2% (2023-24).
+
+Q: Which PLFS round recorded the highest unemployment rate (usual status, 15+) since PLFS began, widely reported as a multi-decade high?
+A) 2017-18 (6.1%)
+B) 2019-20
+C) 2020-21
+D) 2023-24
+ANS: A
+D: Medium
+EXP: The **first PLFS (2017-18)** showed **6.1%**. Later rounds fell steadily: 5.8, 4.8, 4.2, 4.1 and then **3.2**. Note that PLFS is **not strictly comparable** with the older NSS EUS rounds.
+SC: The first PLFS had the highest UR, 6.1%.
+
+Q: The female Labour Force Participation Rate (15+, usual status) in PLFS rose sharply between 2017-18 and 2023-24, reaching about:
+A) 42%
+B) 23%
+C) 60%
+D) 30%
+ANS: A
+D: Hard
+EXP: The **female LFPR (15+, usual status)** rose from about **23% (2017-18)** to about **42% (2023-24)**. The rise was driven mainly by **rural women**, many as **self-employed helpers** in household enterprises.
+SC: Female LFPR roughly doubled (about 23% → 42%), led by rural self-employment.
+
+Q: The revamped PLFS design introduced from January 2025 provides:
+A) monthly estimates of key indicators in CWS for rural and urban areas, and quarterly estimates for both rural and urban areas
+B) only annual estimates for urban areas
+C) estimates only from administrative EPFO data
+D) district-level monthly estimates of wages
+ANS: A
+D: Medium
+EXP: The **revamped PLFS (from January 2025)** gives **monthly** all-India **CWS** estimates (LFPR, WPR, UR) and **quarterly** estimates covering **rural + urban**. Earlier, quarterly bulletins covered **urban only**. Sample size and rotation were redesigned for this.
+SC: New PLFS: monthly and quarterly estimates for rural + urban (earlier quarterly urban only).
+
+@topic Vital & Health Trends
+Q: As per SRS, India's Maternal Mortality Ratio for 2018-20 was:
+A) 97 per lakh live births
+B) 130 per lakh live births
+C) 167 per lakh live births
+D) 70 per lakh live births
+ANS: A
+D: Medium
+EXP: The SRS MMR fell from **167 (2011-13)** to **130 (2014-16)**, **113 (2016-18)**, **103 (2017-19)** and **97 (2018-20)**, with **93 (2019-21)** in a later bulletin. This met the **NHP 2017 target of 100 by 2020**. The SDG target is **below 70 by 2030**.
+SC: MMR: 167 → 130 → 113 → 103 → 97 → 93.
+
+Q: As per the SRS Statistical Report 2021, India's IMR and TFR were respectively:
+A) 27 per 1,000 live births and 2.0
+B) 32 and 2.2
+C) 30 and 2.1
+D) 22 and 1.8
+ANS: A
+D: Hard
+EXP: **SRS 2021: IMR 27, TFR 2.0**. The **CDR rose to about 7.5** in 2021 because of COVID-19 mortality. IMR has declined steadily (32 in 2018, 30 in 2019, 28 in 2020).
+SC: SRS 2021: IMR 27, TFR 2.0, CDR up because of COVID.
+
+Q: The sixth round of the National Family Health Survey (NFHS-6) had its fieldwork during:
+A) 2023-24
+B) 2019-21
+C) 2021-22
+D) 2025-26
+ANS: A
+D: Medium
+EXP: **NFHS-6** fieldwork was carried out in **2023-24**. **NFHS-5** covered **2019-21**. IIPS remains the nodal agency.
+SC: NFHS-5 was 2019-21; NFHS-6 fieldwork was 2023-24.
+
+@topic Consumption & Time Use
+Q: The two consecutive Household Consumption Expenditure Surveys conducted by NSO after 2011-12 were for:
+A) 2022-23 and 2023-24
+B) 2017-18 and 2018-19
+C) 2019-20 and 2020-21
+D) 2014-15 and 2015-16
+ANS: A
+D: Easy
+EXP: **HCES 2022-23** (results February 2024) and **HCES 2023-24** (results December 2024) followed the **withheld 2017-18** CES. Both used **three questionnaires and three visits** with **MMRP**.
+SC: HCES 2022-23 and 2023-24 came after a gap since 2011-12.
+
+Q: As per HCES 2023-24, average monthly per capita consumption expenditure (without imputation) in rural and urban India was about:
+A) ₹4,122 and ₹6,996
+B) ₹3,773 and ₹6,459
+C) ₹2,500 and ₹4,500
+D) ₹1,430 and ₹2,630
+ANS: A
+D: Hard
+EXP: The MPCE figures (without imputation) are **2023-24: rural ₹4,122, urban ₹6,996**; **2022-23: ₹3,773 and ₹6,459**; **2011-12: ₹1,430 and ₹2,630** (MMRP). The urban-rural gap fell to about **70%**.
+SC: 2023-24: about 4.1k rural and 7.0k urban.
+
+Q: India's second nationwide Time Use Survey was conducted by NSO during:
+A) January-December 2024
+B) January-December 2019
+C) July 2022 – June 2023
+D) April 2020 – March 2021
+ANS: A
+D: Medium
+EXP: The **first TUS** ran **January-December 2019**, and the **second** ran **January-December 2024**, with results in 2025. Both used a **24-hour recall from 4 AM to 4 AM** for persons aged **6+**.
+SC: TUS 2019, then TUS 2024.
+
+@topic Base Revision Programme
+Q: Under MoSPI's recent base-revision programme, the proposed new base years are:
+A) GDP 2022-23, CPI 2024, and IIP/WPI 2022-23
+B) GDP 2017-18, CPI 2020, IIP 2017-18
+C) GDP 2020-21, CPI 2021, IIP 2020-21
+D) GDP 2011-12, CPI 2012 (no change)
+ANS: A
+D: Hard
+EXP: The programme targets **GDP base 2022-23**, **CPI base 2024** (weights from **HCES 2023-24**) and **IIP/WPI 2022-23**. Earlier plans for a **2017-18** base were dropped, partly because the 2017-18 CES was withheld.
+SC: New bases: GDP 2022-23, CPI 2024, IIP/WPI 2022-23.
+TIP: Check the latest release status of each new series, and know both the old and new bases for the exam.
+
+Q: Why was 2020-21 not considered suitable as a base year for national accounts?
+A) It was an abnormal year due to the COVID-19 pandemic
+B) No data were collected in that year
+C) The Census was conducted that year
+D) It coincided with GST implementation
+ANS: A
+T: Conceptual
+D: Easy
+EXP: A base year must be **normal**. **2020-21** saw a **pandemic-driven contraction**, just as **2009-10** was ruled out after the global slowdown.
+SC: Pandemic years can't be base years.
+
+@topic Data Platforms & Governance
+Q: MoSPI's integrated data portal "eSankhyiki", offering macro indicators and data catalogues, was launched on:
+A) 29 June 2024 (Statistics Day)
+B) 20 October 2020
+C) 15 October 1999
+D) 1 January 2016
+ANS: A
+D: Medium
+EXP: **eSankhyiki** was launched on **Statistics Day, 29 June 2024**. It provides **time series of macro indicators** and a **data catalogue** in machine-readable form. MoSPI also runs a **microdata portal** for survey unit-level data.
+SC: eSankhyiki was launched on Statistics Day 2024.
+
+Q: The National Data and Analytics Platform (NDAP), which aggregates government datasets in an interoperable format, was developed by:
+A) NITI Aayog
+B) MoSPI
+C) MeitY
+D) RBI
+ANS: A
+D: Medium
+EXP: **NDAP** (public launch **2022**) is **NITI Aayog's** platform standardising datasets from ministries. **data.gov.in** (Open Government Data platform) is run by **NIC/MeitY** under **NDSAP 2012**.
+SC: NDAP is NITI's; data.gov.in is MeitY/NIC's.
+
+Q: The National Data Sharing and Accessibility Policy (NDSAP), which underpins the Open Government Data platform data.gov.in, was notified in:
+A) 2012
+B) 2005
+C) 2019
+D) 2023
+ANS: A
+D: Medium
+EXP: **NDSAP (2012)**, under the **Department of Science & Technology**, promotes **proactive sharing of non-sensitive government data**. It led to **data.gov.in**, managed by **NIC**.
+SC: NDSAP 2012 led to data.gov.in.
+
+Q: The Data Governance Quality Index (DGQI), which assesses ministries' data preparedness for their Central Sector and Centrally Sponsored Schemes, is conducted by:
+A) Development Monitoring and Evaluation Office (DMEO), NITI Aayog
+B) NSO
+C) CAG
+D) DARPG
+ANS: A
+D: Hard
+EXP: **DMEO (NITI Aayog)** assesses **ministries and departments** on data generation, quality, use and **data governance** of schemes through the **DGQI**.
+SC: DGQI is DMEO's scorecard of ministries' data.
+
+Q: The Aspirational Districts Programme (launched 2018) tracks 112 districts on key performance indicators grouped into five themes. Which two themes carry the highest weight (30% each)?
+A) Health & Nutrition and Education
+B) Agriculture & Water Resources and Basic Infrastructure
+C) Financial Inclusion and Skill Development
+D) Basic Infrastructure and Education
+ANS: A
+D: Medium
+EXP: The **ADP** covers **112 districts** with about **49 KPIs**. Themes and weights: **Health & Nutrition 30%**, **Education 30%**, **Agriculture & Water Resources 20%**, **Financial Inclusion & Skill Development 10%**, **Basic Infrastructure 10%**. Progress is ranked **monthly** on the **Champions of Change** dashboard.
+SC: ADP weights: Health 30, Education 30, Agriculture 20, Finance and Skills 10, Infrastructure 10.
+
+Q: The Aspirational Blocks Programme, launched in 2023, covers approximately how many blocks?
+A) 500
+B) 112
+C) 250
+D) 1,000
+ANS: A
+D: Medium
+EXP: The **Aspirational Blocks Programme (January 2023)** extends the ADP model to about **500 blocks**. The **ADP** covers **112 districts**.
+SC: 112 aspirational districts; about 500 aspirational blocks.
+
+@topic International Milestones
+Q: The UN Statistical Commission adopted a new System of National Accounts, the successor to SNA 2008, in:
+A) 2025
+B) 2015
+C) 2020
+D) 2030
+ANS: A
+D: Medium
+EXP: The **2025 SNA** was adopted by the UN Statistical Commission in **March 2025**, along with the IMF's **BPM7**. It covers digitalisation, wellbeing and sustainability, and the treatment of data as an asset. India's current series follows SNA 2008.
+SC: The 2025 SNA and BPM7 were adopted in 2025.
+
+Q: World Statistics Day is celebrated every five years on 20 October. The third World Statistics Day, in 2020, had the theme:
+A) Connecting the world with data we can trust
+B) Better data, better lives
+C) Celebrating the many achievements of official statistics
+D) Data for sustainable development
+ANS: A
+D: Medium
+EXP: The three WSD themes are **2010: celebrating the achievements of official statistics** (core values of service, integrity, professionalism), **2015: "Better data, better lives"** and **2020: "Connecting the world with data we can trust"**. The next is due in **2025**.
+SC: WSD themes: 2010 achievements, 2015 better lives, 2020 trust.
+
+Q: The International Comparison Program round whose results were released in 2024 used reference year:
+A) 2021
+B) 2017
+C) 2011
+D) 2023
+ANS: A
+D: Hard
+EXP: **ICP 2021** results were published in **2024**, following **ICP 2017** (released 2020). India remained the **third-largest economy in PPP** terms. These PPPs underlie the updated World Bank poverty lines.
+SC: ICP 2017 → ICP 2021, released 2024.
+
+@topic Recent Indian Survey Programme
+Q: The Comprehensive Annual Modular Survey (CAMS) conducted in NSS 79th round was designed mainly to:
+A) generate SDG and other key indicators (such as ICT skills and financial inclusion) needed by ministries, with globally comparable definitions
+B) replace the Population Census
+C) compute the GDP deflator
+D) estimate crop yields
+ANS: A
+D: Medium
+EXP: **CAMS (July 2022 – June 2023)** built on the **78th round MIS**. It collected **SDG and other indicators** (ICT skills, internet use, financial inclusion, etc.) that regular surveys did not cover.
+SC: CAMS fills SDG indicator gaps, following the MIS.
+
+Q: The Annual Survey of Unincorporated Sector Enterprises (ASUSE) complements the ASI by covering:
+A) unincorporated non-agricultural establishments in manufacturing, trade and other services
+B) registered factories only
+C) agricultural households
+D) government departments
+ANS: A
+D: Easy
+EXP: **ASUSE** covers **unincorporated non-agricultural enterprises**: manufacturing (excluding ASI units), **trade** and **other services**. It gives annual estimates of **establishments, workers and GVA** of the informal sector.
+SC: ASUSE is the informal counterpart of the ASI.
+
+Q: Which of the following is the correct description of a "Comprehensive Modular Survey" in the NSS programme?
+A) a short-duration, topic-focused survey canvassed to generate specific indicators quickly
+B) a decennial census of enterprises
+C) a survey of only government employees
+D) a monthly price collection exercise
+ANS: A
+T: Conceptual
+D: Medium
+EXP: Modular surveys are **short, focused and quick**. They serve ministries' **indicator needs** (for example on telecom or education use) without a full-year thematic round.
+SC: Modular surveys are short and quick, answering specific indicator needs.
+
+@topic Concepts in Recent Releases
+Q: Assertion (A): PLFS unemployment rates are not strictly comparable with those of the older NSS Employment-Unemployment Surveys.
+Reason (R): PLFS uses a different sampling design (including stratification by education in second-stage strata) and CAPI-based data collection.
+A) Both A and R are true, and R is the correct explanation of A
+B) Both A and R are true, but R is not the correct explanation of A
+C) A is true, but R is false
+D) A is false, but R is true
+ANS: A
+T: Assertion-Reason
+D: Hard
+EXP: PLFS changed the **design** (second-stage strata based on **general education level** of household members), the **mode** (CAPI) and the **periodicity**. NSO itself cautions against direct comparison with the EUS. R explains A.
+SC: A new design means the series is not strictly comparable.
+
+Q: The CPI with base 2024 uses weights derived from:
+A) HCES 2023-24
+B) the NSS 68th round (2011-12)
+C) the Census 2011
+D) WCFIES 2016
+ANS: A
+D: Medium
+EXP: The new **CPI (2024 base)** takes its **consumption weights** from **HCES 2023-24**, replacing the **68th round (2011-12)** weights of the 2012 series. An updated basket reflects services and digital purchases.
+SC: New CPI weights come from HCES 2023-24.
+
+Q: Why did MoSPI impute the value of free items received through social welfare programmes in a separate HCES estimate?
+A) To reflect the consumption actually enjoyed by households, including goods such as free food grains, laptops and bicycles
+B) To inflate poverty estimates
+C) Because HCES did not collect data on purchases
+D) To comply with GST rules
+ANS: A
+T: Conceptual
+D: Medium
+EXP: With large **free distribution** (such as PMGKAY food grains), **purchase-based MPCE understates consumption**. Imputing their value gives a separate, more complete **MPCE (with imputation)**.
+SC: Imputation adds free welfare goods to measured consumption.
+
+Q: Which of the following statistics is released monthly?
+A) Payroll data on EPF, ESI and NPS
+B) HCES
+C) Annual Survey of Industries
+D) SRS Statistical Report
+ANS: A
+D: Easy
+EXP: **Payroll reporting** is **monthly**. **HCES, ASI and the SRS report** are **annual or periodic**.
+SC: Payroll is monthly; surveys are annual or periodic.
+
+Q: MoSPI releases unit-level (micro) data of its surveys such as PLFS, HCES and ASUSE to users:
+A) free of cost through its microdata portal, after anonymisation
+B) only to government departments
+C) on payment of a fee per variable
+D) never, as they are confidential
+ANS: A
+D: Medium
+EXP: MoSPI releases **anonymised unit-level data** of its surveys **free** through its **microdata portal**. This balances **confidentiality** (FPOS Principle 6) with **equal access** (Principle 1).
+SC: Microdata are released free once anonymised.
+
+Q: The Good Governance Index, which ranks States across sectors such as agriculture, commerce, human resources, public health and justice, is prepared by:
+A) Department of Administrative Reforms and Public Grievances (DARPG)
+B) NITI Aayog
+C) MoSPI
+D) Election Commission
+ANS: A
+D: Medium
+EXP: The **Good Governance Index** (first 2019, then 2021) is **DARPG's**. NITI Aayog runs the **SDG India Index**, **Composite Water Management Index** and **Export Preparedness Index**.
+SC: GGI is DARPG's; the SDG India Index is NITI's.
+
+Q: Which of the following indices is published by NITI Aayog?
+A) Export Preparedness Index
+B) Good Governance Index
+C) Financial Inclusion Index
+D) Ease of Living Index
+ANS: A
+D: Medium
+EXP: The publishers are **NITI**: Export Preparedness Index and SDG India Index; **DARPG**: Good Governance Index; **RBI**: FI-Index; **MoHUA**: Ease of Living Index (for cities).
+SC: EPI and the SDG Index are NITI's; FI-Index the RBI's; Ease of Living MoHUA's.
+
+Q: As per PLFS, the rise in LFPR in recent years has been accompanied by a rising share of which employment status among women?
+A) Self-employed (including unpaid helpers in household enterprises)
+B) Regular wage/salaried
+C) Casual labour
+D) Public sector employment
+ANS: A
+D: Medium
+EXP: The recent rise in **female LFPR** is driven largely by **self-employment**, especially **helpers in household enterprises** in rural areas. This has prompted debate about the **quality** of the employment.
+SC: Women's LFPR gains are mostly in self-employment.
+
+@topic Indian Indices & Their Publishers
+Q: Match List-I (Index) with List-II (Publishing agency):
+| List-I | List-II |
+|---|---|
+| A. Performance Grading Index (school education) | 1. NITI Aayog |
+| B. Composite Water Management Index | 2. Ministry of Education |
+| C. LEADS (Logistics Ease Across Different States) | 3. FSSAI |
+| D. State Food Safety Index | 4. Ministry of Commerce & Industry (DPIIT) |
+A) A-2, B-1, C-4, D-3
+B) A-1, B-2, C-4, D-3
+C) A-2, B-1, C-3, D-4
+D) A-2, B-4, C-1, D-3
+ANS: A
+T: Match
+D: Medium
+EXP: The publishers are **PGI → Ministry of Education**, **CWMI → NITI Aayog**, **LEADS → DPIIT (Commerce)** and **State Food Safety Index → FSSAI**.
+SC: Schools are MoE's, water NITI's, logistics DPIIT's, food safety FSSAI's.
+
+Q: The "Healthy States, Progressive India" Health Index ranking States on health outcomes is prepared by:
+A) NITI Aayog, with MoHFW and the World Bank
+B) CBHI
+C) WHO
+D) IIPS
+ANS: A
+D: Medium
+EXP: NITI Aayog's **Health Index**, with **MoHFW and technical support from the World Bank**, scores States on **outcomes, governance and inputs**. The index measures **incremental performance** year to year.
+SC: The State Health Index comes from NITI with MoHFW and the World Bank.
+
+Q: The India Innovation Index, ranking States on innovation capacity and performance, is published by:
+A) NITI Aayog (with the Institute for Competitiveness)
+B) WIPO
+C) Department of Science & Technology
+D) MeitY
+ANS: A
+D: Medium
+EXP: The **India Innovation Index** is **NITI's** (with the Institute for Competitiveness), modelled on the **Global Innovation Index**, which is published by **WIPO**.
+SC: The Indian innovation index is NITI's; the global one is WIPO's.
+
+Q: The Ease of Living Index and the Municipal Performance Index, assessing Indian cities, are released by:
+A) Ministry of Housing and Urban Affairs
+B) NITI Aayog
+C) MoSPI
+D) Ministry of Rural Development
+ANS: A
+D: Medium
+EXP: **MoHUA** publishes both city indices (latest editions 2020): the **Ease of Living Index** (quality of life, economic ability, sustainability, citizen perception) and the **Municipal Performance Index**.
+SC: City indices come from MoHUA.
+
+@topic PLFS: Recent Results & Revamp
+Q: As per the PLFS annual report 2023-24, the Worker Population Ratio (usual status, 15+) was about:
+A) 58%
+B) 38%
+C) 47%
+D) 70%
+ANS: A
+D: Medium
+EXP: In 2023-24, **WPR (15+) was about 58.2%** and **LFPR about 60.1%**, which gives **UR = 1 − 58.2/60.1 ≈ 3.2%**. The all-ages rates are lower because children sit in the denominator.
+SC: 2023-24 (15+): LFPR about 60, WPR about 58, UR about 3.2.
+
+Q: In PLFS, "youth" unemployment refers to persons in the age group:
+A) 15-29 years
+B) 15-24 years
+C) 18-35 years
+D) 14-30 years
+ANS: A
+D: Easy
+EXP: PLFS reports youth indicators for **15-29 years**, following the **National Youth Policy 2014**. International comparisons often use **15-24**.
+SC: PLFS youth = 15-29.
+
+@topic Data Platforms & Governance
+Q: Which of the following data platforms is correctly matched with the organisation that runs it?
+A) data.gov.in – Open Government Data platform managed by NIC under NDSAP
+B) eSankhyiki – NITI Aayog's data platform
+C) NDAP – MoSPI's microdata portal
+D) HMIS – MoSPI's data warehouse
+ANS: A
+D: Medium
+EXP: The correct pairs are **data.gov.in → NIC (MeitY), NDSAP 2012**; **eSankhyiki → MoSPI (2024)**; **NDAP → NITI Aayog**; **HMIS → MoHFW** (health facilities).
+SC: data.gov.in is NIC's, eSankhyiki MoSPI's, NDAP NITI's, HMIS MoHFW's.
+
+Q: The theme of National Statistics Day 2024 (29 June) was:
+A) Use of data for decision-making
+B) Data for Sustainable Development
+C) SDG 2: Zero Hunger
+D) Connecting the world with data we can trust
+ANS: A
+D: Hard
+EXP: The **2024** theme was **"Use of data for decision-making"**. Earlier themes: 2022 **Data for Sustainable Development**; 2021 **SDG 2**; 2023 alignment of the **State Indicator Framework with the NIF**. Option D is the **World Statistics Day 2020** theme.
+SC: 2024 was about using data in decisions; 2022 about data for sustainable development.

@@ -1,0 +1,448 @@
+@set X10
+@title UPSC+ · Official Statistics Fundamentals: Need, Quality, Errors, Methods & Dissemination
+@pages Syllabus: Official statistics – need, uses, users, reliability, relevance, limitations, transparency; compilation, collection, processing, analysis and dissemination
+@desc Nature and users of official statistics; quality dimensions (NQAF, IMF DQAF); timeliness vs accuracy and revisions; sampling vs non-sampling errors, post-enumeration survey, IPNS; census vs sample vs registration vs administrative data; methods of collection; editing, imputation, disclosure control; metadata, release calendars and dissemination
+
+@topic Nature, Need & Users
+Q: Official statistics are best described as:
+A) statistics produced and disseminated by the national statistical system as a public good, under professional standards
+B) any statistics published in newspapers
+C) statistics produced only by international agencies
+D) confidential data of the government not meant for the public
+ANS: A
+D: Easy
+EXP: **Official statistics** come from **national statistical agencies and ministries**. They are a **public good** produced under standards such as the **FPOS** and are used by government, business, researchers, international bodies and citizens.
+SC: Official statistics are a public good made to professional standards.
+
+Q: Which of the following is NOT usually regarded as a limitation of official statistics in India?
+A) They are prepared under a legal and professional framework with published methodology
+B) Time lags in availability of certain data
+C) Coverage gaps in the informal sector
+D) Non-sampling errors in large surveys
+ANS: A
+T: Odd-one-out
+D: Easy
+EXP: A **legal and professional framework with published methods** is a **strength**. Common **limitations** are **time lags**, **informal-sector coverage**, **non-sampling errors**, **inconsistency between sources** and **gaps in sub-national data**.
+SC: Lags, informal-sector gaps and non-sampling errors are limitations; transparent methods are a strength.
+
+Q: The concept of "relevance" as a dimension of statistical quality means:
+A) the degree to which statistics meet the current and potential needs of users
+B) how quickly data are released
+C) how close estimates are to true values
+D) the ease of obtaining data
+ANS: A
+D: Easy
+EXP: The standard quality dimensions are **relevance** (meets user needs), **accuracy** (closeness to truth), **timeliness and punctuality**, **accessibility and clarity**, and **coherence and comparability**.
+SC: Relevance = does it meet users' needs.
+
+Q: Which of the following are dimensions in the IMF's Data Quality Assessment Framework (DQAF), besides the prerequisites of quality?
+1. Assurances of integrity
+2. Methodological soundness
+3. Accuracy and reliability
+4. Serviceability and accessibility
+Select the correct answer using the code given below:
+A) 1 and 2 only
+B) 2, 3 and 4 only
+C) 1, 3 and 4 only
+D) 1, 2, 3 and 4
+ANS: D
+T: Statement
+D: Hard
+EXP: The **DQAF** has **prerequisites of quality** plus five dimensions: **integrity, methodological soundness, accuracy and reliability, serviceability, and accessibility**. The listed items cover all of these.
+SC: DQAF = integrity, method, accuracy, serviceability, accessibility (+ prerequisites).
+
+Q: Assertion (A): GDP is released first as advance estimates and later revised several times.
+Reason (R): There is a trade-off between timeliness and accuracy; early estimates rely on indicators, while later estimates use fuller data.
+A) Both A and R are true, and R is the correct explanation of A
+B) Both A and R are true, but R is not the correct explanation of A
+C) A is true, but R is false
+D) A is false, but R is true
+ANS: A
+T: Assertion-Reason
+D: Easy
+EXP: Early estimates are **timely but indicator-based**. As **budgets, company accounts and surveys** arrive, estimates are **revised**. A published **revision policy** keeps this transparent. R explains A.
+SC: Fast first, accurate later: that is why revisions exist.
+
+Q: "Coherence" in statistical quality refers to:
+A) the consistency of statistics across sources, over time and with standard definitions and classifications
+B) the speed of release
+C) the cost of data collection
+D) the number of users of the data
+ANS: A
+D: Medium
+EXP: **Coherence** means different sources, periods and domains can be **combined and compared** reliably, using common **concepts, classifications and methods**.
+SC: Coherence = the data fit together.
+
+@topic Errors in Statistics
+Q: Which of the following statements about sampling and non-sampling errors is correct?
+A) Non-sampling errors can arise in both censuses and sample surveys, and do not necessarily decrease with sample size
+B) A census is free from all errors
+C) Sampling errors increase with sample size
+D) Non-sampling errors can be eliminated by increasing the sample size
+ANS: A
+D: Easy
+EXP: **Sampling error** arises from observing only part of the population and **falls as n rises**. **Non-sampling errors** (coverage, non-response, measurement, processing) arise in **censuses too** and may even **rise** with larger operations.
+SC: Sampling error shrinks with n; non-sampling error does not.
+
+Q: Which of the following are non-sampling errors?
+1. Omission of households from the frame
+2. Non-response by selected households
+3. Recall lapse by respondents
+4. Data entry mistakes during processing
+Select the correct answer using the code given below:
+A) 1 and 2 only
+B) 2, 3 and 4 only
+C) 1, 3 and 4 only
+D) 1, 2, 3 and 4
+ANS: D
+T: Statement
+D: Easy
+EXP: All four are non-sampling errors: **coverage** (frame omissions), **non-response**, **response or measurement** (recall lapse) and **processing** (data entry) errors.
+SC: Frame, non-response, recall and processing are all non-sampling errors.
+
+Q: A Post-Enumeration Survey (PES) is conducted after a Census primarily to:
+A) estimate coverage and content errors in the Census
+B) replace the Census results
+C) collect new data on migration
+D) prepare the NPR
+ANS: A
+D: Medium
+EXP: A **PES** re-enumerates a **sample** independently and **matches** it with the Census to estimate **under- or over-count (coverage error)** and **content error**.
+SC: A PES audits the Census count.
+
+Q: Mahalanobis's technique of interpenetrating network of sub-samples (IPNS) is useful because it:
+A) provides a direct estimate of sampling variance and helps detect non-sampling (investigator) errors
+B) eliminates the need for stratification
+C) reduces sample size to zero
+D) replaces probability sampling
+ANS: A
+D: Medium
+EXP: With **independent sub-samples** (often assigned to different investigators or agencies), the spread between sub-sample estimates gives a simple **variance estimate**. Differences also reveal **investigator bias**. NSS and the ASI use IPNS.
+SC: IPNS gives variance and exposes investigator bias.
+
+Q: In NSS surveys, when a selected household cannot be surveyed (e.g. it is locked or refuses), the usual practice is to:
+A) substitute it by another household from the same second-stage stratum, following laid-down procedures
+B) drop the entire FSU
+C) impute all values as zero
+D) double the weight of the FSU without substitution
+ANS: A
+D: Hard
+EXP: NSS permits **substitution** of casualty households, by prescribed rules, from the **same second-stage stratum**. This maintains the sample size, although substitution can introduce bias if non-respondents differ systematically.
+SC: NSS substitutes non-responding households within the same stratum.
+
+Q: Response bias due to "telescoping" in surveys refers to:
+A) respondents reporting events as having occurred within the reference period when they actually occurred earlier (or vice versa)
+B) investigators skipping questions
+C) data entry of wrong codes
+D) excluding remote villages
+ANS: A
+D: Hard
+EXP: **Telescoping** moves remembered events **into or out of** the reference period, causing **over- or under-reporting**. Bounded recall and short reference periods (as in MMRP) help reduce it.
+SC: Telescoping shifts dates across the reference window.
+
+@topic Methods of Data Collection
+Q: Which method of data collection is correctly matched with its example?
+A) Registration method – Civil Registration System
+B) Census method – Sample Registration System
+C) Sample survey method – Population Census
+D) Administrative records – NFHS
+ANS: A
+D: Easy
+EXP: The correct pairs are **Registration → CRS**, **Census → complete enumeration** (Population, Economic, Livestock), **Sample survey → NSS, NFHS, PLFS, SRS** and **Administrative → HMIS, UDISE+, EPFO**.
+SC: Registration is continuous, a census counts everyone, a survey samples.
+
+Q: Which of the following is an advantage of administrative data over sample surveys?
+A) Low additional cost and potentially complete coverage of the administered population, with frequent availability
+B) Concepts always match statistical definitions
+C) Free from coverage gaps
+D) Collected directly by statisticians for statistical purposes
+ANS: A
+D: Medium
+EXP: Administrative data are **cheap** (a by-product), **frequent** and **cover all units in the scheme**. But their **concepts** follow administrative needs, **coverage** is limited to registered units, and **quality** depends on recording practices.
+SC: Administrative data are cheap and frequent, but their concepts follow administrative rules.
+
+Q: Compared with a complete enumeration, a sample survey generally offers:
+A) lower cost, greater speed and the possibility of more detailed information with better-trained staff
+B) zero sampling error
+C) estimates for every village
+D) no need for a sampling frame
+ANS: A
+D: Easy
+EXP: Sample surveys are **cheaper, faster and more detailed**, and can have **lower non-sampling error** through trained staff. The cost is **sampling error** and **limited small-area estimates**.
+SC: A sample is cheaper, faster and deeper; a census is complete.
+
+Q: The "householder method" of data collection is suitable mainly when:
+A) respondents are literate enough to fill schedules themselves
+B) the population is largely illiterate
+C) data are to be collected from remote tribal areas
+D) investigators are highly trained
+ANS: A
+D: Easy
+EXP: **Self-enumeration** needs **literate respondents**. India has traditionally used the **canvasser method**; **Census 2027** offers an optional **self-enumeration** online.
+SC: Self-enumeration needs literate respondents.
+
+Q: A pilot survey is conducted before a main survey mainly to:
+A) test the questionnaire, field procedures and estimate costs and variability
+B) replace the main survey
+C) publish preliminary results
+D) select the final sample households
+ANS: A
+D: Easy
+EXP: A **pilot** tests **schedules, wording, instructions, logistics and timing**, and gives preliminary **variance** estimates for sample-size planning.
+SC: A pilot is a trial run of questionnaire and field work.
+
+Q: Remote sensing data are used in official statistics in India for:
+A) crop area and yield forecasting (FASAL), forest cover (ISFR) and urban frame updates
+B) measuring household consumption
+C) computing CPI
+D) counting population in the Census
+ANS: A
+D: Easy
+EXP: Remote sensing is used for **FASAL/MNCFC** crop forecasts, **FSI forest cover** and **UFS/GIS** mapping. Household characteristics still need **surveys**.
+SC: Satellites cover crops, forests and maps; households need surveys.
+
+@topic Processing & Confidentiality
+Q: "Imputation" in survey data processing refers to:
+A) assigning plausible values to missing or inconsistent items using defined rules or models
+B) deleting all incomplete records
+C) collecting fresh data
+D) publishing raw data
+ANS: A
+D: Easy
+EXP: **Editing** detects errors and **imputation** fills gaps, using methods such as hot-deck, mean or model-based imputation, so that estimates remain usable.
+SC: Editing finds holes; imputation fills them.
+
+Q: Statistical disclosure control techniques applied before releasing microdata include:
+A) removing direct identifiers, top-coding extreme values and suppressing or coarsening small cells
+B) publishing names and addresses
+C) releasing data only in PDF
+D) increasing the sample size
+ANS: A
+D: Medium
+EXP: **SDC** protects **confidentiality** (FPOS Principle 6; Census Act and CoS Act provisions) through **anonymisation, top-coding, aggregation or coarsening and perturbation**. It balances utility with privacy.
+SC: SDC hides who someone is while keeping the data useful.
+
+Q: Under the Collection of Statistics Act, 2008, information furnished by an informant can be used:
+A) only for statistical purposes, and cannot be used as evidence against the informant except for prosecution under the Act
+B) for tax assessment by the Income Tax Department
+C) for any purpose the government decides
+D) only by the police
+ANS: A
+D: Medium
+EXP: The CoS Act requires that information be used **only for statistical purposes**, kept **confidential**, and that identifiable information not be disclosed. This **builds trust** and improves response.
+SC: Data given under the CoS Act are for statistics only.
+
+Q: Metadata in official statistics refers to:
+A) data about data, covering definitions, sources, methods, coverage, reference periods and quality
+B) very large datasets
+C) data with errors
+D) only the file format
+ANS: A
+D: Easy
+EXP: **Metadata** describe **concepts, methods, sources, coverage, periodicity and revisions**. They support **correct interpretation** (FPOS Principle 3) and comparability. MoSPI's **National Metadata Structure** standardises them.
+SC: Metadata is the "about" layer of data.
+
+@topic Dissemination & Transparency
+Q: Which of the following practices enhances the transparency of official statistics?
+1. Publishing an advance release calendar
+2. Publishing methodology and revision policy
+3. Pre-release access to selected users days before public release
+Select the correct answer using the code given below:
+A) 1 and 2 only
+B) 2 and 3 only
+C) 1 and 3 only
+D) 1, 2 and 3
+ANS: A
+T: Statement
+D: Medium
+EXP: **Release calendars** and published **methods and revisions** enhance transparency. **Selective pre-release access** undermines **equal access** (FPOS Principle 1) and is discouraged.
+SC: Calendars and methods help; privileged early access hurts.
+
+Q: Which of the following modes of dissemination is most suitable for researchers wishing to do their own analysis of NSS survey data?
+A) Anonymised unit-level (micro) data
+B) Press release
+C) Summary tables in the annual report
+D) Infographics
+ANS: A
+D: Easy
+EXP: **Microdata** allow **custom tabulation and modelling**. Press releases and summary reports serve **general users** and the media.
+SC: Researchers need microdata.
+
+Q: "Punctuality" as a quality dimension refers to:
+A) the time lag between the actual and the pre-announced release date
+B) the time lag between the reference period and the release
+C) the accuracy of the first estimate
+D) the number of releases per year
+ANS: A
+D: Hard
+EXP: **Punctuality** means releasing on the **announced date**. **Timeliness** is the gap between the **reference period** and the **release**. They are related but distinct.
+SC: Punctual means on the promised date; timely means soon after the period.
+
+@topic Concepts in Survey Design
+Q: The "reference period" of a survey is:
+A) the period to which the collected information relates
+B) the period during which field work is conducted
+C) the date of publication
+D) the period of training of investigators
+ANS: A
+D: Easy
+EXP: The **reference period** is what the data describe (e.g. **last 365 days, last 7 days**, a financial year). The **survey period** is when data are **collected**. In the ASI, the reference is the **financial year** and the survey runs **November to July** afterwards.
+SC: Reference is what the data cover; survey is when they are collected.
+
+Q: A sampling frame is:
+A) the list or map of units from which the sample is drawn
+B) the questionnaire used
+C) the estimation formula
+D) the set of tabulations
+ANS: A
+D: Easy
+EXP: A **frame** lists or maps the population units: **Census villages**, **UFS blocks**, **CIF factory lists** (ASI), **EC establishments**. A **frame error** (omission, duplication) causes **coverage bias**.
+SC: No good frame, no good sample.
+
+Q: A rotational panel design, as used in PLFS urban areas, has the advantage of:
+A) improving the precision of estimates of change between periods through overlapping samples
+B) eliminating non-response
+C) removing the need for a frame
+D) giving district-level estimates
+ANS: A
+D: Medium
+EXP: With **overlap (75% in PLFS)**, consecutive estimates are **positively correlated**, which **reduces the variance of estimated change**. Rotating units out limits **respondent fatigue**.
+SC: Overlap sharpens estimates of change; rotation limits fatigue.
+
+Q: Stratification in sample design improves precision when:
+A) units within strata are homogeneous and strata differ from one another
+B) strata are heterogeneous internally
+C) the sample is drawn with replacement only
+D) the population is very small
+ANS: A
+D: Medium
+EXP: Precision improves when variation is **low within strata** and **between-stratum variation is removed** from sampling error. NSS strata are formed by district, rural or urban, and size.
+SC: Homogeneous within strata, different between them.
+
+@topic Uses & Interpretation
+Q: Which of the following is a leading indicator of economic activity, rather than a lagging one?
+A) New orders in a purchasing managers' survey (PMI)
+B) Unemployment rate
+C) Annual GDP growth
+D) Inflation for the past year
+ANS: A
+D: Medium
+EXP: **Leading indicators** (PMI new orders, business expectations, order books) **anticipate** turning points. **Unemployment** and **inflation** tend to **lag** the cycle.
+SC: Orders lead; jobs and prices lag.
+
+Q: Seasonal adjustment of a monthly time series is carried out to:
+A) remove regular calendar-related fluctuations so that the underlying trend and cycle can be seen
+B) remove inflation
+C) remove sampling error
+D) change the base year
+ANS: A
+D: Easy
+EXP: Seasonal adjustment removes predictable patterns (festivals, monsoon, number of working days) so that **month-to-month** comparisons are meaningful. **Year-on-year** changes partly neutralise seasonality.
+SC: Seasonal adjustment removes calendar noise.
+
+Q: Why are year-on-year growth rates often used for monthly indices such as IIP and CPI in India?
+A) Comparing with the same month of the previous year largely neutralises seasonal effects
+B) They are always smaller
+C) They require no base year
+D) They are required by the Constitution
+ANS: A
+T: Conceptual
+D: Easy
+EXP: **Y-o-y** comparison removes most **seasonality** without formal adjustment, although it responds slowly to turning points and is affected by **base effects**.
+SC: Y-o-y cancels the season but carries base effects.
+
+Q: A "base effect" in inflation refers to:
+A) the influence of the previous year's index level on the current year-on-year inflation rate
+B) the effect of changing the base year
+C) the effect of weights on the index
+D) the effect of exchange rates
+ANS: A
+D: Medium
+EXP: If prices were **unusually high (low)** in the same month last year, current **y-o-y inflation** looks **lower (higher)** even with an unchanged monthly momentum.
+SC: Last year's spike shrinks this year's rate.
+
+Q: Which of the following best describes "big data" or alternative data sources for official statistics?
+A) Large, high-frequency digital data such as GST filings, e-way bills, UPI transactions and satellite imagery, usable for nowcasting subject to quality checks
+B) Only the Population Census
+C) Data collected by postal questionnaires
+D) Any dataset with more than 100 records
+ANS: A
+D: Medium
+EXP: **Big and administrative digital data** (GST, e-way bills, digital payments, remote sensing, mobile data) offer **timeliness and granularity**. They also raise issues of **representativeness, concepts, access and privacy**, so they complement rather than replace surveys.
+SC: Big data are fast and granular but need checks on representativeness and privacy.
+
+Q: Assertion (A): Estimates from different sources, e.g. PLFS and EPFO payroll data, can show different employment trends.
+Reason (R): They differ in concept and coverage: PLFS measures all employment from households, while payroll data count new formal-sector subscribers in certain schemes.
+A) Both A and R are true, and R is the correct explanation of A
+B) Both A and R are true, but R is not the correct explanation of A
+C) A is true, but R is false
+D) A is false, but R is true
+ANS: A
+T: Assertion-Reason
+D: Medium
+EXP: PLFS is a **household survey of all work**. Payroll data are **administrative records** of **new subscribers** (a flow). They also include **re-joiners and formalisation** of existing jobs. R explains A.
+SC: Different concepts and coverage give different trends.
+
+Q: The UN National Quality Assurance Framework (NQAF) template is intended to:
+A) help national statistical systems develop their own quality assurance frameworks
+B) rank countries by GDP
+C) regulate statistical software
+D) set tax rates
+ANS: A
+D: Medium
+EXP: The **UN NQAF template** guides countries in **managing quality** across the statistical system. India adopted an NQAF (2018) aligned with it, and the NQAF-certified divisions are NAD, PSD and SDRD.
+SC: NQAF is a template for managing quality.
+
+Q: Which of the following is the correct sequence of stages in the statistical production process (GSBPM)?
+A) Specify needs → Design → Build → Collect → Process → Analyse → Disseminate → Evaluate
+B) Collect → Design → Specify needs → Process → Analyse → Disseminate
+C) Design → Collect → Build → Analyse → Process → Evaluate
+D) Specify needs → Collect → Design → Build → Disseminate → Analyse
+ANS: A
+T: Chronology
+D: Easy
+EXP: GSBPM (UNECE) has 8 phases: **Specify needs, Design, Build, Collect, Process, Analyse, Disseminate, Evaluate**. Evaluation feeds back into the next cycle.
+SC: Specify, Design, Build, Collect, Process, Analyse, Disseminate, Evaluate.
+
+Q: Why might a Census and a sample survey conducted in the same year give different estimates of the same characteristic (e.g. literacy)?
+A) Because of differences in concepts, reference periods, sampling error in the survey and non-sampling errors in both
+B) Because one of them must be falsified
+C) Because censuses use samples
+D) They can never differ
+ANS: A
+T: Conceptual
+D: Easy
+EXP: Differences arise from **definitions** (such as age groups), **reference dates**, **sampling error** (surveys only) and **non-sampling errors** (both). Metadata help reconcile them.
+SC: Different concepts and different errors give different numbers.
+
+@topic Nature, Need & Users
+Q: "Accessibility and clarity" as a quality dimension means:
+A) data are easy to find and obtain, in suitable formats, with adequate explanatory metadata
+B) data are released within a week
+C) data are free of all errors
+D) data are consistent over time
+ANS: A
+D: Easy
+EXP: **Accessibility** covers the ease of **finding and getting** data (portals, APIs, microdata). **Clarity** covers **metadata, documentation and help**, so that users interpret the data correctly.
+SC: Accessible = easy to get; clear = easy to understand.
+
+Q: Data collected by a researcher from published NSO reports would be classified, for that researcher, as:
+A) secondary data
+B) primary data
+C) experimental data
+D) administrative data
+ANS: A
+D: Easy
+EXP: **Primary data** are collected first-hand for the purpose at hand. **Secondary data** have been collected by someone else. NSO survey data are primary for the NSO but **secondary** for the researcher using them.
+SC: Primary or secondary depends on who collected the data.
+
+Q: Which of the following is the main reason that statistics based on complete enumeration (census) can sometimes be less accurate than a well-designed sample survey?
+A) The larger scale of a census makes non-sampling errors harder to control, while a survey can use fewer, better-trained staff
+B) A census has larger sampling error
+C) Surveys always cover more units
+D) Censuses do not use questionnaires
+ANS: A
+T: Conceptual
+D: Medium
+EXP: A **census has no sampling error**, but its **huge scale** raises **non-sampling errors** (training, supervision, fatigue). A **smaller, better-controlled survey** can therefore sometimes be more accurate overall.
+SC: A census has zero sampling error but more room for non-sampling error.

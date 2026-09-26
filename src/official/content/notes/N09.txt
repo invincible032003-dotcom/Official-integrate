@@ -1,0 +1,490 @@
+@set N09
+@title Topics 10 & 16 · Labour Statistics (Labour Bureau) & PLFS
+@pages Notes 10 (9 pp.) + Notes 16 (5 pp.)
+@desc Labour Bureau & LESS scheme; CPI-IW history & uses; CPI-AL/RL; socio-economic surveys; QES/AQEES/AFES; AEUS; ASI labour part; OWS; Wage Rate Index 2016; Domestic Workers survey; PLFS objectives, rotation, CWS/CDS rules, usual status, formulae
+
+@note 10
+@topic Labour Bureau & Price Indices for Workers
+Q: The Labour Bureau, with offices at Shimla and Chandigarh, functions under which Ministry?
+A) Ministry of Labour and Employment
+B) Ministry of Statistics and Programme Implementation
+C) Ministry of Rural Development
+D) Ministry of Finance
+ANS: A
+D: Easy
+P: 1
+EXP: The **Labour Bureau (Shimla/Chandigarh)** is under **MoLE**. It works through the Central Sector Scheme **"Labour & Employment Statistical System (LESS)"**, which covers CPI-IW, RLE/CPI-AL-RL, ASI (labour part), OWS, QES, WRI and other schemes.
+SC: The Labour Bureau is under MoLE and runs the LESS scheme.
+
+Q: The Central Sector Scheme through which the Labour Bureau discharges its functions is called:
+A) Labour & Employment Statistical System (LESS)
+B) Capacity Development Scheme
+C) Support for Statistical Strengthening
+D) National Career Service
+ANS: A
+D: Medium
+P: 1
+EXP: **LESS** components include CPI-IW, **Rural Labour Enquiry** (with CPI-AL/RL), ASI (labour part), **Occupational Wage Survey**, socio-economic surveys of labour segments, evaluation of the **Minimum Wages Act 1948**, **QES**, employment-unemployment surveys, the **Wage Rate Index**, the Area Frame Survey, the **PM Mudra Yojana** survey and base updations.
+SC: The Labour Bureau's scheme is LESS.
+
+Q: The first CPI for Industrial Workers, on base 1960 = 100 for 50 centres, was started with effect from:
+A) August 1968, with weights from the Family Living Survey of 1958-59
+B) January 1961, with weights from the 1982-83 survey
+C) September 1964, with weights from the NSS 38th round
+D) April 1950, with weights from the 1st NSS round
+ANS: A
+D: Hard
+P: 2
+EXP: **CPI-IW (1960 = 100)** covered **50 centres** and ran from **August 1968**, with weights from the **Family Living Survey 1958-59**. Later bases were 1982, then **2001 (78 centres)**, then **2016 (88 centres)**.
+SC: The first CPI-IW had base 1960 = 100, 50 centres, started in 1968, with FLS 1958-59 weights.
+
+Q: Which of the following are uses of CPI-IW as listed in the notes?
+1. Regulation of Dearness Allowance of Government and industrial employees
+2. Deflator of money wages for calculating real wages
+3. Price adjustments in business and public works contracts
+4. Determining the urban poverty line
+Select the correct answer using the code given below:
+A) 1 and 2 only
+B) 1, 2 and 3 only
+C) 2, 3 and 4 only
+D) 1, 2, 3 and 4
+ANS: D
+T: Statement
+D: Medium
+P: 2
+EXP: CPI-IW uses include **DA and wages**, a **retail inflation indicator**, a **real-wage deflator**, the **urban poverty line**, **price escalation in contracts**, **interest rate** signals, and general policy on **wages, prices and taxation**.
+SC: CPI-IW is used for DA, deflating wages, contract escalation and the urban poverty line.
+
+Q: CPI for Agricultural Labourers (CPI-AL) was started with effect from:
+A) September 1964
+B) August 1968
+C) January 1961
+D) November 1986
+ANS: A
+D: Hard
+P: 3
+EXP: **CPI-AL began in September 1964**. Its current base is **1986-87 = 100**. CPI-AL and CPI-RL use the **same retail prices** but **different weights**, because their coverage differs.
+SC: CPI-AL began in 1964; same prices as RL, different weights.
+
+Q: CPI-AL and CPI-RL differ from each other in:
+A) weights, because of a difference in coverage, while the retail prices used are the same
+B) retail prices, while the weights are the same
+C) both prices and weights
+D) base year only
+ANS: A
+T: Conceptual
+D: Medium
+P: 3
+EXP: Both use the **same retail prices**. The **weights differ** because **CPI-AL** covers only **agricultural labour households**, while **CPI-RL** covers all **rural labour households**, agricultural ones included.
+SC: Same prices, different weights: AL is a subset of RL.
+
+Q: As per the Labour Bureau, a rural labour household is one whose income during the last 365 days was:
+A) more from wage-paid manual labour (agricultural and/or non-agricultural) than from either paid non-manual employment or self-employment
+B) wholly from agricultural labour
+C) at least 75% from any wage employment
+D) below the poverty line
+ANS: A
+D: Medium
+P: 3
+EXP: A **rural labour household** earns **more from wage-paid manual labour** than from non-manual employment or self-employment, over the last **365 days**. If **≥ 50%** of its income is from **agricultural** manual labour, it is an **agricultural labour household**.
+SC: Rural labour = manual wages dominate; agricultural labour = at least half from farm wages.
+
+@topic Labour Bureau Surveys
+Q: The first Quarterly Quick Employment Survey (QES) was conducted by the Labour Bureau in January 2009, with reference period:
+A) October-December 2008, to assess the impact of the global economic slowdown on employment
+B) April-June 2008, to assess demonetisation
+C) January-March 2009, to assess COVID-19
+D) July-September 2008, to assess GST
+ANS: A
+D: Medium
+P: 4
+EXP: The **first QES (January 2009)**, with reference **October-December 2008**, measured the **impact of the global slowdown** on employment in selected badly affected sectors. The revamped QES covers **9 sectors** with **10+ workers**.
+SC: QES began in 2009 to measure the slowdown of 2008.
+
+Q: The first Annual Employment-Unemployment Survey (AEUS) of the Labour Bureau was conducted in 2010 for the reference period:
+A) April 2009 to March 2010
+B) July 2009 to June 2010
+C) January to December 2009
+D) April 2010 to March 2011
+ANS: A
+D: Hard
+P: 4
+EXP: The **1st AEUS (2010)** had reference **April 2009 – March 2010**. Later rounds were 2nd 2012, 3rd 2013, 4th 2015 and 5th 2016. It gave the employment-unemployment scenario on a **regular annual** basis before PLFS.
+SC: AEUS 1: 2010, reference FY 2009-10.
+
+Q: Which of the following surveys is conducted by the Socio-Economic Survey Division of the Labour Bureau?
+A) Survey of working and living conditions of SC/ST workers in urban areas
+B) Annual Survey of Industries (Part-I)
+C) Periodic Labour Force Survey
+D) Economic Census
+ANS: A
+D: Medium
+P: 3
+EXP: The Socio-Economic Survey Division runs: working and living conditions of **SC/ST workers (urban)**; workers in **unorganised** industries; **women workers in industry**; and the **evaluation of the Minimum Wages Act, 1948**. The division has also run the QES and the annual employment-unemployment survey.
+SC: The SES Division studies SC/ST, unorganised and women workers, and the Minimum Wages Act.
+
+Q: Under the ASI scheme, which of the following is/are processed and disseminated by the Labour Bureau?
+1. Employment, man-days worked and labour cost collected through Block E of Part-I
+2. Absenteeism and labour turnover collected through Part-II
+3. Assets and liabilities from Part-I
+Select the correct answer using the code given below:
+A) 1 only
+B) 1 and 2 only
+C) 2 and 3 only
+D) 1, 2 and 3
+ANS: B
+T: Statement
+D: Hard
+P: 4
+EXP: The **Labour Bureau** processes **Block E of Part-I** (employment, man-days, labour cost) and **Part-II** (absenteeism, labour turnover). **Part-I (the rest)** is processed by the CSO / IS Wing. **FOD** does the fieldwork, and the **DDG, FOD** is the **Statistics Authority** under the Act.
+SC: The Labour Bureau handles Block E and Part II; assets are the CSO's.
+
+Q: Under the ASI scheme, who is the Statistics Authority appointed under the Collection of Statistics Act?
+A) DDG, FOD
+B) Director General, Labour Bureau
+C) Chief Statistician of India
+D) Chief Inspector of Factories
+ANS: A
+D: Hard
+P: 4
+EXP: As per the notes, the **DDG, FOD** is the **Statistics Authority** for ASI under the CoS Act. FOD conducts the field survey.
+SC: For ASI, the DDG of FOD is the Statistics Authority.
+
+Q: The Labour Bureau publishes ASI labour data in two volumes. Volume-II is the:
+A) Report on Absenteeism, Labour Turnover, Employment and Labour Cost
+B) Statistics on Assets and Liabilities
+C) Report on Wage Rate Indices
+D) Report on Minimum Wages
+ANS: A
+D: Hard
+P: 4
+EXP: **Volume-I**: Statistics on **Employment and Labour Cost**. **Volume-II**: Report on **Absenteeism, Labour Turnover, Employment and Labour Cost**. Both cover the census and sample sectors.
+SC: Volume I is employment and labour cost; Volume II adds absenteeism and turnover.
+
+@topic Wages: OWS & Wage Rate Index
+Q: The first Occupational Wage Survey (OWS) was conducted in:
+A) 1958-59
+B) 1969
+C) 1963-65
+D) 2016
+ANS: A
+D: Medium
+P: 5
+EXP: The **first OWS was in 1958-59**. It collects **occupation-wise employment, wage rates and DA** to build **WRI base weights**, and **payroll earnings** to study wage differentials in services, plantations, mining and manufacturing.
+SC: OWS began in 1958-59 and builds the WRI weights.
+
+Q: In the Occupational Wage Survey, the first-stage and second-stage sampling units are respectively:
+A) registered factories and workers in different occupations
+B) districts and factories
+C) villages and households
+D) industries and factories
+ANS: A
+D: Medium
+P: 5
+EXP: OWS uses a two-stage design: **FSU = registered factories**, **SSU = workers by occupation**. Estimates must lie within **5% of true values** with a **95% confidence coefficient**.
+SC: OWS goes factory, then worker; within 5% at 95% confidence.
+
+Q: The new series of the Wage Rate Index (WRI) compiled by the Labour Bureau has base:
+A) 2016 = 100, replacing the old base 1963-65
+B) 2012 = 100, replacing 2001
+C) 2011-12 = 100, replacing 2004-05
+D) 1986-87 = 100
+ANS: A
+D: Medium
+P: 5
+EXP: **WRI base 2016 = 100** (released from **2021**) replaced the **1963-65** base. WRIs have been compiled since **1969** for **37 industries**: **30 manufacturing, 4 mining, 3 plantation**.
+SC: WRI 2016 has 37 industries (30 + 4 + 3); the old base was 1963-65.
+
+Q: In the new WRI series (2016 = 100), the weights of the Manufacturing, Mining and Plantation sectors are respectively:
+A) 82.57%, 11.23% and 6.20%
+B) 77.63%, 14.37% and 7.99%
+C) 64.23%, 22.62% and 13.15%
+D) 70%, 20% and 10%
+ANS: A
+D: Hard
+P: 5
+EXP: WRI weights are **Manufacturing 82.57**, **Mining 11.23** and **Plantation 6.20**. Distractor B gives the **IIP** sector weights and C the **WPI** major-group weights.
+SC: WRI is about 83/11/6; IIP 78/14/8; WPI 64/23/13.
+
+Q: Which of the following statements about the Wage Rate Index is/are correct?
+1. Wage rate data relate to the months of January and July each year.
+2. Data are collected only for manual workers.
+3. It is compiled using Laspeyres' formula with base-year employment as weights.
+4. It is used in fixing minimum wages and the national floor wage.
+Select the correct answer using the code given below:
+A) 1 and 2 only
+B) 1, 3 and 4 only
+C) 2, 3 and 4 only
+D) 1, 2, 3 and 4
+ANS: D
+T: Statement
+D: Medium
+P: 6
+EXP: All four statements are correct. **WRI** data refer to **January and July**, cover **manual workers only**, use **Laspeyres with base-year employment weights**, and serve **minimum wage** and **national floor wage** fixation.
+SC: WRI: January and July, manual workers, Laspeyres, minimum wages.
+
+@topic Employment Surveys: AQEES & Domestic Workers
+Q: The All-India Quarterly Establishment-based Employment Survey (AQEES) consists of:
+A) QES for establishments with 10 or more workers, and AFES for establishments with 9 or fewer workers
+B) PLFS and QES
+C) QES for establishments with 20 or more workers and ASUSE for the rest
+D) AFES alone
+ANS: A
+D: Medium
+P: 8
+EXP: **AQEES = QES** (10+ workers, mostly **organised**) **+ AFES (Area Frame Establishment Survey)** (≤ 9 workers, mostly **unorganised**), across the same **9 sectors**.
+SC: AQEES = QES (10 or more) + AFES (9 or fewer).
+
+Q: The QES under AQEES is described as a "demand side" survey because:
+A) it measures the labour demanded by establishments, whereas PLFS measures the labour force available (supply side)
+B) it measures consumer demand for goods
+C) it is based on household interviews
+D) it covers only the unemployed
+ANS: A
+T: Conceptual
+D: Medium
+P: 8
+EXP: **Demand side** = how much labour **establishments employ or demand**, as in QES/AQEES. **Supply side** = how much labour force is **available**, as in PLFS. A noted limitation of QES is that it covers only the **formal** segment of 9 sectors and **leaves out over 90% of informal workers**, such as agricultural labour.
+SC: QES measures demand from establishments; PLFS measures supply from households.
+
+Q: The All-India Survey on Domestic Workers of the Labour Bureau aims to:
+A) estimate the number and proportion of domestic workers at national and State level, including live-in/live-out distribution
+B) estimate the wages of Government employees
+C) count migrant workers in Gulf countries
+D) measure time use of household members
+ANS: A
+D: Easy
+P: 6
+EXP: The survey is the **first of its kind**. It estimates the **number and proportion of domestic workers** (national and State), splits them by **live-in/live-out**, formal/informal and migrant status, and covers wages and household estimates of employers.
+SC: It counts domestic workers, live-in and live-out.
+
+Q: In the All-India Survey on Domestic Workers, the first-stage units are:
+A) villages as per Census 2011 and urban blocks as per the latest UFS phase
+B) registered establishments
+C) districts
+D) households
+ANS: A
+D: Medium
+P: 7
+EXP: **FSUs = Census 2011 villages + latest UFS urban blocks**, about **12,766 FSUs** (6,190 villages and 6,576 UFS blocks). **USUs = households**, about **1.5 lakh**, across **37 States/UTs and 742 districts**.
+SC: The FSUs are villages and UFS blocks; the USUs are households, about 1.5 lakh.
+
+Q: Which of the following is NOT among the five all-India labour surveys launched by the Labour Bureau as listed in the notes?
+A) Periodic Labour Force Survey
+B) All India Survey of Migrant Workers
+C) All India Survey on Domestic Workers
+D) All India Survey of Employment generated in the Transport Sector
+ANS: A
+T: Odd-one-out
+D: Medium
+P: 7
+EXP: The **5 Labour Bureau surveys** are **Domestic Workers, Migrant Workers, Employment generated by Professionals, Employment in the Transport Sector, and AQEES**. **PLFS** is an **NSO (MoSPI)** survey.
+SC: PLFS belongs to NSO, not the Labour Bureau.
+
+Q: The Contract Labour Survey of the Labour Bureau was started in:
+A) 1955
+B) 1970
+C) 1985
+D) 2009
+ANS: A
+D: Hard
+P: 8
+EXP: The **Contract Labour Survey began in 1955**. It studies the **problems of contract labour** and the implementation of welfare provisions: employment, wages, working conditions, amenities and social security from contractors.
+SC: The Contract Labour Survey dates from 1955.
+
+@note 16
+@topic PLFS: Design & Output
+Q: The Periodic Labour Force Survey (PLFS) quarterly bulletins present labour force indicators in CWS for:
+A) urban areas only
+B) rural areas only
+C) both rural and urban areas
+D) only metropolitan cities
+ANS: A
+D: Easy
+P: 1
+EXP: As per the notes, the **quarterly bulletins** cover **urban areas only (CWS)**: WPR, LFPR, UR, and the distribution by status and industry. **Annual reports** cover **rural + urban** in both **usual status (ps+ss) and CWS**.
+SC: Quarterly = urban CWS; annual = rural + urban, US + CWS.
+TIP: PLFS was revamped from January 2025 to give monthly and quarterly estimates for rural and urban areas together. Know both the original design and the revamp.
+
+Q: In the urban rotational panel of PLFS, the rotation scheme ensures that what percentage of first-stage units are matched between two consecutive visits?
+A) 75%
+B) 50%
+C) 25%
+D) 100%
+ANS: A
+D: Medium
+P: 1
+EXP: Each urban household is visited **4 times** (a First Visit schedule, then 3 Revisits). **75% of FSUs overlap** between consecutive quarters, which gives stable quarterly change estimates.
+SC: 4 visits, with 75% overlap between consecutive quarters.
+
+Q: During the quarter July-September 2021, the PLFS urban sample at all-India level covered approximately:
+A) 5,676 FSUs, 44,272 households and 1,71,405 persons
+B) 12,800 FSUs, 1,00,000 households and 4,00,000 persons
+C) 7,000 FSUs, 56,000 households and 2,50,000 persons
+D) 2,000 FSUs, 20,000 households and 80,000 persons
+ANS: A
+D: Hard
+P: 2
+EXP: For July-September 2021 (urban): **5,676 UFS blocks**, **44,272 households**, **1,71,405 persons**.
+SC: About 5.7k FSUs, 44k households, 1.7 lakh persons.
+
+@topic PLFS: Activity Status Concepts
+Q: Which of the following correctly defines the Worker Population Ratio (WPR) in PLFS?
+A) Percentage of employed persons in the population
+B) Percentage of persons in the labour force in the population
+C) Percentage of unemployed persons among the labour force
+D) Percentage of employed persons in the labour force
+ANS: A
+D: Easy
+P: 2
+EXP: **WPR = employed / population × 100**. **LFPR = (employed + unemployed) / population × 100**. **UR = unemployed / labour force × 100**.
+SC: WPR and LFPR use the population as denominator; UR uses the labour force.
+
+Q: If LFPR = 50% and WPR = 47%, the unemployment rate (UR) is approximately:
+A) 6.0%
+B) 3.0%
+C) 94.0%
+D) 5.0%
+ANS: A
+T: Numerical
+D: Medium
+P: 4
+EXP: **UR = (LFPR − WPR) / LFPR × 100 = (50 − 47) / 50 × 100 = 6%**. Both rates share the population denominator, so they cancel out.
+SC: UR = 1 − WPR/LFPR = 1 − 0.94 = 6%.
+
+Q: The usual principal activity status (ps) of a person is determined on the basis of:
+A) the major time criterion over the 365 days preceding the date of survey
+B) the priority criterion over the last 7 days
+C) activity on each half-day of the reference week
+D) activity pursued for 30 days or more in the last 365 days
+ANS: A
+D: Medium
+P: 2
+EXP: **ps = major time criterion over 365 days**. **ss = economic activity for ≥ 30 days** within the same 365 days, in addition to ps. **CWS = priority-cum-major-time over 7 days**. **CDS = each half-day** of the week.
+SC: ps uses major time over a year; ss needs 30 or more days.
+
+Q: Under the current weekly status (CWS), the priority criterion means:
+A) 'working' gets priority over 'seeking/available for work', which gets priority over 'neither working nor available'
+B) 'not in labour force' gets priority over 'working'
+C) the status with the most days in the week prevails regardless of work
+D) 'seeking work' gets priority over 'working'
+ANS: A
+T: Conceptual
+D: Medium
+P: 3
+EXP: CWS uses **priority-cum-major time**: **working > unemployed > not in labour force**. Even **1 hour of work on any 1 day** in the 7 days makes a person **employed**.
+SC: Working beats seeking, and seeking beats being out of the labour force.
+
+Q: Under current daily status (CDS), a person who worked for 2 hours on a day and was seeking/available for work for the rest of the day is classified for that day as:
+A) employed for half day and unemployed for the other half day
+B) employed for the full day
+C) unemployed for the full day
+D) not in labour force for the full day
+ANS: A
+D: Medium
+P: 3
+EXP: CDS rules: work **≥ 4 hours → employed for the full day**. Work **1-4 hours → employed for half a day**, and the other half is unemployed or not in labour force depending on availability. Here 2 hours falls in the 1-4 hour band.
+SC: CDS: 4 or more hours is a full day; 1 to 4 hours is half a day.
+
+Q: Under current daily status, a person who did no work even for 1 hour on a day but was seeking/available for work for 4 hours or more is considered:
+A) unemployed for the entire day
+B) unemployed for half day and not in labour force for half day
+C) employed for half day
+D) not in labour force for the entire day
+ANS: A
+D: Medium
+P: 3
+EXP: With no work, availability for **≥ 4 hours means unemployed for the full day**. Availability for **1-4 hours** means **unemployed for half a day** and **not in labour force** for the other half.
+SC: Without work, 4 or more hours of seeking is a full unemployed day.
+
+Q: In CDS, the intensity assigned to an activity done for a "full day" and a "half day" is respectively:
+A) 1.0 and 0.5
+B) 2 and 1
+C) 8 and 4
+D) 1.0 and 0.25
+ANS: A
+D: Easy
+P: 4
+EXP: **Full day = 1.0**, **half day = 0.5**. Summing intensities over 7 days gives **person-days**, from which **CDS rates** are built.
+SC: CDS intensities are 1 and ½.
+
+Q: Which of the following is the correct composition of "employed (working)" in PLFS?
+A) Self-employed + regular wage/salaried employees + casual labour
+B) Self-employed + unemployed
+C) Regular wage employees only
+D) Casual labour + students
+ANS: A
+D: Easy
+P: 4
+EXP: **Employed = self-employed + regular wage/salaried + casual labour**. **Labour force = employed + unemployed**. **Not in labour force = neither working nor available**.
+SC: Employed = SE + RWS + CL.
+
+Q: A person who neither worked nor was available for work at any time during the reference week is, under CWS, considered:
+A) not in labour force
+B) unemployed
+C) underemployed
+D) employed
+ANS: A
+D: Easy
+P: 3
+EXP: **Neither working nor available** in the week means **not in labour force**, i.e. engaged in **non-economic activities** such as attending education, domestic duties or rentier income.
+SC: No work and no availability means outside the labour force.
+
+@topic PLFS: Activity Status Concepts
+Q: In a population of 1,000 persons, 400 are employed and 50 are unemployed (seeking/available for work). The LFPR and UR are respectively:
+A) 45% and about 11.1%
+B) 40% and 5%
+C) 45% and 5%
+D) 40% and 12.5%
+ANS: A
+T: Numerical
+D: Medium
+P: 4
+EXP: **LF = 400 + 50 = 450**, so **LFPR = 450/1000 = 45%**. **UR = 50/450 = 11.1%**, and **WPR = 400/1000 = 40%**. The 5% in the distractors is 50/1000, which uses the wrong denominator.
+SC: UR divides by the labour force, not the population.
+
+Q: Under CWS, a person is considered "unemployed" if during the reference week he/she:
+A) did not work even for one hour on any day but made efforts to get work or was available for work
+B) worked for less than 4 hours on any day
+C) was not available for work but wanted a job
+D) worked only as an unpaid helper
+ANS: A
+D: Medium
+P: 3
+EXP: **Unemployed (CWS)** = **no economic activity** in the week, but **sought or was available** for work, including those not actively seeking because they believed no work was available. **Unpaid helpers in household enterprises are employed** (self-employed).
+SC: No work plus availability means unemployed; helpers count as employed.
+
+@topic Labour Bureau Surveys
+Q: The objectives of the ASI (labour part) compiled by the Labour Bureau include building a database on:
+A) absenteeism, labour turnover, earnings, employment and labour cost in manufacturing industries
+B) crop yields and farm wages
+C) household consumption expenditure
+D) domestic workers
+ANS: A
+D: Easy
+P: 4
+EXP: The labour part aims to (a) build a database on **absenteeism, labour turnover, earnings, employment and labour cost**, and (b) analyse **labour-cost components**: wages and salary, bonus, PF and welfare expenses.
+SC: The ASI labour part covers absence, turnover, earnings and labour cost.
+
+@topic Employment Surveys: AQEES & Domestic Workers
+Q: Which of the following is a limitation of the Quarterly Employment Survey (QES) as noted?
+A) It leaves out most informal workers, such as agricultural labour, as it covers establishments with 10 or more workers in 9 sectors
+B) It covers only agricultural establishments
+C) It is a supply-side household survey
+D) It excludes the manufacturing sector
+ANS: A
+D: Medium
+P: 8
+EXP: QES covers only **establishments with 10+ workers in 9 sectors**, which is basically the **formal sector**. It **misses over 90% of informal workers**, gives only the **demand side**, and many recent rounds were **telephonic**.
+SC: QES is formal and demand-side only, so it misses informal workers.
+
+Q: The All-India Survey on Domestic Workers covers how many States/UTs and districts?
+A) 37 States/UTs and 742 districts
+B) 28 States and 640 districts
+C) 36 States/UTs and 707 districts
+D) 30 States/UTs and 600 districts
+ANS: A
+D: Hard
+P: 7
+EXP: Scope: **37 States/UTs, 742 districts**, **12,766 FSUs** and about **1.5 lakh households**. Results were planned **within one year**.
+SC: 37 States/UTs, 742 districts, 12,766 FSUs, 1.5 lakh households.

@@ -4,6 +4,7 @@
 ## 3-pass plan
 ! **Pass 1**: Notes sets **N01-N14** (topics 1-19) in Practice mode. Read the explanation and exam shortcut for every miss.
 ! **Pass 2**: Book sets **B01-B17** (pp. 1-329) as **Timed tests** at 60 s per question, the ISS pace.
+! **Pass 2b**: **UPSC+ sets X01-X12** cover the rest of the syllabus: index-number theory, the international system, publications, social sector, poverty, Census, national accounts concepts, money and fiscal, recent data, fundamentals, agriculture and industry, labour.
 - **Pass 3**: Full-form quizzes **FF1-FF5**, the Mistakes review, then the high-yield pointers only (toggle "High-yield only").
 ## Numbers UPSC repeats
 ! Base years: CPI-IW **2016** · CPI-R/U/C **2012** · CPI-AL/RL **1986-87** · WPI/IIP/GDP **2011-12** · WRI **2016** · trade indices **2012-13**.

@@ -323,16 +323,21 @@ def build_fullforms():
         skip = {"of", "and", "the", "for", "in", "on", "to", "a", "an"}
         return " · ".join(w[0].upper() + w[1:] for w in words if w.lower() not in skip)
 
+    EXTRA_GROUPS = [("FF3", "Indian Bodies & Schemes", "Full Forms III - Indian statistical bodies & schemes"),
+                    ("FF4", "Surveys, Indices & Concepts", "Full Forms IV - Surveys, indices & concepts"),
+                    ("FF5", "International Frameworks & Agencies", "Full Forms V - International frameworks & agencies")]
     groups = [("FF1", "pdf", "Full Forms I - Abbreviations list (Sl. 1-50)"),
-              ("FF2", "pdf", "Full Forms II - Abbreviations list (Sl. 51-100)"),
-              ("FF3", "extra", "Full Forms III - Core surveys, indices & bodies"),
-              ("FF4", "extra", "Full Forms IV - Global frameworks & agencies")]
+              ("FF2", "pdf", "Full Forms II - Abbreviations list (Sl. 51-100)")]
+    groups += [(sid, "extra", title) for sid, _, title in EXTRA_GROUPS]
     pdf_items = [it for it in items if it["src"] == "pdf"]
     extra_items = [it for it in items if it["src"] == "extra"]
-    chunks = {
-        "FF1": pdf_items[:50], "FF2": pdf_items[50:],
-        "FF3": extra_items[:(len(extra_items) + 1) // 2], "FF4": extra_items[(len(extra_items) + 1) // 2:],
-    }
+    chunks = {"FF1": pdf_items[:50], "FF2": pdf_items[50:]}
+    for sid, cat, _ in EXTRA_GROUPS:
+        chunks[sid] = [it for it in extra_items if it["cat"] == cat]
+    known = set(c for _, c, _ in EXTRA_GROUPS)
+    for it in extra_items:
+        if it["cat"] not in known:
+            err("fullforms.tsv extra %s has unknown category %r (use one of %s)" % (it["abbr"], it["cat"], sorted(known)))
     sets, qs = [], []
     for sid, src, title in groups:
         chunk = chunks[sid]

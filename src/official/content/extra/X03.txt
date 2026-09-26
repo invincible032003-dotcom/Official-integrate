@@ -1,0 +1,469 @@
+@set X03
+@title UPSC+ · Publications, Agencies & Periodicity
+@pages Syllabus: Important activities, publications and agencies
+@desc Who publishes what: MoSPI thematic reports, NSO releases, ORGI, RBI, Ministry of Finance, Agriculture, Labour Bureau, Health, Education, NCRB, MoRTH, Tourism, IBM, DGCI&S, FSI, energy agencies; release periodicity and calendars; international reports
+
+@topic MoSPI Publications
+Q: The publication "Women and Men in India" is brought out by:
+A) Ministry of Statistics and Programme Implementation
+B) Ministry of Women and Child Development
+C) National Commission for Women
+D) Office of the Registrar General of India
+ANS: A
+D: Easy
+EXP: **"Women and Men in India"** is MoSPI's (NSO, SSD) regular compendium of **gender statistics**, covering population, health, education, participation in the economy and decision-making. MoSPI also publishes **Children in India**, **Elderly in India** and **Youth in India**.
+SC: The gender compendium is MoSPI's (SSD).
+
+Q: Which of the following thematic publications are brought out by MoSPI?
+1. Elderly in India
+2. Youth in India
+3. Children in India
+4. Crime in India
+Select the correct answer using the code given below:
+A) 1, 2 and 3 only
+B) 1 and 3 only
+C) 2, 3 and 4 only
+D) 1, 2, 3 and 4
+ANS: A
+T: Statement
+D: Easy
+EXP: **Elderly, Youth and Children in India** are MoSPI (SSD) compendiums. **Crime in India** is published by the **NCRB (MHA)**.
+SC: "... in India" population-group reports are MoSPI's; crime is NCRB's.
+
+Q: "Energy Statistics India", which presents the energy balance of the country, is published annually by:
+A) NSO, MoSPI
+B) Central Electricity Authority
+C) Ministry of Petroleum and Natural Gas
+D) Bureau of Energy Efficiency
+ANS: A
+D: Medium
+EXP: **Energy Statistics India** (NSO, MoSPI; annual) compiles reserves, production, consumption and the **energy balance** across coal, oil, gas, electricity and renewables. The **CEA** publishes electricity-sector statistics, and **MoPNG** publishes Indian Petroleum & Natural Gas Statistics.
+SC: The all-energy balance is MoSPI's; single-sector data come from line ministries.
+
+Q: EnviStats India, published annually in two volumes (environment statistics and environmental accounts), is brought out by:
+A) NSO, MoSPI
+B) Ministry of Environment, Forest and Climate Change
+C) Central Pollution Control Board
+D) Forest Survey of India
+ANS: A
+D: Easy
+EXP: **EnviStats India** comes from **NSO (SSD), MoSPI**. **Vol. I** covers environment statistics on the **FDES** framework; **Vol. II** covers **environmental-economic accounts (SEEA)**. The **India State of Forest Report** comes from the **FSI**.
+SC: EnviStats is MoSPI's: Vol I statistics, Vol II accounts.
+
+Q: "Statistical Year Book India" and "India in Figures" are publications of:
+A) MoSPI
+B) Ministry of Finance
+C) NITI Aayog
+D) RBI
+ANS: A
+D: Easy
+EXP: Both are **MoSPI** compilations. The **Year Book** contains **sector-wise tables** and **India in Figures** is a **pocket digest**. The **Economic Survey** is the **Ministry of Finance's**.
+SC: The Year Book and India in Figures are MoSPI's.
+
+Q: The annual "National Indicator Framework Progress Report" on SDGs is released by:
+A) MoSPI
+B) NITI Aayog
+C) UNDP India
+D) Ministry of External Affairs
+ANS: A
+D: Easy
+EXP: **MoSPI** publishes the **NIF Progress Report**, measuring India's progress on national SDG indicators. **NITI Aayog** publishes the **SDG India Index**, ranking States and UTs.
+SC: MoSPI measures progress; NITI ranks the States.
+
+Q: The "Payroll Reporting in India: An Employment Perspective" release is made by:
+A) NSO, MoSPI, monthly
+B) EPFO, quarterly
+C) Labour Bureau, annually
+D) RBI, half-yearly
+ANS: A
+D: Medium
+EXP: The **NSO** releases payroll data (new subscribers to **EPF, ESI, NPS**) **monthly**, with the notes placing it around the 25th. The underlying data come from EPFO, ESIC and PFRDA.
+SC: Payroll reporting is NSO's monthly compilation of EPF, ESI and NPS data.
+
+@topic RBI & Finance Publications
+Q: The "Handbook of Statistics on Indian Economy" is published annually by:
+A) Reserve Bank of India
+B) MoSPI
+C) Ministry of Finance
+D) NITI Aayog
+ANS: A
+D: Easy
+EXP: The **RBI** publishes the **Handbook of Statistics on Indian Economy** and the **Handbook of Statistics on Indian States** (both annual), the **RBI Bulletin** (monthly), and the **Report on Trend and Progress of Banking**.
+SC: The Handbook of Indian Economy statistics is the RBI's.
+
+Q: The Financial Stability Report of the RBI is published:
+A) half-yearly
+B) monthly
+C) annually
+D) quarterly
+ANS: A
+D: Medium
+EXP: The **FSR is half-yearly** (June and December). The **Monetary Policy Report** is also **half-yearly**. The **RBI Bulletin** is **monthly**. The **Annual Report** and **Report on Currency and Finance** are annual or occasional.
+SC: FSR and MPR come out twice a year; the Bulletin monthly.
+
+Q: The Economic Survey of India, presented before the Union Budget, is prepared by:
+A) Department of Economic Affairs, Ministry of Finance (under the Chief Economic Adviser)
+B) NITI Aayog
+C) RBI
+D) MoSPI
+ANS: A
+D: Easy
+EXP: The **Economic Survey** is prepared by the **Economic Division of DEA**, led by the **Chief Economic Adviser**, and tabled before the Budget. It draws on **MoSPI and RBI data**.
+SC: The Survey comes from the CEA's team in DEA, before the Budget.
+
+Q: "Indian Public Finance Statistics" is published by:
+A) Ministry of Finance
+B) RBI
+C) CAG
+D) Finance Commission
+ANS: A
+D: Hard
+EXP: **Indian Public Finance Statistics** (annual) comes from the **Ministry of Finance** (DEA). The **RBI's "State Finances: A Study of Budgets"** covers State budgets.
+SC: IPFS is from the Ministry of Finance; State budget studies from the RBI.
+
+@topic Sectoral Ministries & Agencies
+Q: "Agricultural Statistics at a Glance" is an annual publication of:
+A) Directorate of Economics and Statistics, Ministry of Agriculture & Farmers Welfare
+B) NSO, MoSPI
+C) ICAR
+D) NABARD
+ANS: A
+D: Easy
+EXP: **DES, MoA&FW** publishes **Agricultural Statistics at a Glance** and the **Pocket Book of Agricultural Statistics**. **Horticultural Statistics at a Glance** is also from MoA&FW.
+SC: Agriculture compendiums come from DES, MoA&FW.
+
+Q: "Basic Animal Husbandry Statistics" is published by:
+A) Department of Animal Husbandry and Dairying
+B) DES, Ministry of Agriculture
+C) NSO
+D) National Dairy Development Board
+ANS: A
+D: Medium
+EXP: The **Department of Animal Husbandry & Dairying** publishes **Basic Animal Husbandry Statistics** (annual) and conducts the **Livestock Census**. Fisheries statistics come from the **Department of Fisheries**.
+SC: Livestock data come from DAHD.
+
+Q: The "Indian Labour Journal" (monthly) and the "Indian Labour Year Book" are published by:
+A) Labour Bureau
+B) Directorate General of Employment
+C) EPFO
+D) NSO
+ANS: A
+D: Medium
+EXP: The **Labour Bureau** (Shimla/Chandigarh, MoLE) publishes the **Indian Labour Journal** (monthly, with CPI-IW figures), the **Indian Labour Year Book**, and statistics on strikes, lockouts and wages.
+SC: Labour periodicals come from the Labour Bureau.
+
+Q: The "National Health Profile", an annual compendium of health statistics, is published by:
+A) Central Bureau of Health Intelligence (CBHI)
+B) ICMR
+C) IIPS, Mumbai
+D) National Health Authority
+ANS: A
+D: Easy
+EXP: **CBHI** (under **DGHS, MoHFW**) publishes the **National Health Profile**. **IIPS** conducts the **NFHS**. **ICMR** is a research council.
+SC: The National Health Profile comes from CBHI.
+
+Q: The annual publication on health infrastructure and human resources in rural and urban areas, earlier titled "Rural Health Statistics", is now titled:
+A) Health Dynamics of India (Infrastructure & Human Resources)
+B) National Health Accounts
+C) Health Management Information System Report
+D) Family Welfare Statistics in India
+ANS: A
+D: Hard
+EXP: MoHFW's **Rural Health Statistics** was renamed **Health Dynamics of India (Infrastructure & Human Resources)**, covering sub-centres, PHCs, CHCs and staff. **HMIS** is the web-based facility reporting system.
+SC: Rural Health Statistics is now called Health Dynamics of India.
+
+Q: The Unified District Information System for Education Plus (UDISE+) is maintained by:
+A) Department of School Education & Literacy, Ministry of Education
+B) NCERT
+C) UGC
+D) NSO
+ANS: A
+D: Easy
+EXP: **UDISE+** is the school-level data system of the **Department of School Education & Literacy**. **AISHE** (All India Survey on Higher Education) comes from the **Department of Higher Education**. The **National Achievement Survey** comes from **NCERT**.
+SC: UDISE+ covers schools, AISHE higher education, NAS learning outcomes.
+
+Q: The All India Survey on Higher Education (AISHE) has been conducted annually since:
+A) 2010-11
+B) 2001-02
+C) 2015-16
+D) 1991-92
+ANS: A
+D: Medium
+EXP: **AISHE** has been conducted annually since **2010-11** by the **Ministry of Education (Department of Higher Education)**. It gives **GER in higher education** (ages 18-23), institutions, enrolment and teachers.
+SC: AISHE runs from 2010-11; its GER uses ages 18-23.
+
+Q: "Crime in India", "Accidental Deaths & Suicides in India" and "Prison Statistics India" are published by:
+A) National Crime Records Bureau
+B) Bureau of Police Research & Development
+C) Central Bureau of Investigation
+D) MoSPI
+ANS: A
+D: Easy
+EXP: The **NCRB (MHA)** publishes all three annually. **BPR&D** deals with police research and modernisation.
+SC: Crime, ADSI and prison data all come from NCRB.
+
+Q: "Road Accidents in India" is an annual publication of:
+A) Ministry of Road Transport and Highways
+B) NCRB
+C) NHAI
+D) MoSPI
+ANS: A
+D: Medium
+EXP: The **MoRTH (Transport Research Wing)** publishes **Road Accidents in India** and the **Road Transport Year Book**. The NCRB's **ADSI** also reports traffic accidents, using police data.
+SC: The road accidents report comes from MoRTH.
+
+Q: "India Tourism Statistics" is published by:
+A) Ministry of Tourism
+B) MoSPI
+C) Ministry of External Affairs
+D) Bureau of Immigration
+ANS: A
+D: Easy
+EXP: The **Ministry of Tourism** publishes **India Tourism Statistics** (foreign tourist arrivals, domestic tourist visits, foreign exchange earnings). MoSPI's **NSS** conducted the **Domestic Tourism** surveys (e.g. the 78th round).
+SC: Tourism statistics come from the Ministry of Tourism; household tourism surveys from NSS.
+
+Q: The "Indian Minerals Yearbook" is published by:
+A) Indian Bureau of Mines
+B) Geological Survey of India
+C) Ministry of Coal
+D) DGMS
+ANS: A
+D: Medium
+EXP: The **Indian Bureau of Mines (Nagpur)** publishes the **Indian Minerals Yearbook** and supplies mining data for the **IIP**. The **GSI** does geological mapping and exploration.
+SC: IBM Nagpur publishes the minerals yearbook.
+
+Q: The "India State of Forest Report" is published:
+A) biennially by the Forest Survey of India
+B) annually by MoEFCC
+C) every five years by ISRO
+D) quarterly by the FAO
+ANS: A
+D: Easy
+EXP: The **ISFR** is **biennial**, from the **Forest Survey of India (Dehradun)**. It assesses forest and tree cover using **remote sensing** (since **1987**).
+SC: The forest report comes every 2 years from FSI.
+
+Q: "Monthly Statistics of Foreign Trade of India" is brought out by:
+A) DGCI&S, Kolkata
+B) DGFT
+C) RBI
+D) Ministry of External Affairs
+ANS: A
+D: Easy
+EXP: **DGCI&S** compiles merchandise trade from customs data. The **RBI** compiles the **balance of payments**, and the **DGFT** handles licensing.
+SC: Trade volumes come from DGCI&S; BoP from the RBI.
+
+Q: Vital Statistics of India based on the Civil Registration System is published by:
+A) Office of the Registrar General of India
+B) Ministry of Health and Family Welfare
+C) NSO
+D) State DESs
+ANS: A
+D: Easy
+EXP: The **ORGI (MHA)** publishes the **CRS report** (annual), the **SRS Statistical Report and Bulletins**, and the **MCCD report**.
+SC: CRS, SRS and MCCD reports all come from ORGI.
+
+Q: "All India Electricity Statistics – General Review" is published by:
+A) Central Electricity Authority
+B) Power Finance Corporation
+C) Bureau of Energy Efficiency
+D) NSO
+ANS: A
+D: Hard
+EXP: The **CEA** (under the Ministry of Power) publishes the **General Review** on electricity generation, consumption and losses. It is also the **source of electricity data for IIP**.
+SC: Electricity statistics come from the CEA.
+
+Q: The Coal Directory of India is published by:
+A) Coal Controller's Organisation
+B) Coal India Limited
+C) Indian Bureau of Mines
+D) Central Mine Planning & Design Institute
+ANS: A
+D: Hard
+EXP: The **Coal Controller's Organisation** (Ministry of Coal) compiles **coal statistics** and the **Coal Directory**. **IBM** covers **non-coal** minerals.
+SC: Coal data come from the Coal Controller; other minerals from IBM.
+
+@topic Matching & Periodicity
+Q: Match List-I (Publication) with List-II (Agency):
+| List-I | List-II |
+|---|---|
+| A. National Health Profile | 1. NCRB |
+| B. Crime in India | 2. CBHI |
+| C. Handbook of Statistics on Indian States | 3. MoSPI |
+| D. Women and Men in India | 4. RBI |
+A) A-2, B-1, C-4, D-3
+B) A-1, B-2, C-4, D-3
+C) A-2, B-1, C-3, D-4
+D) A-2, B-4, C-1, D-3
+ANS: A
+T: Match
+D: Easy
+EXP: The pairs are **NHP → CBHI**, **Crime in India → NCRB**, **Handbook of Indian States → RBI** and **Women and Men → MoSPI**.
+SC: Health from CBHI, crime from NCRB, State finances from RBI, gender from MoSPI.
+
+Q: Match List-I (Statistic) with List-II (Release periodicity):
+| List-I | List-II |
+|---|---|
+| A. CPI (Rural/Urban/Combined) | 1. Quarterly |
+| B. GDP estimates (NSO) | 2. Biennial |
+| C. India State of Forest Report | 3. Monthly |
+| D. Livestock Census | 4. Quinquennial |
+A) A-3, B-1, C-2, D-4
+B) A-1, B-3, C-2, D-4
+C) A-3, B-2, C-1, D-4
+D) A-3, B-1, C-4, D-2
+ANS: A
+T: Match
+D: Easy
+EXP: The periodicities are **CPI monthly**, **GDP quarterly** (plus annual estimates), **ISFR biennial** and **Livestock Census every 5 years**.
+SC: CPI monthly, GDP quarterly, forests every 2 years, livestock every 5.
+
+Q: Which of the following is released monthly?
+A) Index of Eight Core Industries
+B) Annual Survey of Industries
+C) Economic Census
+D) Agriculture Census
+ANS: A
+D: Easy
+EXP: The **ICI** (OEA) is **monthly**, as are IIP, CPI and WPI. **ASI** is annual, the **EC** periodic, and the **Agriculture Census** quinquennial.
+SC: Indices are monthly; censuses are periodic.
+
+Q: Which of the following pairs is NOT correctly matched?
+A) Sarvekshana – RBI
+B) Indian Labour Journal – Labour Bureau
+C) Indian Minerals Yearbook – IBM
+D) Road Transport Year Book – MoRTH
+ANS: A
+T: Odd-one-out
+D: Easy
+EXP: **Sarvekshana** is the **NSO's** journal (the NSS journal, since 1977). The other three pairs are correct.
+SC: Sarvekshana belongs to NSO, not the RBI.
+
+Q: The Economic Census, which counts all non-farm establishments, has been conducted by:
+A) MoSPI (earlier CSO, now NSO), with States/UTs
+B) Office of the Registrar General of India
+C) Ministry of MSME
+D) Ministry of Commerce
+ANS: A
+D: Easy
+EXP: The **EC** is MoSPI's (**ESD**). The **7th EC (2019-20)** was carried out through **CSC e-Governance Services**. The **Population Census** is ORGI's.
+SC: The EC belongs to MoSPI; the Population Census to ORGI.
+
+Q: Which organisation publishes the "Global Gender Gap Report"?
+A) World Economic Forum
+B) UNDP
+C) UN Women
+D) World Bank
+ANS: A
+D: Easy
+EXP: The **Global Gender Gap Index** (WEF, since 2006) covers four sub-indices: **economic participation & opportunity, educational attainment, health & survival, and political empowerment**. **UNDP** publishes the **GDI and GII** in its Human Development Report.
+SC: GGGI is from WEF; GDI and GII are from UNDP.
+
+Q: The "World Happiness Report" is published by:
+A) UN Sustainable Development Solutions Network (with Gallup data)
+B) UNDP
+C) WHO
+D) OECD
+ANS: A
+D: Medium
+EXP: The **World Happiness Report** is published by the **UN SDSN** with partners, using **Gallup World Poll** life evaluations. The **OECD** has a separate **Better Life Index**.
+SC: The happiness report comes from SDSN and Gallup.
+
+Q: The "Global Innovation Index" is published by:
+A) World Intellectual Property Organization (WIPO)
+B) WTO
+C) UNCTAD
+D) World Economic Forum
+ANS: A
+D: Medium
+EXP: The **GII** is published by **WIPO** (with Portulans Institute and partners). **UNCTAD** publishes the **World Investment Report**.
+SC: The innovation index is WIPO's; investment reports are UNCTAD's.
+
+Q: Monitoring of the Twenty Point Programme (TPP) and the release of funds under MPLADS are functions of:
+A) the Programme Implementation Wing of MoSPI
+B) NITI Aayog
+C) the Ministry of Rural Development
+D) the Lok Sabha Secretariat
+ANS: A
+D: Easy
+EXP: MoSPI's **PI Wing** monitors the **Twenty Point Programme**, administers **MPLADS** and, through **IPMD**, tracks **Central Sector projects of ₹150 crore and above**.
+SC: TPP, MPLADS and project monitoring all sit in MoSPI's PI Wing.
+
+Q: The "Annual Report on Periodic Labour Force Survey" and the quarterly PLFS bulletins are released by:
+A) NSO, MoSPI
+B) Labour Bureau
+C) Ministry of Labour and Employment
+D) EPFO
+ANS: A
+D: Easy
+EXP: **PLFS** is the **NSO's** survey, with fieldwork by **FOD**. The **Labour Bureau** runs **QES/AQEES** and the other establishment surveys.
+SC: PLFS belongs to NSO; QES to the Labour Bureau.
+
+Q: Which of the following is the correct pairing of index and its compiling agency?
+A) CPI-AL/RL – Labour Bureau; CPI (Combined) – NSO; WPI – OEA, DPIIT
+B) CPI-AL/RL – NSO; CPI (Combined) – Labour Bureau; WPI – RBI
+C) CPI-AL/RL – DES, MoA&FW; CPI (Combined) – RBI; WPI – NSO
+D) All three are compiled by NSO
+ANS: A
+D: Easy
+EXP: The compilers are **Labour Bureau** for **CPI-IW, CPI-AL and CPI-RL**, **NSO (PSD)** for **CPI-R/U/C**, and **OEA, DPIIT** for **WPI** and **ICI**. **NSO (ESD)** compiles **IIP**.
+SC: The Labour Bureau handles worker CPIs, NSO the general CPI, OEA the WPI.
+
+Q: Consider the following statements:
+1. The National Achievement Survey (NAS) of learning outcomes is conducted by NCERT for the Ministry of Education.
+2. ASER, the Annual Status of Education Report, is an official survey of MoSPI.
+3. UDISE+ collects school-level data on enrolment and infrastructure.
+Which of the statements given above is/are correct?
+A) 1 and 3 only
+B) 2 and 3 only
+C) 1 only
+D) 1, 2 and 3
+ANS: A
+T: Statement
+D: Medium
+EXP: **NAS** is run by **NCERT** for the Ministry of Education. **UDISE+** collects school-level administrative data. **ASER** is a **citizen-led survey by Pratham**, not an official MoSPI survey.
+SC: ASER is Pratham's, not an official survey.
+
+Q: The "Report on Trend and Progress of Banking in India" is an annual statutory publication of:
+A) RBI
+B) Indian Banks' Association
+C) Ministry of Finance (Department of Financial Services)
+D) NABARD
+ANS: A
+D: Medium
+EXP: The RBI submits this report to the Government under the **Banking Regulation Act, 1949**. It reviews the banking sector's performance and policies.
+SC: Banking trends are reported by the RBI under the BR Act.
+
+Q: Arrange the following in the order of their normal monthly release dates (earliest first), as per the notes:
+1. CPI (Combined)
+2. WPI
+3. CPI-IW
+A) 1-2-3
+B) 2-1-3
+C) 3-1-2
+D) 1-3-2
+ANS: A
+T: Chronology
+D: Medium
+EXP: As per the notes: **CPI on the 12th**, **WPI on the 14th**, **CPI-IW on the last working day** of the month. Release calendars can change, so check MoSPI's advance release calendar.
+SC: 12th CPI, 14th WPI, month-end CPI-IW.
+
+Q: Under the IMF SDDS, MoSPI publishes an advance release calendar. The purpose of an advance release calendar is to:
+A) announce release dates of data in advance, ensuring equal access and transparency
+B) delay the release of sensitive data
+C) permit revision without notice
+D) restrict data to Government users first
+ANS: A
+T: Conceptual
+D: Easy
+EXP: The **ARC** announces dates in advance. It supports **FPOS Principle 1 (equal access)** and **transparency**, and prevents selective early access.
+SC: An advance calendar gives everyone access at the same time.
+
+Q: Which agency compiles the "Index of Industrial Production"?
+A) NSO (ESD), MoSPI
+B) OEA, DPIIT
+C) RBI
+D) CEA
+ANS: A
+D: Easy
+EXP: **IIP** is compiled by **NSO (ESD)** from **14 source agencies**, the main one being **DPIIT**. The **OEA** compiles the **ICI and WPI**.
+SC: IIP is ESD's; ICI and WPI are OEA's.

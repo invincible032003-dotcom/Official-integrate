@@ -187,7 +187,7 @@ def rebalance(qs, dist):
 
 def build_sets():
     sets, allq = [], []
-    for kind, sub in (("book", "book"), ("notes", "notes")):
+    for kind, sub in (("book", "book"), ("notes", "notes"), ("extra", "extra")):
         for path in sorted(glob.glob(os.path.join(CONTENT, sub, "*.txt"))):
             meta, qs = parse_set_file(path, kind)
             sid = meta.get("set")
@@ -238,6 +238,8 @@ def build_sets():
                 src_ref = q.get("P", "")
                 if kind == "book":
                     source = "Book p. %s" % src_ref if src_ref else "Book pp. %s" % meta.get("pages", "")
+                elif kind == "extra":
+                    source = "UPSC ISS syllabus (beyond book & notes)" + ((" · " + src_ref) if src_ref else "")
                 else:
                     source = "Notes %02d%s" % (q["note"], (", p. %s" % src_ref) if src_ref else "")
                 out.append({
@@ -270,7 +272,7 @@ def build_sets():
                 "topics": topics, "notes": sorted(notes_in), "count": n, "answerDist": dist,
             })
             allq.extend(out)
-    order = {"book": 0, "notes": 1}
+    order = {"book": 0, "notes": 1, "extra": 2}
     sets.sort(key=lambda s: (order[s["kind"]], s["id"]))
     return sets, allq
 
@@ -409,10 +411,10 @@ def build_pointers():
                     err("%s:%d unparsed pointer line %r" % (rel, ln_no, line[:60]))
         if not block["title"]:
             err("%s missing '# title'" % rel)
-        if block["group"] not in ("book", "notes", "fullforms", "strategy"):
-            err("%s @group must be book/notes/fullforms/strategy" % rel)
+        if block["group"] not in ("book", "notes", "extra", "fullforms", "strategy"):
+            err("%s @group must be book/notes/extra/fullforms/strategy" % rel)
         out.append(block)
-    order = {"strategy": 0, "notes": 1, "book": 2, "fullforms": 3}
+    order = {"strategy": 0, "notes": 1, "book": 2, "extra": 3, "fullforms": 4}
     out.sort(key=lambda blk: (order.get(blk["group"], 9), blk["id"]))
     return out
 

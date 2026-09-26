@@ -1,0 +1,478 @@
+@set X02
+@title UPSC+ · International Statistical System, Standards & Classifications
+@pages Syllabus: National & international official statistical system
+@desc UN Statistical Commission, UNSD, ISI, IAOS, SIAP, ESCAP; IMF data standards; World Bank ICP, LSMS; ILO ICLS & ICSE-18; city groups; SDG indicator architecture; international and Indian classifications (ISIC/NIC, ISCO/NCO, CPC/NPCMS, HS/ITC-HS, SITC, COICOP, ISCED, ICD); SNA and BPM editions
+
+@topic Global Bodies
+Q: The United Nations Statistical Commission, the apex body of the global statistical system, was established in:
+A) 1946, as a functional commission of ECOSOC
+B) 1945, under the UN Charter as a principal organ
+C) 1961, under the UN General Assembly
+D) 1972, under UNDP
+ANS: A
+D: Medium
+EXP: The **UN Statistical Commission (1946)** is a **functional commission of ECOSOC** with **24 member States** elected for **4 years**. It meets annually in **New York**, and **UNSD** is its secretariat.
+SC: UNSC was set up in 1946 under ECOSOC, with 24 members and UNSD as secretariat.
+
+Q: The UN Statistical Commission consists of how many member States?
+A) 24
+B) 15
+C) 54
+D) 193
+ANS: A
+D: Medium
+EXP: There are **24 members**, elected by **ECOSOC** on an equitable geographical basis for **4-year terms**. ECOSOC itself has 54 members, which is the distractor.
+SC: UNSC has 24 members; ECOSOC has 54.
+
+Q: The International Statistical Institute (ISI), one of the oldest international statistical bodies, was founded in 1885 and is headquartered at:
+A) The Hague, Netherlands
+B) Geneva, Switzerland
+C) Kolkata, India
+D) New York, USA
+ANS: A
+D: Medium
+EXP: The **ISI (1885)** is based in **The Hague**. It organises the **World Statistics Congress** and adopted a **Declaration on Professional Ethics** (1985). The **Indian Statistical Institute (Kolkata, 1931)** is a different body.
+SC: International ISI is in The Hague (1885); Indian ISI is in Kolkata (1931).
+
+Q: The International Association for Official Statistics (IAOS) is a specialised association of:
+A) the International Statistical Institute
+B) the IMF
+C) the World Bank
+D) the OECD
+ANS: A
+D: Hard
+EXP: **IAOS (1985)** is a **section of the ISI** devoted to official statistics. It publishes the **Statistical Journal of the IAOS**.
+SC: IAOS is the official-statistics wing of the ISI.
+
+Q: The Statistical Institute for Asia and the Pacific (SIAP), a training institute of ESCAP, is located at:
+A) Chiba, Japan
+B) Bangkok, Thailand
+C) Manila, Philippines
+D) New Delhi, India
+ANS: A
+D: Medium
+EXP: **SIAP** (set up **1970**) is in **Chiba, Japan** and trains official statisticians of the region. **ESCAP** itself is headquartered in **Bangkok**, and the **ADB** in Manila.
+SC: SIAP is in Chiba; ESCAP is in Bangkok.
+
+Q: The Committee for the Coordination of Statistical Activities (CCSA) coordinates statistical work among:
+A) international and supranational organisations
+B) Indian States
+C) Central Ministries of India
+D) private data firms
+ANS: A
+D: Hard
+EXP: The **CCSA** coordinates the statistical programmes of **international organisations** (UN agencies, IMF, World Bank, OECD, Eurostat and others). Within India, coordination is done by **MoSPI/NSO** and forums such as **COCSSO**.
+SC: CCSA coordinates international agencies; COCSSO coordinates Indian States.
+
+Q: The UN World Data Forum was first held in 2017 at Cape Town, where the following was launched:
+A) Cape Town Global Action Plan for Sustainable Development Data
+B) Fundamental Principles of Official Statistics
+C) SDDS Plus
+D) SEEA Central Framework
+ANS: A
+D: Hard
+EXP: The **first UN World Data Forum (Cape Town, January 2017)** launched the **Cape Town Global Action Plan** for sustainable development data, focused on building statistical capacity for the SDGs.
+SC: Cape Town 2017 produced the Global Action Plan for SDG data.
+
+Q: The Inter-agency and Expert Group on SDG Indicators (IAEG-SDGs) is responsible for:
+A) developing and reviewing the global indicator framework for the SDGs
+B) funding national statistical offices
+C) compiling India's NIF
+D) ranking Indian States on SDGs
+ANS: A
+D: Medium
+EXP: The **IAEG-SDGs**, under the UN Statistical Commission, develops and refines the **global indicator framework** and classifies indicators into **tiers**. India's **NIF** is compiled by **MoSPI**, and State rankings come from **NITI Aayog**.
+SC: IAEG-SDGs designs global indicators; MoSPI adapts them into the NIF.
+
+Q: Under the SDG indicator tier system, a Tier II indicator is one that:
+A) has an established methodology and standards, but data are not regularly produced by countries
+B) has no internationally established methodology
+C) has both methodology and regular data from most countries
+D) is used only at the national level
+ANS: A
+D: Hard
+EXP: **Tier I**: methodology exists and data are regularly produced. **Tier II**: methodology exists but data are not regular. **Tier III**: no established methodology. Tier III was emptied by 2020.
+SC: Tier I has method and data; Tier II method only; Tier III neither.
+
+@topic IMF & World Bank Standards
+Q: Arrange the following IMF data dissemination initiatives in chronological order of launch:
+1. SDDS Plus
+2. SDDS
+3. e-GDDS
+4. GDDS
+A) 2-4-1-3
+B) 4-2-1-3
+C) 2-4-3-1
+D) 2-1-4-3
+ANS: A
+T: Chronology
+D: Hard
+EXP: **SDDS 1996 → GDDS 1997 → SDDS Plus 2012 → e-GDDS 2015** (enhanced GDDS replaced GDDS). India subscribed to **SDDS in 1996**.
+SC: 96 SDDS, 97 GDDS, 2012 Plus, 2015 e-GDDS.
+
+Q: The IMF's SDDS Plus, the highest tier of its data standards, was introduced in:
+A) 2012
+B) 1996
+C) 2015
+D) 2008
+ANS: A
+D: Medium
+EXP: **SDDS Plus (2012)** adds data categories such as sectoral balance sheets and financial soundness indicators, for systemically important economies. India subscribes to **SDDS**.
+SC: SDDS Plus dates from 2012, after the global financial crisis.
+
+Q: The International Comparison Program (ICP), which produces purchasing power parities (PPPs) to compare economies, is globally coordinated by:
+A) the World Bank
+B) the IMF
+C) the WTO
+D) the OECD alone
+ANS: A
+D: Easy
+EXP: The **ICP** is coordinated by the **World Bank**, with regional agencies such as the ADB for Asia-Pacific. India participates through **NSO (PSD)**. In PPP terms, India ranks as the world's **third-largest economy** in recent ICP rounds.
+SC: ICP means World Bank PPPs; in India it is handled by PSD.
+
+Q: Purchasing Power Parity (PPP) between two countries is best defined as:
+A) the number of units of a country's currency required to buy the same basket of goods and services that one unit of a reference currency buys in the reference country
+B) the market exchange rate
+C) the ratio of two countries' GDPs
+D) the ratio of two countries' CPI inflation rates
+ANS: A
+T: Conceptual
+D: Medium
+EXP: A **PPP** is a **spatial price deflator and currency converter**. It equalises purchasing power across countries, unlike **market exchange rates**, which reflect traded goods and capital flows.
+SC: PPP makes a basket cost the same everywhere.
+
+Q: The Living Standards Measurement Study (LSMS), a household survey programme, is associated with:
+A) the World Bank
+B) UNICEF
+C) USAID
+D) the ILO
+ANS: A
+D: Medium
+EXP: **LSMS** is run by the **World Bank** (since 1980). **MICS** is UNICEF's programme and **DHS** is USAID's, with NFHS as India's DHS. **Labour force survey** standards come from the **ILO**.
+SC: LSMS is the World Bank's, MICS UNICEF's, DHS USAID's.
+
+Q: Match List-I (Survey programme) with List-II (Sponsoring agency):
+| List-I | List-II |
+|---|---|
+| A. MICS | 1. USAID |
+| B. DHS | 2. World Bank |
+| C. LSMS | 3. UNICEF |
+A) A-3, B-1, C-2
+B) A-1, B-3, C-2
+C) A-2, B-1, C-3
+D) A-3, B-2, C-1
+ANS: A
+T: Match
+D: Medium
+EXP: The matches are **MICS → UNICEF**, **DHS → USAID** (NFHS is India's DHS) and **LSMS → World Bank**.
+SC: MICS is children (UNICEF), DHS is demographic health (USAID), LSMS is living standards (World Bank).
+
+Q: PARIS21, which promotes National Strategies for the Development of Statistics (NSDS), is hosted by:
+A) OECD
+B) UNSD
+C) Eurostat
+D) IMF
+ANS: A
+D: Hard
+EXP: **PARIS21** (Partnership in Statistics for Development in the 21st Century), created in **1999**, is hosted by the **OECD** in Paris. It champions **NSDS** in developing countries.
+SC: PARIS21 is Paris-based at the OECD and promotes the NSDS.
+
+@topic ILO & Labour Standards
+Q: The 19th International Conference of Labour Statisticians (2013) is known for:
+A) a new framework of work statistics, restricting "employment" to work for pay or profit
+B) defining the informal sector for the first time
+C) the International Classification of Status in Employment 2018
+D) the definition of hours actually worked
+ANS: A
+D: Hard
+EXP: The **19th ICLS (2013)** set out **forms of work**: **employment (work for pay or profit)**, **own-use production work**, unpaid trainee work, volunteer work and other work. The informal sector was defined by the **15th ICLS (1993)**, **ICSE-18** came from the **20th ICLS (2018)**, and working time from the **18th ICLS**.
+SC: 15th informal sector, 17th informal jobs, 18th working time, 19th forms of work, 20th ICSE-18.
+
+Q: ICSE-18, the International Classification of Status in Employment, was adopted by:
+A) the 20th ICLS in 2018
+B) the 15th ICLS in 1993
+C) the UN Statistical Commission in 2008
+D) the 19th ICLS in 2013
+ANS: A
+D: Medium
+EXP: **ICSE-18** replaced **ICSE-93**. It was adopted at the **20th ICLS (2018)** and introduced the **dependent contractor** category.
+SC: ICSE-18 comes from the 20th ICLS in 2018.
+
+Q: Which of the following is correctly matched?
+A) 15th ICLS – Informal sector
+B) 17th ICLS – Status in employment (ICSE-18)
+C) 18th ICLS – Forms of work framework
+D) 20th ICLS – Informal employment
+ANS: A
+D: Medium
+EXP: The correct pairs are **15th (1993) → informal sector**, **17th (2003) → informal employment**, **18th (2008) → working time**, **19th (2013) → forms of work** and **20th (2018) → ICSE-18**.
+SC: The ICLS runs 15-17-18-19-20 as sector, jobs, time, work forms, status.
+
+@topic UN City Groups
+Q: Match List-I (UN city group) with List-II (Subject):
+| List-I | List-II |
+|---|---|
+| A. Voorburg Group | 1. Price indices |
+| B. Ottawa Group | 2. Service statistics |
+| C. Washington Group | 3. Environmental-economic accounting |
+| D. London Group | 4. Disability statistics |
+A) A-2, B-1, C-4, D-3
+B) A-1, B-2, C-4, D-3
+C) A-2, B-1, C-3, D-4
+D) A-2, B-4, C-1, D-3
+ANS: A
+T: Match
+D: Medium
+EXP: The city groups are **Voorburg → services**, **Ottawa → prices**, **Washington → disability**, **London → environmental accounting**. Others: **Delhi → informal sector**, **Rio → poverty**, **Canberra → household income**, **Oslo → energy**, **Wiesbaden → business registers**.
+SC: Voorburg services, Ottawa prices, Washington disability, London environment, Delhi informal sector.
+
+Q: The Washington Group questions, widely used in censuses and surveys, relate to:
+A) disability statistics
+B) price statistics
+C) informal sector
+D) energy statistics
+ANS: A
+D: Easy
+EXP: The **Washington Group on Disability Statistics** (2001) developed short question sets on **functional difficulties** (seeing, hearing, walking, cognition, self-care, communication).
+SC: The Washington Group covers disability.
+
+Q: The Canberra Group handbook provides international guidance on:
+A) household income statistics
+B) service producer prices
+C) the informal sector
+D) business registers
+ANS: A
+D: Hard
+EXP: The **Canberra Group** covers **household income** statistics (the Canberra Handbook). Distractors: **Voorburg** covers services, **Delhi** the informal sector and **Wiesbaden** business registers.
+SC: Canberra covers household income.
+
+@topic Classifications
+Q: India's National Industrial Classification NIC-2008 is aligned with:
+A) ISIC Revision 4
+B) ISIC Revision 3.1
+C) NAICS
+D) SITC Revision 4
+ANS: A
+D: Easy
+EXP: **NIC-2008** follows **ISIC Rev.4** (UN, 2008). **NIC-2004** followed **ISIC Rev.3.1**, and **NIC-1998** followed **ISIC Rev.3**.
+SC: NIC-08 ↔ ISIC 4, NIC-04 ↔ ISIC 3.1, NIC-98 ↔ ISIC 3.
+
+Q: Match List-I (International classification) with List-II (Indian counterpart / use):
+| List-I | List-II |
+|---|---|
+| A. ISCO-08 | 1. NPCMS |
+| B. CPC | 2. ITC-HS |
+| C. Harmonized System | 3. NIC |
+| D. ISIC | 4. NCO |
+A) A-4, B-1, C-2, D-3
+B) A-1, B-4, C-2, D-3
+C) A-4, B-2, C-1, D-3
+D) A-4, B-1, C-3, D-2
+ANS: A
+T: Match
+D: Medium
+EXP: The pairs are **ISCO → NCO** (occupations), **CPC → NPCMS** (products), **HS → ITC-HS** (traded goods, 8-digit) and **ISIC → NIC** (industries).
+SC: Occupation NCO, product NPCMS, trade ITC-HS, industry NIC.
+
+Q: The Harmonized Commodity Description and Coding System (HS) is maintained by:
+A) the World Customs Organization
+B) the WTO
+C) UNCTAD
+D) the UN Statistics Division
+ANS: A
+D: Medium
+EXP: The **HS** is maintained by the **World Customs Organization (WCO)**. It is harmonised internationally at **6 digits** and revised roughly every **5 years** (current edition HS 2022). India's **ITC-HS** extends it to **8 digits**.
+SC: HS is WCO's, 6 digits worldwide; India uses 8.
+
+Q: The International Standard Classification of Education (ISCED 2011) is maintained by:
+A) UNESCO (UNESCO Institute for Statistics, Montreal)
+B) the World Bank
+C) UNICEF
+D) OECD
+ANS: A
+D: Medium
+EXP: **ISCED** belongs to **UNESCO**. The **UNESCO Institute for Statistics (UIS)** in **Montreal** is the custodian of education SDG data.
+SC: Education classification is UNESCO's, via UIS in Montreal.
+
+Q: The WHO's ICD-11 (International Classification of Diseases, 11th revision) came into effect on:
+A) 1 January 2022
+B) 1 January 2016
+C) 1 January 2020
+D) 1 April 2019
+ANS: A
+D: Medium
+EXP: **ICD-11** came into effect on **1 January 2022**, replacing ICD-10. Cause-of-death coding such as India's **MCCD** has long used **ICD-10**.
+SC: ICD-11 took effect on 1 January 2022.
+
+Q: COICOP is the international classification used for:
+A) household consumption expenditure by purpose
+B) government functions
+C) industries
+D) occupations
+ANS: A
+D: Easy
+EXP: **COICOP** is the Classification of Individual Consumption According to Purpose. It is used for **PFCE** and **CPI** groupings. Government functions use **COFOG**.
+SC: COICOP is for households; COFOG is for government.
+
+Q: Which UN classification groups traded goods into categories such as capital goods, intermediate goods and consumption goods for economic analysis?
+A) Broad Economic Categories (BEC)
+B) ISIC
+C) ISCO
+D) ICD
+ANS: A
+D: Hard
+EXP: **BEC** reclassifies trade (HS/SITC) into **end-use** categories: **capital, intermediate and consumption** goods. **SITC** (Standard International Trade Classification) groups goods by **stage of processing**.
+SC: BEC classifies trade by end use.
+
+Q: India's National Classification of Occupations, NCO-2015, is based on:
+A) ISCO-08
+B) ISCO-88
+C) ISIC Rev.4
+D) ICSE-93
+ANS: A
+D: Medium
+EXP: **NCO-2015** (Directorate General of Employment, MoLE) is aligned with **ISCO-08**. **NCO-2004** followed **ISCO-88**.
+SC: NCO-15 ↔ ISCO-08; NCO-04 ↔ ISCO-88.
+
+@topic Accounting Standards & Models
+Q: Arrange the editions of the UN System of National Accounts in chronological order:
+1. SNA 1993
+2. SNA 1968
+3. SNA 2008
+4. SNA 1953
+A) 4-2-1-3
+B) 2-4-1-3
+C) 4-1-2-3
+D) 4-2-3-1
+ANS: A
+T: Chronology
+D: Easy
+EXP: The editions run **1953 → 1968 → 1993 → 2008**. India's **2011-12 series** follows **SNA 2008**. A **2025 SNA** has since been adopted by the UN Statistical Commission.
+SC: 53, 68, 93, 2008, then 2025.
+
+Q: The IMF's Balance of Payments and International Investment Position Manual, 6th edition (BPM6), was released in:
+A) 2009
+B) 1993
+C) 2014
+D) 2001
+ANS: A
+D: Hard
+EXP: **BPM6** (2009) is harmonised with **SNA 2008**. The **RBI** compiles India's BoP on BPM6. Related IMF manuals include the **GFSM 2014** (government finance) and the **MFSM** (monetary and financial statistics).
+SC: BPM6 dates from 2009 and matches SNA 2008.
+
+Q: The Generic Statistical Business Process Model (GSBPM) is developed under the auspices of:
+A) UNECE (High-Level Group for the Modernisation of Official Statistics)
+B) the IMF
+C) the World Bank
+D) the ILO
+ANS: A
+D: Medium
+EXP: The **GSBPM**, along with **GSIM, CSPA and GAMSO**, comes from **UNECE's HLG-MOS**. It describes the phases of statistical production, from **specifying needs to evaluation**.
+SC: The generic models all come from UNECE's HLG-MOS.
+
+Q: SDMX, an ISO standard for exchanging statistical data and metadata, is sponsored by:
+A) BIS, ECB, Eurostat, IMF, OECD, UN and World Bank
+B) only the UNSD
+C) only the IMF
+D) national statistical offices of G20 countries
+ANS: A
+D: Hard
+EXP: **SDMX** is sponsored by **seven international organisations**: BIS, ECB, Eurostat, IMF, OECD, UN and World Bank. It is used for exchanging aggregate data, for example with the IMF's NSDP. **DDI** is used for microdata documentation.
+SC: SDMX handles aggregates between agencies; DDI documents microdata.
+
+@topic Principles & Ethics
+Q: Which of the following was adopted by the International Statistical Institute in 1985?
+A) Declaration on Professional Ethics
+B) Fundamental Principles of Official Statistics
+C) SDDS
+D) Cape Town Global Action Plan
+ANS: A
+D: Hard
+EXP: The **ISI Declaration on Professional Ethics** (1985, revised 2010) guides statisticians' obligations to society, funders, colleagues and subjects. The **FPOS** were adopted by the **UNSC in 1994**.
+SC: ISI ethics 1985; UN FPOS 1994.
+
+Q: Consider the following statements about international statistical coordination:
+1. UNSD serves as the secretariat of the UN Statistical Commission.
+2. Eurostat is the statistical office of the European Union, located in Luxembourg.
+3. The OECD is headquartered in Geneva.
+Which of the statements given above is/are correct?
+A) 1 and 2 only
+B) 2 and 3 only
+C) 1 only
+D) 1, 2 and 3
+ANS: A
+T: Statement
+D: Medium
+EXP: **UNSD (New York)** is the secretariat of the UNSC. **Eurostat** is in **Luxembourg**. The **OECD** is headquartered in **Paris**, not Geneva, which is home to the ILO and WHO.
+SC: UNSD New York, Eurostat Luxembourg, OECD Paris, ILO/WHO Geneva.
+
+Q: Which organisation compiles the World Development Indicators (WDI)?
+A) World Bank
+B) UNDP
+C) IMF
+D) WTO
+ANS: A
+D: Easy
+EXP: The **WDI** are the **World Bank's** flagship database. The **Human Development Report** is **UNDP's**. The IMF publishes the **World Economic Outlook**, and the WTO the **World Trade Statistical Review**.
+SC: WDI is the World Bank's; HDR is UNDP's; WEO is the IMF's.
+
+Q: Which of the following international statistical publications is correctly matched with its agency?
+A) World Economic Outlook – IMF
+B) Human Development Report – World Bank
+C) World Development Report – UNDP
+D) Global Hunger Index – FAO
+ANS: A
+D: Medium
+EXP: The correct pairs are **WEO → IMF**, **HDR → UNDP**, **WDR → World Bank** and **GHI → Welthungerhilfe & Concern Worldwide**. The FAO publishes **SOFI**, the State of Food Security and Nutrition.
+SC: WEO is the IMF's, HDR UNDP's, WDR the World Bank's, GHI from NGOs.
+
+Q: The FAO's World Programme for the Census of Agriculture is conducted in rounds of:
+A) ten years
+B) five years
+C) one year
+D) twenty years
+ANS: A
+D: Easy
+EXP: The **World Census of Agriculture** runs **decennially**, as in the WCA 2020 round covering 2016-2025. **India** conducts its Agriculture Census **every 5 years** within that programme.
+SC: The FAO round is 10 years; India holds its census every 5.
+
+Q: The UN Global Geospatial Information Management initiative (UN-GGIM) primarily aims to:
+A) integrate geospatial information with statistics and strengthen national geospatial capacity
+B) set price index standards
+C) compile trade statistics
+D) regulate satellite launches
+ANS: A
+D: Medium
+EXP: **UN-GGIM** (2011) supports geospatial capacity and, with the Statistical Commission, the **Global Statistical Geospatial Framework**, which links statistics to location.
+SC: GGIM brings together maps and statistics.
+
+Q: The Statistical Performance Indicators (SPI), which replaced the Statistical Capacity Index, are published by:
+A) the World Bank
+B) the UNSD
+C) PARIS21
+D) the IMF
+ANS: A
+D: Hard
+EXP: The **World Bank's SPI** (2021) scores countries on **five pillars**: data use, data services, data products, data sources and data infrastructure. It replaced the older **Statistical Capacity Index**.
+SC: The World Bank's SPI replaced its capacity index.
+
+Q: Which of the following statements about purchasing power parities is correct?
+A) GDP in PPP terms usually raises the relative size of developing economies compared with market exchange rates
+B) PPPs are identical to market exchange rates
+C) PPPs are compiled by the WTO
+D) PPPs ignore non-traded services
+ANS: A
+T: Conceptual
+D: Medium
+EXP: **Non-traded services are cheaper** in developing countries, so **PPP-based GDP is larger** relative to market-rate GDP. This is why India ranks **3rd in PPP** terms.
+SC: Cheap local services inflate PPP GDP for developing countries.
+
+Q: The Global Hunger Index is jointly published by:
+A) Welthungerhilfe and Concern Worldwide
+B) FAO and WFP
+C) UNICEF and WHO
+D) World Bank and IFAD
+ANS: A
+D: Medium
+EXP: **GHI** is published by **Welthungerhilfe** (Germany) and **Concern Worldwide** (Ireland). Its indicators are undernourishment, **child stunting**, **child wasting** and **under-5 mortality**.
+SC: GHI comes from two NGOs, not a UN agency.

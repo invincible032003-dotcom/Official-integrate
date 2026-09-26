@@ -1,0 +1,487 @@
+@set X01
+@title UPSC+ · Index Numbers: Formulae, Tests & Numericals
+@pages Syllabus: Index numbers
+@desc Laspeyres, Paasche, Fisher, Marshall-Edgeworth, Bowley, Kelly, Walsh; tests of adequacy; weighted relatives; chain base, base shifting, splicing, deflating; cost of living index; errors; stock-market and official index conventions
+
+@topic Weighted Aggregative Formulae
+Q: The Laspeyres price index is given by:
+A) Σp1q0 / Σp0q0 × 100
+B) Σp1q1 / Σp0q1 × 100
+C) Σp1(q0 + q1) / Σp0(q0 + q1) × 100
+D) √(Σp1q0 / Σp0q0 × Σp1q1 / Σp0q1) × 100
+ANS: A
+D: Easy
+EXP: **Laspeyres** weights prices by **base-period quantities (q0)**. **Paasche** uses **current quantities (q1)**. **Marshall-Edgeworth** uses **(q0 + q1)**. **Fisher** is the **geometric mean of L and P**.
+SC: Laspeyres uses base weights (q0); Paasche uses current weights (q1).
+
+Q: The Paasche price index uses as weights:
+A) current-period quantities
+B) base-period quantities
+C) the average of base and current quantities
+D) fixed quantities of an arbitrary period
+ANS: A
+D: Easy
+EXP: **Paasche = Σp1q1 / Σp0q1 × 100**, weighted by **current quantities**. A **fixed arbitrary period's quantities** give **Kelly's** fixed-weight index.
+SC: Paasche uses present-period quantities.
+
+Q: Fisher's ideal price index is:
+A) the geometric mean of the Laspeyres and Paasche indices
+B) the arithmetic mean of the Laspeyres and Paasche indices
+C) the harmonic mean of the Laspeyres and Paasche indices
+D) the ratio of the Laspeyres to the Paasche index
+ANS: A
+D: Easy
+EXP: **Fisher = √(L × P)**. The **arithmetic mean (L + P)/2** is the **Dorbish-Bowley** index.
+SC: Fisher uses the GM; Bowley uses the AM.
+
+Q: Match List-I (Index) with List-II (Weights / construction):
+| List-I | List-II |
+|---|---|
+| A. Marshall-Edgeworth | 1. √(q0 q1) |
+| B. Walsh | 2. (q0 + q1) |
+| C. Kelly | 3. (L + P) / 2 |
+| D. Dorbish-Bowley | 4. Fixed quantities of a chosen period |
+A) A-2, B-1, C-4, D-3
+B) A-1, B-2, C-4, D-3
+C) A-2, B-1, C-3, D-4
+D) A-4, B-1, C-2, D-3
+ANS: A
+T: Match
+D: Medium
+EXP: The weights are **Marshall-Edgeworth: q0 + q1**; **Walsh: √(q0q1)**; **Kelly: fixed quantities of any chosen period**. **Dorbish-Bowley** is the **arithmetic mean of L and P**.
+SC: ME adds the quantities, Walsh takes their root, Kelly fixes them, Bowley averages L and P.
+
+Q: The Laspeyres quantity index is:
+A) Σq1p0 / Σq0p0 × 100
+B) Σq1p1 / Σq0p1 × 100
+C) Σq1p1 / Σq0p0 × 100
+D) Σq0p1 / Σq1p0 × 100
+ANS: A
+D: Medium
+EXP: A **quantity index** swaps the roles of p and q. **Laspeyres quantity index** = Σq1p0/Σq0p0, weighted by **base prices**. The **IIP** is a **Laspeyres-type quantity index**.
+SC: For a quantity index, swap p and q; Laspeyres still uses base-period weights.
+
+Q: The value index V01 is defined as:
+A) Σp1q1 / Σp0q0 × 100
+B) Σp1q0 / Σp0q0 × 100
+C) Σp1q1 / Σp0q1 × 100
+D) Σq1p0 / Σq0p0 × 100
+ANS: A
+D: Easy
+EXP: The **value index** compares total values: **Σp1q1/Σp0q0**. It changes because **both prices and quantities** change.
+SC: Value index = current value ÷ base value.
+
+@topic Tests of Adequacy
+Q: The time reversal test requires that:
+A) P01 × P10 = 1
+B) P01 × Q01 = V01
+C) P01 × P12 × P20 = 1
+D) P01 = Q01
+ANS: A
+D: Easy
+EXP: **Time reversal**: an index computed forward, times the index computed backward, equals **1**. **Factor reversal**: **P01 × Q01 = V01**. **Circular test**: **P01 × P12 × P20 = 1**.
+SC: Time reversal: forward × backward = 1.
+
+Q: Which of the following index numbers satisfies both the time reversal test and the factor reversal test?
+A) Fisher's ideal index
+B) Laspeyres' index
+C) Paasche's index
+D) Marshall-Edgeworth index
+ANS: A
+D: Easy
+EXP: **Fisher's index** satisfies **both time and factor reversal**, hence the name "**ideal**". **Marshall-Edgeworth** satisfies **time reversal only**. **Laspeyres and Paasche** satisfy **neither**. Fisher does **not** satisfy the **circular test**.
+SC: Fisher passes both reversal tests but fails the circular test.
+
+Q: Which of the following satisfies the circular test?
+A) Kelly's fixed-weight aggregative index
+B) Fisher's ideal index
+C) Laspeyres' index
+D) Paasche's index
+ANS: A
+D: Medium
+EXP: The **circular test** is satisfied by **Kelly's fixed-weight aggregative index** and by the **simple geometric mean of price relatives** (and the simple aggregative index). **Fisher fails it**, as do Laspeyres and Paasche.
+SC: Circular test: only fixed weights (Kelly) or a simple GM pass it.
+
+Q: Consider the following statements:
+1. Marshall-Edgeworth index satisfies the time reversal test.
+2. Laspeyres' index satisfies the factor reversal test.
+3. Dorbish-Bowley index satisfies the time reversal test.
+Which of the statements given above is/are correct?
+A) 1 and 3 only
+B) 1 only
+C) 2 and 3 only
+D) 1, 2 and 3
+ANS: B
+T: Statement
+D: Medium
+EXP: **Marshall-Edgeworth passes time reversal**. **Laspeyres fails factor reversal** (and time reversal). **Dorbish-Bowley (the AM of L and P) fails time reversal**. Fisher (the GM of L and P) passes it.
+SC: The AM of L and P fails time reversal; the GM (Fisher) passes it.
+
+Q: The simple aggregative price index Σp1/Σp0 fails which test?
+A) Unit test
+B) Time reversal test
+C) Circular test
+D) It fails none of the tests
+ANS: A
+D: Medium
+EXP: The **simple aggregative index** depends on the **units of measurement** (per kg vs per quintal), so it **fails the unit test**. It does satisfy **time reversal and circular** tests. All weighted formulae satisfy the unit test.
+SC: Adding raw prices is unit-dependent, so the unit test fails.
+
+Q: The factor reversal test is satisfied if:
+A) the price index multiplied by the corresponding quantity index equals the value index
+B) the price index equals the quantity index
+C) the product of forward and backward indices equals one
+D) the index is independent of units
+ANS: A
+D: Easy
+EXP: **Factor reversal**: interchanging p and q gives a quantity index Q01 such that **P01 × Q01 = Σp1q1/Σp0q0**. Only **Fisher** passes it among the common formulae.
+SC: Price index × quantity index = value index.
+
+Q: Laspeyres price index × Paasche quantity index equals:
+A) the value index
+B) Fisher's price index
+C) 1
+D) the Laspeyres quantity index
+ANS: A
+T: Numerical
+D: Hard
+EXP: **L_p × P_q = (Σp1q0/Σp0q0) × (Σq1p1/Σq0p1) = Σp1q1/Σp0q0 = V**. Likewise **P_p × L_q = V**. This "crossed" pair satisfies factor reversal, although neither index does alone.
+SC: A crossed Laspeyres-Paasche pair multiplies to the value index.
+
+@topic Weighted Averages of Relatives
+Q: The weighted arithmetic mean of price relatives (p1/p0), with base-period values (p0q0) as weights, gives:
+A) Laspeyres' price index
+B) Paasche's price index
+C) Fisher's index
+D) Kelly's index
+ANS: A
+D: Medium
+EXP: **Σ(p1/p0)·p0q0 / Σp0q0 = Σp1q0/Σp0q0 = Laspeyres**. This is how CPIs are built in practice, as an expenditure-share-weighted average of price relatives.
+SC: AM of relatives with base-value weights = Laspeyres.
+
+Q: The weighted harmonic mean of price relatives, with current-period values (p1q1) as weights, gives:
+A) Paasche's price index
+B) Laspeyres' price index
+C) Marshall-Edgeworth index
+D) Fisher's index
+ANS: A
+D: Hard
+EXP: **HM = Σp1q1 / Σ[(p0/p1)·p1q1] = Σp1q1/Σp0q1 = Paasche**. The weighted AM of relatives with weights p0q1 also gives Paasche.
+SC: HM of relatives with current-value weights = Paasche.
+
+Q: The family budget method of constructing a cost of living index is equivalent to:
+A) Laspeyres' index, using the weighted arithmetic mean of price relatives with base-period expenditure weights
+B) Paasche's index
+C) Fisher's index
+D) a simple geometric mean of prices
+ANS: A
+D: Medium
+EXP: The **family budget method** takes **I = ΣIW/ΣW**, where **W = p0q0** (base expenditure). That equals **Laspeyres**. The **aggregate expenditure method** is **Σp1q0/Σp0q0**, which is also Laspeyres.
+SC: Both cost-of-living methods reduce to Laspeyres.
+
+Q: At the elementary (item) level, India's CPI (base 2012) aggregates price relatives of quotations using the:
+A) geometric mean (Jevons type)
+B) arithmetic mean
+C) harmonic mean
+D) median
+ANS: A
+D: Hard
+EXP: The **CPI (2012)** uses the **geometric mean of price relatives** at the **elementary level**, as recommended internationally (Jevons). **Laspeyres-type** weighting is used above that level.
+SC: Elementary level uses the GM; higher levels use Laspeyres weights.
+
+@topic Bias & Relationships
+Q: When prices and quantities are negatively correlated (consumers shift away from items whose prices rise), generally:
+A) Laspeyres index > Fisher index > Paasche index
+B) Paasche index > Fisher index > Laspeyres index
+C) Laspeyres index = Paasche index
+D) Fisher index > Laspeyres index > Paasche index
+ANS: A
+D: Medium
+EXP: With substitution away from dearer goods, **base weights overstate** and **current weights understate** the price rise. So **L > P**, and **Fisher (their GM) lies between them**.
+SC: Laspeyres is biased upward, Paasche downward, and Fisher sits in between.
+
+Q: Assertion (A): Laspeyres' price index tends to overstate the rise in the cost of living.
+Reason (R): It ignores the substitution of relatively cheaper goods by consumers, as it uses fixed base-period quantities.
+A) Both A and R are true, and R is the correct explanation of A
+B) Both A and R are true, but R is not the correct explanation of A
+C) A is true, but R is false
+D) A is false, but R is true
+ANS: A
+T: Assertion-Reason
+D: Medium
+EXP: Fixed **base quantities** ignore **substitution**, so the index gives too much weight to goods whose prices rose. That is the **upward (substitution) bias**. R explains A.
+SC: Fixed weights ignore substitution, which biases Laspeyres upward.
+
+Q: The Laspeyres and Paasche price indices will be equal when:
+A) all prices change in the same proportion, or all quantities change in the same proportion
+B) the base year is a normal year
+C) the number of items is large
+D) the index is computed on a chain base
+ANS: A
+D: Hard
+EXP: If **all price relatives are equal**, or **all quantities change proportionally** (identical relative weights), then **L = P**, and Fisher equals both.
+SC: L = P when prices or quantities move proportionally.
+
+Q: The GDP deflator is best described as:
+A) an implicit, Paasche-type price index = nominal GDP ÷ real GDP × 100
+B) a Laspeyres index with fixed base weights
+C) a consumer price index for urban areas
+D) a wholesale price index for services
+ANS: A
+D: Medium
+EXP: **GDP deflator = nominal / real × 100**. It uses **current-period quantities**, so it is **Paasche-type** and implicit. It covers **all goods and services** in GDP, unlike CPI or WPI.
+SC: The deflator is current-weighted (Paasche) and covers the whole economy.
+
+@topic Numericals
+Q: Base year: prices (2, 5), quantities (10, 4). Current year: prices (3, 6), quantities (8, 5). The Laspeyres price index is:
+A) 135
+B) 131.7
+C) 133.3
+D) 140
+ANS: A
+T: Numerical
+D: Medium
+EXP: **L = Σp1q0/Σp0q0 = (3×10 + 6×4)/(2×10 + 5×4) = 54/40 × 100 = 135**.
+SC: Price the base-year basket at today's prices.
+
+Q: For the same data, base prices (2, 5), base quantities (10, 4), current prices (3, 6), current quantities (8, 5), the Paasche price index is approximately:
+A) 131.7
+B) 135.0
+C) 133.3
+D) 128.0
+ANS: A
+T: Numerical
+D: Medium
+EXP: **P = Σp1q1/Σp0q1 = (3×8 + 6×5)/(2×8 + 5×5) = 54/41 × 100 ≈ 131.7**.
+SC: Price the current basket at both sets of prices.
+
+Q: If the Laspeyres index is 135 and the Paasche index is 131.7, Fisher's ideal index is approximately:
+A) 133.3
+B) 132.0
+C) 131.7
+D) 135.0
+ANS: A
+T: Numerical
+D: Medium
+EXP: **Fisher = √(135 × 131.7) = √17779.5 ≈ 133.34**, i.e. **133.3** to one decimal place. The **Bowley** index (AM) would be **133.35**, slightly above the GM.
+SC: GM ≤ AM, so Fisher sits just below Bowley.
+
+Q: A price index with base 2015 = 100 stands at 150 in 2018 and 180 in 2022. If the base is shifted to 2018, the index for 2022 becomes:
+A) 120
+B) 130
+C) 180
+D) 270
+ANS: A
+T: Numerical
+D: Easy
+EXP: **Base shifting: new index = old index ÷ old index of the new base × 100 = 180/150 × 100 = 120**.
+SC: Divide by the new base's old value.
+
+Q: An old series (base 2004-05 = 100) stands at 200 in 2011-12. A new series starts with 2011-12 = 100 and stands at 125 in 2015-16. Spliced to the old base, the 2015-16 index is:
+A) 250
+B) 225
+C) 125
+D) 162.5
+ANS: A
+T: Numerical
+D: Medium
+EXP: **Splicing forward: 125 × 200/100 = 250**. The splicing factor is the **old series' value in the link year** (200) divided by 100.
+SC: Multiply the new series by the old series' link-year value ÷ 100.
+
+Q: A worker's money wage rises from ₹20,000 to ₹30,000 while the CPI rises from 100 to 160. The worker's real wage:
+A) falls by 6.25%
+B) rises by 50%
+C) rises by 6.25%
+D) is unchanged
+ANS: A
+T: Numerical
+D: Medium
+EXP: **Real wage = 30,000 × 100/160 = ₹18,750**, compared with ₹20,000 before. That is a fall of **1,250/20,000 = 6.25%**. This is **deflating** by a price index.
+SC: Real value = money value ÷ price index × 100.
+
+Q: If the consumer price index rises from 100 to 125, the purchasing power of a rupee becomes:
+A) 80 paise
+B) 75 paise
+C) ₹1.25
+D) 125 paise
+ANS: A
+T: Numerical
+D: Easy
+EXP: **Purchasing power = 100/125 = 0.80**, i.e. **80 paise**. Purchasing power of money is the **reciprocal** of the price index.
+SC: Purchasing power = 100 ÷ CPI.
+
+Q: The link relatives for years 2, 3 and 4 (each year compared with the previous one) are 110, 120 and 90. With year 1 = 100, the chain index for year 4 is:
+A) 118.8
+B) 120.0
+C) 108.0
+D) 106.7
+ANS: A
+T: Numerical
+D: Medium
+EXP: The chain index is the **cumulative product of link relatives**: **100 × 1.10 × 1.20 × 0.90 = 118.8**. Year 2 = 110 and year 3 = 132.
+SC: Multiply the link relatives in succession.
+
+@topic Chain Base & Construction Issues
+Q: Which of the following is an advantage of the chain base method of index numbers?
+A) New items can be introduced and old items dropped without recomputing the whole series
+B) It always equals the fixed base index
+C) It is free from cumulative errors
+D) It requires no link relatives
+ANS: A
+D: Medium
+EXP: **Chain base**: each year is compared with the **previous year** (link relatives), then chained. Items and weights can be **updated easily**. The drawback is that **errors cumulate** and there is **chain drift** over long periods.
+SC: Chaining is flexible, but its errors cumulate.
+
+Q: Chain base and fixed base index numbers will be the same when:
+A) there is only one commodity (or the weights and basket stay unchanged throughout)
+B) the base year is normal
+C) the number of years is even
+D) prices are rising
+ANS: A
+D: Hard
+EXP: For **a single series of relatives**, product of the links = fixed base relative, so both coincide. With **multiple commodities and changing weights** they generally differ.
+SC: One item: chain equals fixed; many items: they diverge.
+
+Q: Which of the following is NOT a desirable criterion for choosing the base period of an index number?
+A) It should be a year of abnormal price movements, to capture volatility
+B) It should be a normal year
+C) It should not be too distant from the current period
+D) Reliable price and weight data should be available for it
+ANS: A
+T: Odd-one-out
+D: Easy
+EXP: The base should be **normal**, **recent**, and **data-rich**, and it should match the **expenditure survey** year. An **abnormal year** is exactly what to avoid, as seen with 2009-10 in the national accounts.
+SC: The base year must be normal.
+
+Q: Which of the following are recognised sources of error in index numbers?
+1. Formula error
+2. Sampling error in selecting items or markets
+3. Homogeneity error from changes in quality or the basket over time
+Select the correct answer using the code given below:
+A) 1 only
+B) 1 and 2 only
+C) 2 and 3 only
+D) 1, 2 and 3
+ANS: D
+T: Statement
+D: Medium
+EXP: All three are sources of error: **formula error** (no formula is perfect), **sampling error** (items, markets, quotations) and **homogeneity error** (quality change, new or disappearing items).
+SC: Index errors come from the formula, the sample and homogeneity.
+
+Q: Weighted index numbers are generally preferred to unweighted ones because:
+A) they reflect the relative importance of items in expenditure or production
+B) they are easier to compute
+C) they always satisfy the circular test
+D) they eliminate sampling error
+ANS: A
+T: Conceptual
+D: Easy
+EXP: Weights reflect **importance**, such as expenditure share for CPI, net traded value for WPI and value added for IIP. Unweighted indices treat salt and cars alike.
+SC: Weights reflect how much each item matters.
+
+@topic Official & Market Indices
+Q: The base period and base value of the BSE Sensex are:
+A) 1978-79 = 100
+B) 1995 = 1000
+C) 2004-05 = 100
+D) 1983-84 = 1000
+ANS: A
+D: Medium
+EXP: **Sensex (30 stocks)** has **base 1978-79 = 100**. **Nifty 50** has **base 3 Nov 1995 = 1000**. Both are **free-float market-capitalisation weighted**.
+SC: Sensex base 1978-79 = 100; Nifty base 1995 = 1000.
+
+Q: The Nifty 50 index of the National Stock Exchange has a base value of:
+A) 1000
+B) 100
+C) 500
+D) 10
+ANS: A
+D: Easy
+EXP: **Nifty 50** has a base value of **1000** (base date **3 November 1995**). The **Sensex** has a base value of **100** (1978-79).
+SC: Nifty 1000, Sensex 100.
+
+Q: Which of the following Indian indices is a quantity (volume) index rather than a price index?
+A) Index of Industrial Production
+B) Wholesale Price Index
+C) CPI-IW
+D) GDP deflator
+ANS: A
+D: Easy
+EXP: The **IIP** measures **volume of output** (quantity index, Laspeyres). The rest are **price** measures.
+SC: IIP measures quantities; the others measure prices.
+
+Q: The Wholesale Price Index measures price changes at:
+A) the first point of bulk transaction (ex-factory, ex-mine, mandi)
+B) the retail level paid by consumers
+C) the import border only
+D) the level of services
+ANS: A
+D: Easy
+EXP: **WPI** prices goods at the **first point of bulk sale**. The **CPI** measures **retail** prices, including **services**. WPI excludes services and indirect taxes.
+SC: WPI prices the first bulk sale; CPI prices the shop counter.
+
+Q: Assertion (A): India's inflation-targeting framework uses CPI rather than WPI.
+Reason (R): CPI reflects retail prices paid by households, including services, while WPI excludes services.
+A) Both A and R are true, and R is the correct explanation of A
+B) Both A and R are true, but R is not the correct explanation of A
+C) A is true, but R is false
+D) A is false, but R is true
+ANS: A
+T: Assertion-Reason
+D: Medium
+EXP: The RBI (since the 2016 amendment of the **RBI Act**) targets **CPI-Combined** inflation at **4% ± 2%**, because it measures the **cost of living** of households, including **services**. R explains A.
+SC: Households feel the CPI, so the RBI targets it.
+
+Q: The circular test is an extension of which test?
+A) Time reversal test
+B) Factor reversal test
+C) Unit test
+D) Homogeneity test
+ANS: A
+D: Medium
+EXP: The **circular test** extends **time reversal** to three or more periods: P01 × P12 × P20 = 1. It allows the **base to be shifted** without recomputing the index. Fisher passes time reversal but **fails the circular test**.
+SC: Circular = time reversal taken around a loop of periods.
+
+Q: Which of the following index formulae does NOT use quantities of both periods?
+A) Laspeyres' index
+B) Fisher's index
+C) Marshall-Edgeworth index
+D) Walsh's index
+ANS: A
+T: Odd-one-out
+D: Easy
+EXP: **Laspeyres** needs **q0 only**, which is why it is practical for monthly CPI and WPI. Fisher, Marshall-Edgeworth and Walsh all need **q0 and q1**.
+SC: Only Laspeyres needs just base-period quantities.
+
+Q: Why do official price indices like CPI and WPI generally use a Laspeyres-type formula?
+A) Current-period quantities are not available every month, while base weights from a benchmark survey are
+B) Laspeyres satisfies all tests
+C) Laspeyres has no bias
+D) International standards prohibit Fisher's index
+ANS: A
+T: Conceptual
+D: Medium
+EXP: Monthly indices cannot wait for **current quantities**. Laspeyres needs only **base weights** (from the CES for CPI, net traded value for WPI) plus current prices. It is **practical**, not bias-free.
+SC: Laspeyres is chosen for practicality, not perfection.
+
+Q: A price index for 2024 (base 2012 = 100) is 190. The percentage rise in prices between 2012 and 2024 is:
+A) 90%
+B) 190%
+C) 47.4%
+D) 19%
+ANS: A
+T: Numerical
+D: Easy
+EXP: Index 190 means prices are **1.9 times** base, a **90% rise**. The index minus 100 gives the percentage change from the base.
+SC: Index − 100 = % change from the base.
+
+Q: If the CPI moves from 150 in March 2024 to 162 in March 2025, the point-to-point annual inflation rate is:
+A) 8%
+B) 12%
+C) 7.4%
+D) 1.2%
+ANS: A
+T: Numerical
+D: Easy
+EXP: **Inflation = (162 − 150)/150 × 100 = 8%**. The rate is based on the **earlier index**, not on index points.
+SC: Inflation = change ÷ old index.

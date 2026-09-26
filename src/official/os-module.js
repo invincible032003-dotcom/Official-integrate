@@ -23,11 +23,12 @@ OS_Q.forEach(function(q){
   BY_ID[q.id] = q;
   if(OS_Q_BY_SET[q.setId]) OS_Q_BY_SET[q.setId].push(q);
 });
-var OS_KIND_LABEL = {book:"Book", notes:"Notes", fullforms:"Full Forms"};
+var OS_KIND_LABEL = {book:"Book", notes:"Notes", extra:"UPSC+", fullforms:"Full Forms"};
+function osTabForKind(k){ return k === "fullforms" ? "ff" : k; }
 var OS_SEC_PER_Q = 60;
 var OS_TABS = [
   ["overview","Overview"], ["book","Book 1-329"], ["notes","Notes 1-19"],
-  ["ff","Full Forms"], ["pointers","Exam Pointers"]
+  ["extra","UPSC+ Syllabus"], ["ff","Full Forms"], ["pointers","Exam Pointers"]
 ];
 App.osTab = "overview";
 App.osReadSet = null;
@@ -82,7 +83,7 @@ function osStartSet(sid, mode){
                    {randomizeOptions: false});
   m.osSetId = sid;
   lsSet("os_last", sid);
-  App.osReturn = {tab: App.view === "osHub" ? App.osTab : (s.kind==="book"?"book":s.kind==="notes"?"notes":"ff")};
+  App.osReturn = {tab: App.view === "osHub" ? App.osTab : osTabForKind(s.kind)};
   startMock(m);
 }
 function osStartPool(title, qs, mode){
@@ -130,6 +131,7 @@ function osViewHub(){
   switch(App.osTab){
     case "book": body = osViewSets("book"); break;
     case "notes": body = osViewNotes(); break;
+    case "extra": body = osViewSets("extra"); break;
     case "ff": body = osViewFullForms(); break;
     case "pointers": body = osViewPointers(); break;
     default: body = osViewOverview();
@@ -138,10 +140,10 @@ function osViewHub(){
 }
 
 function osCounts(){
-  var c = {book:0, notes:0, fullforms:0, bookSets:0, notesSets:0, ffSets:0};
+  var c = {book:0, notes:0, extra:0, fullforms:0, bookSets:0, notesSets:0, extraSets:0, ffSets:0};
   OS_SETS.forEach(function(s){
     c[s.kind] += s.count;
-    if(s.kind==="book") c.bookSets++; else if(s.kind==="notes") c.notesSets++; else c.ffSets++;
+    if(s.kind==="book") c.bookSets++; else if(s.kind==="notes") c.notesSets++; else if(s.kind==="extra") c.extraSets++; else c.ffSets++;
   });
   return c;
 }
@@ -167,7 +169,7 @@ function osViewOverview(){
   + '<div class="os-hero">'
   +   '<div class="os-hero-kicker">UPSC ISS · Paper II · Unit III</div>'
   +   '<h1>Official Statistics</h1>'
-  +   '<p>Book pp. 1-329, topic notes 1-19 and the full-form list, turned into '+OS_SETS.length+' practice sets with an explanation and exam shortcut for every answer. Bullet pointers are there for quick revision.</p>'
+  +   '<p>Book pp. 1-329, topic notes 1-19, the full-form list and UPSC+ coverage of the rest of the ISS syllabus, turned into '+OS_SETS.length+' practice sets with an explanation and exam shortcut for every answer. Bullet pointers are there for quick revision.</p>'
   +   '<div class="os-hero-stats">'
   +     '<div><b>'+OS_Q.length+'</b><span>MCQs</span></div>'
   +     '<div><b>'+OS_SETS.length+'</b><span>Sets</span></div>'
@@ -191,6 +193,7 @@ function osViewOverview(){
   + '<div class="os-grid">'
   +   osTile("📘", "Book sets · pp. 1-329", c.bookSets+" sets · "+c.book+" MCQs", "os-tab", 'data-tab="book"')
   +   osTile("🗂️", "Topic notes · 1-19", c.notesSets+" sets · "+c.notes+" MCQs", "os-tab", 'data-tab="notes"')
++   (c.extraSets ? osTile("🎯", "UPSC+ syllabus coverage", c.extraSets+" sets · "+c.extra+" MCQs beyond the book & notes", "os-tab", 'data-tab="extra"') : "")
   +   osTile("🔤", "Full forms", (OSD.fullForms||[]).length+" abbreviations · "+c.ffSets+" quiz sets", "os-tab", 'data-tab="ff"')
   +   osTile("⚡", "Bullet exam pointers", ptrTotal+" topics for quick revision", "os-tab", 'data-tab="pointers"')
   +   osTile("🎲", "Mixed 50 · random", "Draws from all "+OS_Q.length+" MCQs, with explanations", "os-mixed", "")
@@ -246,9 +249,11 @@ function osViewSets(kind){
   var total = sets.reduce(function(a,s){ return a+s.count; },0);
   var intro = kind==="book"
     ? 'The whole book (pp. 1-329) in page order: UN principles, the Indian statistical system and MoSPI, the NSC (Rangarajan) report, education indicators, PLFS, the NSO Vision 2019-24, the ASI manual and environmental accounts.'
+    : kind==="extra"
+    ? 'Everything else the UPSC ISS Official Statistics syllabus can test objectively: index-number theory and tests, the international statistical system and classifications, publications and agencies, social-sector, gender and poverty statistics, Census 2011/2027 and projections, national accounts concepts, money, banking, fiscal, external and energy statistics, recent survey results, and PYQ-pattern mixed sets.'
     : '';
   if(!sets.length) return '<div class="card empty"><div class="big-icon">📘</div><h3>No sets yet</h3></div>';
-  return '<div class="card os-intro"><h2>'+(kind==="book"?"Book sets · pp. 1-329":"Sets")+'</h2><p class="muted">'+intro+'</p>'
+  return '<div class="card os-intro"><h2>'+(kind==="book"?"Book sets · pp. 1-329":kind==="extra"?"UPSC+ · full syllabus coverage":"Sets")+'</h2><p class="muted">'+intro+'</p>'
     + '<div class="os-intro-stats"><span><b>'+sets.length+'</b> sets</span><span><b>'+total+'</b> MCQs</span><span><b>'+OS_SEC_PER_Q+'s</b>/Q in a timed test</span></div></div>'
     + '<div class="os-sets">'+sets.map(osSetCard).join("")+'</div>';
 }
@@ -346,7 +351,7 @@ function osViewPointers(){
   var st = App.osPtr, q = st.q.trim().toLowerCase();
   var done = lsGet("os_ptr_done", {});
   var all = OSD.pointers || [];
-  var groups = [["all","All"],["notes","Notes 1-19"],["book","Book 1-329"],["fullforms","Full forms"],["strategy","Exam strategy"]];
+  var groups = [["all","All"],["notes","Notes 1-19"],["book","Book 1-329"],["extra","UPSC+"],["fullforms","Full forms"],["strategy","Exam strategy"]];
   var total = all.length, revised = all.filter(function(p){ return done[p.id]; }).length;
   var blocks = all.filter(function(p){ return st.group==="all" || p.group===st.group; }).map(function(p){
     var secs = p.sections.map(function(s){
@@ -439,7 +444,7 @@ viewHome = function(){
   var banner = '<button class="os-home-banner" data-action="os-go" data-tab="overview">'
     + '<span class="os-home-icon">🏛️</span>'
     + '<span class="os-home-text"><b>Official Statistics hub</b>'
-    + '<span>Book pp. 1-329 · notes 1-19 · full forms · bullet exam pointers</span>'
+    + '<span>Book pp. 1-329 · notes 1-19 · UPSC+ syllabus · full forms · pointers</span>'
     + '<span class="os-home-pills"><i>'+OS_Q.length+' MCQs</i><i>'+OS_SETS.length+' sets</i><i>'+(OSD.pointers||[]).length+' pointer topics</i></span></span>'
     + '<span class="os-home-go">›</span></button>';
   return _osOrigViewHome().replace('<div class="section-title">Sectional Mocks</div>', banner + '<div class="section-title">Sectional Mocks</div>');
@@ -654,7 +659,7 @@ document.addEventListener("click", function(e){
       var sid = t.getAttribute("data-set"), s = OS_SET[sid];
       if(!s) break;
       App.view = "osHub";
-      App.osTab = s.kind === "book" ? "book" : s.kind === "notes" ? "notes" : "ff";
+      App.osTab = osTabForKind(s.kind);
       if(s.kind === "fullforms") App.osFF.mode = "quiz";
       if(s.kind === "notes") App.osNoteFilter = 0;
       render();

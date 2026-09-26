@@ -138,8 +138,8 @@ def shuffle_ok(q):
         return False
     if any(FIXED_WORDS.search(o) for o in q["options"]):
         return False
-    if all(NUMERIC.match(o) for o in q["options"]):
-        return False  # keep ascending numeric/year options in author order
+    if q.get("_sorted"):
+        return False  # numeric ladder already shown in ascending order
     return True
 
 
@@ -164,10 +164,13 @@ def rebalance(qs, dist):
                 correct = q["options"][q["correctAnswer"]]
                 q["options"] = sorted(q["options"], key=lead)
                 q["correctAnswer"] = q["options"].index(correct)
+                q["_sorted"] = True
         if shuffle_ok(q):
             movable.append(q)
         else:
             dist["ABCD"[q["correctAnswer"]]] += 1
+    for q in qs:
+        q.pop("_sorted", None)
     for q in movable:
         h = int(hashlib.md5(q["id"].encode("utf-8")).hexdigest(), 16)
         low = min(dist.values())

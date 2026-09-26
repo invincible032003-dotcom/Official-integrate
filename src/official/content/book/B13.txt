@@ -1,0 +1,381 @@
+@set B13
+@title ASI Manual (IV): Fieldwork, Notices & Penalties, Frame, Estimation, Factories Act
+@pages 205-228
+@desc FOD field organisation and training centres, notice service, allotment, inspection, scrutiny and super-scrutiny, web-portal workflow, prosecution, CoS Act penalty extracts, frame rules, sub-sample estimation, variance/MSE/RSE, casualty treatment, void strata, Factories Act definitions
+
+@topic ASI Fieldwork Organisation
+Q: The ASI fieldwork for the central sample is carried out by which category of officials of NSO (FOD)?
+A) Senior Statistical Officers (SSOs)
+B) Junior Statistical Officers
+C) Indian Statistical Service probationers
+D) State DES investigators
+ANS: A
+D: Easy
+P: 205
+EXP: ASI central sample fieldwork is done by **Senior Statistical Officers (SSOs)** of FOD. **FOD HQ** plans and monitors all-India progress, the **DDGs of the six Zonal Offices** coordinate their zones, and **Regional Heads** run fieldwork in their regions.
+SC: SSOs do the fieldwork, ZOs coordinate, and HQ monitors.
+
+Q: From which ASI round did the process of data collection, compilation and dissemination become web-based with the introduction of the ASI web portal?
+A) ASI 2012-13
+B) ASI 2008-09
+C) ASI 2015-16
+D) ASI 2020-21
+ANS: A
+D: Medium
+P: 205
+EXP: The **ASI Web Portal** was introduced from **ASI 2012-13**. Since then, frame updating, sample selection, data collection and processing are all done online.
+SC: Web portal from 2012-13. New sampling design from 2015-16.
+
+Q: Zonal training centres of FOD for training SSOs on ASI are located at:
+A) Jaipur, Lucknow, Nagpur, Bangalore, Kolkata and Guwahati
+B) Delhi, Mumbai, Chennai, Kolkata, Hyderabad and Patna
+C) Faridabad, Greater Noida, Kolkata, Chennai, Pune and Shillong
+D) Shimla, Bhopal, Ranchi, Kochi, Surat and Agartala
+ANS: A
+D: Hard
+P: 205
+EXP: The six **zonal training centres** are at **Jaipur, Lucknow, Nagpur, Bangalore, Kolkata and Guwahati**, each headed by a **DDG**. SSOs are also trained in the SROs and ROs before fieldwork.
+SC: There is one centre per zone (six zones), with Guwahati for the North-East.
+
+Q: ASI notices to factories should be sent by:
+A) Registered Post with acknowledgement due (not by courier)
+B) Courier service
+C) Ordinary post
+D) E-mail only
+ANS: A
+D: Easy
+P: 205
+EXP: Notices go by **Registered Post with AD**, never by courier. The **postal acknowledgement** is a key document for **prosecution**. If it does not come back within a week, a duplicate should be obtained from the postmaster.
+SC: Use Registered AD because it is legal proof of service.
+
+Q: Which notices are to be issued first in ASI fieldwork?
+A) Notices to census sector units, followed immediately by sample sector units
+B) Notices to sample sector units first
+C) Notices to non-operative units first
+D) All notices on the last day of the survey
+ANS: A
+D: Medium
+P: 205
+EXP: Notices to the **census sector** are issued first, and those to the **sample sector** immediately after. **Non-operative** units (not on site, or closed for 3 years) are excluded from the gross allotment and get no notice.
+SC: Census units first, then sample units, and none to non-operative units.
+
+Q: If a factory exists but the concerned person is not present to receive the ASI notice, the notice may be:
+A) pasted in the factory premises in the presence of two independent witnesses
+B) returned to the Statistics Officer
+C) sent to the CIF
+D) destroyed and the unit deleted
+ANS: A
+D: Medium
+P: 206
+EXP: When the factory exists but no one is there to receive the notice, it is **pasted on the premises in the presence of two independent witnesses**. If the address is wrong, the notice is re-issued or served in person. If the factory does not exist, deletion is proposed after a site visit and a check with the CIF.
+SC: Pasting the notice in front of two witnesses counts as valid service.
+
+Q: As per the ASI notice issued under the CoS Act, the return must be furnished within:
+A) one month from the date of receipt of the notice
+B) fourteen days
+C) three months
+D) six months
+ANS: A
+D: Easy
+P: 214
+EXP: The notice asks the factory to furnish the return **within one month of receiving it**, preferably through the web portal in **Balance Sheet mode**, with copies of the balance sheet, P&L account and other documents. A **reminder** is sent one month after the notice.
+SC: The return is due within one month, and the reminder follows after one month.
+
+Q: Who can grant an extension of time for submission of the ASI return, when requested in writing by the factory?
+A) The Regional Head
+B) The Chief Inspector of Factories
+C) The Labour Bureau
+D) The Supreme Court
+ANS: A
+D: Medium
+P: 207
+EXP: An extension can be granted **by the Regional Head** when the factory asks for it **in writing**.
+SC: The Regional Head grants the extension.
+
+@topic Quality Control: Inspection, Scrutiny, Feedback
+Q: According to the ASI manual, which type of inspection is normally preferred for reducing non-sampling errors?
+A) Non-concurrent inspection
+B) Concurrent inspection only
+C) No inspection
+D) Inspection by the factory owner
+ANS: A
+D: Medium
+P: 207
+EXP: Inspections may be concurrent or non-concurrent, but **non-concurrent inspection is normally preferred**. An **inspection note** is handed over the next working day, and the findings are discussed in monthly meetings.
+SC: Non-concurrent inspection (after the work is done) is preferred.
+
+Q: For super-scrutiny, each Regional Office sends the topmost return (in terms of GVA) in the first fortnight of every month to:
+A) FOD Headquarters, New Delhi
+B) the IS Wing directly
+C) the State DES
+D) the Labour Bureau
+ANS: A
+D: Hard
+P: 208
+EXP: In the **1st fortnight**, the **top return by GVA** goes to **HQ, New Delhi** and the **next** one to the **Zonal Office**. In the **2nd fortnight**, the **top two** returns go to the **ZO**. Copies are sent, not originals.
+SC: The biggest-GVA return goes to HQ, the next ones go to the ZO.
+
+Q: Quarterly feedback reports consolidated by Zonal Offices on errors found through scrutiny are to be circulated to all ROs by:
+A) the 15th of the succeeding month
+B) the last day of the quarter
+C) the 1st of the next quarter
+D) 31 March every year
+ANS: A
+D: Hard
+P: 209
+EXP: ROs send quarterly feedback to ZOs in the **first week of the succeeding month**. ZOs circulate consolidated reports to all ROs, and send a soft copy to HQ, **by the 15th of the succeeding month**.
+SC: RO sends by the 1st week, ZO circulates by the 15th.
+
+Q: In the ASI web portal workflow, which of the following is correct?
+A) Modifications to an already filled-in schedule can only be made by the Compiler who filled it
+B) Any officer can modify data at any stage
+C) Schedules referred back go to the Regional Head for correction
+D) ROs must physically send Part-I to Labour Bureau
+ANS: A
+D: Medium
+P: 209
+EXP: Schedules **referred back** go **directly to the Compiler**, and **only the Compiler** can modify the data. The system picks schedules for super-scrutiny and for sending to CSO. With the portal, there is **no need to send Part-I to the Labour Bureau**, which downloads Blocks A, B, E and Part-II itself.
+SC: Whoever compiled the schedule is the only one who can change it.
+
+Q: Which of the following is the correct sequence in the ASI web portal workflow?
+A) RO/SRO Head allocates → Compiler despatches → Factory submits → Compiler compiles → Peer Scrutinizer → SRO Head → RO → Send to CSO/Super scrutiny
+B) Factory submits → CIF verifies → Labour Bureau processes → IS Wing publishes
+C) Compiler allocates → RO scrutinises → Factory submits → HQ publishes
+D) IS Wing allocates → Factory submits → State DES scrutinises
+ANS: A
+T: Chronology
+D: Hard
+P: 209
+EXP: The workflow is: **RO/SRO Head allocates → Compiler despatches → Factory compiles and submits → Compiler compiles and submits → Peer Scrutinizer → SRO Head scrutinises → RO scrutinises → Send to CSO/Super scrutiny**.
+SC: Allocate, despatch, factory, compiler, peer, SRO, RO, CSO. The return is checked at every level on its way up.
+
+@topic Prosecution & CoS Act Penalties
+Q: In the Show-Cause Notice issued to a defaulting ASI unit, the due date is taken as:
+A) the 30th day after the date of receipt of the notice by the factory
+B) the 7th day after issue
+C) the 90th day after issue
+D) the last day of the financial year
+ANS: A
+D: Medium
+P: 210
+EXP: The Show-Cause Notice (Registered AD, addressed to the owner or occupier) fixes the **due date as the 30th day after receipt**. If there is still no return or request for extension, the case file goes to the **Statistics Officer** for prosecution.
+SC: The Show-Cause Notice gives 30 days from receipt.
+
+Q: After the Statistics Officer sanctions prosecution in an ASI case, who is requested to appoint a public prosecutor?
+A) the State Legal Remembrancer
+B) the Attorney General of India
+C) the CIF
+D) the District Collector
+ANS: A
+D: Hard
+P: 211
+EXP: After sanctioning prosecution, the **S.O.** asks the **State Legal Remembrancer** to appoint a **public prosecutor**. The FOD representative attends each hearing, and a register tracks every stage.
+SC: The State's Legal Remembrancer appoints the government counsel.
+
+Q: As per the extract of Section 15(1) of the Collection of Statistics Act, 2008 reproduced in the ASI notice, a person who neglects or refuses to supply particulars is punishable with a fine which may extend to:
+A) ₹1,000, or ₹5,000 in the case of a company
+B) ₹10,000, or ₹1 lakh in the case of a company
+C) ₹500, or ₹2,000 in the case of a company
+D) ₹2,000, or ₹10,000 in the case of a company
+ANS: A
+D: Medium
+P: 216
+EXP: The extract gives a fine up to **₹1,000 (₹5,000 for a company)** for refusing or neglecting. A **continuing default after 14 days** of conviction attracts a further fine per day at the same rates. Destroying schedules and obstruction carry **up to ₹2,000 (₹10,000 for a company)** and/or up to 6 months' simple imprisonment.
+SC: Refusal: 1k/5k. Destruction or obstruction: 2k/10k plus up to 6 months.
+
+Q: Under Section 16 of the CoS Act, 2008 (as extracted), wilfully making a false or misleading statement in a return is punishable with:
+A) simple imprisonment up to six months or fine up to ₹1,000 (₹5,000 for a company), or both
+B) fine only up to ₹500
+C) rigorous imprisonment up to 3 years
+D) cancellation of factory licence
+ANS: A
+D: Medium
+P: 217
+EXP: **Section 16** (false statement) carries **simple imprisonment up to 6 months** and/or a fine up to **₹1,000 (₹5,000 for a company)**. Sections **17 to 19** (destroying documents, obstruction, contravention or deception) raise the fines to **₹2,000 (₹10,000 for a company)**.
+SC: False statement: 6 months + 1k/5k.
+
+Q: Under Section 8 of the CoS Act, 2008, the Statistics Officer or an authorised person has:
+A) right of access to relevant records and may enter premises at any reasonable time to inspect or copy documents
+B) power to arrest defaulters
+C) power to seal factories
+D) power to levy taxes
+ANS: A
+D: Easy
+P: 216
+EXP: **Section 8** gives the **right of access**: entering premises at a reasonable time, inspecting and copying records, and asking necessary questions. **Section 5** empowers the S.O. to serve notices or information schedules.
+SC: Section 5 is the notice power. Section 8 is the access power.
+
+Q: The ASI notice is issued by the Statistics Officer appointed under which provision of the CoS Act, 2008?
+A) Section 4(1)
+B) Section 25
+C) Section 15
+D) Section 33
+ANS: A
+D: Medium
+P: 214
+EXP: The notice says the Statistics Officer is appointed **under Section 4(1)** and serves the notice under **Section 5(a)** of the CoS Act, 2008 (as amended in 2017) and the **2011 Rules**.
+SC: Section 4 appoints the S.O. and Section 5 lets the S.O. serve notices.
+
+@topic ASI Frame Rules
+Q: For including bidi and cigar establishments in the ASI frame, the establishment must employ:
+A) 10 or more workers with power or 20 or more without power
+B) any number of workers, since the Bidi Act has no minimum
+C) 50 or more workers
+D) 100 or more workers
+ANS: A
+D: Medium
+P: 218
+EXP: The Bidi & Cigar Workers Act has **no minimum worker criterion** for registration. For the **ASI frame**, only establishments with **10 or more workers with power, or 20 or more without power**, are included, in line with Factories Act 2m(i)/(ii). **Home workers** are excluded.
+SC: The Factories Act thresholds are applied to bidi units as well.
+
+Q: In ASI frame updating through the web portal, for units selected in the last survey year, fields such as status code, frame NIC and total persons engaged are:
+A) auto-updated dynamically based on information collected in the last survey
+B) entered afresh manually
+C) copied from the CIF list only
+D) left blank
+ANS: A
+D: Medium
+P: 219
+EXP: For units **surveyed last year**, frame fields are **auto-updated** from the survey data. For **new units** or units not surveyed, field staff enter the details.
+SC: Units surveyed last year update automatically. New units are entered by hand.
+
+Q: The frame of ASI is organised in each State by:
+A) the Regional Office located at the State HQ or where the CIF office is located
+B) the State DES exclusively
+C) the Ministry of Labour
+D) the IS Wing, Kolkata alone
+ANS: A
+D: Medium
+P: 218
+EXP: The **Regional Office at the State headquarters**, or where the **CIF** sits, organises frame preparation and revision. The CIF list of registered factories plus newly registered ones is the base.
+SC: The frame is maintained where the factory registers are kept, i.e. near the CIF.
+
+@topic ASI Estimation Procedure
+Q: In the ASI sample sector, the overall sampling fraction for drawing the four sub-samples is about:
+A) 16% to 22%
+B) 5% to 10%
+C) 40% to 50%
+D) 2% to 4%
+ANS: A
+D: Hard
+P: 220
+EXP: Within each stratum, units are arranged by employment and drawn **circular systematically** in **four independent sub-samples** at an overall sampling fraction of **about 16–22%**, depending on FOD and State DES resources.
+SC: Roughly one unit in five (16-22%) is sampled.
+
+Q: In ASI, the stratum-level estimate for the sample sector from the central sample is:
+A) the simple average of the sub-sample estimates for sub-samples 1 and 3
+B) the sum of the sub-sample estimates
+C) the weighted average by sub-sample size
+D) the maximum of the sub-sample estimates
+ANS: A
+D: Medium
+P: 222
+EXP: Each sub-sample gives an estimate (multiplier E/e × sample total). The **stratum estimate is the simple average** of sub-samples **1 and 3** (central), **2 and 4** (State), or **all non-void** sub-samples (pooled).
+SC: Stratum estimate = mean of the independent sub-sample estimates.
+
+Q: In ASI, the multiplier for a unit in the m-th sub-sample of a stratum is:
+A) E / e_m, where E is the total factories in the sample sector of the stratum and e_m is the number surveyed in that sub-sample
+B) e_m / E
+C) 1 for all units
+D) E × e_m
+ANS: A
+D: Medium
+P: 226
+EXP: The sub-sample multiplier is **E / e_m**. Because the stratum estimate averages sub-samples, the combined multiplier works out to **E / e**, where e is the sum of the e_m. **Census units have multiplier 1**.
+SC: Multiplier = population ÷ sample. Census units have multiplier 1.
+
+Q: The variance of an estimate from interpenetrating sub-samples in a stratum with t non-void sub-samples is estimated as:
+A) [1 / (t(t − 1))] × Σ (Y_m − Ȳ)²
+B) Σ (Y_m − Ȳ)² / t
+C) Σ Y_m² / t
+D) [1 / t²] × Σ Y_m
+ANS: A
+D: Hard
+P: 224
+EXP: For t independent sub-sample estimates, **Var(Ȳ) = Σ(Y_m − Ȳ)² / [t(t − 1)]**. With t = 2 (central or State) this becomes **(Y₁ − Y₃)²/4**. Only the **sample sector** contributes variance, because the census sector has none.
+SC: Variance of the mean of t replicates = s²/t = Σ(dev²)/[t(t−1)].
+
+Q: With two sub-sample estimates Y1 = 120 and Y3 = 100 in a stratum, the stratum estimate and its estimated variance are:
+A) 110 and 100
+B) 110 and 200
+C) 220 and 100
+D) 110 and 50
+ANS: A
+T: Numerical
+D: Medium
+P: 224
+EXP: Estimate = (120 + 100)/2 = **110**. Variance = [(120 − 110)² + (100 − 110)²] / [2 × 1] = 200/2 = **100**, which equals (Y₁ − Y₃)²/4 = 400/4.
+SC: With two sub-samples, the variance is the difference squared divided by 4.
+
+Q: Why is the Mean Square Error (MSE) estimated for ratio estimates in ASI instead of variance?
+A) Ratio estimators are biased
+B) Ratio estimators have zero variance
+C) Ratios are always census values
+D) MSE is easier to publish
+ANS: A
+D: Medium
+P: 225
+EXP: **Ratio estimators are biased**, so the **MSE** is estimated. **MSE(R̂) ≈ (1/X̂²)[V(Ŷ) − 2R̂ Cov(X̂, Ŷ) + R̂² V(X̂)]**. **RSE = √MSE / R̂ × 100**.
+SC: A biased estimator is judged by MSE, not by variance.
+
+Q: In ASI, units with which status codes are treated as "casualty" cases?
+A) 5, 7 and 8
+B) 1, 2 and 3
+C) 4 only
+D) 2 and 3
+ANS: A
+D: Medium
+P: 226
+EXP: **Casualties**: code **5** (closed, owner untraceable), code **7** (production not started or accounts not closed) and code **8** (other non-response, such as records with court or tax authorities, or refusal). If the previous year's data are available, they are **imputed** and the unit is treated as open (code 1).
+SC: Casualties are the non-response codes 5, 7 and 8.
+
+Q: In ASI estimation, a stratum is treated as "void" for the central sample when:
+A) neither sub-sample 1 nor sub-sample 3 is available
+B) only sub-sample 1 is available
+C) the stratum has fewer than 4 units
+D) sub-samples 2 and 4 are available
+ANS: A
+D: Hard
+P: 227
+EXP: If **at least one** sub-sample is available, the stratum is **not void** and the estimate uses that sub-sample. A central-sample stratum is **void** only when **both 1 and 3** are unavailable. It is then **merged** with the nearest 3-digit NIC stratum in the district, or with "others".
+SC: Void means all sub-samples are missing. Then merge with the nearest stratum.
+
+@topic Factories Act, 1948
+Q: Which of the following is NOT included in the definition of "factory" under the Factories Act, 1948?
+A) A mine subject to the Mines Act, 1952 or a railway running shed
+B) Premises with 10 or more workers using power
+C) Premises with 20 or more workers without power
+D) Premises where manufacturing was carried on any day in the preceding 12 months
+ANS: A
+D: Medium
+P: 228
+EXP: "Factory" **excludes a mine under the Mines Act, 1952 and a railway running shed**. The worker thresholds apply to anyone working on **any day of the preceding twelve months**.
+SC: Mines and railway running sheds are covered by their own laws, so they are excluded.
+
+Q: As per Section 2(k) of the Factories Act, 1948, which of the following is a "manufacturing process"?
+1. Pumping oil, water or sewage
+2. Generating, transforming or transmitting power
+3. Preserving or storing any article in cold storage
+4. Constructing, repairing or breaking up ships
+Select the correct answer using the code given below:
+A) 1 and 2 only
+B) 1, 2 and 3 only
+C) 2, 3 and 4 only
+D) 1, 2, 3 and 4
+ANS: D
+T: Statement
+D: Medium
+P: 228
+EXP: All four are manufacturing processes under Section 2(k). It also covers making, altering, packing, washing, cleaning or otherwise treating articles, and composing type for printing and book binding. This is why the **ASI covers cold storage, water supply and power**.
+SC: Section 2(k) is very wide, which is why ASI includes cold storage and utilities.
+
+Q: Printing and book binding are covered under the Factories Act's definition of manufacturing process because the definition includes:
+A) composing types for printing by letter press, lithography, photogravure or similar process, or book binding
+B) only mechanical engineering processes
+C) only chemical processes
+D) any office work
+ANS: A
+D: Easy
+P: 228
+EXP: Section 2(k)(iv) covers **composing types for printing** by letterpress, lithography, photogravure or similar processes, and **book binding**.
+SC: Printing and binding are named explicitly in clause (iv).

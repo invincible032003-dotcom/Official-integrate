@@ -1,0 +1,493 @@
+@set B14
+@title ASI Manual (V): Schedule Form & Balance Sheet/P&L Ready Reference
+@pages 229-263
+@desc Layout of Blocks A-N and Part-II, scrutiny check thresholds, and mapping of balance-sheet and P&L items to ASI blocks (Annexure VI)
+
+@topic ASI Schedule Form Layout
+Q: In the ASI schedule Block C (fixed assets), net value at the closing of the year is derived as:
+A) Closing gross value − Depreciation up to year end
+B) Opening gross value − Depreciation provided during the year
+C) Closing gross value + Depreciation provided during the year
+D) Opening gross value + Actual additions
+ANS: A
+D: Medium
+P: 230
+EXP: Block C columns: gross value (opening 3, revaluation additions 4, actual additions 5, deductions 6, **closing 7 = 3+4+5−6**), depreciation (up to year beginning 8, provided during year 9, adjustment for sold/discarded 10, **up to year end 11 = 8+9−10**), net value (**opening 12 = 3−8**, **closing 13 = 7−11**).
+SC: Net value = gross value − accumulated depreciation, at the opening and at the closing.
+
+Q: In ASI Block C, the "sub-total" row (item 8) covers which items?
+A) Items 2 to 7 (building to other fixed assets), excluding land and CWIP
+B) Items 1 to 9
+C) Items 1 to 7
+D) Items 3 to 6 only
+ANS: A
+D: Hard
+P: 230
+EXP: Item 8 is the sub-total of **items 2–7** (building, P&M, transport, computers, pollution control, others), i.e. the **depreciable** assets. **Total (item 10) = item 1 (land) + item 8 + item 9 (CWIP)**.
+SC: Land (not depreciable) and CWIP (not yet in use) are kept outside the sub-total.
+
+Q: In ASI Block D, working capital (item 16) is computed as:
+A) Total current assets (item 11) − Total current liabilities (item 15)
+B) Total inventory − Sundry creditors
+C) Cash + Debtors
+D) Outstanding loans − Current assets
+ANS: A
+D: Easy
+P: 231
+EXP: **Item 16 = item 11 (total current assets: inventories + cash + debtors + other current assets) − item 15 (total current liabilities: sundry creditors + short-term loans + other current liabilities)**. Reasons must be given for a negative value.
+SC: WC = CA − CL.
+
+Q: In ASI Block D, "outstanding loans" (item 17) are reported:
+A) excluding interest but including deposits
+B) including accrued interest
+C) only short-term loans
+D) only bank overdrafts
+ANS: A
+D: Medium
+P: 231
+EXP: Item 17 is **outstanding loans excluding interest but including deposits**. If interest is included, it must be footnoted.
+SC: Loans are reported without interest but with deposits.
+
+Q: In ASI Block E, item 14 "Total cost of production" includes all EXCEPT which of the following?
+A) Profit of the unit
+B) Wages, bonus, PF contributions and welfare expenses
+C) Block F expenses (items 1 to 10)
+D) Total inputs of Blocks H and I
+ANS: A
+D: Medium
+P: 232
+EXP: **Total cost of production = labour costs (E: wages, bonus, PF, welfare) + other expenses (F items 1–10) + indigenous inputs (H-23) + imported inputs (I-7)**. Profit is a residual, not a cost.
+SC: Cost of production = labour + other expenses + materials.
+
+Q: In ASI Block H, the units of quantity prescribed for electricity, coal and gas consumed are respectively:
+A) KWH, tonne and kg
+B) MW, kg and litre
+C) KWH, kg and cubic metre
+D) units, quintal and tonne
+ANS: A
+D: Medium
+P: 234
+EXP: Electricity (own generated and purchased): **KWH**. Coal: **tonne**. Gas: **kg**. The ready reference also lists solar energy in KWH and water purchased for fuel in kilolitres.
+SC: Electricity in KWH, coal in tonnes, gas in kg.
+
+Q: Block I of the ASI schedule seeks details of how many major imported items separately?
+A) Five
+B) Ten
+C) Three
+D) Twenty
+ANS: A
+D: Medium
+P: 235
+EXP: Block I records the **major five imported items** (serials 1–5), then "other imported items" and the total. Block H records the **major ten** indigenous basic items, and Block J the **first ten** major products.
+SC: Ten indigenous inputs, five imported inputs, ten products.
+
+Q: Block L (Energy Conservation) of the ASI schedule asks whether measures have been taken regarding saving of:
+A) Electricity, coal, oil and gas
+B) Water, land, labour and capital
+C) Electricity only
+D) Solar, wind, hydro and nuclear
+ANS: A
+D: Easy
+P: 236
+EXP: Block L has four yes/no indicators: **electrical saving, coal saving, oil saving and gas saving**. Any initiative by the owner counts as "yes", whether or not it relates directly to manufacturing.
+SC: EC covers the four energy inputs: electricity, coal, oil and gas.
+
+Q: In ASI scrutiny, basic entries must be thoroughly rechecked when the output/input ratio is less than:
+A) 0.5
+B) 1.0
+C) 2.0
+D) 0.1
+ANS: A
+D: Hard
+P: 238
+EXP: Scrutiny checks include: **output/input < 0.5** (recheck), **distributive expenses above 20% of gross sales** (recheck), **bonus above 20% of wages** (remarks), negative GVA (special check), and resale value below purchase value (reasons).
+SC: Remember 0.5 for output/input and 20% for both distributive expenses and bonus.
+
+Q: If the total bonus exceeds what percentage of total wages/salaries, the ASI scrutiny requires suitable remarks in the return?
+A) 20%
+B) 10%
+C) 33%
+D) 50%
+ANS: A
+D: Medium
+P: 238
+EXP: A **bonus of more than 20% of wages** is flagged and needs remarks. The same 20% threshold applies to **distributive expenses relative to gross sales**.
+SC: Both scrutiny thresholds are 20%.
+
+Q: In ASI scrutiny Part A, "Average salaries/wages per manday worked" is computed from Block E as:
+A) wages (col 8) ÷ mandays worked (col 5) for workers
+B) wages ÷ number of workers
+C) total emoluments ÷ 365
+D) bonus ÷ mandays paid
+ANS: A
+D: Medium
+P: 237
+EXP: Scrutiny item 4(1): **average salaries/wages per manday worked = E5.8 ÷ E5.5**, i.e. total workers' wages divided by total mandays worked. It is compared with the previous year to find anomalies.
+SC: The wage rate is money per manday worked.
+
+Q: ASI Part-II (Mandays worked, absenteeism and labour turnover) records data for each month from:
+A) April of the reference year to March of the next year
+B) January to December
+C) July to June
+D) Only the survey months
+ANS: A
+D: Easy
+P: 240
+EXP: Part-II Block 2 has rows for **April 2020 to March 2021** (for ASI 2020-21), i.e. the financial year. For **seasonal industries**, only the months when the main product was made are covered.
+SC: Part-II follows the financial year month by month.
+
+@topic Ready Reference: Fixed Assets (Block C)
+Q: As per the ASI ready reference, a fencing or compound wall that is external to the factory building is recorded against:
+A) Block C, item 1 (Land)
+B) Block C, item 2 (Building)
+C) Block C, item 7 (Others)
+D) Block F, repair and maintenance
+ANS: A
+D: Hard
+P: 241
+EXP: The **external** fencing or compound wall counts as **land improvement (C-1)**. If it is an **integral part of the factory building**, it goes to **building (C-2)**. Roads, culverts and external sewerage are also C-1.
+SC: External works improve land (C-1). Integral works are part of the building (C-2).
+
+Q: Godowns, showrooms, hospital buildings and R&D buildings of a factory are recorded in ASI under:
+A) Block C, item 2 (Building)
+B) Block C, item 7 (Others)
+C) Block D
+D) Outside the purview of ASI
+ANS: A
+D: Easy
+P: 241
+EXP: Every kind of building owned by the factory (factory, office, godown, showroom, hospital, R&D, staff flats) goes under **C-2 Building**.
+SC: Any structure is a building (C-2).
+
+Q: As per the ASI ready reference, a DG set, dies & moulds and transformers used for plant & machinery are recorded under:
+A) Block C, item 3 (Plant & Machinery)
+B) Block C, item 7 (Others)
+C) Block C, item 6 (Pollution control)
+D) Block H (consumable stores)
+ANS: A
+D: Medium
+P: 242
+EXP: **DG sets, dies and moulds, furnaces, molasses tanks, sewing machines and transformers for P&M** are **C-3**. **Transformers not for P&M** go to C-7.
+SC: If it drives or is part of production machinery, it is P&M.
+
+Q: Electrostatic precipitators, venturi scrubbers and bag-house fabric filters are recorded in ASI Block C under:
+A) Item 6: Pollution control/environment improvement equipment
+B) Item 3: Plant & machinery
+C) Item 7: Others
+D) Item 5: Computer equipment
+ANS: A
+D: Easy
+P: 243
+EXP: **Item 6** covers pollution control equipment: afterburners, biofilters, carbon absorbers, catalytic reactors, cyclones, **ESPs**, **fabric filters**, incinerators, packed towers, spray chambers, thermal oxidisers and **venturi scrubbers**.
+SC: Filters, scrubbers and precipitators all fall under pollution control (C-6).
+
+Q: As per the ASI ready reference, electric fans, fire extinguishers, library and laboratory apparatus of a factory are recorded under:
+A) Block C, item 7 (Other fixed assets)
+B) Block C, item 3 (Plant & machinery)
+C) Block C, item 2 (Building)
+D) Block F
+ANS: A
+D: Easy
+P: 244
+EXP: Office and utility items (fans, room ACs and coolers, fire extinguishers, library, lab equipment, furniture, PABX, refrigerators not essential for the product, typewriters, water purifiers) go under **C-7 Others**.
+SC: Utilities and office equipment go to "Others" (C-7).
+
+Q: Livestock used for manufacturing, as listed in the ASI ready reference, is recorded under:
+A) Block C, item 7 (Others)
+B) Block H (raw material)
+C) Block D (inventory)
+D) Outside the purview of ASI
+ANS: A
+D: Hard
+P: 244
+EXP: The ready reference lists **livestock used for manufacturing** under **C-7 (other fixed assets)**. The animals serve for more than a year as capital. A cart with animals for transport is recorded under transport equipment (C-4).
+SC: Working animals used for more than a year are fixed assets.
+
+Q: As per the ASI ready reference, which of the following is "outside the purview of ASI" (not recorded in Block C)?
+A) Copyrights and trademarks, or land/building in another State with economic activity
+B) Capital work in progress
+C) Computer software
+D) Pollution control equipment
+ANS: A
+D: Medium
+P: 246
+EXP: Outside the purview: **copyrights, trademarks, goodwill** and **land or buildings in another State where economic activity is carried out** (a separate production unit). Land or buildings in another State **with no** economic activity are recorded in C-1/C-2.
+SC: Intangibles and out-of-State units that are active are excluded.
+
+@topic Ready Reference: Working Capital (Block D)
+Q: As per the ASI ready reference, "goods for trading (resale)" held in stock are recorded under:
+A) Block D, item 1 (Raw materials & components and packing materials)
+B) Block D, item 6 (Finished goods)
+C) Block D, item 3 (Spares & stores)
+D) Block F, item 11
+ANS: A
+D: Hard
+P: 246
+EXP: **Stock of trading goods** goes to **D-1**, together with raw materials, packing materials, construction material, material in transit (paid for) and materials supplied to others for processing.
+SC: Trading stock sits with raw materials in D-1.
+
+Q: Stationery, canteen grain stock and vehicle spares held in stock are recorded in ASI Block D under:
+A) item 3: Spares, stores & others
+B) item 1: Raw materials
+C) item 2: Fuels & lubricants
+D) item 10: Other current assets
+ANS: A
+D: Medium
+P: 246
+EXP: **D-3 (Spares, stores & others)** covers consumable stores, spares, stationery, canteen stock, stock of building material, dead stock and vehicle spares.
+SC: Anything that is not raw material, fuel or output goes in D-3.
+
+Q: As per the ASI ready reference, "advance to supplier" and "debit balances of sundry creditors" are recorded under:
+A) Block D, item 9 (Sundry debtors)
+B) Block D, item 12 (Sundry creditors)
+C) Block D, item 10 (Other current assets)
+D) Outside the purview of ASI
+ANS: A
+D: Hard
+P: 247
+EXP: **Sundry debtors (D-9)** include advances to customers, parties and suppliers, debit balances of sundry creditors and trade receivables.
+SC: Any amount owed to the factory by trade parties is D-9.
+
+Q: Prepaid insurance, interest receivable and earnest money deposited for less than one year are recorded in ASI under:
+A) Block D, item 10 (Other current assets)
+B) Block D, item 8 (Cash in hand & at bank)
+C) Block C
+D) Block G
+ANS: A
+D: Medium
+P: 248
+EXP: **D-10** includes prepaid expenses, interest receivable, short-term earnest money and security deposits (under 1 year), duty drawback receivable, export incentives receivable, loans to staff and advance income tax.
+SC: Short-term receivables that are not trade debtors go in D-10.
+
+Q: "Advance from customer" is recorded in ASI Block D under:
+A) item 12: Sundry creditors
+B) item 9: Sundry debtors
+C) item 14: Other current liabilities
+D) item 17: Outstanding loans
+ANS: A
+D: Medium
+P: 249
+EXP: **Advances received from customers and parties are sundry creditors (D-12)**, because the factory owes goods against them.
+SC: Money received in advance is a creditor.
+
+Q: As per the ASI ready reference, "current maturities of long-term loans", "bonus payable" and "PF payable" are recorded under:
+A) Block D, item 14 (Other current liabilities)
+B) Block D, item 17 (Outstanding loans)
+C) Block D, item 13 (Short-term loans)
+D) Block E
+ANS: A
+D: Hard
+P: 249
+EXP: **D-14 (other current liabilities)** covers bills payable, bonus, ESI and PF payable, current maturities of long-term loans, expenses payable, provisions (short term), taxes payable and unpaid wages.
+SC: Short-term payables that are not trade creditors or bank credit go in D-14.
+
+Q: A bank overdraft and working capital loan are recorded in ASI Block D under:
+A) item 13: Overdraft, cash credit, other short-term loans
+B) item 17: Outstanding loans
+C) item 12: Sundry creditors
+D) item 14: Other current liabilities
+ANS: A
+D: Easy
+P: 249
+EXP: **D-13** covers bank overdraft, cash credit, working capital loans, short-term loans from banks and FIs, and short-term loans from directors.
+SC: Short-term bank credit is D-13.
+
+Q: Which of the following is recorded under Block D, item 17 (outstanding loans) as per the ASI ready reference?
+A) Vehicle loan, term loans from banks (excluding interest) and loans from shareholders
+B) Bank overdraft
+C) Advance from customers
+D) Bills payable
+ANS: A
+D: Medium
+P: 251
+EXP: **D-17** covers **long-term** borrowings: term loans from banks and FIs (excluding interest), debentures, loans from shareholders and partners, loans from subsidiaries, FDs, and vehicle loans.
+SC: Term and long-duration borrowings go in D-17.
+
+Q: As per the ASI ready reference, which of the following is "outside the purview of ASI"?
+A) Deferred tax assets, bad debts and accrued interest
+B) Bank overdraft
+C) Sundry debtors
+D) Finished goods
+ANS: A
+D: Medium
+P: 251
+EXP: Items **outside the purview** include accrued interest, advances for purchase or sale of fixed assets, authorised or called-up capital, bad debts, deferred tax assets and liabilities, deferred revenue expenditure, partners' drawings, goodwill and reserves.
+SC: Capital-account, reserve and accounting-adjustment items are excluded.
+
+Q: As per the ASI ready reference, "materials supplied by others to the factory for processing" are:
+A) outside the purview of ASI (not counted in the factory's inventory)
+B) recorded in Block D, item 1
+C) recorded in Block H
+D) recorded in Block J
+ANS: A
+D: Easy
+P: 252
+EXP: The factory does not own these materials, so they are **outside the purview** of its inventory. Only the **service charges** earned are recorded (G-1).
+SC: Goods not owned are not counted as inventory.
+
+@topic Ready Reference: Labour Cost (Block E)
+Q: As per the ASI ready reference, which of the following is recorded under wages & salary (Block E, column 8)?
+A) Leave encashment, notice pay and income tax paid for employees
+B) Contribution to EPF
+C) Canteen cost
+D) Year-end bonus
+ANS: A
+D: Medium
+P: 253
+EXP: **Wages & salary (E col. 8)** include basic pay, DA, HRA, overtime, leave encashment, leave salary, LTA, notice pay, retaining and suspension allowance, stipend, production incentive and **income tax paid for employees**. EPF goes in E-11, canteen in E-12, and year-end bonus in E-10.
+SC: Wages = everything paid to the individual regularly.
+
+Q: Contribution to EDLIS, superannuation and labour welfare fund is recorded in ASI under:
+A) Block E, item 11 (Contribution to PF and other funds)
+B) Block E, item 12 (Welfare expenses)
+C) Block E, column 8 (Wages)
+D) Block F, item 3
+ANS: A
+D: Medium
+P: 254
+EXP: **E-11** covers EPF/CPF, ESI, EDLIS/DLIF, superannuation, group gratuity fund, labour welfare fund and compensation for work injuries.
+SC: Employer contributions to funds go in E-11.
+
+Q: As per the ASI ready reference, "bus hired to and from duty", "canteen cost" and "water purchased for drinking of staff" are recorded under:
+A) Block E, item 12 (Workmen & staff welfare expenses)
+B) Block F, item 3 (Operating expenses)
+C) Block H (consumable stores)
+D) Block E, column 8
+ANS: A
+D: Easy
+P: 254
+EXP: **E-12 (welfare)** covers group benefits in kind: canteen, food and beverages, hired bus, LTC, medical, recreation, sports and **drinking water for staff**.
+SC: Group benefits in kind go to welfare (E-12).
+
+Q: A uniform provided to employees as a welfare measure is recorded under Block E (welfare), whereas a uniform for carrying out a specific activity/operation is recorded under:
+A) Block F, item 3 (Operating expenses)
+B) Block H, consumable stores
+C) Block E, wages
+D) Block C, other fixed assets
+ANS: A
+D: Hard
+P: 258
+EXP: The ready reference distinguishes a **uniform as welfare (E-12)** from a **uniform needed for a specific operation (F-3)**. The manual also treats mandatory working-hour uniforms as operating expenses.
+SC: A welfare uniform goes in E. A work-requirement uniform goes in F-3.
+
+@topic Ready Reference: Expenses & Receipts (Blocks F, G, H, J)
+Q: Stitching, embroidery and processing charges paid to outside parties on materials supplied by the unit are recorded in ASI under:
+A) Block F, item 1 (Work done by others on materials supplied)
+B) Block F, item 3 (Operating expenses)
+C) Block H (inputs)
+D) Block E (wages)
+ANS: A
+D: Easy
+P: 255
+EXP: **F-1** covers button-holing, embroidery, fabrication, finishing, labour charges paid, **processing charges paid**, stitching and washing or dyeing done by others on the unit's materials.
+SC: Job work bought from others is F-1. Job work sold to others is G-1.
+
+Q: Charges paid for a Common Effluent Treatment Plant (CETP) and computer repairs are recorded under:
+A) Block F, item 2(ii): Repair & maintenance of other fixed assets
+B) Block F, item 3
+C) Block C, item 6
+D) Block E
+ANS: A
+D: Hard
+P: 255
+EXP: The ready reference lists **CETP charges**, car and computer repairs and repair and maintenance of P&M under **F-2(ii)**, repair and maintenance of **other fixed assets**. Building repairs go to F-2(i).
+SC: Upkeep of non-building assets is F-2(ii).
+
+Q: Audit fees, bank charges, advertisement, Swachh Bharat cess and technical know-how charges are recorded in ASI under:
+A) Block F, item 3 (Operating expenses)
+B) Block F, item 5 (Insurance)
+C) Block J (distributive expenses)
+D) Outside the purview
+ANS: A
+D: Easy
+P: 256
+EXP: All of these are **operating expenses (F-3)**, i.e. selling, general and administrative costs. Other examples are accounting, AGM and board meeting expenses, consultancy, courier, exchange loss, rates and taxes, recruitment, telephone, travel, tender fees and training.
+SC: General overheads go to F-3.
+
+Q: Godown rent paid and rent on warehouse are recorded in ASI under:
+A) Block F, item 8 (Rent paid for buildings)
+B) Block F, item 6 (Rent paid for P&M)
+C) Block F, item 9 (Rent for land)
+D) Block F, item 3
+ANS: A
+D: Medium
+P: 259
+EXP: Rent for **buildings, godowns and warehouses** goes in **F-8**. Rent or hire for **P&M and other fixed assets (including car hire)** goes in **F-6**. **Lease rent on land and royalties** go in **F-9**.
+SC: F-6 is machines and other assets, F-8 is buildings, F-9 is land and royalty.
+
+Q: "Duty drawback income" and "exchange rate fluctuation gain" are recorded in ASI under:
+A) Block G, item 2 (Receipts from non-manufacturing services)
+B) Block G, item 1 (Receipts from manufacturing services)
+C) Block J (product subsidy)
+D) Block G, item 12 (Production subsidy)
+ANS: A
+D: Hard
+P: 260
+EXP: The ready reference places duty drawback income, export incentives on current products, exchange gains, freight and packing recovered, miscellaneous income, rebate and discount income, and royalty received under **G-2**.
+SC: Non-manufacturing income items go to G-2.
+
+Q: Processing charges received and sale value of waste left by a party for whom job work is done are recorded under:
+A) Block G, item 1 (Receipts from manufacturing services)
+B) Block G, item 2
+C) Block J
+D) Block G, item 11
+ANS: A
+D: Medium
+P: 260
+EXP: **G-1** covers income from **manufacturing services** (job work): processing, labour and fabrication charges received and **waste left by the party**.
+SC: Income from job work done for others is G-1.
+
+Q: As per the ASI ready reference, "sale of empty drums/bags/discarded material" is recorded under:
+A) Block G, item 11 (Sale value of goods sold in the same condition)
+B) Block J (products)
+C) Block G, item 1
+D) Block D
+ANS: A
+D: Hard
+P: 261
+EXP: Empty drums, bags and **discarded material** sold as they are go to **G-11**. The ready reference lists **scrap sales arising from manufacturing** under **Block J** as by-product or other product sales.
+SC: Discarded packing goes to G-11. Manufacturing scrap goes to Block J.
+
+Q: "Carriage outward", "commission paid on sales", "ECGC premium" and "free samples" are recorded in ASI under:
+A) Block J (distributive expenses)
+B) Block F, item 3
+C) Block F, item 13
+D) Block E
+ANS: A
+D: Medium
+P: 262
+EXP: **Distributive expenses (Block J)** include carriage and cartage outward, sales commission and brokerage, cash discount, rebates, **ECGC (export credit insurance) premium**, export promotion, free samples, insurance of goods sold and sales promotion.
+SC: Costs of getting goods to buyers are distributive expenses in Block J.
+
+Q: Custom duty paid on imported raw materials is recorded in ASI under:
+A) Block I (Imported inputs)
+B) Block J
+C) Block F, item 3
+D) Block H
+ANS: A
+D: Medium
+P: 262
+EXP: Inputs are valued at **delivered value**, which includes duties. So **custom duty on imported raw material** forms part of **Block I**. Custom duty on **finished goods** exported goes in **Block J**.
+SC: Duty on inputs goes to I. Duty on outputs goes to J.
+
+Q: Solar energy consumed (in KWH) and water purchased for fuel purposes are recorded in ASI Block H under:
+A) item 20: Other fuel consumed
+B) item 16: Electricity purchased
+C) item 21: Consumable store
+D) item 13: Non-basic chemicals
+ANS: A
+D: Hard
+P: 262
+EXP: The ready reference places **solar energy (KWH)**, other fuel oils and **water purchased for fuel purposes (kilolitres)** under **H-20 (other fuel consumed)**. Stores, spares, tools and dies go in **H-21**.
+SC: Non-standard energy sources go to "other fuel" (H-20).
+
+Q: "Power expenses" and "electricity expenses" paid to a supplier are recorded in ASI Block H under:
+A) item 16: Electricity purchased & consumed
+B) item 15: Electricity own generated
+C) item 17: Petrol, diesel, oil
+D) item 20: Other fuel
+ANS: A
+D: Easy
+P: 261
+EXP: **Electricity and power expenses** paid to a supplier go to **H-16**, in quantity (KWH) and value. Own generation goes in H-15 as quantity only.
+SC: Bought power is H-16. Self-generated power is H-15.

@@ -1,0 +1,491 @@
+@set N13
+@title Topics 17 & 18 · SDGs, Principles of Official Statistics, SDDS & CoS Act
+@pages Notes 17 (5 pp.) + Notes 18 (5 pp.)
+@desc 2030 Agenda, SDGs vs MDGs, NITI Aayog & MoSPI roles; IMF SDDS, DSBB, NSDP; UNSD publications; UN FPOS (Principles 7-10 focus); CoS Act 2008 timeline, constitutional entries, appropriate Government, Section 3 notification, modes, informants, entry rights, penalties, advantages over non-statutory surveys
+
+@note 17
+@topic SDGs & MDGs
+Q: The 2030 Agenda for Sustainable Development, titled "Transforming our World", was adopted at the 70th Session of the UN General Assembly on:
+A) 25 September 2015
+B) 1 January 2016
+C) 29 January 2014
+D) 8 September 2000
+ANS: A
+D: Easy
+P: 1
+EXP: The **70th UNGA adopted the 2030 Agenda on 25 September 2015**, with **17 SDGs and 169 targets**. It **came into force on 1 January 2016**. The **MDGs** date from the **Millennium Declaration (September 2000)**.
+SC: SDGs were adopted 25.9.2015 and took effect 1.1.2016.
+
+Q: The Millennium Development Goals (MDGs) comprised:
+A) 8 goals and 18 targets
+B) 17 goals and 169 targets
+C) 8 goals and 21 targets
+D) 10 goals and 50 targets
+ANS: A
+D: Medium
+P: 1
+EXP: As per the notes, the **MDGs (2000)** had **8 goals and 18 targets**, focused mainly on social and economic aspects. The **SDGs** cover the **economic, social and environmental** dimensions with **17 goals and 169 targets**.
+SC: MDG 8/18 vs SDG 17/169.
+TIP: The MDG targets were later expanded to 21 (in 2007). The notes give 18, the original number.
+
+Q: In India, which body oversees the implementation of SDGs, and which is responsible for developing the National Indicator Framework?
+A) NITI Aayog oversees implementation; MoSPI develops the NIF
+B) MoSPI oversees implementation; NITI Aayog develops the NIF
+C) Ministry of External Affairs and RBI respectively
+D) NSC and NSO respectively
+ANS: A
+D: Easy
+P: 1
+EXP: **NITI Aayog** oversees **SDG implementation** and prepares the **SDG India Index**. **MoSPI** develops the **National Indicator Framework (NIF)**, publishes progress reports and runs the SDG dashboard.
+SC: NITI implements; MoSPI measures.
+
+Q: Regarding the legal status of the SDGs, which statement is correct?
+A) India is a signatory to the UN resolution, but achieving the SDGs is not legally binding; targets are aspirational, with each Government setting national targets
+B) The SDGs are legally binding treaties enforceable by the UN
+C) India has not signed the 2030 Agenda
+D) Failure to meet the SDGs attracts WTO sanctions
+ANS: A
+T: Conceptual
+D: Easy
+P: 2
+EXP: The SDGs are **not legally binding**. Targets are **aspirational and global**, and countries set **national targets** in line with their circumstances. Countries have primary responsibility for **follow-up and review**.
+SC: SDGs are aspirational, not binding.
+
+Q: As per the notes, the SDG framework comprises 17 goals, 169 targets and approximately how many global indicators?
+A) 232
+B) 306
+C) 100
+D) 18
+ANS: A
+D: Medium
+P: 2
+EXP: The global framework has about **232 unique indicators** under **17 goals and 169 targets**. India's **NIF** began with **306** national indicators, which is the distractor.
+SC: Global framework 232; India's NIF 306.
+
+Q: Which of the following correctly distinguishes the SDGs from the MDGs?
+A) The SDGs integrate all three dimensions of development (economic, social and environmental) and apply universally
+B) The SDGs are limited to social development only
+C) The MDGs had more goals than the SDGs
+D) The SDGs apply only to developing countries
+ANS: A
+T: Conceptual
+D: Easy
+P: 1
+EXP: The **SDGs** are **universal** and integrate **economic, social and environmental** dimensions. They address the **root causes of poverty** and the universal need for development. The **MDGs** were narrower and focused on developing countries.
+SC: SDGs are universal and three-dimensional; MDGs were narrower.
+
+@topic SDDS & International Publications
+Q: India's subscription to the IMF's Special Data Dissemination Standard (SDDS) involves posting metadata on the IMF's electronic bulletin board known as:
+A) Dissemination Standards Bulletin Board (DSBB)
+B) National Summary Data Page (NSDP)
+C) Data Quality Assessment Framework (DQAF)
+D) General Data Dissemination System (GDDS)
+ANS: A
+D: Medium
+P: 3
+EXP: SDDS subscribers post **metadata** on the IMF's **DSBB**. The actual **data** (e.g. quarterly GDP) sit on the country's **National Summary Data Page (NSDP)**, which is **linked** to the DSBB.
+SC: Metadata go on the DSBB; data sit on the NSDP.
+
+Q: Under SDDS, data on quarterly GDP and other real sector categories are transmitted to the IMF through:
+A) the National Summary Data Page (NSDP) linked to the DSBB
+B) the SDMX Global Registry only
+C) direct email to the IMF Executive Board
+D) the UN Data portal
+ANS: A
+D: Medium
+P: 3
+EXP: The **NSDP** hosts the data and is **linked from the DSBB**. Being on the DSBB signals a country's intent to observe **good statistical citizenship**. Per the notes, **71 countries** subscribed to SDDS and **14** to **SDDS Plus**.
+SC: Data go on the NSDP, which links to the DSBB.
+
+Q: Which of the following publications is brought out by the United Nations Statistics Division (UNSD)?
+A) World Statistics Pocketbook
+B) World Economic Outlook
+C) Human Development Report
+D) Global Financial Stability Report
+ANS: A
+D: Medium
+P: 3
+EXP: **UNSD** publishes the **Statistical Yearbook**, **World Statistics Pocketbook** and **Monthly Bulletin of Statistics**. The **WEO and GFSR** are **IMF** reports, and the **HDR** is **UNDP's**.
+SC: UNSD publishes the Yearbook, the Pocketbook and the Monthly Bulletin.
+
+Q: The United Nations has recommended that the base period of index numbers should be revised:
+A) quinquennially
+B) annually
+C) decennially
+D) every 20 years
+ANS: A
+D: Easy
+P: 3
+EXP: The UN recommends **rebasing indices every 5 years**. India's **NSC** also recommended rebasing economic indices **at least every 5 years**.
+SC: Rebase every 5 years.
+
+@topic Fundamental Principles of Official Statistics
+Q: Which Fundamental Principle states that "the laws, regulations and measures under which the statistical systems operate are to be made public"?
+A) Principle 7 – Legislation
+B) Principle 3 – Accountability and Transparency
+C) Principle 8 – National Coordination
+D) Principle 1 – Relevance, Impartiality and Equal Access
+ANS: A
+D: Medium
+P: 4
+EXP: **Principle 7 (Legislation)**: laws and regulations governing statistics must be **public**. **Principle 3** concerns presenting **sources, methods and procedures**.
+SC: Principle 7 covers public laws; Principle 3 covers public methods.
+
+Q: "Coordination among statistical agencies within countries is essential to achieve consistency and efficiency in the statistical system." This is Principle:
+A) 8
+B) 9
+C) 10
+D) 5
+ANS: A
+D: Medium
+P: 4
+EXP: **Principle 8 is National Coordination**. **9** is the use of **international standards**, and **10** is **international cooperation**.
+SC: 8 national, 9 international standards, 10 international cooperation.
+
+Q: "The use by statistical agencies in each country of international concepts, classifications and methods promotes the consistency and efficiency of statistical systems at all official levels." This is the theme of Principle:
+A) 9 – Use of International Standards
+B) 10 – International Cooperation
+C) 8 – National Coordination
+D) 2 – Professional Standards
+ANS: A
+D: Medium
+P: 4
+EXP: **Principle 9** covers **international concepts, classifications and methods**. **Principle 10** covers **bilateral and multilateral cooperation**.
+SC: Standards are Principle 9; cooperation is Principle 10.
+
+Q: Which Fundamental Principle states that bilateral and multilateral cooperation in statistics contributes to the improvement of official statistics in all countries?
+A) Principle 10
+B) Principle 9
+C) Principle 8
+D) Principle 1
+ANS: A
+D: Easy
+P: 4
+EXP: **Principle 10 is International Cooperation**, the last of the **10 Fundamental Principles** endorsed by the **UNGA (Resolution 68/261, 29 January 2014)**.
+SC: The tenth and last principle is cooperation.
+
+Q: Arrange the following Fundamental Principles in their correct numerical order:
+1. Confidentiality
+2. Prevention of Misuse
+3. Legislation
+4. Sources of Official Statistics
+A) 2-4-1-3
+B) 4-2-1-3
+C) 2-1-4-3
+D) 1-2-4-3
+ANS: A
+T: Chronology
+D: Hard
+P: 4
+EXP: The ten principles in order: **1 Relevance, Impartiality & Equal Access**; **2 Professional Standards**; **3 Accountability & Transparency**; **4 Prevention of Misuse**; **5 Sources**; **6 Confidentiality**; **7 Legislation**; **8 National Coordination**; **9 International Standards**; **10 International Cooperation**.
+SC: The order runs: Relevance, Professionalism, Transparency, Misuse, Sources, Confidentiality, Law, Coordination, Standards, Cooperation.
+
+@note 18
+@topic CoS Act: Timeline & Constitutional Basis
+Q: The Collection of Statistics Act, 2008 (7 of 2009) was enacted by Parliament on:
+A) 7 January 2009
+B) 11 June 2010
+C) 16 May 2011
+D) 9 January 2009
+ANS: A
+D: Medium
+P: 1
+EXP: The CoS Act timeline: **enacted 7 January 2009**; **gazetted 9 January 2009**; **in force 11 June 2010**; **CoS Rules notified 16 May 2011**; **corrigendum 8 September 2011**.
+SC: Enacted 7 January 2009, gazetted on the 9th, in force June 2010, Rules May 2011.
+
+Q: Arrange the following events related to the Collection of Statistics Act in chronological order:
+1. Collection of Statistics Rules notified
+2. Act brought into force
+3. Act published in the Official Gazette
+4. Corrigendum on the Rules notified
+A) 3-2-1-4
+B) 2-3-1-4
+C) 3-1-2-4
+D) 3-2-4-1
+ANS: A
+T: Chronology
+D: Medium
+P: 1
+EXP: The sequence is **Gazette (9 January 2009) → in force (11 June 2010) → Rules (16 May 2011) → corrigendum (8 September 2011)**.
+SC: Gazette, force, Rules, corrigendum.
+
+Q: The Collection of Statistics Rules, 2011 were notified on:
+A) 16 May 2011
+B) 11 June 2010
+C) 8 September 2011
+D) 7 January 2009
+ANS: A
+D: Medium
+P: 1
+EXP: The **CoS Rules, 2011** were notified on **16 May 2011**, with a **corrigendum on 8 September 2011**. The **Act** came into force on **11 June 2010**.
+SC: The Rules came on 16 May 2011.
+
+Q: The subject "Statistics" is covered in which entries of the Seventh Schedule of the Constitution?
+A) Entry 94 of the Union List and Entry 45 of the Concurrent List; it is not in the State List
+B) Entry 69 of the Union List and Entry 45 of the State List
+C) Entry 94 of the State List only
+D) Entry 20 of the Concurrent List only
+ANS: A
+D: Medium
+P: 1
+EXP: **Union List Entry 94**: inquiries, surveys and statistics for Union List matters. **Concurrent List Entry 45**: inquiries and statistics for State and Concurrent List matters. There is **no State List entry**, and the CoS Act rests on these two entries. (**Census = Union Entry 69**; **economic & social planning = Concurrent Entry 20**.)
+SC: Statistics sits in Union 94 and Concurrent 45.
+
+Q: Under the CoS Act, the "appropriate Government" that may decide the subject of data collection includes:
+1. Any Ministry or Department of the Central Government
+2. Any Ministry or Department of a State Government or UT Administration
+3. A Panchayat or a Municipality
+Select the correct answer using the code given below:
+A) 1 only
+B) 1 and 2 only
+C) 2 and 3 only
+D) 1, 2 and 3
+ANS: D
+T: Statement
+D: Medium
+P: 1
+EXP: The Act covers **all three tiers**: **Centre, States/UTs and local governments (Panchayats, Municipalities)**. Each decides subjects within its own jurisdiction.
+SC: All three tiers of government can collect statistics under the Act.
+
+Q: Through which amendment was the Collection of Statistics Act, 2008 extended to the State of Jammu and Kashmir?
+A) The Collection of Statistics (Amendment) Act, 2017
+B) The Collection of Statistics (Amendment) Act, 2011
+C) The J&K Reorganisation Act, 2019 only
+D) It was never extended
+ANS: A
+D: Hard
+P: 1
+EXP: The **CoS (Amendment) Act, 2017** extended the Act to **J&K**, which had earlier been governed by its own **J&K Collection of Statistics Act, 1961**.
+SC: The 2017 amendment brought J&K in.
+
+@topic CoS Act: Procedure & Informants
+Q: Every notification under Section 3 of the CoS Act must contain which of the following particulars?
+1. Subject and purpose of collection of statistics
+2. Reference period
+3. Language in which information is to be furnished
+4. Name of each informant
+Select the correct answer using the code given below:
+A) 1 and 2 only
+B) 1, 2 and 3 only
+C) 2, 3 and 4 only
+D) 1, 2, 3 and 4
+ANS: B
+T: Statement
+D: Hard
+P: 1
+EXP: Section 3 notifications list (a) **subject and purpose**, (b) geographical area, (c) **method**, (d) **nature of informants** (not names), (e) collection period, (f) **reference period**, (g) nature of information, (h) **language**, (i) obligations, (j) records to be inspected and (k) manner of inspection.
+SC: The notification names the type of informants, not the individuals.
+
+Q: A copy of every notification under Section 3 of the CoS Act must be forwarded to:
+A) the nodal officer of the Central Government and the nodal officer of the State concerned
+B) the Chief Justice of the High Court
+C) the Election Commission
+D) the Comptroller and Auditor General
+ANS: A
+D: Medium
+P: 2
+EXP: Copies go to the **Central nodal officer** and the **State nodal officer**, which helps with **coordination and avoiding duplication**.
+SC: Section 3 copies go to both nodal officers.
+
+Q: Under the CoS Act, who has the power to decide the mode of collecting data?
+A) The Statistics Officer
+B) The informant
+C) The nodal officer of the State
+D) The Chief Statistician of India
+ANS: A
+D: Medium
+P: 2
+EXP: The **Statistics Officer** decides the **mode**: interview, a format left to be filled, a notice, fax, phone, email or other electronic means, or a combination.
+SC: The Statistics Officer picks the mode.
+
+Q: Under the CoS Act, the responsibility for furnishing details of inmates of institutions such as orphanages and old age homes lies with:
+A) the head of the institution
+B) each inmate individually
+C) the District Collector
+D) the local police station
+ANS: A
+D: Medium
+P: 3
+EXP: For institutions the **head of the institution** is responsible. For families the **head of the family** must furnish details of all members, dependants included.
+SC: The head of the family answers for a family; the head of the institution for inmates.
+
+Q: Under the CoS Act framework, a statistics officer or authorised person carrying a photo-identity card may enter the premises of an informant for collection of statistics normally during:
+A) 10:00 hrs to 17:00 hrs, or at a mutually convenient time
+B) 08:00 hrs to 20:00 hrs only
+C) any time of day or night
+D) only on Sundays
+ANS: A
+D: Medium
+P: 3
+EXP: Entry is allowed **10:00-17:00 hrs**, or at a **mutually convenient time**, into the part of the premises **normally entered by visitors** or as suggested by the informant.
+SC: Entry is 10 to 5, in the visitor area.
+
+Q: A person selected under a sampling procedure refuses to furnish information on the ground that the same information was not sought from others. Under the CoS Act:
+A) this is not a valid defence
+B) this is a valid defence
+C) the person may furnish partial information only
+D) the survey must be converted to a census
+ANS: A
+T: Conceptual
+D: Medium
+P: 2
+EXP: Selected informants **cannot plead** that others were not asked. The informant must answer truthfully, **allow entry** and **produce records** for inspection.
+SC: Being selected in a sample is no excuse for not answering.
+
+@topic CoS Act: Offences & Advantages
+Q: Under the CoS Act, which offence carries the highest maximum fine for a company?
+A) Destroying, defacing or mutilating an information schedule
+B) Failure to produce books of account
+C) Refusing to answer any question
+D) Making a false statement in a return
+ANS: A
+D: Hard
+P: 3
+EXP: **Section 17 (destroying or defacing schedules)**: up to **6 months SI or ₹2,000** (company **₹10,000**), or both. **Section 16 (false statement)**: 6 months or ₹1,000 (company ₹5,000). **Section 15(1) (non-production or refusal)**: ₹1,000 (company ₹5,000). **Section 15(2)**: a further fine per day of continuing default after 14 days from conviction.
+SC: Destroying schedules is the costliest offence: ₹2,000, or ₹10,000 for a company.
+
+Q: Which of the following is NOT cited as a disadvantage of conducting surveys on a non-statutory (voluntary) basis?
+A) Informants are compelled to respond under threat of imprisonment
+B) Informants may refuse or furnish wrong, partial or delayed information
+C) Informants may fear the information will be used against them for taxation
+D) Absence of legal restriction on disclosure may deter informants
+ANS: A
+T: Odd-one-out
+D: Medium
+P: 4
+EXP: Non-statutory surveys suffer from **refusals, poor or false responses, fear of misuse (e.g. taxation)** and **no legal confidentiality guarantee**. The **CoS Act** fixes all of these, so Departments are advised to survey **under the Act**. Compulsion is a feature of the Act, not a disadvantage of voluntary surveys.
+SC: The CoS Act adds compulsion and confidentiality.
+
+Q: As per the notes, administrative statistics are:
+A) statistics generated as a by-product of administration in the Government
+B) statistics collected only through sample surveys
+C) statistics produced by private companies
+D) statistics on administrative staff strength only
+ANS: A
+D: Easy
+P: 4
+EXP: **Administrative statistics** are a **by-product** of Government administration, e.g. statutory returns. The **nodal officer** guides Departments to keep **up-to-date business lists** and share them to **avoid duplication**.
+SC: Administrative data come for free from routine administration.
+
+Q: As per the notes, unnecessary duplication of data collection among Government Departments can be avoided if:
+A) Departments keep their administrative and statistical information up to date and share it with other Departments
+B) only one Department is allowed to conduct surveys
+C) all surveys are made voluntary
+D) data are not published
+ANS: A
+D: Easy
+P: 4
+EXP: **Sharing up-to-date administrative and statistical information** makes it clear what data already exist, which **avoids duplication**.
+SC: Share what you hold to avoid duplicate surveys.
+
+Q: Under the CoS Act, an "informant" includes:
+A) any person who supplies or is required to supply statistical information, including an owner, occupier, person in charge or authorised representative of a firm, society or company
+B) only individuals, not companies
+C) only Government employees
+D) only registered factories
+ANS: A
+D: Medium
+P: 2
+EXP: **Sections 2(c) and 5** define an **informant** broadly: any person, including the owner, occupier, person in charge or authorised representative of a **partnership, co-operative, company, society or association**.
+SC: An informant is anyone asked, including firms through their representatives.
+
+Q: Under the CoS Act, an informant must, on demand, produce books of accounts, vouchers or documents relevant to the collection of statistics to:
+A) the statistics officer or a person authorised by him in writing and carrying a photo-identity card issued by him
+B) any police officer
+C) any member of the public
+D) the informant's bank
+ANS: A
+D: Medium
+P: 3
+EXP: Records must be shown to the **statistics officer** or a **person authorised in writing who carries a photo ID** issued by that officer, who may take **copies or extracts**.
+SC: Records are shown only to the statistics officer or an authorised, ID-carrying person.
+
+Q: The Collection of Statistics Act, 2008 is intended to facilitate the collection of statistics by Government at how many levels?
+A) All three tiers: Central, State and local
+B) Central only
+C) Central and State only
+D) Local bodies only
+ANS: A
+D: Easy
+P: 1
+EXP: The Act facilitates collection of economic, demographic, social, scientific and environmental statistics by **all three tiers** of government.
+SC: The CoS Act works for all three tiers.
+
+@topic SDGs & MDGs
+Q: Countries have the primary responsibility for follow-up and review of SDG progress over what period?
+A) 15 years (2016-2030)
+B) 10 years (2015-2025)
+C) 25 years (2000-2025)
+D) 5 years (2016-2020)
+ANS: A
+D: Easy
+P: 1
+EXP: The **2030 Agenda** runs **15 years**, from **1 January 2016 to 2030**. **Countries lead follow-up and review** at the national level.
+SC: The SDGs cover 2016-2030, a 15-year run.
+
+@topic SDGs & MDGs
+Q: SDG 13 of the 2030 Agenda relates to:
+A) Climate Action
+B) Life Below Water
+C) Life on Land
+D) Responsible Consumption and Production
+ANS: A
+D: Easy
+P: 2
+EXP: **SDG 12**: Responsible Consumption and Production. **SDG 13**: **Climate Action**. **SDG 14**: Life Below Water. **SDG 15**: Life on Land. **SDG 16**: Peace, Justice and Strong Institutions. **SDG 17**: Partnerships for the Goals.
+SC: 12 consume, 13 climate, 14 water, 15 land, 16 peace, 17 partnership.
+
+@topic SDDS & International Publications
+Q: The presence of a country on the IMF's DSBB as an SDDS subscriber indicates:
+A) the country's intention to observe certain tenets of good statistical citizenship
+B) that the country has graduated to SDDS Plus
+C) that the IMF has audited all its data
+D) that the country is eligible for IMF loans
+ANS: A
+T: Conceptual
+D: Medium
+P: 3
+EXP: Being listed on the **DSBB** signals a commitment to **good statistical citizenship**: advance release calendars, metadata and timely data. India subscribed to **SDDS in 1996**.
+SC: A DSBB listing means a pledge of good data practice.
+
+@note 18
+@topic CoS Act: Procedure & Informants
+Q: Under the CoS Act, data may be collected through which of the following modes?
+1. Interviewing persons
+2. Leaving a format to be filled in by informants
+3. Issuing a notice to furnish information in a prescribed format within a specified time
+4. Telephone, fax, e-mail or other electronic mode
+Select the correct answer using the code given below:
+A) 1 and 2 only
+B) 1, 2 and 3 only
+C) 2, 3 and 4 only
+D) 1, 2, 3 and 4
+ANS: D
+T: Statement
+D: Easy
+P: 2
+EXP: The Act allows a **statistical survey (census or sample)** or collection otherwise by **interview, a format, a notice, fax, phone, email or other electronic modes**, or a **combination**. The **Statistics Officer** decides which.
+SC: Any mode is allowed, including electronic and mixed modes.
+
+Q: Under the CoS Act, the head of every family is responsible for furnishing:
+A) correct details of name, number of members and other particulars of the family, including dependants
+B) only his or her own details
+C) details of neighbours
+D) only income-tax details
+ANS: A
+D: Easy
+P: 3
+EXP: The **head of the family** must furnish details of **all members, dependants included**. For institutions the **head of the institution** is responsible.
+SC: The head of the family answers for everyone in it.
+
+@topic CoS Act: Offences & Advantages
+Q: To promote the statistical potential of administrative statistics, the nodal officer may request a Department that receives statutory returns to:
+A) keep an up-to-date list of business enterprises with addresses and statistical information at the desired level of aggregation
+B) stop collecting statutory returns
+C) publish the names and incomes of all enterprises
+D) transfer all records to the police
+ANS: A
+D: Medium
+P: 4
+EXP: The **nodal officer** can ask Departments to maintain **up-to-date enterprise lists** with addresses and statistics. Other Departments can then use these for **planning** and as **frames** for further collection.
+SC: The nodal officer turns administrative returns into frames.

@@ -1,0 +1,429 @@
+@set X07
+@title UPSC+ · National Accounts: SNA Concepts, 2011-12 Series, Deflation, I-O & State Accounts
+@pages Syllabus: National income – computation, utility
+@desc SNA 2008 production boundary, imputed rent, own-account production, FISIM, institutional sectors, inclusions and exclusions in national income, 2011-12 series features (basic prices, MCA-21, enterprise approach), deflation methods, GDP deflator, per capita income, PIM capital stock, input-output (Leontief), satellite accounts, State and district income
+
+@topic SNA Production Boundary
+Q: Under SNA 2008, which of the following is INCLUDED in the production boundary (and hence GDP)?
+A) Imputed rent of owner-occupied dwellings
+B) Unpaid household cooking and cleaning by family members
+C) Volunteer services within one's own household
+D) Leisure activities
+ANS: A
+D: Easy
+EXP: SNA includes **owner-occupied housing services** (imputed rent) and **own-account production of goods** (e.g. farm produce kept for home use, own-account construction). It **excludes** **own-account household services** such as unpaid cooking and cleaning, but includes **paid domestic staff**.
+SC: Own-account goods are in; own-account household services are out, except imputed rent.
+
+Q: Which of the following is EXCLUDED from national income?
+A) Old-age pensions paid by the government
+B) Wages of government employees
+C) Value of farm produce retained for self-consumption
+D) Imputed rent of owner-occupied houses
+ANS: A
+D: Easy
+EXP: **Transfer payments** (pensions, scholarships, unemployment doles) have **no production counterpart**, so they are excluded. Wages of government employees count as **compensation**. **Retained farm produce** and **imputed rent** are included.
+SC: Transfers are excluded; production for own use is included.
+
+Q: In national income accounting, the sale of a second-hand car through a dealer contributes to current GDP only through:
+A) the dealer's commission (service value added)
+B) the full resale price
+C) the original price of the car
+D) nothing at all, including commission
+ANS: A
+D: Medium
+EXP: A second-hand good was **counted when first produced**. Only the **dealer's service (commission or margin)** in the current period is new production. The same logic applies to **shares**: brokerage counts, but the share purchase is not investment in the GDP sense.
+SC: For old goods, only the middleman's margin is new output.
+
+Q: FISIM in national accounts refers to:
+A) Financial Intermediation Services Indirectly Measured, the implicit charge for intermediation earned through interest margins
+B) a tax on financial transactions
+C) foreign investment in securities market
+D) financial inclusion index
+ANS: A
+D: Medium
+EXP: Banks charge implicitly by **borrowing low and lending high**. **FISIM** measures this service output, and **SNA 2008 recommends allocating it to user sectors**. Without it, bank value added would be understated.
+SC: FISIM = the service value hidden in interest margins.
+
+Q: The five institutional sectors of the SNA are:
+A) non-financial corporations, financial corporations, general government, households, and NPISHs
+B) agriculture, industry, services, government, and rest of world
+C) public, private, joint, cooperative, and household
+D) primary, secondary, tertiary, quaternary, and government
+ANS: A
+D: Medium
+EXP: The **institutional sectors** are **NFC, FC, GG, households and NPISH** (non-profit institutions serving households). The **rest of the world** is the counterpart for transactions with non-residents. Agriculture, industry and services are **industries**, not institutional sectors.
+SC: Five sectors: NFC, FC, GG, HH, NPISH.
+
+Q: "Mixed income" in the income approach to GDP refers to:
+A) the surplus of unincorporated enterprises owned by households, which mixes returns to labour and capital
+B) income from two jobs
+C) government transfers plus wages
+D) profits of joint ventures
+ANS: A
+D: Medium
+EXP: For **self-employed / household enterprises**, owner labour and capital returns can't be separated, so their surplus is **mixed income**. Corporations generate **operating surplus**.
+SC: The self-employed earn mixed income; firms earn operating surplus.
+
+Q: Compensation of employees in the national accounts includes:
+A) wages and salaries in cash and kind plus employers' social contributions
+B) only cash wages
+C) wages plus mixed income
+D) wages plus pensions paid by the government
+ANS: A
+D: Medium
+EXP: **CE = wages and salaries (cash and kind) + employer's social contributions** (PF and similar). Government pensions to retirees are **transfers**.
+SC: CE = pay + employer contributions.
+
+@topic 2011-12 Series Features
+Q: Which of the following was a key change introduced with the 2011-12 base-year series of national accounts?
+A) Sectoral estimates presented as GVA at basic prices, and GDP at market prices as the headline measure
+B) Abolition of the production approach
+C) Use of the 1993 SNA
+D) Exclusion of the unorganised sector
+ANS: A
+D: Medium
+EXP: The 2011-12 series moved from **GDP at factor cost** to **GVA at basic prices** (industry-wise) and **GDP at market prices** (headline). It adopted **SNA 2008** and used the **MCA-21 corporate database**.
+SC: The 2011-12 series moved from factor cost to basic prices.
+
+Q: In the 2011-12 series, estimates for the private corporate sector were based largely on:
+A) the MCA-21 database of company filings with the Ministry of Corporate Affairs
+B) the RBI sample of about 2,500 companies only
+C) the Economic Census
+D) the ASI alone
+ANS: A
+D: Medium
+EXP: The **MCA-21** database of **company accounts** was used, moving to an **enterprise approach** for corporate manufacturing and services. Earlier series relied on the **RBI's company sample** and, for manufacturing, the **ASI** (establishments).
+SC: The 2011-12 series used MCA-21 company data, an enterprise approach.
+
+Q: In the 2011-12 series, the "effective labour input" method was used for:
+A) estimating value added of the unorganised (household) segments, weighting workers by relative productivity
+B) the corporate sector
+C) government administration
+D) the agriculture sector's crop output
+ANS: A
+D: Hard
+EXP: For **unorganised segments**, the new series used **effective labour input**, weighting **owner, hired and helper** workers by their **relative productivity**. This improved on the simple labour input method.
+SC: Unorganised GVA uses productivity-weighted labour.
+
+@topic Deflation & Real Estimates
+Q: The GDP deflator is calculated as:
+A) nominal GDP ÷ real GDP × 100
+B) real GDP ÷ nominal GDP × 100
+C) CPI ÷ WPI × 100
+D) (nominal GDP − real GDP) ÷ real GDP
+ANS: A
+D: Easy
+EXP: **Deflator = nominal / real × 100**. It is **implicit** and has **current weights** (Paasche-type), and it covers **all domestic output**, including services.
+SC: Deflator = nominal ÷ real.
+
+Q: Nominal GDP rises by 10% and the GDP deflator rises by 4%. Real GDP growth is approximately:
+A) 5.8%
+B) 6.0%
+C) 14.0%
+D) 2.5%
+ANS: A
+T: Numerical
+D: Medium
+EXP: The exact figure is **1.10 / 1.04 − 1 = 5.77% ≈ 5.8%**. The approximation 10 − 4 = 6% is close but slightly high.
+SC: Real growth = (1 + nominal) ÷ (1 + inflation) − 1.
+
+Q: "Double deflation" in estimating real value added means:
+A) deflating output and intermediate inputs separately by their own price indices and then subtracting
+B) deflating GVA twice by the same index
+C) deflating by both CPI and WPI and averaging
+D) deflating both GDP and population
+ANS: A
+D: Medium
+EXP: **Double deflation**: real GVA = real output − real inputs. It is preferred when **output and input prices diverge**. **Single deflation** deflates GVA directly by an output price index, which is simpler and widely used in India for lack of input price indices.
+SC: Double deflation deflates output and inputs separately.
+
+Q: Official per capita income in India refers to:
+A) per capita Net National Income
+B) per capita GDP at market prices
+C) per capita GVA at basic prices
+D) per capita disposable income of households
+ANS: A
+D: Medium
+EXP: The official **per capita income** is **NNI ÷ population**, reported at current and constant prices. Per capita GDP is used in some international comparisons.
+SC: Per capita income = NNI ÷ population.
+
+Q: The net capital stock and consumption of fixed capital in India's national accounts are estimated mainly using:
+A) the Perpetual Inventory Method (PIM)
+B) the Economic Census
+C) direct valuation surveys every year
+D) the Laspeyres index
+ANS: A
+D: Medium
+EXP: The **PIM** cumulates past **GFCF** (deflated) and subtracts **retirements and depreciation** by asset life. It gives **capital stock and CFC** estimates.
+SC: Capital stock is accumulated GFCF minus retirements (PIM).
+
+@topic Input-Output Analysis
+Q: In an input-output table, the technical (input) coefficient a_ij is defined as:
+A) the input from sector i required per unit of output of sector j (x_ij ÷ X_j)
+B) the output of sector i sold to final demand
+C) x_ij ÷ X_i
+D) the value added of sector j
+ANS: A
+D: Medium
+EXP: **a_ij = x_ij / X_j**, the input from i per unit of j's output. The matrix **A** of these coefficients leads to the **Leontief inverse**.
+SC: The column sector's output is the denominator.
+
+Q: In the Leontief open model, the gross output vector X required to meet final demand F is given by:
+A) X = (I − A)⁻¹ F
+B) X = (I + A) F
+C) X = A⁻¹ F
+D) X = (A − I) F
+ANS: A
+D: Medium
+EXP: From **X = AX + F**, we get **X = (I − A)⁻¹F**. The **Leontief inverse** gives **total (direct + indirect)** requirements, and its column sums are **output multipliers**.
+SC: X = (I − A)⁻¹F: the Leontief inverse times final demand.
+
+Q: The Hawkins-Simon condition in input-output analysis ensures:
+A) that the system is viable, producing non-negative outputs for non-negative final demands
+B) that prices are constant
+C) that the table is at factor cost
+D) that the number of sectors is finite
+ANS: A
+D: Hard
+EXP: **Hawkins-Simon**: all **leading principal minors of (I − A)** are positive. The economy can then produce a **surplus** and outputs are non-negative.
+SC: Hawkins-Simon tests whether the I-O system is viable.
+
+@topic Satellite, State & District Accounts
+Q: Gross State Domestic Product (GSDP) estimates are primarily compiled by:
+A) the State Directorates of Economics and Statistics
+B) the RBI
+C) the Finance Commission
+D) NITI Aayog
+ANS: A
+D: Easy
+EXP: **State DESs** compile **GSDP/GSVA** following NSO methodology, and NSO (NAD) coordinates for **comparability**. **District Domestic Product** estimates are also prepared by DESs.
+SC: State income comes from State DESs, harmonised by NAD.
+
+Q: A "satellite account" in national accounting is:
+A) an extension of the core accounts for a specific area (e.g. tourism, health, environment) without altering the central framework
+B) an account of satellite launches
+C) a set of accounts for foreign branches
+D) a quarterly revision of GDP
+ANS: A
+D: Easy
+EXP: **Satellite accounts** (the **Tourism Satellite Account**, health accounts, **SEEA**) elaborate a field consistently with the SNA but **outside** the core accounts.
+SC: Satellite accounts orbit the core SNA without changing it.
+
+Q: India's Tourism Satellite Account (TSA) estimates the contribution of tourism to:
+A) GDP and employment
+B) only foreign exchange
+C) only domestic trips
+D) only hotel revenues
+ANS: A
+D: Medium
+EXP: The **TSA**, prepared for the **Ministry of Tourism** (by NCAER), estimates **tourism direct and indirect GVA/GDP and jobs** using the SNA-consistent framework.
+SC: The TSA measures tourism's GDP and jobs.
+
+@topic Concepts & Numericals
+Q: GDP at market prices = ₹200 lakh crore; net factor income from abroad = −₹2 lakh crore; consumption of fixed capital = ₹22 lakh crore; product taxes less product subsidies = ₹18 lakh crore. Net National Income at basic prices is closest to:
+A) ₹158 lakh crore
+B) ₹176 lakh crore
+C) ₹180 lakh crore
+D) ₹198 lakh crore
+ANS: A
+T: Numerical
+D: Hard
+EXP: **GNI = 200 − 2 = 198**. **NNI (market prices) = 198 − 22 = 176**. Removing **net product taxes** gives **176 − 18 = 158** at basic prices.
+SC: GDP, then add NFIA, then subtract CFC, then subtract net product taxes.
+
+Q: In an economy, PFCE = 60, GFCE = 12, GFCF = 30, change in stocks = 2, valuables = 1, exports = 20, imports = 25 (all ₹ lakh crore), and discrepancies are nil. GDP by the expenditure approach is:
+A) 100
+B) 150
+C) 125
+D) 95
+ANS: A
+T: Numerical
+D: Medium
+EXP: **GDP = PFCE + GFCE + GFCF + CIS + valuables + X − M = 60 + 12 + 30 + 2 + 1 + 20 − 25 = 100**.
+SC: C + G + I (including stocks and valuables) + X − M.
+
+Q: Which of the following statements about GDP and GNI is correct?
+A) GNI exceeds GDP when net factor income from abroad is positive
+B) GNI always exceeds GDP
+C) GDP includes income of Indian residents working abroad
+D) GNI measures production within territorial boundaries
+ANS: A
+T: Conceptual
+D: Easy
+EXP: **GNI = GDP + NFIA**. For India, **NFIA is negative** (net payments of interest, dividends and profits), so **GNI < GDP**.
+SC: If NFIA is negative, GNI < GDP; for India, it is.
+
+Q: The "value added method" avoids double counting by:
+A) counting only the value added at each stage (output minus intermediate consumption)
+B) counting only final goods sold to foreigners
+C) counting intermediate goods twice
+D) excluding services
+ANS: A
+D: Easy
+EXP: Summing **value added** across stages equals the value of **final goods**. Adding gross outputs would count intermediate goods repeatedly.
+SC: Add value added, not gross sales.
+
+Q: Assertion (A): In India's GDP by expenditure, a "discrepancies" item appears.
+Reason (R): GDP estimated from the production side and the sum of expenditure components are compiled from different data sources and do not match exactly.
+A) Both A and R are true, and R is the correct explanation of A
+B) Both A and R are true, but R is not the correct explanation of A
+C) A is true, but R is false
+D) A is false, but R is true
+ANS: A
+T: Assertion-Reason
+D: Medium
+EXP: The **production-side GDP** is taken as the benchmark, and the expenditure side is estimated independently. The difference is shown as **discrepancies**. R explains A.
+SC: The two approaches use different sources, so a balancing discrepancy appears.
+
+Q: Household sector saving in India's national accounts consists of:
+A) net financial saving plus saving in physical assets (and valuables)
+B) only bank deposits
+C) only gold purchases
+D) only contributions to provident funds
+ANS: A
+D: Medium
+EXP: **Household saving = net financial saving (gross financial assets − financial liabilities) + physical assets (dwellings, machinery) + valuables**. The **RBI** helps estimate the financial component.
+SC: Household saving = financial (net of borrowing) + physical + gold.
+
+Q: The gross domestic saving rate is expressed as:
+A) gross saving as a percentage of GDP (or GNDI)
+B) household saving ÷ household income
+C) bank deposits ÷ GDP
+D) GFCF ÷ GDP
+ANS: A
+D: Easy
+EXP: The **saving rate** is **gross saving / GDP** (or GNDI). The **investment rate** is **GCF / GDP**, and the gap between them is covered by **net capital inflow**, which equals the current account deficit.
+SC: Saving rate = saving ÷ GDP; investment rate = GCF ÷ GDP.
+
+Q: Which of the following is NOT part of Gross Fixed Capital Formation?
+A) Purchase of existing shares on the stock exchange
+B) Construction of a new factory building
+C) Purchase of new machinery
+D) Own-account software development
+ANS: A
+T: Odd-one-out
+D: Easy
+EXP: **Share purchases** are **financial transactions**, not the creation of new capital goods. GFCF includes **new buildings, machinery and intellectual property products** such as software and R&D.
+SC: Buying paper assets is not investment in GDP terms.
+
+Q: Under the 2008 SNA, expenditure on research and development is treated as:
+A) capital formation (intellectual property product)
+B) intermediate consumption
+C) a transfer payment
+D) excluded from accounts
+ANS: A
+D: Medium
+EXP: **SNA 2008** capitalises **R&D** as **intellectual property products** (with software, databases, mineral exploration and entertainment originals). SNA 1993 treated R&D as intermediate consumption.
+SC: SNA 2008 treats R&D as investment.
+
+Q: Which of the following is a correct statement about GVA at factor cost vs GVA at basic prices?
+A) GVA at basic prices = GVA at factor cost + production taxes − production subsidies
+B) GVA at factor cost = GVA at basic prices + production taxes
+C) They are always equal
+D) GVA at basic prices includes product taxes
+ANS: A
+D: Medium
+EXP: **Factor cost + net production taxes = basic prices**. Adding **net product taxes** gives **market prices**.
+SC: Factor cost → basic price (add production taxes) → market price (add product taxes).
+
+Q: Gross National Disposable Income (GNDI) differs from GNI in that:
+A) GNDI adds net current transfers from abroad (such as remittances) to GNI
+B) GNDI subtracts depreciation
+C) GNDI excludes taxes
+D) GNDI equals GDP
+ANS: A
+D: Medium
+EXP: **GNDI = GNI + net current transfers from the rest of the world**, such as private remittances and grants. India is among the **world's largest remittance recipients**, so GNDI > GNI.
+SC: GNDI adds remittances to GNI.
+
+Q: The first official estimates of India's national income after Independence, for 1948-49, were prepared by:
+A) the National Income Committee chaired by P.C. Mahalanobis
+B) the RBI
+C) V.K.R.V. Rao alone
+D) the Planning Commission
+ANS: A
+D: Easy
+EXP: The **NIC (1949)**, chaired by **Mahalanobis** with **Gadgil and V.K.R.V. Rao**, produced the first reports (1951, 1954). **Dadabhai Naoroji** (1867-68) and **V.K.R.V. Rao** (1931-32) made earlier non-official estimates.
+SC: Naoroji and Rao made early estimates; Mahalanobis's committee made the first official ones.
+
+Q: Dadabhai Naoroji's early estimate of India's per capita income appeared in his work:
+A) Poverty and Un-British Rule in India
+B) The Wealth of Nations
+C) The National Income of British India
+D) Planning and the Poor
+ANS: A
+D: Medium
+EXP: **Naoroji** estimated per capita income for **1867-68** (about ₹20) in **"Poverty and Un-British Rule in India"**. **V.K.R.V. Rao's "The National Income of British India"** (1931-32) was the first scientific estimate.
+SC: Naoroji wrote Poverty and Un-British Rule; Rao wrote National Income of British India.
+
+Q: Constant-price estimates of GDP are used to measure:
+A) real growth, by removing the effect of price changes
+B) inflation
+C) the size of the government
+D) exchange rate movements
+ANS: A
+D: Easy
+EXP: Valuing output at **base-year prices** removes price effects, so changes reflect **volume**, i.e. **real growth**. The ratio of current to constant values is the **deflator**.
+SC: Constant prices give volume, and hence real growth.
+
+Q: Which of the following is recorded as final consumption of general government in national accounts?
+A) Salaries of teachers in government schools providing free education
+B) Interest paid on public debt
+C) Subsidies to fertiliser companies
+D) Old-age pensions
+ANS: A
+D: Medium
+EXP: **GFCE** is the government's own **production of non-market services** (valued at cost: CE + CFC + IC − sales), such as free education. **Interest, subsidies and pensions** are **transfers or property income**, not consumption.
+SC: GFCE is services the government produces; transfers are not consumption.
+
+Q: Net National Product at factor cost is obtained from Net National Product at market prices by:
+A) subtracting net indirect taxes (indirect taxes minus subsidies)
+B) adding depreciation
+C) subtracting net factor income from abroad
+D) adding transfer payments
+ANS: A
+D: Easy
+EXP: **NNP(FC) = NNP(MP) − (indirect taxes − subsidies)**. NNP at factor cost is the textbook **national income**.
+SC: Market price minus net indirect taxes gives factor cost.
+
+Q: Personal disposable income is obtained from personal income by deducting:
+A) direct taxes paid by households and miscellaneous fees and fines
+B) indirect taxes
+C) depreciation
+D) retained corporate profits
+ANS: A
+D: Medium
+EXP: **Personal income** = national income − undistributed profits − corporate tax − employee social contributions + transfers. **PDI = personal income − personal direct taxes − fees and fines**. PDI is split between **consumption and saving**.
+SC: PDI = PI − direct taxes.
+
+Q: If NNI at current prices is ₹240 lakh crore and the population is 140 crore, per capita income is about:
+A) ₹1.71 lakh
+B) ₹17,100
+C) ₹5.8 lakh
+D) ₹58,000
+ANS: A
+T: Numerical
+D: Medium
+EXP: **240 × 10¹² ÷ 140 × 10⁷ = ₹1,71,428**, about **₹1.71 lakh**.
+SC: Divide lakh crore by crore, and watch the powers of ten.
+
+Q: Fiscal ratios such as the fiscal deficit to GDP ratio and the debt to GDP ratio use:
+A) GDP at current market prices (nominal GDP)
+B) GDP at constant prices
+C) GVA at basic prices
+D) NNI at constant prices
+ANS: A
+D: Medium
+EXP: Deficits and debt are **nominal** amounts, so they are scaled by **nominal GDP**. **Real GDP** growth is used for **growth** analysis.
+SC: Nominal ratios need nominal GDP.
+
+Q: When the base year of national accounts is revised, the level of GDP usually changes because:
+A) new data sources, a wider coverage and updated weights and methods are incorporated
+B) population has changed
+C) the currency is redenominated
+D) inflation is excluded
+ANS: A
+T: Conceptual
+D: Easy
+EXP: Base revisions bring in **new surveys, censuses and administrative data** (such as MCA-21), **updated weights** and **methodology**, so both **levels** and **growth rates** change.
+SC: A new base brings new data and methods, and a new GDP level.

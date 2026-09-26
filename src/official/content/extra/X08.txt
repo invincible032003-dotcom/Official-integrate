@@ -1,0 +1,430 @@
+@set X08
+@title UPSC+ · Money, Banking, Fiscal, External, Energy & Environment Statistics
+@pages Syllabus: Financial, fiscal, external sector and other sectoral statistics
+@desc Monetary aggregates (M0-M4, NM3, L1-L3), money multiplier, BSR, Financial Inclusion Index; fiscal deficit concepts, FRBM, CGA; BoP structure (BPM6), invisibles, terms of trade, NEER/REER, FDI and external debt sources; energy units and energy balance; housing and other price indices; forest and environment statistics
+
+@topic Monetary Aggregates
+Q: Reserve money (M0) consists of:
+A) currency in circulation + bankers' deposits with the RBI + other deposits with the RBI
+B) currency with the public + demand deposits with banks
+C) M1 + time deposits with banks
+D) currency with the public only
+ANS: A
+D: Medium
+EXP: **M0 (reserve money, high-powered money) = currency in circulation + bankers' deposits with the RBI + other deposits with the RBI**. M1 and M3 are measures held by the public.
+SC: M0 is the RBI's monetary liabilities.
+
+Q: Broad money (M3) in India is defined as:
+A) M1 + time deposits with banks
+B) M1 + savings deposits with post office savings banks
+C) M3 + total post office deposits
+D) currency + bankers' deposits with the RBI
+ANS: A
+D: Easy
+EXP: **M1 = currency with public + demand deposits + other deposits with RBI**. **M2 = M1 + post office savings deposits**. **M3 = M1 + time deposits with banks** (broad money). **M4 = M3 + total post office deposits** (excluding NSCs).
+SC: M3 = M1 + bank time deposits.
+
+Q: The new monetary aggregates (NM1, NM2, NM3) and liquidity aggregates (L1, L2, L3) were recommended by the Working Group on Money Supply chaired by:
+A) Y.V. Reddy (1998)
+B) C. Rangarajan (2000)
+C) Sukhamoy Chakravarty (1985)
+D) Urjit Patel (2014)
+ANS: A
+D: Hard
+EXP: The **Third Working Group on Money Supply (Y.V. Reddy, 1998)** introduced **NM aggregates** (based on a residency and liquidity approach) and **L1-L3**. **Chakravarty (1985)** reviewed the monetary system and recommended **monetary targeting**. **Urjit Patel (2014)** recommended **CPI inflation targeting**.
+SC: Reddy: new aggregates; Chakravarty: monetary targeting; Patel: CPI targeting.
+
+Q: The money multiplier is defined as:
+A) the ratio of broad money (M3) to reserve money (M0)
+B) the ratio of M0 to M3
+C) the growth of M3 minus the growth of GDP
+D) the repo rate divided by the CRR
+ANS: A
+D: Easy
+EXP: **Money multiplier = M3 ÷ M0**. It depends on the **currency-deposit ratio** and the **reserve ratio**. Higher CRR or currency preference **lowers** it.
+SC: Multiplier = broad money ÷ reserve money.
+
+Q: Basic Statistical Returns (BSR), which provide granular data on bank credit and deposits by sector, occupation and region, are compiled by:
+A) Reserve Bank of India
+B) Indian Banks' Association
+C) NSO
+D) NABARD
+ANS: A
+D: Medium
+EXP: The **RBI's BSR system** (BSR-1 on credit, BSR-2 on deposits) gives **account-level** banking statistics by **district, population group and sector**. It feeds the Handbook and other RBI publications.
+SC: BSR is the RBI's granular banking statistics.
+
+Q: The RBI's Financial Inclusion Index (FI-Index), launched in 2021, has three parameters. Which carries the highest weight?
+A) Usage
+B) Access
+C) Quality
+D) Equity
+ANS: A
+D: Hard
+EXP: The **FI-Index** (0-100) weights **Access 35%**, **Usage 45%** and **Quality 20%** (financial literacy, consumer protection, inequalities). It is published annually for each March.
+SC: FI-Index weights: Access 35, Usage 45, Quality 20.
+
+@topic Fiscal Statistics
+Q: The fiscal deficit of the Government is defined as:
+A) total expenditure − (revenue receipts + non-debt capital receipts)
+B) revenue expenditure − revenue receipts
+C) fiscal deficit − interest payments
+D) total expenditure − tax revenue
+ANS: A
+D: Easy
+EXP: **Fiscal deficit = total expenditure − (revenue receipts + non-debt capital receipts)**. It equals **total borrowing**. **Revenue deficit = revenue expenditure − revenue receipts**. **Primary deficit = fiscal deficit − interest payments**.
+SC: FD equals borrowing; PD = FD − interest.
+
+Q: The effective revenue deficit is:
+A) revenue deficit − grants for creation of capital assets
+B) revenue deficit + interest payments
+C) fiscal deficit − revenue deficit
+D) revenue deficit − subsidies
+ANS: A
+D: Medium
+EXP: **Effective revenue deficit = RD − grants for creation of capital assets** (grants to States and others that create assets). The concept was introduced in the **2011-12 Budget** and via FRBM amendments.
+SC: ERD strips capital-asset grants out of the RD.
+
+Q: The monthly accounts of the Union Government (receipts, expenditure and deficit) are published by:
+A) Controller General of Accounts, Ministry of Finance
+B) Comptroller and Auditor General
+C) RBI
+D) NSO
+ANS: A
+D: Medium
+EXP: The **CGA** publishes **monthly accounts** of the Union Government. The **CAG** audits accounts. Budget documents come from **DEA**, and the **RBI** studies **State finances**.
+SC: The CGA compiles accounts; the CAG audits them.
+
+Q: The Fiscal Responsibility and Budget Management (FRBM) Act was enacted in:
+A) 2003
+B) 1991
+C) 2008
+D) 2017
+ANS: A
+D: Easy
+EXP: The **FRBM Act 2003** set fiscal deficit and revenue deficit targets. The **N.K. Singh Committee (2017)** recommended a **debt anchor** (general government debt at 60% of GDP) and fiscal deficit as the operational target.
+SC: FRBM 2003; the N.K. Singh review in 2017.
+
+Q: A government has total expenditure ₹50 lakh crore, revenue receipts ₹30 lakh crore, non-debt capital receipts ₹2 lakh crore and interest payments ₹10 lakh crore. Its primary deficit is:
+A) ₹8 lakh crore
+B) ₹18 lakh crore
+C) ₹20 lakh crore
+D) ₹10 lakh crore
+ANS: A
+T: Numerical
+D: Medium
+EXP: **FD = 50 − (30 + 2) = 18**. **PD = 18 − 10 = 8** lakh crore. The primary deficit shows borrowing for **current needs** excluding past debt costs.
+SC: PD = FD − interest.
+
+@topic External Sector Statistics
+Q: The balance of payments of India is compiled and published by:
+A) RBI, quarterly, following BPM6
+B) DGCI&S, monthly
+C) Ministry of Commerce, annually
+D) NSO, quarterly
+ANS: A
+D: Easy
+EXP: The **RBI compiles the BoP quarterly** using **IMF BPM6**. DGCI&S publishes **merchandise trade** from customs data, which differs in **coverage and timing** from BoP goods.
+SC: The RBI compiles the BoP quarterly on BPM6.
+
+Q: Under BPM6, the current account of the balance of payments comprises:
+A) goods, services, primary income and secondary income
+B) goods, services, FDI and portfolio investment
+C) goods and capital transfers only
+D) services, loans and banking capital
+ANS: A
+D: Medium
+EXP: **Current account = goods + services + primary income** (compensation, investment income) **+ secondary income** (current transfers such as remittances). FDI, portfolio, loans and banking go in the **financial account**.
+SC: Current account = trade + income + transfers; the financial account holds investment flows.
+
+Q: In India's BoP presentation, "invisibles" comprise:
+A) services, primary income and secondary income (transfers)
+B) only services
+C) FDI and portfolio investment
+D) gold imports
+ANS: A
+D: Medium
+EXP: **Invisibles = services + income + transfers**. India's **invisibles surplus** (IT services exports, remittances) **offsets much of the merchandise trade deficit**.
+SC: Invisibles are everything in the current account except goods.
+
+Q: The net barter terms of trade are defined as:
+A) (export unit value index ÷ import unit value index) × 100
+B) (import price index ÷ export price index) × 100
+C) export volume index × import volume index
+D) exports ÷ imports in value terms
+ANS: A
+D: Medium
+EXP: The **net barter ToT = export prices ÷ import prices × 100**. The **income ToT = net barter ToT × export volume index ÷ 100**. DGCI&S unit value indices support these.
+SC: Terms of trade = export prices ÷ import prices.
+
+Q: An increase in India's Real Effective Exchange Rate (REER) index indicates:
+A) a real appreciation of the rupee, implying a loss of external competitiveness
+B) a real depreciation of the rupee
+C) an increase in forex reserves
+D) a fall in inflation
+ANS: A
+D: Medium
+EXP: The RBI's **NEER/REER** indices (6-currency and 40-currency baskets) are defined so that a **rise means appreciation**. The **REER** adjusts the NEER for **relative prices**.
+SC: A rising REER means a real appreciation and weaker competitiveness.
+
+Q: Data on FDI equity inflows by country and sector are released by:
+A) DPIIT (and the RBI for BoP-based FDI)
+B) SEBI
+C) NSO
+D) Ministry of External Affairs
+ANS: A
+D: Medium
+EXP: The **DPIIT** publishes the **FDI Factsheet** (equity inflows by country and sector). The **RBI** reports FDI in the **BoP**, which also includes reinvested earnings and other capital. **SEBI** tracks **FPI** registrations.
+SC: DPIIT publishes the FDI factsheet; the RBI publishes BoP FDI.
+
+Q: The trade openness of an economy is commonly measured as:
+A) (exports + imports) ÷ GDP
+B) exports ÷ imports
+C) current account deficit ÷ GDP
+D) forex reserves ÷ imports
+ANS: A
+D: Easy
+EXP: **Openness = (X + M) ÷ GDP**. **Import cover of reserves** is reserves ÷ monthly imports.
+SC: Openness = (X + M) ÷ GDP.
+
+Q: Assertion (A): Merchandise trade data of DGCI&S and the goods account of the RBI's BoP often differ.
+Reason (R): They differ in coverage, timing and valuation, since DGCI&S records customs movements while the BoP records transactions between residents and non-residents.
+A) Both A and R are true, and R is the correct explanation of A
+B) Both A and R are true, but R is not the correct explanation of A
+C) A is true, but R is false
+D) A is false, but R is true
+ANS: A
+T: Assertion-Reason
+D: Medium
+EXP: **Customs records** (DGCI&S) differ from **BoP transactions** (RBI, change of ownership) in **timing, coverage** (e.g. defence imports, merchanting) and **valuation**. R explains A.
+SC: Customs movement and change of ownership are different concepts.
+
+@topic Energy Statistics
+Q: One tonne of oil equivalent (toe) is conventionally equal to:
+A) 41.868 gigajoules
+B) 3.6 megajoules
+C) 1,000 kWh
+D) 10 megajoules
+ANS: A
+D: Hard
+EXP: **1 toe = 41.868 GJ = 10⁷ kcal** (about 11.63 MWh). **1 kWh = 3.6 MJ**. Energy Statistics India reports in **petajoules and KToE**.
+SC: 1 toe = 41.868 GJ; 1 kWh = 3.6 MJ.
+
+Q: 1 kilowatt-hour (kWh) of electricity is equal to:
+A) 3.6 megajoules
+B) 1 megajoule
+C) 36 megajoules
+D) 0.36 megajoules
+ANS: A
+T: Numerical
+D: Medium
+EXP: **1 kWh = 1000 W × 3600 s = 3.6 × 10⁶ J = 3.6 MJ**.
+SC: kW × hour = 1000 × 3600 J.
+
+Q: In India's total primary energy supply, the single largest source is:
+A) coal
+B) crude oil
+C) natural gas
+D) hydro power
+ANS: A
+D: Easy
+EXP: **Coal** is the largest source of primary energy supply, and dominates electricity generation, followed by **oil**. Energy Statistics India (MoSPI) presents this in the **energy balance**.
+SC: Coal is India's largest energy source.
+
+Q: An energy balance, as compiled in Energy Statistics India, shows:
+A) supply, transformation and final consumption of all energy products in a common unit
+B) the monthly electricity tariffs of States
+C) only renewable energy capacity
+D) the prices of petroleum products
+ANS: A
+D: Medium
+EXP: The **energy balance** tracks **production + imports − exports ± stocks** (supply), then **transformation** (power plants, refineries), **losses** and **final consumption by sector**, all in a **common energy unit**.
+SC: The energy balance is a supply-to-use table in joules.
+
+Q: Installed capacity and generation statistics of renewable energy in India are primarily compiled by:
+A) Central Electricity Authority and the Ministry of New and Renewable Energy
+B) NSO only
+C) Bureau of Indian Standards
+D) Petroleum Planning and Analysis Cell
+ANS: A
+D: Medium
+EXP: The **CEA** (generation, capacity) and **MNRE** (renewables programmes, capacity) are the primary sources. **PPAC** covers **petroleum** data, and **NSO** consolidates everything in Energy Statistics India.
+SC: Power data come from the CEA and MNRE; oil data from PPAC.
+
+@topic Housing, Environment & Other Indices
+Q: NHB RESIDEX, India's first official residential housing price index, was launched by the National Housing Bank in:
+A) 2007
+B) 1991
+C) 2015
+D) 2001
+ANS: A
+D: Hard
+EXP: The **NHB RESIDEX** was launched in **2007** and covers residential prices across cities. The **RBI** separately compiles a **House Price Index** from registration data for major cities.
+SC: NHB RESIDEX dates from 2007; the RBI also has an HPI.
+
+Q: As per the India State of Forest Report 2021, the total forest cover of India was about:
+A) 21.7% of geographical area
+B) 33% of geographical area
+C) 15% of geographical area
+D) 28% of geographical area
+ANS: A
+D: Medium
+EXP: **ISFR 2021**: **forest cover about 21.71%**, and **forest + tree cover about 24.62%**. The **National Forest Policy (1988)** goal is **33%** of geographical area under forest or tree cover.
+SC: Forest cover is about 21.7%; the policy target is 33%.
+TIP: ISFR 2023 put forest and tree cover at just over 25%. Check the latest ISFR before the exam.
+
+Q: The National Forest Policy, 1988 aims for what proportion of the country's geographical area under forest or tree cover?
+A) One-third (33%)
+B) One-fourth (25%)
+C) One-half (50%)
+D) One-fifth (20%)
+ANS: A
+D: Easy
+EXP: The target is **33% nationally**, with **two-thirds** in hills and mountainous areas. The FSI's ISFR tracks progress.
+SC: Forest target: one-third of land, two-thirds in hills.
+
+Q: Ground water resource assessments in India are carried out jointly by:
+A) Central Ground Water Board and State ground water departments
+B) India Meteorological Department
+C) NSO
+D) National Remote Sensing Centre alone
+ANS: A
+D: Medium
+EXP: The **CGWB (Ministry of Jal Shakti)** and State departments assess **dynamic ground water resources**, classifying blocks as **safe, semi-critical, critical or over-exploited**.
+SC: Groundwater is assessed by the CGWB with the States.
+
+Q: Which of the following agencies publishes insurance sector statistics in India?
+A) IRDAI
+B) SEBI
+C) PFRDA
+D) RBI
+ANS: A
+D: Easy
+EXP: The regulators each publish their sector's data: **IRDAI** (insurance), **SEBI** (securities), **PFRDA** (pensions, NPS) and **RBI** (banking, money).
+SC: Each financial regulator publishes its own sector's data.
+
+@topic Numericals & Concepts
+Q: If M3 is ₹240 lakh crore and M0 is ₹48 lakh crore, the money multiplier is:
+A) 5
+B) 4.8
+C) 0.2
+D) 192
+ANS: A
+T: Numerical
+D: Easy
+EXP: **Money multiplier = 240 ÷ 48 = 5**.
+SC: Multiplier = M3 ÷ M0.
+
+Q: The export unit value index rises from 100 to 120 and the import unit value index from 100 to 150. The net barter terms of trade:
+A) fall to 80, indicating a deterioration
+B) rise to 125
+C) remain at 100
+D) rise to 150
+ANS: A
+T: Numerical
+D: Easy
+EXP: **ToT = 120 ÷ 150 × 100 = 80**. Import prices rose faster than export prices, so the terms of trade **deteriorated**.
+SC: ToT below 100 means worse terms.
+
+Q: Which of the following is a component of the capital account (as distinct from the financial account) under BPM6?
+A) Capital transfers and acquisition/disposal of non-produced, non-financial assets
+B) Foreign direct investment
+C) External commercial borrowings
+D) Portfolio investment
+ANS: A
+D: Hard
+EXP: **BPM6** separates a narrow **capital account** (capital transfers, non-produced non-financial assets) from the **financial account** (FDI, portfolio, other investment, reserves). In India's presentation, the "capital account" often loosely includes financial flows.
+SC: The BPM6 capital account is tiny: capital transfers and non-produced assets.
+
+Q: The status report on India's external debt is published annually by:
+A) Ministry of Finance (Department of Economic Affairs), with quarterly data from the RBI
+B) SEBI
+C) Controller General of Accounts
+D) NITI Aayog
+ANS: A
+D: Medium
+EXP: The **DEA** publishes **"India's External Debt: A Status Report"** annually, and the **RBI** releases **quarterly external debt** data. The **Status Paper on Government Debt** is also from the **Ministry of Finance**.
+SC: External debt reports come from MoF (annual) and the RBI (quarterly).
+
+Q: A country's forex reserves are USD 600 billion and its annual merchandise imports are USD 720 billion. The import cover of reserves is about:
+A) 10 months
+B) 12 months
+C) 6 months
+D) 1.2 years
+ANS: A
+T: Numerical
+D: Easy
+EXP: **Monthly imports = 720 ÷ 12 = 60**, so **cover = 600 ÷ 60 = 10 months**.
+SC: Cover = reserves ÷ monthly imports.
+
+Q: Which statement about the tax-GDP ratio is correct?
+A) It is total tax revenue as a percentage of GDP at current market prices
+B) It uses real GDP
+C) It excludes direct taxes
+D) It is computed on GVA at basic prices
+ANS: A
+T: Conceptual
+D: Easy
+EXP: The **tax-GDP ratio = tax revenue ÷ nominal GDP**. India's **combined (Centre + States)** ratio is commonly reported alongside the Centre's gross tax-GDP ratio.
+SC: Nominal tax ÷ nominal GDP.
+
+Q: Which of the following monetary aggregates is the most liquid?
+A) M1
+B) M2
+C) M3
+D) M4
+ANS: A
+D: Easy
+EXP: Liquidity **declines from M1 to M4**, because **time deposits** (M3) and **post office deposits** (M4) are less liquid. **M1** is money in its narrowest, most liquid sense.
+SC: M1 is the most liquid; M4 the least.
+
+@topic Energy Statistics
+Q: Energy intensity of an economy is measured as:
+A) energy consumption per unit of GDP
+B) GDP per unit of energy consumption
+C) energy consumption per capita
+D) the share of renewables in energy supply
+ANS: A
+D: Easy
+EXP: **Energy intensity = energy used ÷ GDP** (e.g. MJ per rupee of GDP). A **falling** intensity means more output per unit of energy. **Per capita consumption** is a separate indicator reported in Energy Statistics India.
+SC: Intensity = energy ÷ GDP; lower is more efficient.
+
+@topic External Sector Statistics
+Q: A country has a current account deficit of USD 40 billion and GDP of USD 3.2 trillion. The CAD as a percentage of GDP is:
+A) 1.25%
+B) 12.5%
+C) 0.125%
+D) 4.0%
+ANS: A
+T: Numerical
+D: Easy
+EXP: **40 ÷ 3,200 × 100 = 1.25%**. CAD ratios around or below 2-2.5% of GDP are generally considered sustainable for India.
+SC: Convert both to the same unit, then divide.
+
+@topic Fiscal Statistics
+Q: The RBI's annual publication "State Finances: A Study of Budgets" analyses:
+A) budgets of State governments
+B) the Union Budget
+C) municipal budgets only
+D) budgets of public sector banks
+ANS: A
+D: Easy
+EXP: The **RBI** studies **State budgets** each year (deficits, debt, expenditure quality). The **Union Budget** is analysed in the **Economic Survey** and in Finance Ministry documents.
+SC: The RBI studies State budgets.
+
+@topic Monetary Aggregates
+Q: Which of the following are components of narrow money (M1)?
+1. Currency with the public
+2. Demand deposits with banks
+3. Other deposits with the RBI
+4. Time deposits with banks
+Select the correct answer using the code given below:
+A) 1, 2 and 3 only
+B) 1 and 2 only
+C) 1, 2 and 4 only
+D) 1, 2, 3 and 4
+ANS: A
+T: Statement
+D: Medium
+EXP: **M1 = currency with public + demand deposits + other deposits with the RBI**. **Time deposits** enter **M3**.
+SC: M1 excludes time deposits.

@@ -1,0 +1,488 @@
+@set N12
+@title Topics 14 & 15 · NFHS & Trade Statistics (DGCI&S)
+@pages Notes 14 (3 pp.) + Notes 15 (3 pp.)
+@desc NFHS rounds, IIPS, funding, NFHS-5 two-stage design, clusters & segments, de facto/de jure/modified de jure, sex-ratio caveat; DGCI&S, DTR, IMTS Rev.2, publications, ancillary statistics, release phases, foreign trade indices, DGFT/DGCI&S/RBI roles, shipping bills & bills of entry
+
+@note 14
+@topic NFHS: Rounds & Agencies
+Q: The nodal agency for conducting the National Family Health Survey (NFHS) is:
+A) International Institute for Population Sciences (IIPS), Mumbai
+B) Office of the Registrar General of India
+C) National Statistical Office
+D) Indian Council of Medical Research
+ANS: A
+D: Easy
+P: 1
+EXP: **IIPS, Mumbai** is the **nodal agency** for NFHS under the **MoHFW**. Funding has come from **MoHFW, USAID, the Bill & Melinda Gates Foundation, UNICEF and UNFPA**. Technical assistance was provided by ICF (DHS Program).
+SC: NFHS is run by IIPS Mumbai for MoHFW.
+
+Q: Match the NFHS round (List-I) with its survey period (List-II):
+| List-I | List-II |
+|---|---|
+| A. NFHS-1 | 1. 2005-06 |
+| B. NFHS-2 | 2. 1992-93 |
+| C. NFHS-3 | 3. 2019-21 |
+| D. NFHS-5 | 4. 1998-99 |
+A) A-2, B-4, C-1, D-3
+B) A-4, B-2, C-1, D-3
+C) A-2, B-1, C-4, D-3
+D) A-2, B-4, C-3, D-1
+ANS: A
+T: Match
+D: Medium
+P: 1
+EXP: NFHS rounds: **NFHS-1 1992-93**, **NFHS-2 1998-99**, **NFHS-3 2005-06**, **NFHS-4 2015-16**, **NFHS-5 2019-21**. NFHS-5 fieldwork was split into two phases by COVID-19.
+SC: 92-93, 98-99, 05-06, 15-16, 19-21.
+TIP: The notes print NFHS-4 as 2014-15, but the official NFHS-4 period is 2015-16. Use 2015-16 in the exam.
+
+Q: Which of the following are goals of the NFHS?
+1. To provide essential data on health and family welfare needed by MoHFW for policy and programme purposes
+2. To provide information on important emerging health and family welfare issues
+3. To provide annual State GDP estimates
+Select the correct answer using the code given below:
+A) 1 only
+B) 1 and 2 only
+C) 2 and 3 only
+D) 1, 2 and 3
+ANS: B
+T: Statement
+D: Easy
+P: 1
+EXP: NFHS has two goals: **essential health and family welfare data** for policy, and information on **emerging health issues**. GDP is not an NFHS output.
+SC: NFHS serves health policy and flags emerging issues.
+
+@topic NFHS-5: Sample Design
+Q: The NFHS-5 sample design is:
+A) a stratified two-stage sample with Census 2011 as the sampling frame for PSUs
+B) a single-stage simple random sample of households
+C) a three-stage cluster sample based on Census 2001
+D) a quota sample of women aged 15-49
+ANS: A
+D: Medium
+P: 1
+EXP: NFHS-5 is a **stratified two-stage** sample. **Stage 1: PSUs**, meaning **villages (rural)** and **CEBs (urban)** from **Census 2011**. **Stage 2: 22 households** per cluster, selected by **systematic sampling**.
+SC: NFHS-5 is two-stage: PSUs from Census 2011, then 22 households.
+
+Q: In NFHS-5, PSUs with fewer than how many households were linked to the nearest PSU?
+A) 40
+B) 100
+C) 22
+D) 300
+ANS: A
+D: Medium
+P: 1
+EXP: PSUs with **< 40 households** were **linked** to the nearest PSU. PSUs with **≥ 300 households** were **segmented** into parts of **100-150 households**, and **2 segments** were chosen by PPS.
+SC: Below 40 households, link the PSU; 300 or more, segment it.
+
+Q: In the rural stratum of NFHS-5, six approximately equal substrata were created by crossing:
+A) three substrata based on the number of households with two substrata based on the percentage of SC/ST population
+B) two substrata by literacy with three by sex ratio
+C) three substrata by district size with two by religion
+D) six substrata by female literacy
+ANS: A
+D: Hard
+P: 1
+EXP: Rural: **3 (village household size) × 2 (SC/ST share) = 6 substrata**. Within each, PSUs were **sorted by the literacy of women aged 6+** and selected by **PPS systematic sampling**.
+SC: Size × SC/ST = 3 × 2 = 6 substrata, then sorted by female literacy.
+
+Q: In the urban areas of NFHS-5, CEBs were sorted according to which variable before PPS systematic selection?
+A) Percentage of SC/ST population
+B) Female literacy rate
+C) Number of households
+D) Sex ratio
+ANS: A
+D: Hard
+P: 2
+EXP: **Urban CEBs** (information from ORGI) were **sorted by SC/ST percentage**, then selected by **PPS systematic** sampling. In **rural** areas, PSUs were sorted by **female literacy (6+)** within substrata.
+SC: Urban sorts by SC/ST share; rural sorts by female literacy.
+
+Q: Selected PSUs in NFHS-5 with at least 300 households were segmented into segments of approximately:
+A) 100-150 households, of which two were selected
+B) 22 households, of which one was selected
+C) 300 households, of which three were selected
+D) 50 households, of which four were selected
+ANS: A
+D: Medium
+P: 2
+EXP: A PSU with **≥ 300 households** is split into **100-150 household segments**, and **2 segments** are chosen with PPS. So an **NFHS-5 cluster** is **either a PSU or a segment**.
+SC: 300 or more households: segments of 100-150, pick 2.
+
+Q: In NFHS-5, how many households were randomly selected in every selected rural and urban cluster in the second stage?
+A) 22
+B) 16
+C) 12
+D) 30
+ANS: A
+D: Easy
+P: 2
+EXP: **22 households** per cluster were selected by **systematic sampling**, after a complete **household mapping and listing** operation.
+SC: NFHS takes 22 households per cluster.
+
+@topic NFHS: Concepts & Interpretation
+Q: In NFHS, the "de facto population" refers to:
+A) all persons who stayed in the selected households the night before the interview, whether usual residents or visitors
+B) all usual residents, whether or not they stayed the previous night
+C) only the head of household and spouse
+D) all persons registered in the NPR
+ANS: A
+D: Medium
+P: 2
+EXP: **De facto** = everyone who **stayed the night before** the interview. **De jure** = all **usual residents**, whether present or not. NFHS tables are based on the **de facto population** unless specified otherwise.
+SC: De facto means slept there last night; NFHS tables use it.
+
+Q: Unless specified otherwise, NFHS tables are based on:
+A) the de facto population
+B) the de jure population
+C) the Census 2011 population
+D) the voter list population
+ANS: A
+D: Easy
+P: 2
+EXP: NFHS **tables use the de facto population** by default.
+SC: The NFHS default is de facto.
+
+Q: The NFHS sex ratio rose from 991 (NFHS-4) to 1020 (NFHS-5). The notes caution against a simple interpretation mainly because:
+A) NFHS's household definition excludes many single male migrants living away, and includes visitors who stayed last night, who are largely women visiting parental homes
+B) NFHS-5 covered only urban areas
+C) the NFHS counts only children
+D) the NFHS-5 sample size was smaller than NFHS-4
+ANS: A
+T: Conceptual
+D: Hard
+P: 2
+EXP: NFHS's **modified** concept leaves out many **single male migrants** who live away from their household. Counting **last-night visitors**, largely **women at parental homes**, adds to the female count. Together these push the sex ratio **up** without a demographic change of that size.
+SC: Absent migrant men plus visiting women inflate the NFHS sex ratio.
+
+Q: As per NFHS, a household is defined as a person or group of related or unrelated persons who:
+A) live together in the same dwelling unit, acknowledge one adult as head, share the same housekeeping arrangements and are considered a single unit
+B) are related by blood only
+C) share a common bank account
+D) are registered at the same address in Aadhaar
+ANS: A
+D: Medium
+P: 3
+EXP: An NFHS household means **living together**, **acknowledging one adult head (male or female)**, **sharing housekeeping arrangements** and being **considered a single unit**. Members may be **related or unrelated**.
+SC: A household shares one dwelling, one head and one kitchen arrangement.
+
+@note 15
+@topic DGCI&S & Foreign Trade Data
+Q: The Directorate General of Commercial Intelligence and Statistics (DGCI&S) is located at:
+A) Kolkata, under the Ministry of Commerce
+B) New Delhi, under the Ministry of Finance
+C) Mumbai, under the RBI
+D) Nagpur, under MoSPI
+ANS: A
+D: Easy
+P: 1
+EXP: **DGCI&S, Kolkata** (Ministry of Commerce) is the **pioneer** official body for **India's trade statistics** and commercial information.
+SC: DGCI&S is in Kolkata, under the Ministry of Commerce.
+
+Q: DGCI&S collects the basic data for foreign trade statistics from customs formations in the form of:
+A) Daily Trade Returns (DTR)
+B) Monthly Trade Summaries
+C) Quarterly Customs Reports
+D) Annual Export Declarations
+ANS: A
+D: Medium
+P: 1
+EXP: Customs formations send **Daily Trade Returns (DTR)** to DGCI&S, which processes and compiles them following **UNSD's IMTS Rev.2 Compilers Manual**.
+SC: Customs sends DTRs to DGCI&S.
+
+Q: India's merchandise trade statistics compiled by DGCI&S follow the recommendations of:
+A) International Merchandise Trade Statistics, Revision 2 (IMTS Rev.2) of UNSD
+B) SNA 2008
+C) BPM6 of the IMF
+D) ISIC Rev.4
+ANS: A
+D: Medium
+P: 1
+EXP: DGCI&S follows **IMTS Rev.2 (UNSD)** for merchandise trade. **BPM6** (IMF) is the standard for the **RBI's balance of payments**.
+SC: Merchandise trade follows IMTS; the BoP follows BPM6.
+
+Q: The main source documents for India's foreign trade statistics are:
+A) Shipping Bills for exports and Bills of Entry for imports, submitted to customs
+B) GST returns only
+C) Income tax returns of exporters
+D) RBI foreign exchange transaction reports only
+ANS: A
+D: Easy
+P: 2
+EXP: **Shipping Bills (exports)** and **Bills of Entry (imports)** are the declarations filed with **Customs** at ports.
+SC: Shipping bills are for exports; bills of entry for imports.
+
+Q: Match the stage of external trade administration (List-I) with the agency responsible for its statistics (List-II):
+| List-I | List-II |
+|---|---|
+| A. Licensing | 1. RBI (balance of payments) |
+| B. Shipment and arrival of goods | 2. DGFT |
+| C. Receipts and remittances of payments | 3. DGCI&S (balance of trade) |
+A) A-1, B-3, C-2
+B) A-2, B-3, C-1
+C) A-3, B-2, C-1
+D) A-2, B-1, C-3
+ANS: B
+T: Match
+D: Medium
+P: 2
+EXP: The three stages map as **licensing → DGFT**, **physical movement → DGCI&S (balance of trade)** and **payments → RBI (balance of payments)**.
+SC: DGFT licenses, DGCI&S counts goods, RBI counts payments.
+
+Q: Foreign trade statistics are released by DGCI&S in three phases. Which of the following is correct?
+A) Quick estimates by the 15th of the following month; principal commodity data within 30 days; detailed 8-digit data within 60 days
+B) Quick estimates within 60 days; principal commodity data within 30 days; 8-digit data within 15 days
+C) All data within 7 days
+D) Quick estimates quarterly; detailed data annually
+ANS: A
+D: Medium
+P: 2
+EXP: The release phases are **quick estimates by the 15th**, **principal commodity data within 30 days** and **8-digit detailed data within 60 days**.
+SC: Trade data come in three phases: 15 days, 30 days, 60 days.
+
+Q: Which of the following is NOT one of the channels through which DGCI&S foreign trade data are disseminated, as listed in the notes?
+A) Annual Survey of Industries report
+B) Monthly Press Release by the Ministry of Commerce and Industry
+C) Monthly Statistics of Foreign Trade of India
+D) Quarterly Statistics of Foreign Trade of India by Countries
+ANS: A
+T: Odd-one-out
+D: Easy
+P: 1
+EXP: The DGCI&S channels are the **monthly press release**, **Monthly Foreign Trade Statistics by Principal Commodities & Countries**, **Monthly Statistics of Foreign Trade (Import & Export)** and **Quarterly Statistics by Countries**. The **ASI** belongs to NSO.
+SC: The ASI is not a DGCI&S product.
+
+@topic Ancillary Statistics & Trade Indices
+Q: DGCI&S's "Inter-State Movement of Goods by Rail, River and Air" is compiled on the basis of returns from:
+A) Zonal Railway Authorities, Central Inland Water Transport Corporation, and Indian Airlines
+B) State GST departments
+C) Ports and customs houses only
+D) National Highways Authority of India
+ANS: A
+D: Hard
+P: 2
+EXP: This **annual** publication (financial-year basis) uses returns from the **Zonal Railways**, the **Central Inland Water Transport Corporation (Kolkata)** and **Indian Airlines**, for rail, river and air-borne inland trade respectively.
+SC: Inland movement data come from the railways, CIWTC and airlines.
+
+Q: For the "Statistics of the Foreign and Coastal Cargo Movement of India", coastal trade data are compiled from returns from customs authorities of how many maritime blocks?
+A) 12
+B) 6
+C) 9
+D) 15
+ANS: A
+D: Hard
+P: 2
+EXP: **Coastal trade** data come from the customs of **12 maritime blocks**. The primary sources for foreign cargo are the **customs zones** of Kolkata, Chennai, Kochi, Ahmedabad, Mumbai and Goa.
+SC: Coastal cargo comes from 12 maritime blocks.
+
+Q: The data for "India's Customs and Excise Revenue Collections" published by DGCI&S are received from:
+A) Directorate of Data Management, Central Excise & Customs, New Delhi
+B) Controller General of Accounts
+C) RBI
+D) GST Council
+ANS: A
+D: Hard
+P: 2
+EXP: The revenue-collection data come from the **Directorate of Data Management (Customs & Central Excise), New Delhi** and are compiled **annually** on a financial-year basis.
+SC: Revenue data come from Data Management (CBIC).
+
+Q: Index Numbers of Foreign Trade were first started by DGCI&S in 1944 with base period:
+A) 1938-39
+B) 1950-51
+C) 1947-48
+D) 1960-61
+ANS: A
+D: Hard
+P: 3
+EXP: The foreign trade indices **started in 1944 on base 1938-39**. The **current base is 2012-13**, covering all **8-digit ITC-HS** items, and the indices are published **monthly, quarterly and yearly**.
+SC: The trade index started in 1944 on 1938-39; the current base is 2012-13.
+
+Q: In DGCI&S Index Numbers of Foreign Trade, the Unit Value Indices are computed using:
+A) Laspeyres' price index formula with a fixed base
+B) Paasche's formula with a chain base
+C) Fisher's ideal formula
+D) a simple arithmetic average of prices
+ANS: A
+D: Medium
+P: 3
+EXP: **Unit Value Index = Laspeyres (fixed base)**. The **Quantity Index = Value Index ÷ Unit Value Index**, which makes it an implicit Paasche-type quantity index.
+SC: The UVI is Laspeyres; the quantity index is value divided by UVI.
+
+Q: If the Value Index of exports is 180 and the Unit Value Index is 120, the Quantity Index of exports is:
+A) 150
+B) 60
+C) 216
+D) 300
+ANS: A
+T: Numerical
+D: Easy
+P: 3
+EXP: **QI = VI / UVI × 100 = 180 / 120 × 100 = 150**.
+SC: Quantity = Value ÷ Price.
+
+Q: The commodity basket for DGCI&S foreign trade indices (base 2012-13) consists of:
+A) all items at the 8-digit level of the ITC-HS classification
+B) the top 100 export items only
+C) items at the 2-digit HS chapter level
+D) only petroleum and gold
+ANS: A
+D: Medium
+P: 3
+EXP: The basket is **all 8-digit ITC-HS items**, with base **financial year 2012-13**.
+SC: The index basket is every 8-digit ITC-HS item.
+
+Q: Arrange the following in the order in which DGCI&S releases trade data after the reference month:
+1. Detailed 8-digit commodity-level data
+2. Monthly quick estimates
+3. Principal commodity-level data
+A) 2-3-1
+B) 3-2-1
+C) 2-1-3
+D) 1-3-2
+ANS: A
+T: Chronology
+D: Easy
+P: 2
+EXP: **Quick estimates (by the 15th) → principal commodities (within 30 days) → 8-digit detail (within 60 days)**.
+SC: Quick, then principal, then detailed.
+
+Q: Which of the following statements about DGCI&S is/are correct?
+1. It compiles balance of trade statistics.
+2. It compiles balance of payments statistics.
+3. It is responsible for licensing statistics.
+Select the correct answer using the code given below:
+A) 1 only
+B) 1 and 2 only
+C) 2 and 3 only
+D) 1, 2 and 3
+ANS: A
+T: Statement
+D: Medium
+P: 2
+EXP: **DGCI&S → balance of trade**. **RBI → balance of payments**. **DGFT → licensing**.
+SC: DGCI&S handles trade only; BoP belongs to the RBI.
+
+Q: Which of the following is NOT one of the goals or features of NFHS?
+A) Providing annual district-level birth registration counts
+B) Providing State-level estimates of health and family welfare indicators
+C) Collecting data from a representative sample of households
+D) Being conducted in multiple rounds
+ANS: A
+T: Odd-one-out
+D: Easy
+P: 1
+EXP: NFHS is a **multi-round, large-scale sample survey** giving **national, State (and, since NFHS-4, district)** health estimates. **Birth registration counts** come from the **CRS**.
+SC: Registration counts are CRS, not NFHS.
+
+Q: Compared with NFHS-3, a major expansion in NFHS-4 and NFHS-5 was that they provide estimates of most indicators at:
+A) the district level
+B) the village level
+C) only the national level
+D) only the zonal level
+ANS: A
+D: Medium
+P: 1
+EXP: **NFHS-4 and NFHS-5** give **district-level** estimates for most indicators, alongside national and State estimates. This needed a very large sample of about 6 lakh households.
+SC: NFHS-4 and NFHS-5 go down to the district.
+
+Q: In NFHS-5, which variable was used to sort PSUs within each explicit rural sampling stratum?
+A) Prevalence of literacy of women aged 6 years and above
+B) Male literacy rate
+C) Average household size
+D) Distance from the district headquarters
+ANS: A
+D: Medium
+P: 1
+EXP: Within each **explicit rural stratum**, PSUs were **sorted by female (6+) literacy**, which gives **implicit stratification**, and then selected by **PPS systematic** sampling.
+SC: Rural PSUs are sorted by female literacy.
+
+Q: Foreign trade statistics compiled by DGCI&S are primarily based on data received from:
+A) customs formations
+B) the RBI
+C) exporters' associations
+D) State Governments
+ANS: A
+D: Easy
+P: 1
+EXP: DGCI&S compiles trade data from **customs formations** (DTRs based on shipping bills and bills of entry). The **RBI** compiles **BoP** from banking channels.
+SC: Customs data go to DGCI&S; bank data go to the RBI.
+
+Q: Statistics of the Inland Trade Consignments of India are compiled annually from:
+A) coastal trade returns received from different Customs/Port authorities
+B) Railway freight data only
+C) State Government sales tax records
+D) the Economic Census
+ANS: A
+D: Hard
+P: 2
+EXP: **Inland (coastal) trade consignments** data come from the **coastal trade returns** of **Customs and Port authorities**, compiled annually on a financial-year basis.
+SC: Inland consignment data come from coastal trade returns.
+
+Q: The Quantity Index in DGCI&S foreign trade indices is derived as:
+A) the ratio of the Value Index to the Unit Value Index
+B) the product of the Value Index and the Unit Value Index
+C) Laspeyres' quantity index directly from quantities
+D) the ratio of the Unit Value Index to the Value Index
+ANS: A
+D: Medium
+P: 3
+EXP: **QI = VI ÷ UVI**. The UVI is computed directly with **fixed-base Laspeyres**.
+SC: QI = VI/UVI.
+
+Q: The NFHS-5 fieldwork was conducted in two phases because of:
+A) the COVID-19 pandemic
+B) the General Elections
+C) a revision of the sampling frame
+D) a change of nodal agency
+ANS: A
+D: Easy
+P: 1
+EXP: **NFHS-5 (2019-21)**: **Phase I** ran from June 2019 to January 2020, and **Phase II** from January 2020 to April 2021, interrupted by **COVID-19**.
+SC: NFHS-5 had two phases because of COVID.
+
+@note 14
+@topic NFHS: Concepts & Interpretation
+Q: The notes describe the NFHS concept of household membership used for the sex-ratio caveat as:
+A) "modified de jure", neither purely de facto nor purely de jure
+B) purely de facto
+C) purely de jure
+D) register-based
+ANS: A
+D: Hard
+P: 2
+EXP: The notes call NFHS's approach **"modified de jure"**. Single male migrants are **usual members but not usual residents** of their households, so they are left out. Visitors who stayed last night are covered in the **de facto** tables. This is why the NFHS sex ratio of **1020** needs care.
+SC: NFHS uses a modified de jure concept, which pushes the sex ratio up.
+
+Q: As per NFHS, the "de jure population" comprises:
+A) all usual residents of the selected households, whether or not they stayed there the night before the interview
+B) all persons who stayed in the household the previous night
+C) only visitors
+D) only persons aged 15-49
+ANS: A
+D: Easy
+P: 3
+EXP: **De jure = usual residents**, whether present or absent last night. **De facto = everyone present last night**, residents and visitors alike.
+SC: De jure is about who lives there; de facto is about who slept there.
+
+@note 15
+@topic Ancillary Statistics & Trade Indices
+Q: Which of the following is NOT among the customs zones listed as primary sources for "Statistics of the Foreign and Coastal Cargo Movement of India"?
+A) Visakhapatnam
+B) Kochi
+C) Goa
+D) Ahmedabad
+ANS: A
+T: Odd-one-out
+D: Hard
+P: 2
+EXP: The zones listed are **Kolkata, Chennai, Kochi, Ahmedabad, Mumbai and Goa**. Coastal trade data come from **12 maritime blocks**.
+SC: The six zones are Kolkata, Chennai, Kochi, Ahmedabad, Mumbai and Goa.
+
+Q: The DGCI&S Index Numbers of Foreign Trade (base 2012-13) are published at what frequency?
+A) Monthly, quarterly and yearly
+B) Only annually
+C) Only quarterly
+D) Weekly
+ANS: A
+D: Easy
+P: 3
+EXP: The indices (**Unit Value, Quantity and Value** for exports and imports) are published **monthly, quarterly and yearly**, on **base 2012-13**.
+SC: Trade indices come monthly, quarterly and yearly.

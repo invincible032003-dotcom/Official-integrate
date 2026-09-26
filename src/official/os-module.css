@@ -25,7 +25,8 @@ html[data-os-fs="xl"]{ --os-fs:19px; }
 .option{font-size:calc(var(--os-fs) - .5px);}
 .reveal-block, .os-ptr-body, .os-ff-full{font-size:calc(var(--os-fs) - 1px);}
 
-html, body{overflow-x:hidden;}
+html{overflow-x:hidden;}
+body{overflow-x:clip;} /* clip, not hidden: hidden would turn <body> into the scroll container and break window.scrollTo */
 body{-webkit-tap-highlight-color:transparent;}
 button.chip{font-family:inherit; line-height:1.3;}
 

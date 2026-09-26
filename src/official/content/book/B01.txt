@@ -1,0 +1,612 @@
+@set B01
+@title UN Fundamental Principles & the Indian Statistical System
+@pages 1-6
+@desc UN FPOS, evolution of the Indian statistical system, legal framework, central offices, Census, SRS/CRS, constitutional basis
+
+@topic UN Fundamental Principles of Official Statistics
+Q: How many Fundamental Principles of Official Statistics were adopted by the UN Statistical Commission?
+A) 8
+B) 12
+C) 10
+D) 9
+ANS: C
+D: Easy
+P: 1
+EXP: The UN Statistical Commission adopted **10** Fundamental Principles of Official Statistics (FPOS) in 1994. They run from Principle 1 (Relevance, impartiality and equal access) to Principle 10 (International cooperation).
+SC: "Ten principles, 1994". Principle 1 is relevance and Principle 10 is international cooperation. Count the rest between these two.
+
+Q: In which year did the UN Statistical Commission first adopt the Fundamental Principles of Official Statistics at its special session?
+A) 1991
+B) 1994
+C) 2013
+D) 2014
+ANS: B
+D: Easy
+P: 1
+EXP: The Principles were adopted by the Statistical Commission at its **special session in 1994**. They were reaffirmed in 2013, endorsed by ECOSOC in resolution 2013/21 (24 July 2013) and then by the General Assembly on 29 January 2014.
+SC: Timeline: 1994 adopted → 2013 ECOSOC endorsed → 2014 General Assembly endorsed.
+TIP: 1991 is a trap. That is when the Conference of European Statisticians (UNECE) first framed the principles regionally.
+
+Q: The Fundamental Principles of Official Statistics were endorsed by the UN General Assembly through which resolution?
+A) Resolution 64/267
+B) Resolution 2013/21
+C) Resolution 68/261
+D) Resolution 70/1
+ANS: C
+D: Medium
+P: 1
+EXP: **General Assembly resolution 68/261**, adopted on 29 January 2014, endorsed the Principles. 2013/21 is the **ECOSOC** resolution, 64/267 is the World Statistics Day resolution, and 70/1 adopted the 2030 Agenda (SDGs).
+SC: GA resolutions carry a session number (68/…). ECOSOC resolutions carry a year (2013/…). Pick the GA-style number that is not World Statistics Day (64/267) or the SDGs (70/1).
+
+Q: Consider the following statements regarding the Fundamental Principles of Official Statistics:
+1. They were reaffirmed by the Statistical Commission in 2013.
+2. The titles of the Principles are part of the original text adopted in 1994.
+3. They were endorsed by ECOSOC through resolution 2013/21 of 24 July 2013.
+Which of the statements given above is/are correct?
+A) 1 and 3 only
+B) 2 only
+C) 1 and 2 only
+D) 1, 2 and 3
+ANS: A
+T: Statement
+D: Medium
+P: 1
+EXP: Statements 1 and 3 are correct. Statement 2 is wrong: the source notes that the **titles** of the Principles (e.g. "Relevance, impartiality and equal access") are **not part of the original text**. They were added later to make the principles easier to cite.
+SC: Anything that makes the titles "official" is the trap. The titles are editorial.
+
+Q: "Official statistics that meet the test of practical utility are to be compiled and made available on an impartial basis by official statistical agencies to honour citizens' entitlement to public information." This is the essence of which Principle?
+A) Principle 3: Accountability and Transparency
+B) Principle 1: Relevance, Impartiality and Equal Access
+C) Principle 4: Prevention of Misuse
+D) Principle 10: International Cooperation
+ANS: B
+D: Easy
+P: 1
+EXP: Principle 1 (**Relevance, impartiality and equal access**) says official statistics must be useful ("practical utility"), compiled impartially and available to every citizen on equal terms.
+SC: The keywords "practical utility", "impartial" and "entitlement to public information" all point to Principle 1.
+
+Q: Under the Fundamental Principles, statistical agencies are "entitled to comment on erroneous interpretation and misuse of statistics". This is Principle number:
+A) 2
+B) 3
+C) 5
+D) 4
+ANS: D
+D: Easy
+P: 1
+EXP: **Principle 4 (Prevention of Misuse)** lets statistical agencies comment publicly when their statistics are misinterpreted or misused.
+SC: Principles 3 and 4 go together. Principle 3 is to explain methods (transparency) and Principle 4 is to correct misuse.
+
+Q: Which Principle states that data for statistical purposes may be drawn from all types of sources, be they statistical surveys or administrative records?
+A) Principle 5: Sources of Official Statistics
+B) Principle 6: Confidentiality
+C) Principle 9: Use of International Standards
+D) Principle 2: Professional Standards and Ethics
+ANS: A
+D: Easy
+P: 1
+EXP: **Principle 5** covers sources. Agencies may use surveys or administrative records and should choose the source by **quality, timeliness, costs and the burden on respondents**.
+SC: "Sources" is Principle 5. Remember the four criteria as Q-T-C-B (quality, timeliness, cost, burden).
+
+Q: Under Principle 5, which of the following is NOT listed as a criterion for a statistical agency's choice of data source?
+A) Quality
+B) Timeliness
+C) Political priority of the government
+D) Burden on respondents
+ANS: C
+T: Odd-one-out
+D: Medium
+P: 1
+EXP: The four criteria are **quality, timeliness, costs and burden on respondents**. Political priority is excluded, and bringing it in would breach Principle 1 (impartiality) and Principle 2 (professional considerations only).
+SC: Anything political is always the odd one out in FPOS questions.
+
+Q: "Individual data collected by statistical agencies, whether they refer to natural or legal persons, are to be strictly confidential and used exclusively for statistical purposes." Which Principle is this?
+A) Principle 7: Legislation
+B) Principle 3: Accountability
+C) Principle 6: Confidentiality
+D) Principle 8: National Coordination
+ANS: C
+D: Easy
+P: 1
+EXP: This is **Principle 6 (Confidentiality)**. It covers natural persons (individuals) and legal persons (companies and institutions), and the data may be used **only for statistical purposes**.
+SC: The words "natural or legal persons" and "strictly confidential" mean Principle 6.
+
+Q: Match List-I (Principle number) with List-II (Theme):
+| List-I | List-II |
+|---|---|
+| A. Principle 7 | 1. National coordination |
+| B. Principle 8 | 2. Legislation made public |
+| C. Principle 9 | 3. International cooperation |
+| D. Principle 10 | 4. Use of international standards |
+A) A-2, B-1, C-4, D-3
+B) A-1, B-2, C-4, D-3
+C) A-2, B-1, C-3, D-4
+D) A-4, B-1, C-2, D-3
+ANS: A
+T: Match
+D: Medium
+P: 1
+EXP: Principle 7: laws, regulations and measures under which statistical systems operate are to be made **public**. Principle 8: **national coordination** among agencies. Principle 9: use of **international** concepts, classifications and methods. Principle 10: bilateral and multilateral **cooperation**.
+SC: The last four in order are Law, Coordination, Standards, Cooperation ("L-C-S-C"). Moving from national (7, 8) to international (9, 10) fixes the order.
+
+Q: Principle 2 of the UN Fundamental Principles requires statistical agencies to decide on methods and procedures according to:
+A) directions of the line ministry concerned
+B) strictly professional considerations, including scientific principles and professional ethics
+C) the budget available in the financial year
+D) recommendations of the national parliament
+ANS: B
+D: Easy
+P: 1
+EXP: **Principle 2 (Professional standards, scientific principles and professional ethics)** says that, to retain public trust, agencies decide on methods for collection, processing, storage and presentation **only on professional considerations**.
+SC: Principle 2 means professional independence. Any option naming an outside authority (ministry, parliament, budget) is wrong.
+
+Q: To facilitate correct interpretation of data, statistical agencies are to present information according to scientific standards on the sources, methods and procedures of the statistics. This is Principle:
+A) 1
+B) 2
+C) 3
+D) 5
+ANS: C
+D: Medium
+P: 1
+EXP: **Principle 3 (Accountability and Transparency)** asks agencies to publish their sources, methods and procedures (metadata) so users can interpret the data correctly.
+SC: "Correct interpretation" plus "sources, methods, procedures" means metadata, which is Principle 3.
+
+Q: The UN General Assembly resolution 64/267, referred to in the preamble to the Fundamental Principles, relates to:
+A) World Statistics Day
+B) the 2010 World Population and Housing Census Programme
+C) strengthening statistical capacity
+D) the 2030 Agenda for Sustainable Development
+ANS: A
+D: Hard
+P: 1
+EXP: The preamble cites **GA resolution 64/267 on World Statistics Day** (first celebrated on 20 October 2010). It also cites ECOSOC resolutions 2005/13 (2010 World Population and Housing Census Programme), 2006/6 (strengthening statistical capacity) and 2013/21 (the Fundamental Principles).
+SC: 64/267 was adopted in 2010 and the first World Statistics Day was 20.10.2010.
+
+@topic Evolution of the Indian Statistical System
+Q: Arrange the following in chronological order of their establishment:
+1. Central Statistical Organisation (CSO)
+2. Directorate of National Sample Survey
+3. Central Statistical Unit
+4. National Sample Survey Organisation (NSSO)
+Select the correct answer using the code given below:
+A) 3, 1, 2, 4
+B) 2, 3, 1, 4
+C) 3, 2, 1, 4
+D) 3, 2, 4, 1
+ANS: C
+T: Chronology
+D: Medium
+P: 2
+EXP: Central Statistical **Unit** (1949) → Directorate of **NSS** (1950) → Central Statistical **Organisation** (1951) → **NSSO** (1970). The Computer Centre (1967) and MoSPI (1999) came later.
+SC: Memorise the chain 49-50-51-70: Unit 49, NSS 50, CSO 51, NSSO 70.
+
+Q: The Central Statistical Unit set up in 1949 was later converted into:
+A) the National Sample Survey Organisation
+B) the Central Statistical Organisation
+C) the Computer Centre
+D) the National Statistical Commission
+ANS: B
+D: Easy
+P: 2
+EXP: The Central Statistical Unit of 1949 became the **Central Statistical Organisation (CSO) in 1951**. The CSO later merged with the NSSO to form the NSO in 2019.
+SC: Unit → Organisation. Only the name changed (1949 → 1951).
+
+Q: In which year was the Computer Centre, later part of the Indian statistical set-up under MoSPI, established?
+A) 1950
+B) 1967
+C) 1970
+D) 1999
+ANS: B
+D: Medium
+P: 2
+EXP: The **Computer Centre** was set up in **1967**. It came after the CSO (1951) and Directorate of NSS (1950), and before the NSSO (1970) and MoSPI (1999).
+SC: The only "technology" body in the chain has the only 1960s date: 1967.
+
+Q: The Ministry of Statistics and Programme Implementation (MoSPI) came into existence as an independent Ministry in:
+A) 1970
+B) 1995
+C) 1999
+D) 2005
+ANS: C
+D: Easy
+P: 2
+EXP: MoSPI was formed on **15 October 1999** by merging the Department of Statistics and the Department of Programme Implementation.
+SC: MoSPI was born in 1999, just before the millennium.
+
+@topic Present Statistical System & Legal Framework
+Q: Consider the following statements about the present Indian Statistical System:
+1. It functions within the overall administrative framework of the country.
+2. Collection of statistics on any subject generally vests with the authority responsible for that subject.
+3. It operates without any supporting legislative framework.
+Which of the statements given above is/are correct?
+A) 1 only
+B) 1 and 2 only
+C) 2 and 3 only
+D) 1, 2 and 3
+ANS: B
+T: Statement
+D: Easy
+P: 2
+EXP: Statements 1 and 2 are correct. Statement 3 is wrong. The system is **supported and regulated by laws** such as the Collection of Statistics Act 2008, the Census Act 1948, the RBD Act 1969 and the Factories Act 1948.
+SC: A statement that says there is no legal framework is always false.
+
+Q: The Collection of Statistics Act, 2008 is described as an Act to facilitate collection of statistics on which aspects?
+A) Economic, demographic, social, scientific and environmental
+B) Economic and demographic only
+C) Industrial and agricultural only
+D) Financial and fiscal only
+ANS: A
+D: Medium
+P: 2
+EXP: The long title of the CoS Act, 2008 covers **economic, demographic, social, scientific and environmental** aspects, "and matters connected therewith or incidental thereto".
+SC: The five aspects spell E-D-S-S-E. Any option that lists fewer than five is incomplete.
+
+Q: Which of the following is NOT one of the structural parts (chapters) of the Collection of Statistics Act, 2008 as outlined in the source?
+A) Disclosure of information in certain cases and restrictions on use
+B) Offences and penalty
+C) Power in respect of core statistics
+D) Registration establishment of the Registrar General
+ANS: D
+T: Odd-one-out
+D: Medium
+P: 2
+EXP: The CoS Act has chapters on the **preliminary** part, **collection of statistics**, **disclosure and restrictions**, **offences and penalty**, **power in respect of core statistics** and **miscellaneous**. The "Registration establishment (RGI)" chapter belongs to the **Registration of Births and Deaths Act, 1969**.
+SC: RGI and registration of births and deaths come under the RBD Act, not the CoS Act.
+
+Q: Match List-I (Legislation) with List-II (Year):
+| List-I | List-II |
+|---|---|
+| A. Payment of Wages Act | 1. 1948 |
+| B. Census Act | 2. 1969 |
+| C. Registration of Births and Deaths Act | 3. 2008 |
+| D. Collection of Statistics Act | 4. 1936 |
+A) A-1, B-4, C-2, D-3
+B) A-4, B-1, C-3, D-2
+C) A-4, B-2, C-1, D-3
+D) A-4, B-1, C-2, D-3
+ANS: D
+T: Match
+D: Easy
+P: 2
+EXP: Payment of Wages Act **1936**, Census Act **1948**, RBD Act **1969**, CoS Act **2008** (No. 7 of 2009). The Factories Act is also from 1948.
+SC: Go in date order: wages (1936) → census and factories (1948) → births and deaths (1969) → CoS (2008).
+
+Q: Which of the following Acts was passed in the same year as the Census Act?
+A) Payment of Wages Act
+B) Factories Act
+C) Registration of Births and Deaths Act
+D) Indian Statistical Institute Act
+ANS: B
+D: Easy
+P: 2
+EXP: Both the **Census Act** and the **Factories Act** date from **1948**. The ASI (Annual Survey of Industries) uses the factory register kept under the Factories Act as its frame.
+SC: 1948 gives two acts: Census and Factories.
+
+@topic Statistical Offices at the Centre
+Q: Since which year has the Office of the Registrar General of India worked ex officio on the collection, compilation and improvement of vital statistics?
+A) 1949
+B) 1960
+C) 1969
+D) 1981
+ANS: B
+D: Hard
+P: 3
+EXP: The source states that the Registrar General (Ministry of Home Affairs), besides the decennial census, has been responsible **ex officio for vital statistics from 1960**. The RBD Act (1969) later made civil registration compulsory.
+SC: Vital statistics came to the RGI in 1960 and the RBD Act followed in 1969.
+
+Q: The Office of the Registrar General of India (ORGI) functions under which Ministry?
+A) Ministry of Statistics and Programme Implementation
+B) Ministry of Health and Family Welfare
+C) Ministry of Home Affairs
+D) Ministry of Law and Justice
+ANS: C
+D: Easy
+P: 3
+EXP: The ORGI and Census Commissioner work under the **Ministry of Home Affairs**. The office runs the Census, the SRS, the Civil Registration System and MCCD.
+SC: Census and RGI belong to Home Affairs, not Health or MoSPI. This is a common trap.
+
+Q: Consider the following statements about the Directorate General of Commercial Intelligence and Statistics (DGCI&S):
+1. It is responsible for commercial intelligence and foreign trade statistics.
+2. It also compiles India's balance of payments statistics.
+Which of the statements given above is/are correct?
+A) 1 only
+B) 2 only
+C) Both 1 and 2
+D) Neither 1 nor 2
+ANS: A
+T: Statement
+D: Medium
+P: 3
+EXP: Only statement 1 is correct. DGCI&S (Kolkata, Ministry of Commerce) compiles foreign trade statistics. The source adds that **balance-of-trade/payments data are handled by the RBI** and licensing statistics by the Chief Controller of Imports & Exports.
+SC: Trade data come from DGCI&S and the balance of payments comes from the RBI.
+
+Q: The Directorate of Economics and Statistics (DES), set up in 1947, is attached to which Ministry?
+A) Ministry of Agriculture
+B) Ministry of Commerce
+C) Ministry of Labour
+D) Ministry of Finance
+ANS: A
+D: Easy
+P: 3
+EXP: The **DES** was set up in **1947** under the **Ministry of Agriculture**. It covers land use, crop area and production, livestock, forests and fisheries, and publishes *Indian Agricultural Statistics*.
+SC: Remember "DES = agriculture". The Labour Bureau handles labour and DGCI&S handles trade.
+
+Q: Which organisation constructs the Consumer Price Index for Industrial Workers (CPI-IW) and for Agricultural Labourers?
+A) National Statistical Office
+B) Labour Bureau
+C) Reserve Bank of India
+D) Office of the Economic Adviser, DPIIT
+ANS: B
+D: Easy
+P: 3
+EXP: The **Labour Bureau** (set up in 1946, Ministry of Labour & Employment, Shimla/Chandigarh) compiles **CPI-IW** and **CPI-AL/RL**. NSO compiles CPI (Rural/Urban/Combined) and the Office of the Economic Adviser compiles the WPI.
+SC: Worker and labourer CPIs (IW, AL, RL) come from the Labour Bureau.
+
+Q: In which year was the Labour Bureau established?
+A) 1936
+B) 1946
+C) 1951
+D) 1967
+ANS: B
+D: Medium
+P: 3
+EXP: The Labour Bureau was set up in **1946**. It collects and publishes employment and labour statistics for factories, mines, plantations and shops, compiles CPI-IW and CPI-AL/RL, and brings out pamphlets on labour legislation.
+SC: Labour Bureau 1946 and DES 1947 were both set up just before and at Independence.
+
+Q: At the State level, the principal statistical agency responsible for liaison with the Centre and for statistical work under planning is the:
+A) State Planning Board
+B) Directorate/Bureau of Economics and Statistics
+C) District Statistical Office
+D) State Labour Department
+ANS: B
+D: Easy
+P: 3
+EXP: Each State has a **Directorate (Bureau) of Economics and Statistics (DES)**. It is the nodal State agency: it maintains liaison with the CSO/NSO and does statistical work for planning, including SDP estimates.
+SC: The State nodal agency is the DES of the State.
+
+@topic Population Census
+Q: Under which method of census enumeration does the enumerator visit each household and record the answers on the schedule himself?
+A) Householder method
+B) Canvasser method
+C) Self-enumeration method
+D) Registration method
+ANS: B
+D: Easy
+P: 3
+EXP: In the **canvasser method** the enumerator goes from house to house and fills in the schedule. In the **householder method** the household fills it in. India uses the canvasser method because literacy is still limited.
+SC: A canvasser goes door to door and writes the answers.
+
+Q: A person counted at the place where he or she is actually found on the reference date of the census is being enumerated on which basis?
+A) De jure
+B) De facto
+C) Usual residence
+D) Place of birth
+ANS: B
+D: Easy
+P: 4
+EXP: **De facto** counts people where they are actually found. **De jure** counts them at their usual (normal) residence. Since 1941 India has used an "extended de facto canvasser method", spreading enumeration over about three weeks with a revisional round.
+SC: "De facto" means "in fact": where the person actually is. "De jure" means "by law": the usual residence.
+
+Q: The Census of India 2011 was the ___ national census of the country, and its Registrar General & Census Commissioner was ___.
+A) 14th; Dr. C. Chandramouli
+B) 15th; Dr. C. Chandramouli
+C) 15th; J. K. Banthia
+D) 16th; Vivek Joshi
+ANS: B
+D: Medium
+P: 4
+EXP: Census 2011 was the **15th** census since 1872 and the 7th after Independence. **C. Chandramouli** was the RGI and Census Commissioner. J. K. Banthia headed Census 2001.
+SC: Counting from 1872 every ten years, 2011 is the 15th census. Banthia goes with 2001.
+
+Q: Consider the following statements about Census 2011:
+1. It was conducted in two phases: house listing and population enumeration.
+2. The transgender population was enumerated for the first time.
+3. The Population Enumeration schedule contained 35 questions.
+Which of the statements given above is/are correct?
+A) 1 and 2 only
+B) 2 and 3 only
+C) 1 and 3 only
+D) 1, 2 and 3
+ANS: A
+T: Statement
+D: Medium
+P: 4
+EXP: Statements 1 and 2 are correct. Statement 3 swaps the numbers: the **House-listing** schedule had **35** questions, the **Population Enumeration** schedule had **30**, and the NPR household schedule had **9**.
+SC: 35 → 30 → 9: houselisting first, population second, NPR last.
+
+Q: In Census 2011, the National Population Register (NPR) was prepared along with which phase?
+A) Population enumeration phase
+B) Post-enumeration survey
+C) House-listing phase
+D) Revisional round
+ANS: C
+D: Medium
+P: 4
+EXP: The **NPR** household schedule (9 questions) was canvassed with the **House-listing & Housing Census** phase (April–September 2010).
+SC: The NPR is linked to houses and households, so it went with houselisting.
+
+Q: Census 2011 covered how many districts?
+A) 593
+B) 604
+C) 640
+D) 766
+ANS: C
+D: Medium
+P: 4
+EXP: Census 2011 covered **28 States and 7 UTs**, **640 districts**, 5,767 tehsils and over 6 lakh villages. The 593 districts belonged to Census 2001.
+SC: 2011 had 640 districts and 2001 had 593.
+
+@topic Sample Registration System & Civil Registration
+Q: The Sample Registration System (SRS) is based on the:
+A) single-round retrospective survey method
+B) dual record system
+C) complete civil registration of the whole population
+D) hospital-based record system
+ANS: B
+D: Easy
+P: 4
+EXP: The SRS uses a **dual record system**. A resident part-time enumerator records events continuously, and an independent supervisor carries out a **retrospective half-yearly survey**. The two records are then matched.
+SC: SRS means two records (continuous and half-yearly) followed by matching.
+
+Q: Consider the following statements about the Sample Registration System:
+1. It covers a representative sample of the population, not the whole population.
+2. It begins with a baseline survey of the sample units.
+3. Its main objective is to give reliable estimates of birth rate, death rate and IMR at the natural-division level for major States.
+Which of the statements given above is/are correct?
+A) 1 and 2 only
+B) 2 and 3 only
+C) 1 and 3 only
+D) 1, 2 and 3
+ANS: D
+T: Statement
+D: Medium
+P: 4
+EXP: All three statements are correct. The SRS covers a **sample**, starts with a **baseline survey** to get the usual resident population, and gives BR/DR/IMR estimates at the **natural-division level for major States** and the State level for smaller States.
+SC: The SRS is about a sample, a baseline, and BR/DR/IMR by natural division.
+
+Q: Which is the correct sequence of the structure of the Sample Registration System?
+A) Baseline survey → Continuous enumeration → Half-yearly survey → Matching → Field verification
+B) Continuous enumeration → Baseline survey → Matching → Half-yearly survey → Field verification
+C) Baseline survey → Half-yearly survey → Continuous enumeration → Field verification → Matching
+D) Half-yearly survey → Baseline survey → Continuous enumeration → Matching → Field verification
+ANS: A
+T: Chronology
+D: Medium
+P: 5
+EXP: The sequence is (1) **baseline** survey → (2) **continuous** (longitudinal) enumeration → (3) independent **half-yearly** retrospective survey → (4) **matching** → (5) **field verification** of unmatched and partially matched events. Verbal Autopsy forms are then filled for finalised deaths.
+SC: Base → Continuous → Half-yearly → Match → Verify: you can only match after both records exist.
+
+Q: In the SRS, "Verbal Autopsy" forms are filled for which purpose?
+A) To count births missed by the enumerator
+B) To ascertain the probable cause of finalised deaths
+C) To verify the age of the mother at childbirth
+D) To update the house list
+ANS: B
+D: Medium
+P: 5
+EXP: **Verbal Autopsy** means interviewing relatives about the symptoms before death. It is used to find the **probable cause of death** for deaths finalised after matching and verification.
+SC: "Autopsy" means cause of death, done "verbally" by interviewing relatives.
+
+Q: The Model Registration Scheme, meant for estimating cause-of-death rates, was introduced in:
+A) 1960
+B) 1965
+C) 1969
+D) 1971
+ANS: B
+D: Hard
+P: 5
+EXP: The **Model Registration Scheme (1965)** gave a lay-reporting system for cause of death in rural areas. It sits alongside the SRS, MCCD (Medical Certification of Cause of Death) and the Annual Health Survey.
+SC: MRS 1965 came four years before the RBD Act (1969).
+
+Q: Which of the following is NOT a publication of the Office of the Registrar General of India?
+A) Vital Statistics of India (based on CRS)
+B) SRS Bulletin
+C) Report on Medical Certification of Cause of Death
+D) Annual Survey of Industries results
+ANS: D
+T: Odd-one-out
+D: Easy
+P: 5
+EXP: The RGI publishes Vital Statistics of India (CRS), the **SRS Bulletin**, Cause of Death (MCCD) reports and Census reports. **ASI results** are published by MoSPI/NSO (Industrial Statistics Wing, formerly CSO).
+SC: Anything on industry or factories belongs to MoSPI, not the RGI.
+
+@topic Features of the Indian Statistical System
+Q: Consider the following statements about the Indian statistical system:
+1. Administrative statistics form the core of the system at both the national and State levels.
+2. It is laterally and vertically decentralised.
+3. Large-scale operations such as the Population Census, ASI and Economic Census are decentralised to the States.
+Which of the statements given above is/are correct?
+A) 1 and 2 only
+B) 2 and 3 only
+C) 1 only
+D) 1, 2 and 3
+ANS: A
+T: Statement
+D: Medium
+P: 5
+EXP: Statements 1 and 2 are correct. Statement 3 is wrong: the source says **large-scale operations** (Population Census, Annual Survey of Industries, Economic Census, consumer expenditure surveys) are **centralised**.
+SC: The system is decentralised, but the big national operations are centralised.
+
+Q: In India, the national-level database is essentially:
+A) independently generated by NSO without State inputs
+B) a collation of State-level databases, which are in turn collected from district and sub-district levels
+C) derived entirely from international agencies
+D) compiled only from the decennial census
+ANS: B
+D: Easy
+P: 5
+EXP: The flow is **village → block → district → State departments → Central ministries → MoSPI**. The national database is built up from State data, which come from district and sub-district levels.
+SC: Data move upward from the grassroots to the State to the Centre.
+
+Q: Which body in MoSPI acts as the nodal agency for planned development of the statistical system and for coordinating statistical activities between the Centre and the States?
+A) NSSO (FOD)
+B) Central Statistical Office (now NSO)
+C) Programme Implementation Wing
+D) Indian Statistical Institute
+ANS: B
+D: Easy
+P: 5
+EXP: The **CSO (now part of the NSO)** has been the nodal agency for planned development of the statistical system and for coordination between the Centre and the States. It also lays down norms and standards.
+SC: The coordinator is the CSO or NSO. The PI Wing monitors projects and schemes.
+
+@topic Constitutional Basis of Statistics
+Q: "Census" is listed in which Entry of the Union List of the Seventh Schedule of the Constitution?
+A) Entry 30
+B) Entry 45
+C) Entry 69
+D) Entry 94
+ANS: C
+D: Medium
+P: 6
+EXP: **Union List Entry 69** is the Census. Union List Entry 94 is inquiries, surveys and statistics for Union matters. Concurrent List Entry 45 is inquiries and statistics for State and Concurrent matters. Concurrent List Entry 30 is vital statistics, including registration of births and deaths.
+SC: Census 69 (Union) and vital statistics 30 (Concurrent). Both surveys entries (94 and 45) are the "inquiries and statistics" entries.
+
+Q: Match List-I (Subject) with List-II (Constitutional entry):
+| List-I | List-II |
+|---|---|
+| A. Census | 1. Concurrent List, Entry 30 |
+| B. Vital statistics including registration of births and deaths | 2. Union List, Entry 94 |
+| C. Inquiries, surveys and statistics for Union List matters | 3. Concurrent List, Entry 45 |
+| D. Inquiries and statistics for State/Concurrent List matters | 4. Union List, Entry 69 |
+A) A-4, B-3, C-2, D-1
+B) A-2, B-1, C-4, D-3
+C) A-4, B-1, C-2, D-3
+D) A-4, B-1, C-3, D-2
+ANS: C
+T: Match
+D: Hard
+P: 6
+EXP: Census is Union List 69. Vital statistics are Concurrent List 30. Surveys for Union matters are Union List 94. Surveys for State/Concurrent matters are Concurrent List 45. All come under the Seventh Schedule, read with **Article 246**.
+SC: Union 69 and 94, Concurrent 30 and 45. Put Census first and vital statistics second.
+
+Q: Registration of births and deaths (vital statistics) falls under which list of the Seventh Schedule?
+A) Union List
+B) State List
+C) Concurrent List
+D) Residuary powers
+ANS: C
+D: Easy
+P: 6
+EXP: Vital statistics, including registration of births and deaths, is **Concurrent List Entry 30**. That is why the RBD Act, 1969 is a central law implemented through State Chief Registrars.
+SC: The law is central but the States implement it, which fits the Concurrent List.
+
+Q: The division of administrative functions between the Government of India and the State Governments, which shapes the organisation of the statistical system, is based on subject lists in the Seventh Schedule read with which Article?
+A) Article 243
+B) Article 246
+C) Article 263
+D) Article 280
+ANS: B
+D: Medium
+P: 6
+EXP: **Article 246** read with the **Seventh Schedule** divides legislative subjects into the Union, State and Concurrent Lists. This three-fold division is why the Indian statistical system is decentralised.
+SC: Article 246 is the distribution of legislative powers, which drives the Seventh Schedule.
+
+Q: According to the source, at its original enactment the Concurrent List had how many entries?
+A) 47
+B) 66
+C) 97
+D) 52
+ANS: A
+D: Medium
+P: 6
+EXP: At the time of adoption the Union List had **97** entries, the State List **66** and the Concurrent List **47**. Later amendments changed the counts, but exam questions usually use these original numbers.
+SC: The order is 97 > 66 > 47 for Union > State > Concurrent.

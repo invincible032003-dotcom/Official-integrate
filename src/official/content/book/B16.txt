@@ -1,0 +1,472 @@
+@set B16
+@title Environmental-Economic Accounts (I): Natural Capital, SEEA & Ecosystem Services
+@pages 296-312
+@desc EnviStats-India FAQ Q1-30: natural capital, NCA vs SNA, Dasgupta Expert Group, SEEA-CF/EA and sectoral frameworks, policy areas, ecosystem accounts and services, valuation, NTFP, UNFC-2009 and coal resource categories, NPV, information pyramid, biodiversity
+
+@topic Natural Capital & NCA
+Q: The term "natural capital" is attributed to economist E.F. Schumacher, who presented the concept in his 1973 book:
+A) Small is Beautiful
+B) The Limits to Growth
+C) Silent Spring
+D) Our Common Future
+ANS: A
+D: Medium
+P: 297
+EXP: **E.F. Schumacher** introduced the idea in **"Small is Beautiful" (1973)**. The Limits to Growth (1972) was the Club of Rome report, Silent Spring (1962) was by Rachel Carson, and Our Common Future (1987) is the Brundtland Report.
+SC: Schumacher → Small is Beautiful → natural capital (1973).
+
+Q: Natural capital is generally considered to comprise which three principal categories?
+A) Natural resource stocks, land and ecosystems
+B) Minerals, energy and money
+C) Forests, rivers and cities
+D) Labour, capital and technology
+ANS: A
+D: Medium
+P: 297
+EXP: As a natural asset providing resource inputs and environmental services, natural capital comprises **natural resource stocks, land and ecosystems**. It includes "invisible" ecosystem services such as pollination, flood protection and carbon storage.
+SC: Resources + Land + Ecosystems.
+
+Q: Which of the following statements about Natural Capital Accounts (NCA) vis-à-vis National Accounts is correct?
+A) NCA follow SEEA and go beyond the SNA production boundary to cover non-market natural goods and services
+B) NCA follow the SNA and are limited to the production boundary
+C) NCA are compiled only in monetary terms
+D) NCA replace GDP
+ANS: A
+D: Medium
+P: 299
+EXP: **NCA follow the SEEA** (approved by the UN Statistical Commission). National accounts follow the **SNA** and stay **within the production boundary**. NCA go further and cover natural goods and services that are not traded, in **physical and monetary** terms. They complement GDP rather than replace it.
+SC: SEEA goes beyond the SNA production boundary, in both physical and monetary terms.
+
+Q: In 2011, MoSPI constituted a high-level Expert Group to develop a framework for green national accounts for India under the chairmanship of:
+A) Prof. Sir Partha Dasgupta
+B) Dr. C. Rangarajan
+C) Prof. Amartya Sen
+D) Dr. Pronab Sen
+ANS: A
+D: Easy
+P: 298
+EXP: The Expert Group chaired by **Prof. Sir Partha Dasgupta** (Cambridge) was set up in **2011**. Its report **"Green National Accounts in India – A Framework" (2013)** recommended compiling **SEEA Central Framework** accounts in phases, starting with asset accounts and supply-use tables.
+SC: Dasgupta → green accounts. 2011 group, 2013 report.
+
+Q: The report "Green National Accounts in India – A Framework" was submitted in:
+A) 2013
+B) 2011
+C) 2018
+D) 2021
+ANS: A
+D: Medium
+P: 298
+EXP: The Dasgupta Expert Group was set up in **2011** and reported in **2013**. MoSPI's EnviStats India publications and accounts followed from 2018 onwards.
+SC: Constituted 2011, reported 2013.
+
+@topic SEEA Framework
+Q: The SEEA Central Framework was adopted by the UN Statistical Commission as the first international standard for environmental-economic accounting in:
+A) 2012
+B) 2008
+C) 2014
+D) 2021
+ANS: A
+D: Easy
+P: 300
+EXP: **SEEA-CF was adopted in 2012**. **SEEA Ecosystem Accounting** was adopted at the **52nd session in March 2021**. SNA 2008 is the national accounts standard.
+SC: CF 2012, EA 2021 (52nd UNSC).
+
+Q: The SEEA Central Framework covers measurement in which three main areas?
+A) Environmental flows, stocks of environmental assets and economic activity related to the environment
+B) Biodiversity, climate and oceans
+C) GDP, employment and prices
+D) Ecosystem extent, condition and services
+ANS: A
+D: Medium
+P: 300
+EXP: SEEA-CF covers **(a) environmental flows**, **(b) stocks of environmental assets** and **(c) economic activity related to the environment** (e.g. environmental protection expenditure). Extent, condition and services belong to **SEEA-EA**.
+SC: CF = Flows + Stocks + Activity. EA = Extent + Condition + Services.
+
+Q: SEEA is produced and released under the auspices of which of the following?
+A) UN, European Commission, FAO, OECD, IMF and World Bank Group
+B) UNEP alone
+C) WTO and WIPO
+D) IPCC and UNFCCC
+ANS: A
+D: Medium
+P: 300
+EXP: SEEA is released jointly by the **UN, European Commission, FAO, OECD, IMF and World Bank Group**, the same group of agencies behind the SNA.
+SC: The SNA sponsors plus FAO release the SEEA.
+
+Q: The SEEA Ecosystem Accounting (SEEA EA) was adopted by the UN Statistical Commission at its:
+A) 52nd session in March 2021
+B) 43rd session in 2012
+C) 48th session in 2017
+D) 50th session in 2019
+ANS: A
+D: Medium
+P: 301
+EXP: **SEEA EA** was adopted at the **52nd session (March 2021)**. It complements the CF with a **spatial, ecosystem** perspective on habitats, landscapes and ecosystem services.
+SC: EA was adopted at the 52nd session in 2021.
+
+Q: The "SEEA Applications and Extensions" document is:
+A) a companion to the SEEA-CF showing how accounts can be used for analysis and indicators
+B) a replacement for SEEA-EA
+C) a sectoral framework for water
+D) a manual for valuation of ecosystem services only
+ANS: A
+D: Medium
+P: 301
+EXP: **SEEA Applications and Extensions** is a **companion document to the SEEA-CF**. It shows compilers and users how to use the accounts for decision-making, policy and indicators such as resource use, environmental intensity and environmental protection activity.
+SC: A&E is the user guide to the CF.
+
+Q: In the SEEA-Energy framework, physical flows of energy are recorded in which common unit to aggregate across energy sources?
+A) Joules
+B) Tonnes of oil equivalent only
+C) Kilowatt-hours only
+D) Rupees
+ANS: A
+D: Medium
+P: 301
+EXP: SEEA-Energy **physical flow accounts** record flows in **joules** so all energy sources can be added up. Monetary accounts run in parallel. **Asset accounts** track mineral and energy resource stocks.
+SC: Energy is aggregated in joules, the SI unit.
+
+Q: SEEA-Water comprises which three main types of accounts?
+A) Physical flow accounts, physical asset accounts and economic accounts
+B) Extent, condition and services accounts
+C) Supply, use and input-output accounts
+D) Stock, emission and thematic accounts
+ANS: A
+D: Medium
+P: 302
+EXP: **SEEA-Water**: (i) **physical flow accounts** (abstraction, flows within the economy, return flows, emissions), (ii) **physical asset accounts** (the hydrological cycle and stocks), and (iii) **economic accounts** (water products, costs and financing).
+SC: Water has three accounts: flow, asset and economic.
+
+Q: SEEA-Agriculture, Forestry and Fisheries (AFF) accounts are most commonly compiled at the level of:
+A) the individual product
+B) the whole ecosystem
+C) the household
+D) the district only
+ANS: A
+D: Hard
+P: 302
+EXP: SEEA-AFF accounts are **most commonly compiled at the level of the individual product**, using **flow accounts** and **asset accounts** in physical and monetary terms.
+SC: AFF is built product by product (crops, fish, timber).
+
+Q: The SEEA responds to information needs in how many high-level policy areas, as per the EnviStats FAQ?
+A) Four: economy and environment, people and environment, ecosystem health, and mitigating risks
+B) Three: economy, society, environment
+C) Five: the five Ps of the 2030 Agenda
+D) Two: climate and biodiversity
+ANS: A
+D: Medium
+P: 304
+EXP: The four policy areas are **economy & environment** (resource supply and demand), **people & environment** (access to services), **ecosystem health**, and **mitigating risks** (extreme events).
+SC: Economy, People, Ecosystem, Risk.
+
+Q: Which of the following is NOT listed as a limitation of environmental measurements in the EnviStats FAQ?
+A) Environmental data can never be expressed in monetary terms
+B) Measurements can be costly in technological and human resources
+C) Working in silos hinders use of one agency's data by another
+D) Some programmes require considerable time before results are available
+ANS: A
+D: Medium
+T: Odd-one-out
+P: 304
+EXP: The listed limitations are **cost**, **silos** and **time lag**. Environmental data **can** be monetised: SEEA uses both physical and monetary terms.
+SC: Monetisation is possible, so that option is the odd one out.
+
+@topic Ecosystem Accounting
+Q: The Convention on Biological Diversity defines an ecosystem as:
+A) a dynamic complex of plant, animal and micro-organism communities and their non-living environment interacting as a functional unit
+B) any protected area notified under law
+C) a forest with more than 10% canopy cover
+D) a group of species of the same genus
+ANS: A
+D: Easy
+P: 304
+EXP: **CBD Article 2**: an ecosystem is "a **dynamic complex** of plant, animal and micro-organism communities and their **non-living environment** interacting as a **functional unit**."
+SC: Living communities + non-living environment interacting as one functional unit.
+
+Q: Why are ecosystem accounts described as "inherently spatial"?
+A) Because an ecosystem's contribution to human well-being depends on its location
+B) Because they are compiled only from satellite images
+C) Because they cover only national parks
+D) Because they ignore economic data
+ANS: A
+D: Medium
+P: 305
+EXP: An ecosystem's contribution depends on **location**, for example how close it is to settlements. So ecosystem accounts are **spatial**, and **maps** are a common way to present them.
+SC: Value depends on location, hence spatial accounts and maps.
+
+Q: Which ecosystem account serves as the common starting point for ecosystem accounting and records the area of ecosystem types?
+A) Ecosystem Extent Account
+B) Ecosystem Condition Account
+C) Monetary Ecosystem Asset Account
+D) Thematic Account
+ANS: A
+D: Easy
+P: 305
+EXP: The **Extent account** (area of forests, wetlands, agricultural areas, marine areas) is the **starting point**. It is followed by **Condition** (characteristics compared with a reference condition), **Services flow** (physical and monetary), **Monetary asset** (NPV) and **Thematic** accounts (biodiversity, climate, oceans, urban).
+SC: Extent → Condition → Services → Monetary asset → Thematic.
+
+Q: The Monetary Ecosystem Asset Account obtains opening and closing values of ecosystem assets using:
+A) the net present value of ecosystem services
+B) historical cost
+C) replacement cost of buildings
+D) market capitalisation
+ANS: A
+D: Medium
+P: 306
+EXP: Monetary asset values are based on the **net present value** of the expected **ecosystem service flows**, giving opening and closing values for each accounting period.
+SC: Asset value = discounted future service flows (NPV).
+
+Q: Under SEEA EA, ecosystem services are classified into which three broad categories?
+A) Provisioning, regulating and maintenance, and cultural services
+B) Supporting, regulating and economic services
+C) Market, non-market and hybrid services
+D) Primary, secondary and tertiary services
+ANS: A
+D: Easy
+P: 306
+EXP: SEEA EA uses **provisioning** (crops, wood, aquaculture), **regulating and maintenance** (climate regulation, air and water filtration, soil retention, flood control) and **cultural** services (recreation, visual amenity, education and research).
+SC: Provide, Regulate, Culture.
+
+Q: Air filtration, water filtration and flood control services provided by ecosystems are examples of:
+A) regulating and maintenance services
+B) provisioning services
+C) cultural services
+D) supporting services
+ANS: A
+D: Easy
+P: 306
+EXP: These services **regulate** biological processes and cycles to **maintain** conditions that benefit people, so they are **regulating and maintenance** services.
+SC: Filtering and controlling means regulating.
+
+Q: The core valuation concept used in the SNA and applied in ecosystem accounting is:
+A) exchange value
+B) willingness to pay including consumer surplus
+C) existence value
+D) replacement cost only
+ANS: A
+D: Medium
+P: 307
+EXP: Both SNA and SEEA EA use **exchange value**, i.e. the value at which goods, services or assets are, or could be, exchanged. Valuation assigns value to the **contribution of ecosystems to benefits**, not to the benefits themselves.
+SC: Exchange value, which excludes consumer surplus, keeps SEEA consistent with GDP.
+
+Q: In SEEA, which method is prescribed for the valuation of crop provisioning services?
+A) Resource Rent Method / Rental Price Method
+B) Travel Cost Method
+C) Hedonic Pricing Method
+D) Contingent Valuation Method
+ANS: A
+D: Medium
+P: 307
+EXP: Crop provisioning is a **final ecosystem service**, valued by the **Resource Rent (Rental Price) Method**: the ecosystem's share of the value of the harvested crop after deducting other inputs.
+SC: Provisioning goods are valued by resource rent.
+
+Q: How does "Non-Wood Forest Products" (NWFP) differ from "Non-Timber Forest Products" (NTFP)?
+A) NWFP exclude all wood including fuelwood, whereas NTFP include wood used for purposes other than timber
+B) NWFP include timber, NTFP do not
+C) Both are identical
+D) NWFP include minerals from forests
+ANS: A
+D: Hard
+P: 308
+EXP: **NTFP** includes non-timber wood uses such as fuelwood. **NWFP excludes all wood**. **Rocks and minerals** from forests are **not NTFP**. NTFP examples: bamboo, lac, honey, tendu leaves, gum, resin.
+SC: NWFP has no wood at all. NTFP excludes only timber.
+
+Q: Soil erosion prevention service provided by croplands has been estimated as the difference between:
+A) current soil loss and the probable soil loss if the cropland did not exist
+B) soil formed and soil exported
+C) fertiliser applied and fertiliser absorbed
+D) rainfall and runoff
+ANS: A
+D: Hard
+P: 308
+EXP: The service is the **avoided soil loss**: **probable loss without the cropland minus current loss**. It reflects the stabilising effect of vegetation.
+SC: The service equals the damage avoided.
+
+Q: Carbon retention services, as defined in the EnviStats FAQ, are estimated as:
+A) annual service flow derived from carbon stocks using a suitable rate of return
+B) total carbon stock in the ecosystem
+C) carbon emitted by industries
+D) carbon price multiplied by GDP
+ANS: A
+D: Hard
+P: 308
+EXP: Carbon retention is the contribution of ecosystems to removing (**sequestration**) and storing (**retention**) carbon. The service is estimated as the **annual flow derived from carbon stocks using a suitable rate of return**.
+SC: Stock × rate of return = annual service flow.
+
+Q: Ecosystem assets under SEEA are classified into ecosystem types using which reference classification?
+A) IUCN Global Ecosystem Typology
+B) NIC-2008
+C) FAO Land Cover Classification only
+D) Köppen climate classification
+ANS: A
+D: Medium
+P: 309
+EXP: Ecosystem assets (contiguous spaces of a specific ecosystem type) are classified using the **IUCN Global Ecosystem Typology**. They are measured by **extent, condition and service flows**.
+SC: IUCN typology gives the ecosystem types.
+
+@topic Mineral & Energy Resources, NPV & SEEA-SNA Link
+Q: Under UNFC-2009, "Commercially Recoverable Resources" (including production projects and projects approved for development) fall in:
+A) Class A
+B) Class B
+C) Class C
+D) Class D
+ANS: A
+D: Medium
+P: 309
+EXP: **Class A**: commercially recoverable. **Class B**: potentially commercially recoverable (development pending or on hold). **Class C**: non-commercial and other known deposits. Potential deposits with no expectation of viability are excluded.
+SC: A = recoverable now, B = maybe, C = not commercial.
+
+Q: As per the Indian Standard Procedure (ISP), coal resources falling within a 200 m radius of a borehole point are classified as:
+A) Proved
+B) Indicated
+C) Inferred
+D) Reserves only if unmined
+ANS: A
+D: Medium
+P: 310
+EXP: **Proved** is within 200 m of a borehole. **Indicated** is between 200 m and 1 km. **Inferred** is between 1 km and 2 km. Only **economically mineable** occurrences are "reserves". The rest are "resources".
+SC: 200 m proved, 1 km indicated, 2 km inferred.
+
+Q: A change in known deposits because a government decision opens or closes a deposit to mining is termed:
+A) reclassification
+B) reappraisal
+C) depletion
+D) discovery
+ANS: A
+D: Hard
+P: 310
+EXP: **Reclassification** is caused by government decisions on **access rights**. **Reappraisals** (up or down) reflect changes in geology, technology or price. All other quantity changes in known deposits count as reappraisals.
+SC: Access rights changed = reclassification. New information = reappraisal.
+
+Q: If the discount rate is 6%, an amount of 106 received next year corresponds to how much this year?
+A) 100
+B) 94
+C) 106
+D) 112.36
+ANS: A
+T: Numerical
+D: Easy
+P: 311
+EXP: PV = 106 ÷ 1.06 = **100**. The **NPV** of future resource rents, discounted this way, gives the **value of the resource in situ**.
+SC: PV = FV/(1+r).
+
+Q: In SEEA, the value of a mineral or energy resource in situ is assumed to correspond to:
+A) the sum of discounted future resource rents (net present value of future extraction)
+B) the current market price times total reserves, undiscounted
+C) the cost of exploration
+D) royalties paid last year
+ANS: A
+D: Medium
+P: 310
+EXP: Yearly unit resource rents are **discounted back** to the reference year. Their sum, the **NPV**, is taken as the value of the resource in situ.
+SC: Asset value = discounted future rents.
+
+Q: The SEEA Central Framework follows the SNA's residence principle, meaning data are based on:
+A) the residence of producer units rather than the territory where activity occurs
+B) the territory where the activity physically occurs
+C) the citizenship of owners
+D) the location of head offices only
+ANS: A
+D: Medium
+P: 311
+EXP: SEEA-CF uses SNA conventions, including the **residence principle**: activity is attributed to **resident producer units**, not to territory. This is the same approach used for GDP.
+SC: Residence, not territory, keeps SEEA consistent with GDP.
+
+Q: In the "information pyramid" described in the EnviStats FAQ, accounting frameworks such as SNA and SEEA occupy:
+A) the middle levels, integrating basic data to support indicators at the top
+B) the base, as raw data
+C) the top, as final indicators
+D) no place in the pyramid
+ANS: A
+D: Medium
+P: 311
+EXP: **Base**: basic data (economic, social, environmental). **Middle**: **accounts (SNA, SEEA)** that reconcile and integrate the data. **Top**: **indicators** such as GDP, national wealth and productivity.
+SC: Data → Accounts → Indicators, from bottom to top.
+
+@topic Biodiversity
+Q: As per the CBD, "biological diversity" includes diversity:
+1. within species
+2. between species
+3. of ecosystems
+Select the correct answer using the code given below:
+A) 1 only
+B) 1 and 2 only
+C) 2 and 3 only
+D) 1, 2 and 3
+ANS: D
+T: Statement
+D: Easy
+P: 312
+EXP: The CBD defines biodiversity as variability among living organisms from all sources, including **diversity within species, between species and of ecosystems**, i.e. genetic, species and ecosystem diversity.
+SC: Genes, species and ecosystems: three levels.
+
+Q: Which of the following factors influences the biodiversity of a region, as per the EnviStats FAQ?
+A) Temperature, altitude, precipitation, soils and human pressures
+B) Only latitude
+C) Only protected area coverage
+D) Only GDP per capita
+ANS: A
+D: Easy
+P: 312
+EXP: Biodiversity is **unevenly distributed**. It is shaped by **temperature, altitude, precipitation, soils and pressures from human activities**. It covers both managed ecosystems (farms, plantations) and unmanaged ones (forests, national parks).
+SC: Climate, terrain, soil and human pressure.
+
+Q: The purpose of accounting for biodiversity, as per the FAQ, is primarily to:
+A) mainstream biodiversity data in planning and decision making
+B) price every species in the market
+C) replace species surveys
+D) restrict all land use
+ANS: A
+D: Easy
+P: 312
+EXP: Biodiversity accounting aims at **mainstreaming** biodiversity data in planning and decisions. It informs conservation, ecosystem-service supply and responses such as **biodiversity finance**.
+SC: The goal is mainstreaming, not pricing.
+
+Q: Mountaineering, snorkeling, wildlife viewing and rafting fall under which ecosystem service as described in the EnviStats FAQ?
+A) Nature-based tourism service
+B) Provisioning service
+C) Carbon retention
+D) Soil retention
+ANS: A
+D: Easy
+P: 309
+EXP: **Nature-based tourism** means providing opportunities for tourism and recreation that depend on natural landscapes and resources. It is a **cultural** ecosystem service.
+SC: Recreation in nature is a cultural service (nature-based tourism).
+
+Q: According to the FAQ, Natural Capital Accounting covers:
+A) individual environmental assets (biotic and abiotic), ecosystem assets, biodiversity and ecosystem services, in physical and monetary terms
+B) only minerals and energy in monetary terms
+C) only forests in physical terms
+D) only GDP adjustments
+ANS: A
+D: Medium
+P: 299
+EXP: NCA covers **individual assets** (water, minerals, energy, timber, fish), **ecosystem assets** (forests, wetlands), **biodiversity** and **ecosystem services**, in **both physical and monetary** terms.
+SC: NCA covers assets, ecosystems, biodiversity and services, physical and monetary.
+
+Q: Why could a full-fledged environmental account for India not be compiled from earlier research studies?
+A) Lack of comparability in methods and definitions used in those studies limited their aggregation
+B) There were no studies at all
+C) Studies were confidential
+D) SNA prohibited such accounts
+ANS: A
+D: Medium
+P: 298
+EXP: India had rich studies on forests, wetlands, coasts and mangroves, but **differences in methods and definitions** meant they could not be **aggregated**. This led MoSPI to set up the Dasgupta group to build a standard framework.
+SC: The studies were not comparable, so a standard framework was needed.
+
+Q: Examples of the questions SEEA can help answer include:
+1. How does depletion of natural resources affect measures of real national income?
+2. Is decoupling between resource use and economic growth taking place?
+3. What is the carbon or water footprint of the nation?
+Select the correct answer using the code given below:
+A) 1 only
+B) 1 and 2 only
+C) 2 and 3 only
+D) 1, 2 and 3
+ANS: D
+T: Statement
+D: Easy
+P: 303
+EXP: All three appear among SEEA applications. Others include who benefits from resource use, effectiveness of environmental protection spending, greening of taxes, green jobs, and sustainability of production and consumption.
+SC: SEEA answers depletion, decoupling and footprint questions, so all three apply.

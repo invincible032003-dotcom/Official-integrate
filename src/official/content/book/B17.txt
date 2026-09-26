@@ -1,0 +1,522 @@
+@set B17
+@title Environmental-Economic Accounts (II): Indices, IUCN, FDES, NCAVES & India's Accounts
+@pages 313-329
+@desc EnviStats-India FAQ Q31-58: Shannon-Wiener index, soil nutrient index, IUCN and Red List, FDES 2013, climate change statistics, NCAVES, MoSPI's EnviStats volumes, IMG, SEEA-SDG links, PSUT, protected areas, CBD, CITES, 2022-26 strategy, energy/MFA/waste/ocean/urban accounts, GASAB, UNCEEA
+
+@topic Biodiversity & Soil Indices
+Q: The Shannon-Wiener index of diversity is given by:
+A) H' = −Σ pᵢ ln pᵢ, where pᵢ is the proportion of individuals of species i
+B) H' = Σ pᵢ²
+C) H' = number of species / total individuals
+D) H' = 1 − Σ pᵢ
+ANS: A
+D: Medium
+P: 313
+EXP: **H' = −Σ pᵢ ln pᵢ**, with **pᵢ = nᵢ/N**. Every ln pᵢ is negative, so the minus sign makes H' positive. It reflects both **richness** (number of species) and **evenness** (how evenly individuals are spread). **Σpᵢ²** is Simpson's index.
+SC: Shannon uses p ln p. Simpson uses p².
+
+Q: A community consisting of only one species has a Shannon-Wiener index value of:
+A) 0
+B) 1
+C) 4
+D) Infinity
+ANS: A
+T: Numerical
+D: Easy
+P: 313
+EXP: With one species, **p = 1** and **ln 1 = 0**, so **H' = 0**. In most ecological studies H' lies between **1.5 and 3.5** and rarely goes above **4**.
+SC: A single species gives zero diversity.
+
+Q: For a community with two species of equal abundance (p1 = p2 = 0.5), the Shannon-Wiener index is approximately:
+A) 0.693
+B) 0.5
+C) 1.0
+D) 0.25
+ANS: A
+T: Numerical
+D: Medium
+P: 313
+EXP: H' = −2 × 0.5 × ln 0.5 = −ln 0.5 = **ln 2 ≈ 0.693**. For S equally abundant species, H' = ln S, which is the maximum for that richness.
+SC: With equal abundance, H' = ln(number of species).
+
+Q: The Shannon index increases as:
+A) both richness and evenness of the community increase
+B) the dominance of one species increases
+C) the number of individuals of one species increases
+D) evenness decreases
+ANS: A
+D: Easy
+P: 313
+EXP: H' **rises with richness and with evenness**. Dominance by one species lowers evenness and so lowers H'.
+SC: More species, more evenly spread, gives a higher H'.
+
+Q: The Soil Nutrient Index (N.I.) developed by ICAR is computed as:
+A) (N_L × 1 + N_M × 2 + N_H × 3) / N_T
+B) (N_L + N_M + N_H) / 3
+C) N_H / N_T × 100
+D) (N_H − N_L) / N_T
+ANS: A
+D: Medium
+P: 313
+EXP: **N.I. = (N_L×1 + N_M×2 + N_H×3) ÷ N_T**, where N_L, N_M and N_H are the numbers of samples in the low, medium and high classes and N_T is the total number of samples. It is a weighted average score between 1 and 3.
+SC: Weights 1-2-3 for low-medium-high, divided by the total number of samples.
+
+Q: A Soil Nutrient Index value of 2.1 for a nutrient indicates soil fertility status that is:
+A) Medium
+B) Low
+C) High
+D) Very high
+ANS: A
+D: Easy
+P: 314
+EXP: **N.I. below 1.67 = low**. **1.67 to 2.33 = medium**. **Above 2.33 = high**. So 2.1 is **medium**.
+SC: The cut-offs are 1.67 and 2.33, i.e. the index range 1-3 split into thirds.
+
+Q: 100 soil samples are classified as 30 low, 50 medium and 20 high for nitrogen. The nutrient index is:
+A) 1.90 (medium)
+B) 2.50 (high)
+C) 1.50 (low)
+D) 2.00 (medium)
+ANS: A
+T: Numerical
+D: Medium
+P: 314
+EXP: N.I. = (30×1 + 50×2 + 20×3) ÷ 100 = (30 + 100 + 60) ÷ 100 = **1.90**, which falls between 1.67 and 2.33, so fertility is **medium**.
+SC: Weighted average of 1/2/3 by sample counts.
+
+@topic IUCN & Red List
+Q: The International Union for Conservation of Nature (IUCN) was established in:
+A) 1948
+B) 1961
+C) 1972
+D) 1992
+ANS: A
+D: Easy
+P: 314
+EXP: **IUCN was founded in 1948**. It has **over 1,500 member organisations** (States, NGOs, indigenous peoples' organisations, academic bodies) from **160+ countries**. WWF dates from 1961, UNEP from 1972 and the CBD from 1992.
+SC: IUCN 1948, the oldest global environmental body.
+
+Q: How many categories are there in the IUCN Red List Categories (global)?
+A) Nine
+B) Six
+C) Seven
+D) Eleven
+ANS: A
+D: Medium
+P: 314
+EXP: The **nine** categories are Extinct (EX), Extinct in the Wild (EW), Critically Endangered (CR), Endangered (EN), Vulnerable (VU), Near Threatened (NT), Least Concern (LC), Data Deficient (DD) and Not Evaluated (NE). **Regional** assessments add Not Applicable and Regionally Extinct.
+SC: EX, EW, then the threatened trio CR/EN/VU, then NT, LC, DD, NE: nine in all.
+
+Q: Species in which IUCN Red List categories are collectively described as "threatened"?
+A) Critically Endangered, Endangered and Vulnerable
+B) Endangered, Vulnerable and Near Threatened
+C) Extinct, Extinct in the Wild and Critically Endangered
+D) Near Threatened and Least Concern
+ANS: A
+D: Easy
+P: 315
+EXP: **CR + EN + VU = threatened**. **Near Threatened** is not threatened. Critically Endangered species may also be tagged **Possibly Extinct**.
+SC: Threatened means the three categories CR, EN and VU.
+
+Q: Species are assessed against how many criteria for placement into IUCN threatened categories?
+A) Five
+B) Three
+C) Seven
+D) Nine
+ANS: A
+D: Medium
+P: 315
+EXP: The **five criteria (A–E)** are **population reduction**, **restricted geographic range**, **small population size and decline**, **very small or restricted population**, and **quantitative extinction probability analysis**.
+SC: A-E: reduction, range, small population, very small population, probability.
+
+Q: Which of the following is NOT included in the IUCN Red List?
+A) Not Evaluated species
+B) Data Deficient species
+C) Least Concern species
+D) Near Threatened species
+ANS: A
+D: Medium
+T: Odd-one-out
+P: 315
+EXP: The Red List **does not include "Not Evaluated"** species, which have not been assessed. Data Deficient, LC and NT species have been evaluated and are listed.
+SC: Not evaluated means not on the list.
+
+@topic FDES & Climate Change Statistics
+Q: The Framework for the Development of Environment Statistics (FDES) 2013 comprises how many components?
+A) Six
+B) Four
+C) Five
+D) Eight
+ANS: A
+D: Medium
+P: 316
+EXP: FDES 2013 has **6 components**: (1) environmental conditions and quality, (2) environmental resources and their use, (3) residuals, (4) extreme events and disasters, (5) human settlements and environmental health, (6) environmental protection, management and engagement.
+SC: Conditions, Resources, Residuals, Extremes, Settlements, Protection: six.
+
+Q: FDES 2013 is designed to be compatible with which of the following frameworks?
+1. SEEA
+2. DPSIR (Driving force-Pressure-State-Impact-Response)
+3. SDG and sustainable development indicator frameworks
+Select the correct answer using the code given below:
+A) 1 only
+B) 1 and 2 only
+C) 2 and 3 only
+D) 1, 2 and 3
+ANS: D
+T: Statement
+D: Medium
+P: 316
+EXP: FDES 2013 links to economic and social domains and is compatible with **SEEA, DPSIR, the MDGs/SDGs and SDI frameworks**. Where possible it uses existing statistical classifications.
+SC: FDES links to all of these, so all three are correct.
+
+Q: The UNFCCC defines climate change as a change of climate:
+A) attributed directly or indirectly to human activity altering the global atmosphere, in addition to natural climate variability
+B) caused only by solar cycles
+C) caused only by volcanic eruptions
+D) lasting less than one year
+ANS: A
+D: Medium
+P: 317
+EXP: The general definition includes **natural and anthropogenic** causes lasting decades or more. The **UNFCCC** definition covers only change **attributed to human activity** that alters atmospheric composition, **over and above natural variability**.
+SC: The UNFCCC counts only human-caused change beyond natural variability.
+
+Q: MoSPI's publications "Compendium of Environment Statistics" and "Climate Change Statistics in India" were merged in 2018 into:
+A) EnviStats-India: Vol. I – Environment Statistics (following FDES)
+B) State of Environment Report
+C) India State of Forest Report
+D) Statistical Year Book
+ANS: A
+D: Medium
+P: 317
+EXP: **Climate Change Statistics in India** (2013, 2015) was based on **DPSIR**. After **FDES 2013** was released in 2016, the two publications were **merged in 2018** into **EnviStats-India Vol. I (Environment Statistics)**. **Vol. II** covers **Environment Accounts** (SEEA).
+SC: Vol. I = statistics (FDES). Vol. II = accounts (SEEA).
+
+Q: MoSPI initiated compilation of environmental accounts in the SEEA framework in 2018, released under the title:
+A) EnviStats-India: Vol. II – Environment Accounts
+B) Green GDP of India
+C) India Natural Resource Report
+D) SEEA India Handbook
+ANS: A
+D: Easy
+P: 318
+EXP: **EnviStats-India Vol. II – Environment Accounts** (from 2018) presents SEEA-based accounts. **Vol. I** (annual) presents environment statistics under FDES-2013.
+SC: Accounts are published in Vol. II.
+
+@topic NCAVES & Institutional Arrangements
+Q: The NCAVES project (Natural Capital Accounting and Valuation of Ecosystem Services), launched in 2017, was funded by:
+A) the European Union
+B) the World Bank
+C) UNDP
+D) the Asian Development Bank
+ANS: A
+D: Medium
+P: 317
+EXP: **NCAVES (2017)** was **funded by the EU** through its Partnership Instrument and implemented jointly by **UNSD and UNEP**, in collaboration with the **CBD Secretariat**. It piloted **SEEA EA**.
+SC: EU-funded, run by UNSD with UNEP and the CBD.
+
+Q: The NCAVES project piloted SEEA Ecosystem Accounting in which five partner countries?
+A) Brazil, China, India, Mexico and South Africa
+B) India, Indonesia, Kenya, Peru and Vietnam
+C) USA, UK, India, Japan and Australia
+D) India, Bangladesh, Nepal, Sri Lanka and Bhutan
+ANS: A
+D: Medium
+P: 317
+EXP: NCAVES was piloted in **Brazil, China, India, Mexico and South Africa**, the large emerging economies.
+SC: BRICS without Russia, plus Mexico.
+
+Q: In India, the NCAVES project was implemented by NSO, MoSPI in close collaboration with which institutions?
+A) MoEFCC, NRSC, Soil and Land Use Survey of India (SLUSI) and IISc Centre for Ecological Sciences
+B) RBI, SEBI and NABARD
+C) ICMR, AIIMS and NCDC
+D) DRDO, ISRO and BARC
+ANS: A
+D: Medium
+P: 318
+EXP: NSO worked with **MoEFCC, NRSC, SLUSI and IISc (Centre for Ecological Sciences)**. An **NCAVES India Forum** was held virtually on **14, 21 and 28 January 2021**, and the project report was released.
+SC: Environment ministry + remote sensing + soil survey + IISc ecology.
+
+Q: MoSPI constituted an Inter-Ministerial Group (IMG) on Environmental-Economic Accounting in 2015 under the chairmanship of:
+A) Director General, CSO
+B) Secretary, MoEFCC
+C) Chief Economic Adviser
+D) Chairperson, NSC
+ANS: A
+D: Hard
+P: 319
+EXP: The **IMG (2015)**, chaired by the **DG, CSO**, assesses data availability, identifies gaps, assesses resource and capacity needs, and suggests a **roadmap for sector-wise accounts**.
+SC: The IMG on environmental accounts is chaired by the DG of CSO.
+
+Q: Apart from MoSPI, natural resource accounting in India is also being dealt with by GASAB, which functions under the aegis of:
+A) the Comptroller and Auditor General of India
+B) the Ministry of Finance
+C) the RBI
+D) NITI Aayog
+ANS: A
+D: Medium
+P: 327
+EXP: The **Government Accounting Standards Advisory Board (GASAB)** works under the **CAG**. It has prepared a roadmap for **Natural Resource Accounting**, starting with **asset accounts in States**.
+SC: GASAB belongs to the CAG family (accounting standards).
+
+Q: The UN Committee of Experts on Environmental-Economic Accounting (UNCEEA) was established by the UN Statistical Commission at its:
+A) 36th session in March 2005
+B) 43rd session in 2012
+C) 52nd session in 2021
+D) 30th session in 1999
+ANS: A
+D: Hard
+P: 328
+EXP: **UNCEEA** was set up at the **36th session (March 2005)** as the intergovernmental body giving direction on environmental-economic accounting. Its **Bureau** was set up in **2007**, and **India is a member of the Bureau**.
+SC: UNCEEA 2005 (36th session), Bureau 2007, India a member.
+
+Q: The "London Group" in which NSO India actively participates relates to:
+A) Environmental Accounting
+B) Informal sector statistics
+C) Price indices
+D) Service statistics
+ANS: A
+D: Medium
+P: 328
+EXP: The **London Group on Environmental Accounting** advances methodological research for the SEEA. Other city groups: **Delhi** (informal sector), **Ottawa** (prices), **Voorburg** (services), **Wiesbaden** (business registers), **Oslo** (energy).
+SC: London = environment accounts.
+
+@topic SEEA & SDGs
+Q: SDG indicator 15.9.1(b) relates to:
+A) integration of biodiversity into national accounting and reporting systems, defined as implementation of the SEEA
+B) proportion of forest area to total land area
+C) Red List Index
+D) coverage of protected areas
+ANS: A
+D: Hard
+P: 320
+EXP: **15.9.1**: (a) national targets in line with **Aichi Biodiversity Target 2**, and (b) **integration of biodiversity into national accounting**, defined as **implementation of the SEEA**. So implementing SEEA is itself an SDG indicator.
+SC: 15.9.1 makes SEEA implementation an SDG indicator.
+
+Q: According to the EnviStats FAQ, analysis suggests that how many SDG indicators, covering how many goals, could be derived from the SEEA?
+A) 40 indicators covering 9 of the 17 goals
+B) 17 indicators covering all goals
+C) 100 indicators covering 12 goals
+D) 9 indicators covering 4 goals
+ANS: A
+D: Hard
+P: 320
+EXP: About **40 SDG indicators across 9 of the 17 goals** can be derived from SEEA. The UNSC recognised SEEA as important for the post-2015 agenda in **2014**. The environmental dimension is the **least well measured** of the three.
+SC: SEEA feeds 40 indicators in 9 goals.
+
+Q: Of the three dimensions of sustainable development, which remains the least well measured, as per the FAQ?
+A) Environmental
+B) Economic
+C) Social
+D) Institutional
+ANS: A
+D: Easy
+P: 320
+EXP: The **environmental dimension** is the least well measured. SEEA-CF supports measuring **natural wealth**, which feeds **inclusive wealth**, a sustainability indicator.
+SC: The environment is the measurement gap.
+
+Q: The Brundtland Report defines sustainable development as:
+A) development that meets the needs of the present without compromising the ability of future generations to meet their own needs
+B) maximum GDP growth with minimum inflation
+C) development that uses only renewable resources
+D) development financed by foreign aid
+ANS: A
+D: Easy
+P: 319
+EXP: This is the **Brundtland Commission's (1987)** definition from "Our Common Future".
+SC: Present needs without compromising future generations.
+
+@topic PSUT, Protected Areas, CBD & CITES
+Q: Physical Supply and Use Tables (PSUT) record flows of natural inputs, products and residuals in physical units where:
+A) rows show types of natural inputs, products and residuals, and columns reflect activities and economic units
+B) rows show economic units and columns show prices
+C) only monetary values are recorded
+D) only stocks are recorded
+ANS: A
+D: Hard
+P: 321
+EXP: In the PSUT, **rows = types of flows** (natural inputs, products, residuals) and **columns = activities and economic units** (plus the environment). Supply tables record origins and use tables record destinations. Monetary SUTs cover the same flows in money terms.
+SC: Rows are what flows. Columns are who supplies or uses it.
+
+Q: As per IUCN, "National Park" corresponds to which Protected Area category?
+A) Category II
+B) Category Ia
+C) Category IV
+D) Category VI
+ANS: A
+D: Medium
+P: 322
+EXP: IUCN categories: **Ia/Ib** strict nature reserve and wilderness area, **II national park**, **III** natural monument, **IV** habitat/species management area, **V** protected landscape/seascape, **VI** protected area with sustainable use.
+SC: Ia/Ib wild, II park, III monument, IV habitat, V landscape, VI sustainable use.
+
+Q: In India, Protected Areas declared under the Wildlife (Protection) Act, 1972 fall into which four categories?
+A) National Parks, Wildlife Sanctuaries, Conservation Reserves and Community Reserves
+B) Biosphere Reserves, Tiger Reserves, Ramsar Sites and Elephant Reserves
+C) Reserved Forests, Protected Forests, Village Forests and Unclassed Forests
+D) Marine Parks, Coral Reserves, Mangrove Reserves and Coastal Zones
+ANS: A
+D: Medium
+P: 322
+EXP: Under the **WPA 1972**, the four PA categories are **National Parks, Wildlife Sanctuaries, Conservation Reserves and Community Reserves**. Conservation and Community Reserves were added by the 2002 amendment. Biosphere reserves and Ramsar sites are not WPA categories.
+SC: NP + WLS + CR + CommR.
+
+Q: The Convention on Biological Diversity was opened for signature at the Rio Earth Summit on ___ and entered into force on ___.
+A) 5 June 1992; 29 December 1993
+B) 29 December 1993; 5 June 1992
+C) 22 May 1992; 1 July 1975
+D) 3 March 1973; 1 July 1975
+ANS: A
+T: Chronology
+D: Medium
+P: 323
+EXP: The **CBD** opened for signature on **5 June 1992** (Rio) and entered into force on **29 December 1993**. The **International Day for Biological Diversity (22 May)** marks the date the text was adopted in Nairobi in 1992.
+SC: Signed 5 June 1992 (Environment Day), in force 29 December 1993.
+
+Q: Which of the following is NOT one of the three main objectives of the Convention on Biological Diversity?
+A) Complete ban on the use of genetic resources
+B) Conservation of biological diversity
+C) Sustainable use of its components
+D) Fair and equitable sharing of benefits from utilisation of genetic resources
+ANS: A
+D: Easy
+T: Odd-one-out
+P: 323
+EXP: The CBD's three objectives are **conservation**, **sustainable use**, and **fair and equitable benefit-sharing** from genetic resources (later made operational through the Nagoya Protocol). It does not ban use.
+SC: Conserve, use sustainably, share benefits. No bans.
+
+Q: CITES entered into force on:
+A) 1 July 1975
+B) 3 March 1973
+C) 29 December 1993
+D) 5 June 1972
+ANS: A
+D: Medium
+P: 323
+EXP: CITES was drafted after a **1963 IUCN resolution**, **signed in 1973** (Washington, 3 March), and **entered into force on 1 July 1975**. It regulates international trade in endangered species.
+SC: IUCN 1963 → signed 1973 → in force 1975.
+
+Q: Under CITES, species threatened with extinction, in which international commercial trade is generally prohibited, are listed in:
+A) Appendix I
+B) Appendix II
+C) Appendix III
+D) Appendix IV
+ANS: A
+D: Easy
+P: 323
+EXP: **Appendix I**: threatened with extinction, commercial trade prohibited except in exceptional cases (for example research) with import and export permits. **Appendix II**: not necessarily threatened but trade must be controlled (export permit). **Appendix III**: protected in at least one country that has asked others for help.
+SC: I = banned, II = controlled, III = one country's request.
+
+@topic India's Environment Accounting Strategy & Accounts
+Q: NSO India released the "Strategy for Environmental Economic Accounts in India: 2022-2026" in:
+A) December 2021
+B) June 2019
+C) March 2021
+D) January 2023
+ANS: A
+D: Medium
+P: 324
+EXP: The **Strategy 2022-2026** was released in **December 2021**. Priority areas: **Energy Accounts, Material Flow Accounts, Ocean Accounts, and Urban Accounts and Biodiversity**.
+SC: Strategy released in December 2021, covering 2022-26, with priorities Energy, MFA, Ocean, Urban/Biodiversity.
+
+Q: Economy-wide Material Flow Accounts (EW-MFA) record material flows into and out of an economy in thousand tonnes per year, covering solid, gaseous and liquid materials EXCEPT:
+A) bulk flows of water and air
+B) minerals
+C) biomass
+D) fossil fuels
+ANS: A
+D: Medium
+P: 325
+EXP: EW-MFA covers solid, gaseous and liquid materials in **thousand tonnes per year**, **excluding bulk flows of water and air**. It is part of SEEA-CF and consistent with national accounts.
+SC: MFA counts everything except bulk water and air.
+
+Q: Energy accounts as per SEEA-Energy primarily comprise:
+A) physical supply and use tables, monetary supply and use tables, and asset accounts
+B) extent, condition and services accounts
+C) emission, waste and water accounts
+D) only energy balance sheets
+ANS: A
+D: Medium
+P: 324
+EXP: Energy accounts have **PSUT** (all energy flows entering, used in and leaving the economy), **MSUT** (monetary flows of energy products) and **asset accounts** (opening and closing stocks and changes).
+SC: Physical SUT + Monetary SUT + Assets.
+
+Q: Ocean accounts can help in which of the following?
+1. Understanding the role of oceans and coasts in the economy
+2. Monitoring investment and net returns from ocean activities
+3. Understanding how storms and climate change can impact Blue Economy development
+Select the correct answer using the code given below:
+A) 1 only
+B) 1 and 2 only
+C) 2 and 3 only
+D) 1, 2 and 3
+ANS: D
+T: Statement
+D: Easy
+P: 326
+EXP: All three are listed, along with identifying new areas for investment and innovation. Ocean accounts cover produced assets (ports) and non-produced assets (coral reefs, mangroves, fish stocks).
+SC: Ocean accounts support the Blue Economy, so all three apply.
+
+Q: Which of the following ecosystem condition accounts has NSO India compiled, as per the FAQ?
+A) Soil nutrient indices and water quality accounts
+B) GDP condition account
+C) Industrial output condition account
+D) Labour condition account
+ANS: A
+D: Medium
+P: 327
+EXP: Condition accounts include **soil nutrient indices, water quality, forest condition and cropland condition**. Extent accounts include LULC change matrices, land degradation and wetland extent. Service accounts include crop provisioning, timber/NTFP, carbon retention, nature-based tourism and soil erosion prevention.
+SC: Condition accounts measure health: soil, water, forest, cropland.
+
+Q: Which of the following ecosystem services accounts compiled by NSO India was in physical terms only, as per the FAQ?
+A) Soil erosion prevention services provided by croplands
+B) Crop provisioning services
+C) Nature-based tourism
+D) Timber and NTFP provisioning services
+ANS: A
+D: Hard
+P: 327
+EXP: **Soil erosion prevention**: **physical**. Crop provisioning, timber/NTFP and nature-based tourism: **monetary**. **Carbon retention** by forests: both physical and monetary.
+SC: Soil erosion is physical only. Carbon is both. The rest are monetary.
+
+Q: The Land Degradation Account compiled by NSO India covered which years?
+A) 2005-06 and 2015-16
+B) 2001 and 2011
+C) 1990 and 2000
+D) 2019-20 only
+ANS: A
+D: Hard
+P: 327
+EXP: The **land degradation account** is for **2005-06 and 2015-16**. LULC change matrices cover 2005-06 to 2011-12 and 2011-12 to 2015-16. The wetland extent account is for 2006-07.
+SC: Land degradation: 2005-06 and 2015-16, ten years apart.
+
+Q: Solid waste accounts under SEEA-CF organise information on:
+A) generation of solid waste and its management flows to recycling, controlled landfills or directly to the environment
+B) only hazardous waste imports
+C) only municipal budgets for sanitation
+D) only e-waste
+ANS: A
+D: Medium
+P: 325
+EXP: Solid waste accounts record **generation** and **management flows** (recycling, controlled landfill, direct to environment) in physical and monetary terms. Waste quantity is an important **indicator of environmental pressure**.
+SC: Waste accounts track what is generated and where it goes.
+
+Q: Urban ecosystem accounting provides a framework for:
+A) quantifying the extent and condition of urban ecosystems and the services they provide, and associating these services with beneficiaries
+B) computing municipal property taxes
+C) registering urban businesses
+D) urban population census
+ANS: A
+D: Easy
+P: 326
+EXP: Urban accounts measure the **extent and condition of urban ecosystems** and their **services** (climate regulation, hazard protection, recreation), and link them to **beneficiaries**.
+SC: Urban accounts are ecosystem accounts applied to cities.
+
+Q: The "Global Assessment of Environmental-Economic Accounting and Supporting Statistics", to which NSO India responds regularly, is administered under the auspices of:
+A) UNCEEA
+B) OECD
+C) IPCC
+D) World Bank WAVES
+ANS: A
+D: Medium
+P: 328
+EXP: The **Global Assessment** survey, under **UNCEEA** and conducted by UNSD, tracks progress in **SEEA implementation** across countries.
+SC: UNCEEA runs the global SEEA survey.

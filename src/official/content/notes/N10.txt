@@ -1,0 +1,482 @@
+@set N10
+@title Topic 11 · National Accounts Statistics
+@pages Notes 11, pp. 1-9
+@desc National Income Committee; base year logic & 2011-12 series; SNA 2008; GVA/GDP/GNI/NNI/NNDI/GNDI formulae; production vs product taxes; GCF approaches; release calendar; benchmark-indicator method; SUT & IOTT; final use vectors; FAQs on GDP, GVA, basic prices, base revision
+
+@note 11
+@topic History & Base Year
+Q: The first set of national income estimates for the entire Indian Union was compiled by the National Income Committee set up in 1949 under the chairmanship of:
+A) Prof. P.C. Mahalanobis
+B) Dr. V.K.R.V. Rao
+C) Prof. D.R. Gadgil
+D) Dr. C. Rangarajan
+ANS: A
+D: Easy
+P: 1
+EXP: The **National Income Committee (1949)**, a high-powered expert committee chaired by **Prof. P.C. Mahalanobis** with members **D.R. Gadgil and V.K.R.V. Rao**, compiled the **first official national income estimates** for India. **V.K.R.V. Rao** had made the pre-Independence estimates (1931-32).
+SC: The 1949 National Income Committee was chaired by Mahalanobis.
+
+Q: Why were the base years of national accounts earlier revised decennially to a year ending with "1"?
+A) Workforce estimates, especially for the unorganised sector, were obtained from the decennial Population Census held in years ending with 1
+B) Five-Year Plans began in years ending with 1
+C) The SNA was revised every ten years
+D) The RBI required it for monetary policy
+ANS: A
+T: Conceptual
+D: Medium
+P: 1
+EXP: Unorganised-sector **workforce** estimates came from the **Population Census (years ending with 1)**. That practice continued up to the **1980-81** series.
+SC: Census years ending with 1 set the old base years.
+
+Q: Since which series did the CSO start revising the national accounts base year every five years, in line with the NSSO quinquennial Employment-Unemployment Surveys?
+A) 1993-94 series
+B) 1980-81 series
+C) 2004-05 series
+D) 1999-2000 series
+ANS: A
+D: Medium
+P: 1
+EXP: From the **1993-94 series** the CSO used **NSSO quinquennial EUS** workforce data, so base years became **quinquennial**. The **NSC** also recommended **rebasing economic indices at least every 5 years**.
+SC: From 1993-94 the base was revised every 5 years with the EUS.
+
+Q: The 2009-10 quinquennial EUS was not used to revise the national accounts base year because:
+A) 2009-10 was not considered a "normal" year, as it followed the global slowdown of 2008, so a fresh EUS was conducted in 2011-12
+B) the survey results were delayed beyond 2015
+C) the sample size was too small
+D) the NSC rejected the EUS methodology
+ANS: A
+D: Medium
+P: 1
+EXP: **2009-10 was not a "normal" year** because it followed the **2008 global slowdown**. A fresh **EUS was held in 2011-12** and used for the **base 2011-12** series.
+SC: 2009-10 was abnormal, so the base became 2011-12.
+
+Q: The new series of national accounts with base year 2011-12 was released on:
+A) 30 January 2015
+B) 31 May 2014
+C) 1 April 2015
+D) 28 February 2015
+ANS: A
+D: Medium
+P: 1
+EXP: **Base 2011-12 was released on 30 January 2015**, replacing the **2004-05** base. It follows the UN **SNA 2008**.
+SC: The 2011-12 series was released on 30 January 2015 and follows SNA 2008.
+TIP: A newer GDP series with base year 2022-23 has been announced by MoSPI. Know both the 2011-12 series facts and the latest base.
+
+Q: The System of National Accounts 2008, on which India's 2011-12 series is based, was jointly issued by:
+A) UN, World Bank, IMF, OECD and European Commission (EU)
+B) UN and ILO only
+C) IMF and WTO only
+D) OECD and ADB
+ANS: A
+D: Medium
+P: 1
+EXP: **SNA 2008** was issued by five organisations: **UN, World Bank, IMF, OECD and the EU (Eurostat / European Commission)**. It is the internationally agreed standard for compiling measures of economic activity.
+SC: SNA 2008 has five issuing bodies: UN, WB, IMF, OECD, EU.
+
+@topic Aggregates & Formulae
+Q: GVA at basic prices by the income approach equals:
+A) CE + OS/MI + CFC + production taxes less production subsidies
+B) CE + OS/MI + product taxes less product subsidies
+C) Output − intermediate consumption + product taxes
+D) PFCE + GFCE + GCF + net exports
+ANS: A
+D: Medium
+P: 2
+EXP: **Income approach: GVA(bp) = Compensation of Employees + Operating Surplus / Mixed Income + CFC + (production taxes − production subsidies)**. Adding **product taxes less product subsidies** then gives **GDP**.
+SC: The income approach is CE + OS/MI + CFC + net production taxes.
+
+Q: Net National Disposable Income (NNDI) equals:
+A) NNI + other current transfers from the rest of the world (net)
+B) GNI − CFC
+C) GDP + net primary income from abroad
+D) GNDI + CFC
+ANS: A
+D: Medium
+P: 2
+EXP: The chain is **GNI = GDP + net primary income from RoW**; **NNI = GNI − CFC**; **NNDI = NNI + net other current transfers from RoW**; **GNDI = NNDI + CFC**.
+SC: Disposable income = national income + net current transfers.
+
+Q: "Primary incomes" in national accounts comprise:
+A) compensation of employees plus property and entrepreneurial income
+B) current transfers such as remittances and grants
+C) taxes on products
+D) capital transfers
+ANS: A
+D: Medium
+P: 2
+EXP: **Primary incomes = CE + property and entrepreneurial income**. **Other current transfers** (remittances, grants) are **not** primary incomes; they take us from **NNI to NNDI**.
+SC: Primary income is earned; transfers are received.
+
+Q: Gross Capital Formation from the expenditure side is:
+A) GFCF + change in stocks (CIS) + valuables
+B) Gross savings + net capital inflow from RoW
+C) GFCF − CFC
+D) PFCE + GFCE
+ANS: A
+D: Easy
+P: 2
+EXP: **Expenditure side: GCF = GFCF + CIS + Valuables**. **Financing side: GCF = Gross Savings + Net capital inflow from RoW**.
+SC: GCF uses: fixed assets + stocks + valuables.
+
+Q: Gross Disposable Income of the Government equals:
+A) GFCE + gross saving of the general government
+B) GNDI − gross savings of corporations
+C) tax revenue − subsidies
+D) GFCE − transfers
+ANS: A
+D: Hard
+P: 2
+EXP: **GDI(Govt) = GFCE + gross saving of general government**. **GDI(Households) = GNDI − GDI(Govt) − gross savings of all corporations**.
+SC: Government disposable income is consumption plus saving.
+
+Q: Gross Disposable Income of Households is derived as:
+A) GNDI − GDI of Government − gross savings of all corporations
+B) GNI − CFC
+C) PFCE + household savings − taxes
+D) GDP − GFCE
+ANS: A
+D: Hard
+P: 2
+EXP: The household GDI is the **residual**: **GNDI less the government's GDI less corporate gross savings**.
+SC: Households get the residual after government and corporations.
+
+Q: Which of the following are "product taxes" as per the national accounts classification?
+1. Excise duties
+2. Land revenue
+3. Import duties
+4. Stamps and registration fees
+Select the correct answer using the code given below:
+A) 1 and 3 only
+B) 2 and 4 only
+C) 1, 2 and 3 only
+D) 1, 2, 3 and 4
+ANS: A
+T: Statement
+D: Medium
+P: 2
+EXP: **Product taxes** are levied **per unit of product**: excise, sales tax, service tax (now GST) and **import/export duties**. **Production taxes** are **independent of the volume** produced: **land revenue, stamps & registration fees**, profession tax.
+SC: A tax per unit is a product tax; a tax regardless of volume is a production tax.
+
+Q: Which of the following is an example of a production subsidy (as distinct from a product subsidy)?
+A) Subsidies to Railways and to village and small industries
+B) Food subsidy
+C) Fertiliser subsidy
+D) Petroleum subsidy
+ANS: A
+D: Medium
+P: 2
+EXP: **Production subsidies** are **not per unit**, e.g. subsidies to **Railways** and to **village and small industries**. **Product subsidies** are **per unit**: **food, fertiliser, petroleum**. Production taxes and subsidies are **included in basic prices**.
+SC: Railway and VSI subsidies are production subsidies; food, fertiliser and fuel subsidies are product subsidies.
+
+Q: Of the two approaches used to estimate Gross Capital Formation, which is treated as giving the "firmer" estimates?
+A) Flow of funds approach (gross saving plus net capital flow from RoW)
+B) Commodity flow approach by type of assets
+C) Income approach
+D) Production approach
+ANS: A
+D: Hard
+P: 3
+EXP: The **flow of funds** estimate (saving + net RoW inflow) is treated as **firmer**. The **commodity flow** approach gives GCF by type of asset. GCF by **industry of use** and **institutional sector** **excludes valuables**, so it is **lower** than the commodity flow estimate.
+SC: Flow of funds is the firmer estimate; by-industry GCF excludes valuables.
+
+@topic Concepts: Domestic vs National, Basic Prices
+Q: The term "Domestic" in GDP implies that the boundary is:
+A) geographical: all goods and services produced within the country's borders, regardless of by whom
+B) based on citizenship, regardless of where production takes place
+C) based on residence of the head of household
+D) limited to the organised sector
+ANS: A
+T: Conceptual
+D: Easy
+P: 3
+EXP: **Domestic = territorial boundary**. **National = production by nationals / residents** wherever it takes place, which is why **GNP = GDP + net factor income from abroad**. **Net = Gross − depreciation (CFC)**.
+SC: Domestic means where it is produced; national means who produces it.
+
+Q: The difference between GDP and GVA at basic prices is:
+A) product taxes less product subsidies
+B) production taxes less production subsidies
+C) consumption of fixed capital
+D) net factor income from abroad
+ANS: A
+D: Easy
+P: 6
+EXP: **GDP = GVA(bp) + product taxes − product subsidies**. Production taxes and subsidies are already **inside basic prices**. **CFC** separates gross from net, and **NFIA** separates domestic from national.
+SC: GDP minus GVA equals net product taxes.
+
+Q: Basic prices, as used in GVA, are:
+A) inclusive of production taxes less production subsidies, but exclusive of product taxes and subsidies
+B) inclusive of product taxes less product subsidies
+C) factor cost prices excluding all taxes and subsidies
+D) purchasers' prices including trade and transport margins
+ANS: A
+D: Medium
+P: 6
+EXP: **Basic price = factor cost + production taxes − production subsidies**. Adding product taxes less subsidies gives **market prices**; adding trade and transport margins gives **purchasers' prices**. GVA at basic prices = **output at basic prices − IC at purchasers' prices**.
+SC: Factor cost + net production taxes = basic price; + net product taxes = market price.
+
+Q: In compiling GVA at basic prices, output and intermediate consumption are valued respectively at:
+A) basic prices and purchasers' prices
+B) purchasers' prices and basic prices
+C) factor cost and market prices
+D) market prices and factor cost
+ANS: A
+D: Medium
+P: 6
+EXP: **Output at basic prices, inputs at purchasers' prices**. These are the prices the producer actually **receives** and **pays**, which makes GVA particularly relevant for the producer.
+SC: Outputs are valued at what is received (basic), inputs at what is paid (purchasers').
+
+Q: Real GDP differs from nominal GDP in that real GDP is:
+A) measured at constant (base-year) prices, while nominal GDP is at current-year prices
+B) measured at current prices, while nominal GDP is at constant prices
+C) net of depreciation
+D) adjusted for population
+ANS: A
+D: Easy
+P: 5
+EXP: **Real GDP = constant (base-year) prices**; comparing it over years gives **real growth**. **Nominal GDP = current prices**. Nominal ÷ real × 100 = the **GDP deflator**.
+SC: Real means constant prices; nominal means current prices.
+
+Q: The main reason for periodically changing the base year of national accounts is to:
+A) account for structural changes taking place in the economy and depict a true picture
+B) inflate the growth rate
+C) comply with WTO requirements
+D) align with the Finance Commission cycle
+ANS: A
+T: Conceptual
+D: Easy
+P: 8
+EXP: Base revision captures **structural changes**: new products, sectors, data sources and prices. The aim is to **depict the true picture** of the economy.
+SC: A new base captures a changed economy.
+
+@topic Release Calendar & Methods
+Q: As per the release calendar in the notes, the First Advance Estimates of annual GDP (for 2019-20) were released on:
+A) 7 January 2020
+B) 31 January 2020
+C) 28 February 2020
+D) 29 May 2020
+ANS: A
+D: Medium
+P: 3
+EXP: For 2019-20: **FAE on 7 January 2020**, **SAE on 28 February 2020**, **Provisional Estimates on 29 May 2020**. The **First Revised Estimates for 2018-19** came on **31 January 2020**.
+SC: FAE early January, FRE end-January, SAE end-February, PE end-May.
+
+Q: As per the notes, the quarterly GDP estimates for Q3 (October-December) are released around:
+A) end of February
+B) end of May
+C) end of August
+D) end of November
+ANS: A
+D: Medium
+P: 3
+EXP: Quarterly GDP comes about **2 months after** the quarter ends: **Q3 (Oct-Dec) at end-February**, **Q4 (Jan-Mar) at end-May**, **Q1 (Apr-Jun) at end-August**, **Q2 (Jul-Sep) at end-November**.
+SC: Quarter end + 2 months.
+
+Q: The approach used for compiling Quarterly and Advance Estimates of GDP is:
+A) the benchmark-indicator method
+B) the commodity flow method only
+C) complete enumeration of enterprises
+D) the double deflation method only
+ANS: A
+D: Easy
+P: 3
+EXP: The **benchmark-indicator method** extrapolates the **previous year's** constant-price output or value added using **volume indicators** such as IIP, listed company results, crop production, Government expenditure, and service indicators (railways, aviation, telecom, deposits and credit).
+SC: Advance and quarterly estimates move the benchmark forward with indicators.
+
+Q: Which of the following indicators are used in the benchmark-indicator approach for Advance Estimates of GVA?
+1. Index of Industrial Production
+2. Financial performance of listed private companies from BSE/NSE
+3. Crop production estimates from the Ministry of Agriculture
+4. Railway passenger and freight earnings
+Select the correct answer using the code given below:
+A) 1 and 2 only
+B) 1, 2 and 3 only
+C) 2, 3 and 4 only
+D) 1, 2, 3 and 4
+ANS: D
+T: Statement
+D: Medium
+P: 6
+EXP: All four indicators are listed: **IIP**, **listed company financials**, **crop estimates**, **Central and State Government expenditure**, and **service indicators** (sales tax, deposits and credit, railway earnings, civil aviation, telephone connections).
+SC: The indicators are IIP, company results, crops, Government expenditure and services data.
+
+Q: When provisional estimates are revised and released as First Revised Estimates in January, GDP estimates are compiled on the basis of:
+A) analysis of budgets of Central and State Governments, financial statements of corporations and accounts of local bodies
+B) the same indicators as the advance estimates
+C) the Population Census
+D) only the IIP and CPI
+ANS: A
+D: Medium
+P: 7
+EXP: Revised estimates replace **indicators** with **detailed data**: **budget analysis** of Governments, **financial statements** of public and private corporations, **accounts of local bodies**, and so on.
+SC: Revisions swap proxies for actual accounts.
+
+Q: In compiling expenditure-side GDP, the estimates of PFCE and GFCF are generally derived by:
+A) the commodity flow approach
+B) analysis of budget documents
+C) household surveys only
+D) the income approach
+ANS: A
+D: Medium
+P: 7
+EXP: **PFCE and GFCF use the commodity flow approach**. **GFCE** comes from **budget documents** of Central, State and local governments. **Exports and imports** come from **Customs records and BoP** data.
+SC: PFCE and GFCF use commodity flow; GFCE uses budgets.
+
+Q: Government Final Consumption Expenditure (GFCE) consists of:
+A) compensation of employees, consumption of fixed capital and intermediate consumption less sales
+B) transfer payments to households
+C) capital expenditure on roads
+D) interest payments on public debt
+ANS: A
+D: Medium
+P: 3
+EXP: **GFCE = CE + CFC + net intermediate consumption** (purchases, including repair and maintenance, less sales). It is classified by **COFOG**: public administration, defence, education, health and others. **Transfers and interest** are not consumption.
+SC: GFCE is salaries plus depreciation plus net purchases; transfers are excluded.
+
+Q: The estimates of change in stocks in national accounts are prepared:
+A) separately for institutional sectors, using annual data on corporations and benchmark surveys of households
+B) only for the Government sector
+C) from IIP data alone
+D) by the RBI from bank credit data only
+ANS: A
+D: Hard
+P: 7
+EXP: **CIS** is estimated **by institutional sector**: public and private, financial and non-financial corporations, general government and households. It uses **annual corporate data** and **benchmark household surveys**.
+SC: Stocks are estimated sector by sector.
+
+@topic Supply-Use Tables & IOTT
+Q: In the Supply-Use Tables (SUT) published by NAD, the supply table and the use table are valued respectively at:
+A) basic prices and purchasers' prices
+B) purchasers' prices and basic prices
+C) factor cost and market prices
+D) market prices and factor cost
+ANS: A
+D: Medium
+P: 4
+EXP: **Supply table at basic prices; use table at purchasers' prices**. The SUT is the **ideal framework for balancing supply and demand** and the **best framework for compiling GDP at current prices**.
+SC: Supply is at basic prices, use at purchasers' prices.
+
+Q: The Supply-Use Tables are considered the best framework for:
+A) compiling GDP at current prices by balancing supply and demand of products
+B) compiling the Consumer Price Index
+C) estimating population
+D) measuring poverty
+ANS: A
+D: Easy
+P: 4
+EXP: The SUT links **industry output** to **intermediate and final uses** (consumption, GCF, exports) and shows the **cost structure and incomes generated**. After balancing, it yields coherent **current-price GDP**.
+SC: SUT balances supply and use to fix GDP.
+
+Q: The Input-Output Transactions Tables (IOTT) in India were first released for the year:
+A) 1968-69
+B) 1951-52
+C) 1978-79
+D) 1993-94
+ANS: A
+D: Medium
+P: 4
+EXP: The **first IOTT was for 1968-69**, and the latest in the notes is **2007-08**. IOTT is published by **NAD** roughly **every 5 years**, as per the core statistics list.
+SC: IOTT first 1968-69; latest in the notes 2007-08.
+
+Q: In the IOTT, the entries are presented:
+A) at factor cost, as a commodity × industry matrix, after removing trade and transport margins and net indirect taxes
+B) at purchasers' prices only
+C) at basic prices as an industry × industry matrix
+D) in physical units
+ANS: A
+D: Hard
+P: 4
+EXP: IOTT entries are at **factor cost**, as a **commodity × industry** matrix: **columns = industries**, **rows = commodity groups**. They are first prepared at purchasers' prices, then **trade and transport margins and NIT are removed**.
+SC: IOTT is commodity × industry at factor cost.
+
+Q: GDP measures the gross value added from which of the following institutional sectors?
+A) General Government, public and private financial and non-financial corporations, and households
+B) Only the organised corporate sector
+C) Only the household sector
+D) Government and households only
+ANS: A
+D: Easy
+P: 5
+EXP: GDP covers **all institutional sectors**: **General Government**, **Public and Private Financial and Non-Financial Corporations**, and **Households** (including NPISHs).
+SC: GDP covers all sectors: government, corporations and households.
+
+Q: Data on exports and imports for national accounts are available from:
+A) Customs records and the Balance of Payments statistics
+B) the Annual Survey of Industries
+C) the NSS Consumer Expenditure Survey
+D) the Economic Census
+ANS: A
+D: Easy
+P: 7
+EXP: **Exports and imports** come from **Customs records (DGCI&S)** and **RBI BoP statistics**.
+SC: Trade data come from Customs and the BoP.
+
+Q: Which of the following is the correct sequence in the annual GDP release cycle for a financial year t?
+A) First Advance Estimate → Second Advance Estimate → Provisional Estimate → First Revised Estimate
+B) Provisional Estimate → First Advance Estimate → First Revised Estimate → Second Advance Estimate
+C) First Revised Estimate → First Advance Estimate → Provisional Estimate
+D) Second Advance Estimate → First Advance Estimate → Provisional Estimate
+ANS: A
+T: Chronology
+D: Medium
+P: 3
+EXP: For year t: **FAE (January of year t)**, **SAE (end-February)**, **PE (end-May)**, then **FRE (January of t+1)**, with further revisions after that.
+SC: FAE, SAE, PE, then revisions.
+
+@topic Aggregates & Formulae
+Q: GVA at basic prices = ₹1,000 crore; product taxes = ₹120 crore; product subsidies = ₹20 crore; production taxes = ₹30 crore. GDP at market prices is:
+A) ₹1,100 crore
+B) ₹1,130 crore
+C) ₹1,150 crore
+D) ₹1,080 crore
+ANS: A
+T: Numerical
+D: Medium
+P: 2
+EXP: **GDP = GVA(bp) + product taxes − product subsidies = 1000 + 120 − 20 = 1100**. **Production taxes are already included** in basic prices, so adding them again (₹1,130 crore) is the trap.
+SC: Add only net product taxes to GVA; production taxes are already inside.
+
+Q: GDP = ₹2,000 crore; net primary income from abroad = −₹50 crore; CFC = ₹200 crore. NNI is:
+A) ₹1,750 crore
+B) ₹1,850 crore
+C) ₹1,950 crore
+D) ₹1,800 crore
+ANS: A
+T: Numerical
+D: Medium
+P: 2
+EXP: **GNI = 2000 + (−50) = 1950**; **NNI = GNI − CFC = 1950 − 200 = 1750**.
+SC: NNI = GDP + NFIA − CFC.
+
+Q: Which of the following is NOT a component of GDP by the expenditure approach?
+A) Compensation of employees
+B) Private final consumption expenditure
+C) Gross fixed capital formation
+D) Net exports
+ANS: A
+T: Odd-one-out
+D: Easy
+P: 5
+EXP: **Expenditure side = PFCE + GFCE + GFCF + CIS + valuables + (X − M)**. **Compensation of employees** is an **income-side** component.
+SC: CE belongs to the income side, not the expenditure side.
+
+Q: In the income approach, "operating surplus" includes:
+A) undistributed profit, rent, dividend and interest
+B) wages and salaries
+C) product taxes
+D) consumption of fixed capital
+ANS: A
+D: Medium
+P: 5
+EXP: **Operating surplus** covers **profits (distributed and undistributed), rent, dividend and interest**. **Wages and salaries** are **compensation of employees**. **Mixed income** is the self-employed's surplus, which blends labour and capital returns.
+SC: Operating surplus is the return to capital (profit, rent, interest).
+
+Q: Gross Capital Formation by industry of use is lower than GCF from the commodity flow approach because the former:
+A) does not include valuables
+B) includes depreciation
+C) excludes Government investment
+D) is measured at constant prices only
+ANS: A
+D: Hard
+P: 3
+EXP: GCF by **industry of use** and by **institutional sector** **excludes valuables**, so it is **lower** than the **commodity-flow** (asset-type) estimate, which includes valuables.
+SC: The by-industry GCF leaves out valuables.

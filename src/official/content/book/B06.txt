@@ -447,3 +447,38 @@ D: Medium
 P: 60
 EXP: UR = (LFPR − WPR) ÷ LFPR × 100 = (40.1 − 38.2) ÷ 40.1 × 100 ≈ **4.7%**. This matches the published **4.8%** after rounding. The value 1.9% is the unemployed share of the whole population, not of the labour force.
 SC: UR = 1 − WPR/LFPR. Divide by the labour force, not the population.
+
+@topic Education Indicators: Internal Efficiency
+Q: The Promotion Rate for a grade is calculated as:
+A) Promotees from grade x (previous year) ÷ enrolment in grade x (previous year) × 100
+B) Enrolment in grade x+1 ÷ population × 100
+C) Graduates ÷ entrants × 100
+D) Repeaters ÷ promotees × 100
+ANS: A
+D: Medium
+P: 46
+EXP: **Promotion Rate = promotees from grade x ÷ enrolment in grade x in the previous school year × 100**. The promotion rate of the **final grade** is the **graduation rate**. Promotion + repetition + school-leaver rates = 100%.
+SC: Promoted as a share of last year's enrolment. For the final grade this is the graduation rate.
+
+@topic PLFS 2019-20: Key Results
+Q: As per PLFS 2019-20, the Worker Population Ratio (usual status ps+ss) for persons aged 15 years and above was about:
+A) 50.9%
+B) 38.2%
+C) 53.5%
+D) 34.7%
+ANS: A
+D: Medium
+P: 53
+EXP: WPR (15+) = **50.9%** (rural 53.3%, urban 45.8%). WPR (all ages) = 38.2%, WPR (15–29) = 34.7%, and LFPR (15+) = 53.5%.
+SC: For age 15+: LFPR 53.5 and WPR 50.9.
+
+Q: As per PLFS 2019-20, the LFPR (ps+ss) for youth aged 15–29 years was about:
+A) 40.9%
+B) 53.5%
+C) 24.7%
+D) 57.8%
+ANS: A
+D: Medium
+P: 52
+EXP: LFPR (15–29) = **40.9%** (rural 41.3%, urban 40.0%). Many young people are still in education, which pulls it below the 15+ LFPR of 53.5%.
+SC: The youth LFPR (about 41%) is lower than 15+ (53.5%) because many are students.

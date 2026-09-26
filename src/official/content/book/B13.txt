@@ -379,3 +379,105 @@ D: Easy
 P: 228
 EXP: Section 2(k)(iv) covers **composing types for printing** by letterpress, lithography, photogravure or similar processes, and **book binding**.
 SC: Printing and binding are named explicitly in clause (iv).
+
+@topic ASI Fieldwork Organisation
+Q: For ASI, "non-operative factories" that are excluded from the gross allotment mainly include:
+A) units not existing on site (no fixed assets) and units continuously closed for the past 3 years
+B) units with fewer than 10 workers
+C) units selected in the sample scheme
+D) units that submitted returns late last year
+ANS: A
+D: Medium
+P: 205
+EXP: Non-operative units are still on the CIF list and the ASI frame because they were never de-registered. They are mainly (1) units **not existing on site** and (2) units **closed continuously for 3 years**. They are removed from the gross allotment to get the **net allotment**, and no notice is issued to them.
+SC: Non-operative means gone from the site or closed for 3 years, so no notice is sent.
+
+Q: When is a factory treated as "completed" in ASI fieldwork?
+A) Only when the return is finally submitted after scrutiny
+B) When the notice is served
+C) When the factory acknowledges the notice
+D) When the SSO visits the factory
+ANS: A
+D: Easy
+P: 207
+EXP: A factory counts as **completed only when the return is finally submitted after scrutiny**. Completion should be spread evenly over the survey period through monthly tour programmes.
+SC: A unit is complete only after its return passes scrutiny.
+
+Q: With the ASI Web Portal, how does the Labour Bureau obtain the ASI data relevant to it?
+A) It downloads Blocks A, B and E of Part-I and Part-II itself from the portal
+B) ROs post physical copies of Part-I to it
+C) The CIF forwards the data
+D) It conducts its own separate survey of all factories
+ANS: A
+D: Medium
+P: 209
+EXP: The portal removed the need to send Part-I to the Labour Bureau or to get acknowledgements from the IS Wing. The **Labour Bureau downloads Blocks A, B, E and Part-II** directly, and dashboards show receipt in real time.
+SC: The Labour Bureau downloads its data from the portal.
+
+Q: Queries received from the IS Wing, DQAD on ASI returns are replied to by field staff through:
+A) the Regional Head
+B) the Zonal DDG directly to the factory
+C) the factory owner directly
+D) the Labour Bureau
+ANS: A
+D: Easy
+P: 210
+EXP: Queries from the **IS Wing, DQAD** are answered promptly by field staff **through the Regional Head**, who makes sure the replies are proper and to the point.
+SC: Replies are channelled through the Regional Head.
+
+@topic Prosecution & CoS Act Penalties
+Q: Under Section 17 of the CoS Act, 2008 (as extracted), whoever destroys, defaces or mutilates any information schedule is punishable with:
+A) simple imprisonment up to six months or fine up to ₹2,000 (₹10,000 for a company), or both
+B) fine up to ₹1,000 only
+C) rigorous imprisonment up to 2 years
+D) a warning only
+ANS: A
+D: Medium
+P: 217
+EXP: **Section 17** (destroying or defacing schedules), **Section 18** (obstructing an employee) and **Section 19** (contravention or deception) each carry **up to 6 months' simple imprisonment and/or a fine up to ₹2,000 (₹10,000 for a company)**.
+SC: Physical interference with the survey (Sections 17-19) is punished more heavily: 2k/10k.
+
+Q: Under Section 15(2) of the CoS Act, 2008 (as extracted), if a convicted person still fails to supply particulars after how many days from the date of conviction, a further daily fine can be imposed?
+A) 14 days
+B) 7 days
+C) 30 days
+D) 90 days
+ANS: A
+D: Hard
+P: 217
+EXP: Conviction does not end the obligation to supply the data. If the default continues **beyond 14 days after conviction**, a further fine of up to ₹1,000 (₹5,000 for a company) can be imposed for **each day** the failure continues.
+SC: A 14-day grace period after conviction, then daily fines.
+
+@topic ASI Estimation Procedure
+Q: In ASI estimation, casualty units (codes 5, 7, 8) for which previous year's data are available are treated as:
+A) open (status code 1), with data imputed from the previous year
+B) deleted (code 4)
+C) zero cases
+D) void strata
+ANS: A
+D: Medium
+P: 227
+EXP: Casualty units with **previous year's data** have values **borrowed from last year** and are treated as **open (code 1)**. Casualties **without** previous data are **not counted** in the surveyed units (e_m). Only units with codes 1–4 are counted.
+SC: Imputed casualties count as open. Others are excluded from e_m.
+
+Q: In ASI estimation, a deleted unit (status code 4) is treated as:
+A) a "zero case" for all parameters; retained in the frame up to 3 years but not selected
+B) a casualty
+C) a surveyed case with last year's data imputed
+D) a census unit
+ANS: A
+D: Hard
+P: 272
+EXP: Annexure IX: **code 4 is a zero case**. It is surveyed (it counts in e) but contributes zero. It stays in the frame **up to 3 years** without being selected, and the list goes to the CIF for permanent deletion. Codes **1–3 are surveyed cases**, and codes **5, 7, 8 are casualties**.
+SC: Codes 1-3 are surveyed, code 4 is a zero case, codes 5/7/8 are casualties.
+
+Q: For pooled (central + State) ASI estimates, merging of a stratum with the nearest stratum is required only when:
+A) all four sub-samples in the stratum are void
+B) any one sub-sample is void
+C) sub-samples 1 and 3 are void
+D) sub-samples 2 and 4 are void
+ANS: A
+D: Hard
+P: 227
+EXP: A stratum is merged only if **no** sub-sample is available for that estimate. Central estimates need 1 or 3, State estimates need 2 or 4, and **pooled** estimates need any of the four. So pooled estimates require merging **only when all four are void**.
+SC: Merge only when nothing is left for that estimate.

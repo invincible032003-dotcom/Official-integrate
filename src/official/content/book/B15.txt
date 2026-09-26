@@ -1,0 +1,483 @@
+@set B15
+@title ASI Manual (VI): NIC Coverage, Tabulation Plan, ISO 14000, FAQs & Accounting Note
+@pages 264-295
+@desc NIC-2008 codes covered by ASI, derived aggregates of the tabulation plan, status codes and weights, ISO 14000 family, ASI FAQs on frame/JR/assets/labour/expenses, accounting basics and Ind AS 116/40 treatment
+
+@topic NIC Coverage & Tabulation Plan
+Q: Among agricultural activities, which NIC-2008 codes are covered under ASI as per Annexure VII?
+A) 0163 (post-harvest crop activities) and 0164 (seed processing for propagation)
+B) 0111 (growing of cereals) and 0112 (growing of rice)
+C) 0141 (raising of cattle) and 0145 (raising of swine)
+D) 0210 (silviculture) and 0220 (logging)
+ANS: A
+D: Hard
+P: 264
+EXP: ASI covers some processing-type activities outside Section C: **0163 post-harvest crop activities**, **0164 seed processing (only 01640)** and **0893 salt extraction (only 08932)**. Crop growing and livestock rearing are not covered.
+SC: Processing near agriculture is covered. Growing crops and raising animals are not.
+
+Q: Which of the following service activities is covered under ASI as per the list of NIC-2008 codes?
+A) 9601: Washing and (dry-)cleaning of textile and fur products
+B) 4711: Retail sale in non-specialised stores
+C) 6419: Other monetary intermediation
+D) 8510: Pre-primary and primary education
+ANS: A
+D: Medium
+P: 268
+EXP: Besides manufacturing, ASI covers certain **repair and processing services**: motion picture and sound recording (5911–5920), packaging, **repair of computers and household goods (95xx)** and **washing and dry-cleaning (9601)**. Retail trade, finance and education are outside ASI.
+SC: Repair and processing services are in. Trade, finance and education are out.
+
+Q: As per the ASI tabulation plan, "Invested Capital" is computed as:
+A) Fixed Capital + Physical Working Capital
+B) Fixed Capital + Working Capital
+C) Working Capital − Outstanding loans
+D) Gross value of P&M + Physical working capital
+ANS: A
+D: Medium
+P: 269
+EXP: Tabulation serial 6: **Invested capital = serial 3 (fixed capital, closing net value of items except 8) + serial 4 (physical working capital, D items 1–6 except 4)**. Working capital is serial 5.
+SC: Invested = fixed + physical WC, as in the concepts chapter.
+
+Q: In the ASI tabulation plan, Gross Fixed Capital Formation (GFCF) is derived as:
+A) Net Fixed Capital Formation + Depreciation
+B) Gross value of additions − Depreciation
+C) Fixed capital (closing) − Fixed capital (opening)
+D) Total output − Total input
+ANS: A
+D: Medium
+P: 270
+EXP: **NFCF** is built from the change in net fixed assets (closing net value − opening net value, leaving out revaluation). **GFCF = NFCF + depreciation**. **GCF = GFCF + addition in stock** (materials, semi-finished and finished goods).
+SC: GFCF = NFCF + depreciation. GCF = GFCF + change in stocks.
+
+Q: In the ASI tabulation plan, "Gross Capital Formation" equals:
+A) GFCF + addition in stocks of materials/fuels, semi-finished goods and finished goods
+B) GFCF − depreciation
+C) Invested capital − working capital
+D) NVA + depreciation
+ANS: A
+D: Easy
+P: 270
+EXP: **GCF = GFCF + total addition in stocks**, where the stock change is (D1–3 closing − opening) + (D5 closing − opening) + (D6 closing − opening). This matches the national accounts definition of GCF as fixed capital formation plus change in inventories.
+SC: GCF = fixed capital formation + inventory change.
+
+Q: For the ASI tabulation "Number of factories", units with which status codes are counted?
+A) 1, 2, 3 and 4
+B) 1, 2 and 3 only
+C) 1 only
+D) 5, 7 and 8
+ANS: A
+D: Hard
+P: 271
+EXP: "**No. of factories**" counts status codes **1–4**. "**Factories in operation**" and all other parameters count codes **1–3**.
+SC: Factory count uses codes 1-4. Everything else uses codes 1-3.
+
+Q: In the ASI tabulation plan, "Fuels consumed" is the sum of which Block H items?
+A) Electricity own generated, electricity purchased, petroleum products, coal, gas and other fuel
+B) Basic materials only
+C) Consumable stores and packing
+D) Non-basic chemicals
+ANS: A
+D: Medium
+P: 269
+EXP: Fuels consumed = **H15 (own electricity) + H16 (purchased electricity) + H17 (petroleum) + H18 (coal) + H19 (gas) + H20 (other fuel)**. Materials consumed covers basic items, non-basic chemicals, packing, consumable stores and imported items.
+SC: Fuel covers every energy item in H15-H20.
+
+@topic Status Codes & ISO 14000
+Q: As per Annexure IX, units with status codes 1, 2 and 3 are treated in calculation of weights as:
+A) surveyed cases
+B) casualties
+C) zero cases
+D) excluded from frame
+ANS: A
+D: Medium
+P: 272
+EXP: Codes **1 (open), 2 (assets and staff, no production) and 3 (assets, no staff, no production)** are **surveyed cases**. Code **4** is a **zero case**. Codes **5, 7, 8** are **casualties**.
+SC: 1-3 surveyed, 4 zero, 5/7/8 casualties.
+
+Q: Which standard of the ISO 14000 family specifies requirements for an Environmental Management System (EMS)?
+A) ISO 14001
+B) ISO 14064
+C) ISO 14040
+D) ISO 9001
+ANS: A
+D: Easy
+P: 273
+EXP: **ISO 14001:2015** is the core **EMS** standard. It aims at better environmental performance, meeting compliance obligations and achieving environmental objectives, and it applies to any organisation. It does **not** set specific performance criteria.
+SC: 14001 is the EMS standard, just as 9001 is the QMS standard.
+
+Q: The ISO 14040 series of standards deals with:
+A) Life Cycle Assessment (LCA)
+B) Greenhouse gas quantification
+C) Environmental labels and declarations
+D) Material flow cost accounting
+ANS: A
+D: Medium
+P: 274
+EXP: **ISO 14040–14049** cover Life Cycle Assessment. **14020–14025** cover environmental labels. **14064–14069** cover greenhouse gases (14067 is the carbon footprint of products). **14051** is material flow cost accounting. **14031** is environmental performance evaluation.
+SC: 14020s labels, 14040s LCA, 14060s GHG.
+
+Q: ISO/TS 14067 relates to:
+A) Carbon footprint of products
+B) Eco-design
+C) Environmental communication
+D) Site assessment
+ANS: A
+D: Hard
+P: 274
+EXP: **ISO/TS 14067:2013** covers the **carbon footprint of products** (quantification and communication). 14006 covers eco-design, 14063 environmental communication and 14015 environmental site assessment.
+SC: 1406x is the GHG family, and 14067 is the product carbon footprint.
+
+@topic ASI FAQs: Frame, JR & Accounts
+Q: If a unit is registered and exists in the CIF list but is not in the ASI frame for a year, the ASI FAQ says it should be:
+A) included in the frame as and when detected
+B) ignored until the next Economic Census
+C) treated as a casualty
+D) deleted
+ANS: A
+D: Easy
+P: 275
+EXP: FAQ 1: **yes, include it** in the frame for that year once it is detected, provided it is registered and in the CIF list.
+SC: A registered and existing unit belongs in the frame.
+
+Q: Two units recorded as a joint unit (as per DISH/CIF) are located in two different ROs of FOD but within the same State. As per the ASI FAQ:
+A) a single joint return is to be filled in, taking all information together
+B) two separate returns must be filled in
+C) the units are excluded
+D) each RO files half the data
+ANS: A
+D: Medium
+P: 275
+EXP: FAQ 5: as long as the units are **within one State**, it is a **joint return**, and a **single return** covers both even if they fall in different ROs.
+SC: JR is decided at the State level, not the RO level.
+
+Q: If a factory prepares balance sheets under both the Companies Act and the Income Tax Act, which is used for ASI?
+A) The one prepared under the Companies Act
+B) The one prepared under the Income Tax Act
+C) An average of both
+D) Whichever shows higher output
+ANS: A
+D: Easy
+P: 276
+EXP: FAQ 8: the **Companies Act** balance sheet is used, consistent with using Companies Act depreciation (FAQ 20).
+SC: ASI uses the company books, not the tax books.
+
+Q: If a unit's balance sheet covers an 18-month period, from ASI 2010-11 the apportioning to 12 months is done by:
+A) the IS Wing, DQAD only
+B) the SSO in the field
+C) the factory owner
+D) the Labour Bureau
+ANS: A
+D: Hard
+P: 276
+EXP: FAQ 10: the information is apportioned to 12 months. **From ASI 2010-11, apportioning is done only by the IS Wing, DQAD**, for uniformity. The field reports the full 18-month figures.
+SC: The field reports full figures and the IS Wing apportions.
+
+Q: A sugar factory registered with the CIF has a captive power plant whose electricity sold in one year exceeds the value of sugar. As per the ASI FAQ, for that year:
+A) the industry code is not changed; electricity sold is recorded in Block G, item 3
+B) the industry code is changed to electricity generation immediately
+C) the factory is deleted
+D) electricity is recorded in Block H
+ANS: A
+D: Hard
+P: 276
+EXP: FAQ 12: an incidental excess in **one year does not change** the industry. Electricity sold goes to **G-3**. If the unit is **registered as a power unit with the CIF (not the CEA)** or sells electricity **significantly over years**, the code changes and electricity is recorded in **Block J**.
+SC: A one-year spike is a side output (G-3). A persistent pattern changes the industry code.
+
+Q: As per the ASI FAQ, long-term leasehold land for a period of at least how many years is treated as owned land?
+A) 30 years or more
+B) 10 years or more
+C) 99 years only
+D) 5 years or more
+ANS: A
+D: Hard
+P: 277
+EXP: FAQ 16: land is not depreciated, only depleted (mines, timber land). **Leasehold land of 30 years or more** is treated as **owned** (owner-like possession), and the lease amount is shown as the value of land in Block C.
+SC: A lease of 30+ years counts as ownership.
+
+Q: As per the ASI FAQ, a fire extinguisher vehicle is recorded under:
+A) other fixed assets (Block C, item 7), not transport equipment
+B) transport equipment (Block C, item 4)
+C) plant & machinery
+D) operating expenses
+ANS: A
+D: Medium
+P: 278
+EXP: FAQ 19: a **fire extinguisher vehicle** goes under **other fixed assets (C-7)**, because its purpose is safety, not transport.
+SC: Classify by function: a safety asset goes to C-7.
+
+Q: A windmill not registered with the CIF or CEA, owned by a factory and selling electricity to the SEB, is treated in ASI as:
+A) a captive plant and integral part of the factory, recorded in Block C, with electricity sale value in Block G, item 3
+B) a separate electricity undertaking
+C) outside the purview of ASI
+D) a current asset
+ANS: A
+D: Hard
+P: 279
+EXP: FAQ 22: if it is registered with **neither CIF nor CEA**, the windmill is a **captive plant** and **part of the factory (Block C)**. Electricity sold goes to **G-3**.
+SC: An unregistered windmill is a captive plant, so it is a factory asset.
+
+Q: "Amortization", as explained in the ASI FAQ, refers to:
+A) depreciation applied to intangible assets
+B) repayment of loans in instalments only
+C) revaluation of land
+D) write-off of bad debts
+ANS: A
+D: Easy
+P: 279
+EXP: FAQ 23: **amortization** is spreading the capital cost of **intangible assets** over time, i.e. depreciation applied to intangibles.
+SC: Depreciation is for tangibles, amortization for intangibles.
+
+Q: Raw material in transit for which payment has NOT been made is treated in ASI as:
+A) not considered at all
+B) Block D, item 1
+C) Block D, item 10
+D) Block H
+ANS: A
+D: Medium
+P: 279
+EXP: FAQ 27: raw material in transit that has been **paid for** goes to **D-1**. If it has **not been paid for**, it is **not considered**, because the factory does not own it yet.
+SC: Paid means owned, so it is counted. Unpaid is not counted.
+
+Q: As per ASI, doubtful debts (not yet written off) are:
+A) included in current assets
+B) excluded from current assets
+C) recorded as bad debts
+D) recorded as liabilities
+ANS: A
+D: Medium
+P: 280
+EXP: FAQ 29: **all debts are current assets unless written off as bad debts**. Doubtful debts stay in current assets.
+SC: Only written-off bad debts are excluded.
+
+@topic ASI FAQs: Labour & Expenses
+Q: A salesman stationed elsewhere but paid by the factory producing medicines is treated in ASI as:
+A) other employee in Block E, with salary in wages/salaries
+B) distributive expense in Block J
+C) operating expense in Block F
+D) outside the purview
+ANS: A
+D: Medium
+P: 280
+EXP: FAQ 34: he is an **'other employee' in Block E** and his salary goes to **wages/salaries (E col. 8)**, even though some balance sheets show it as a distributive expense.
+SC: An employee is an employee wherever posted, so he goes in Block E.
+
+Q: Fringe Benefit Tax (FBT) paid by the employer is treated in ASI as:
+A) a component of wages and salary in Block E
+B) operating expense in Block F
+C) outside the purview of ASI
+D) distributive expense
+ANS: A
+D: Medium
+P: 281
+EXP: FAQ 38: FBT is treated like income tax. If **paid by the employer**, it forms part of **wages and salary**. If paid by the employee, it is outside ASI.
+SC: Taxes on employees paid by the employer count as salary.
+
+Q: In ASI Block E, apprentices and probation employees are classified respectively as:
+A) casual employees and regular employees
+B) regular employees and casual employees
+C) both as regular employees
+D) both excluded
+ANS: A
+D: Medium
+P: 284
+EXP: FAQ 62: an **apprentice** is a **casual** employee and a **probationer** is a **regular** employee. (Apprentices are excluded from Part-II absenteeism.)
+SC: Apprentices are casual. Probationers are regular.
+
+Q: Penalty paid for late submission of licence fee is treated in ASI as:
+A) not considered, since fines are excluded; this affects profit but not GVA
+B) operating expense
+C) interest paid
+D) rent paid
+ANS: A
+D: Medium
+P: 282
+EXP: FAQ 45: **penalties and fines are not considered** for ASI. Leaving them out changes **profit** but **not GVA**, because fines are not inputs.
+SC: Fines are transfers, not production costs.
+
+Q: If a factory pays charges for using a common Effluent Treatment Plant (ETP) in its locality, the charges are recorded in ASI under:
+A) operating expenses (Block F, item 3)
+B) pollution control equipment (Block C, item 6)
+C) repair and maintenance
+D) welfare expenses
+ANS: A
+D: Hard
+P: 287
+EXP: FAQ 75: a factory-owned plant that treats **effluent** is **pollution control equipment (C-6)**. One that treats **fresh water for production** is **P&M (C-3)**. Charges paid for a **common ETP** (not owned) are **operating expenses (F-3)**.
+SC: Own ETP goes to C-6, own fresh-water plant to C-3, shared ETP charges to F-3.
+
+Q: As per the ASI FAQ, royalty paid for a trademark and logo is recorded under:
+A) Block F, item 3 (Operating expenses)
+B) Block F, item 9 (Royalties on mines)
+C) Block C (intangible assets)
+D) Block G
+ANS: A
+D: Medium
+P: 284
+EXP: FAQ 64: **royalty on trademark or logo** is an **operating expense (F-3)**. **F-9** is only for rent on leased land and **royalties on mines and quarries**.
+SC: Brand royalty goes to F-3. Mining royalty goes to F-9.
+
+Q: Transport cost of finished products from the unit to its own godown is recorded under ___, while transport from godown to distributors is recorded under ___.
+A) Block F, item 3 (operating expenses); Block J (distributive expenses)
+B) Block J; Block F, item 3
+C) Block F, item 12; Block F, item 13
+D) Block H; Block I
+ANS: A
+D: Hard
+P: 285
+EXP: FAQ 65: **unit to own godown** is an internal movement, so it is an **operating expense (F-3)**. **Godown to distributors, stockists and retailers** is a **distributive expense (Block J)**.
+SC: Internal transfers go to F-3. Delivery to buyers goes to J.
+
+Q: Inward and outward transportation cost were introduced as separate items (Block F, items 12 and 13) in ASI from:
+A) 2019-20
+B) 2010-11
+C) 2015-16
+D) 2012-13
+ANS: A
+D: Medium
+P: 286
+EXP: FAQ 69: **F-12 and F-13 were introduced from ASI 2019-20** to estimate **transport and logistics cost** explicitly. They are **not used** in input or output calculations, to avoid double counting.
+SC: Transport memo items were added in 2019-20.
+
+Q: As per the ASI FAQ (citing Section 44AB of the Income Tax Act), a proprietary firm must get its accounts audited if its total sales/turnover exceeds:
+A) ₹1 crore
+B) ₹10 lakh
+C) ₹5 crore
+D) ₹50 lakh
+ANS: A
+D: Medium
+P: 285
+EXP: FAQ 68 cites **Section 44AB of the Income Tax Act**: a tax audit is required if turnover exceeds **₹1 crore**. That was the threshold in the source; later amendments raised limits for mostly digital transactions.
+SC: Tax audit threshold in the source: ₹1 crore.
+
+Q: A unit closed for 3 years and then not in production for another 3 years is to be:
+A) reported as "Deleted (04)", and re-added to the frame if later found operational
+B) retained as status code 3 indefinitely
+C) treated as a casualty
+D) given status code 1
+ANS: A
+D: Medium
+P: 286
+EXP: FAQ 72: with **no manufacturing for 6 years**, the unit is **deleted (04)**. It can be re-added to the frame if it becomes operational later.
+SC: Long dormancy leads to deletion, which can be reversed.
+
+Q: For units with status of unit code 3, the number of months of operation (Block B, item 7) is recorded as:
+A) 0
+B) 12
+C) the months with staff present
+D) 1
+ANS: A
+D: Easy
+P: 284
+EXP: FAQ 57: code 3 units have no production and no staff, so **months of operation = 0**.
+SC: No operation means zero months.
+
+@topic Accounting Note & Ind AS
+Q: A business entity produces which three financial statements at the end of the accounting year, as per the ASI accounting note?
+A) Balance Sheet, Profit & Loss Account and Cash Flow Statement
+B) Trial Balance, Journal and Ledger
+C) Balance Sheet, Budget and Audit Report
+D) Income Tax Return, GST Return and TDS Return
+ANS: A
+D: Easy
+P: 288
+EXP: The three financial statements are the **Balance Sheet** (position on the closing day), the **P&L Account** (performance) and the **Cash Flow Statement**. The journal, ledger and trial balance are books and working statements.
+SC: The statements are BS, P&L and Cash Flow.
+
+Q: The fundamental accounting equation on which the Balance Sheet is based is:
+A) Assets = Owners' Capital + Liabilities
+B) Assets = Liabilities − Capital
+C) Capital = Assets + Liabilities
+D) Income = Expenses + Assets
+ANS: A
+D: Easy
+P: 288
+EXP: **Assets (uses of funds) = Owners' capital + Liabilities (sources of funds)**. Every double entry keeps this balance.
+SC: Uses of funds = sources of funds.
+
+Q: As per the rules of debit and credit for a Nominal Account:
+A) Expenses/losses are debited and incomes/gains are credited
+B) What comes in is debited and what goes out is credited
+C) The receiver is debited and the giver is credited
+D) All entries are credited
+ANS: A
+D: Medium
+P: 289
+EXP: **Real account** (assets): debit what comes in, credit what goes out. **Personal account**: debit the receiver, credit the giver. **Nominal account**: **debit expenses and losses, credit incomes and gains**.
+SC: Real = in/out, Personal = receiver/giver, Nominal = expense/income.
+
+Q: A debit entry broadly means which of the following?
+A) Increase in assets or expenses, or decrease in liabilities or owner's equity
+B) Increase in liabilities
+C) Increase in sales revenue
+D) Increase in owner's capital
+ANS: A
+D: Medium
+P: 289
+EXP: **Debit**: increase in assets, expenses or dividends, or decrease in liabilities, equity or revenue. **Credit** is the reverse.
+SC: DEAD CLIC: Debits increase Expenses, Assets and Drawings. Credits increase Liabilities, Income and Capital.
+
+Q: Which is the correct sequence in the accounting cycle as per the ASI note?
+A) Journal entry → Ledger posting → Trial Balance → Rectification → Balance Sheet and P&L
+B) Trial Balance → Journal → Ledger → Balance Sheet
+C) Ledger → Journal → Balance Sheet → Trial Balance
+D) Balance Sheet → Trial Balance → Ledger → Journal
+ANS: A
+T: Chronology
+D: Easy
+P: 290
+EXP: Transactions → (T-accounts) → **journal** (chronological, with narration) → **ledger** posting → **trial balance** → check and rectify errors → **Balance Sheet and P&L**.
+SC: Journal (by date) → Ledger (by account) → Trial Balance (check) → Final accounts.
+
+Q: Which of the following is a limitation of the Trial Balance?
+A) Even a tallied Trial Balance does not ensure that all transactions have been correctly recorded and posted
+B) It is part of the books of account
+C) It is an account, not a statement
+D) Debit and credit totals never match
+ANS: A
+D: Medium
+P: 292
+EXP: A trial balance is a **statement**, not an account, and not part of the books. It checks **arithmetical accuracy only**. Errors such as omission, compensating errors or errors of principle can remain even when it tallies.
+SC: A tallied trial balance is only prima facie evidence of accuracy.
+
+Q: "Operating expenses" in the accounting sense refer to:
+A) period costs incurred during the accounting period irrespective of profit or loss, as distinct from product costs
+B) direct materials only
+C) direct labour only
+D) capital expenditure
+ANS: A
+D: Medium
+P: 293
+EXP: **Product costs** are direct materials, direct labour and manufacturing overhead, and they are inventoried. **Operating expenses are period costs**, charged to the period regardless of profit or loss.
+SC: Product costs go into inventory. Period costs go to the period.
+
+Q: Which items of the Balance Sheet are EXCLUDED from the ASI schedule?
+A) Share capital and reserves & surplus (owner's equity), non-current assets other than fixed capital, and non-current liabilities other than outstanding loans
+B) Fixed assets
+C) Inventories
+D) Current liabilities
+ANS: A
+D: Medium
+P: 294
+EXP: ASI uses BS items only in **Blocks C and D**: fixed assets, inventory, other current assets, current liabilities and **outstanding loans**. **Owner's equity** and other non-current items are excluded.
+SC: ASI tracks production capital, not ownership or financing structure.
+
+Q: Under Ind AS 116 (Right of Use assets), for a lessee factory, which leased-in assets are reported in ASI Block C?
+A) Only assets under financial lease
+B) Only assets under operating lease
+C) Both financial and operating leases
+D) Neither
+ANS: A
+D: Medium
+P: 295
+EXP: **Ind AS 116** (replacing AS 17) puts both lease types on the balance sheet as ROU assets. **ASI still records only financial-lease ROU assets** in the lessee's Block C. Depreciation on operating-lease ROU assets and all lease expenses go to **Block F**.
+SC: ASI keeps the economic ownership test: financial lease belongs to the lessee.
+
+Q: Under Ind AS 40 (Investment Properties), for a lessor factory, which properties are reported in Block C?
+A) All owned assets, including operationally leased-out properties, but not assets under financial lease
+B) Only assets under financial lease
+C) No investment properties
+D) Only land
+ANS: A
+D: Hard
+P: 295
+EXP: For **lessors**, all **owned** assets, including those held for appreciation or future use and **operationally leased-out** properties, are in Block C. Assets **given on financial lease** are **not** in the lessor's Block C, because the lessee is the economic owner.
+SC: The lessor keeps operating-lease assets and gives up financial-lease assets.
